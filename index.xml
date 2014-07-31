@@ -14,38 +14,38 @@
 			<h1>
 				Lila, Chop!
 			</h1>
-			<div>
-				<span>clandestine health food &amp; living</span>
-				<nav>
-					<a href="http://instagram.com/Project_fitspiration"><img title="Instagram" alt="Instagram" src="instagram-colour.png" /></a>
-					<a href="atom.xml"><img title="RSS" alt="RSS" src="rss-colour.png" /></a>
-					<script>
-					<!--
-					     // Email obfuscator script 2.1 by Tim Williams, University of Arizona
-					     // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
-					     // This code is freeware provided these four comment lines remain intact
-					     // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-					     { 
-					     	coded = "ZlPYgxYc5@3Y35ZlSI.ZSa"
-						key = "07QHZrRgSqtayYhBCAw8Tdnzfe6P4JUWx5KXl1LpuvjOc2DsoGEmNiMkF93bVI"
-						shift=coded.length
-						link=""
-						for (i=0; i<coded.length; i++) {
-							if (key.indexOf(coded.charAt(i))==-1) {
-								ltr = coded.charAt(i)
-								link += (ltr)
-							} else {     
-								ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-								link += (key.charAt(ltr))
-							}
+			<h2>
+				clandestine health food &amp; living
+			</h2>
+			<nav>
+				<a href="http://instagram.com/Project_fitspiration"><img title="Instagram" alt="Instagram" src="instagram-colour.png" /></a>
+				<a href="atom.xml"><img title="RSS" alt="RSS" src="rss-colour.png" /></a>
+				<script>
+				<!--
+				     // Email obfuscator script 2.1 by Tim Williams, University of Arizona
+				     // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+				     // This code is freeware provided these four comment lines remain intact
+				     // A wizard to generate this code is at http://www.jottings.com/obfuscator/
+				     { 
+					coded = "ZlPYgxYc5@3Y35ZlSI.ZSa"
+					key = "07QHZrRgSqtayYhBCAw8Tdnzfe6P4JUWx5KXl1LpuvjOc2DsoGEmNiMkF93bVI"
+					shift=coded.length
+					link=""
+					for (i=0; i<coded.length; i++) {
+						if (key.indexOf(coded.charAt(i))==-1) {
+							ltr = coded.charAt(i)
+							link += (ltr)
+						} else {     
+							ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+							link += (key.charAt(ltr))
 						}
-						document.write("<a href='mailto:"+link+"'><img alt='Email' title='Email' src='email-colour.png'></a>")
 					}
-					//-->
-					</script>
-					<a href="archive.html"><img title="Archive" alt="Archive" src="files-colour.png" /></a>
-				</nav>
-			</div>
+					document.write("<a href='mailto:"+link+"'><img alt='Email' title='Email' src='email-colour.png'></a>")
+				}
+				//-->
+				</script>
+				<a href="archive.html"><img title="Archive" alt="Archive" src="files-colour.png" /></a>
+			</nav>
 		</header>
 		<nav data-sblg-nav="1" data-sblg-navsz="5" data-sblg-navcontent="1">
 			<figure>
@@ -56,7 +56,9 @@
 		<article data-sblg-article="1" data-sblg-permlink="0" />
 		<footer>
 			&#169; 2013, 2014, <q>Lila, Chop!</q>
-			<span>Powered by <a href="http://kristaps.bsd.lv/sblg">sblg</a></span>
+			<div>
+				Powered by <a href="http://kristaps.bsd.lv/sblg">sblg</a> on <a href="http://www.openbsd.org">OpenBSD</a>
+			</div>
 		</footer>
 	</body>
 </html>

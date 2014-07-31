@@ -4,7 +4,7 @@
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 		<meta charset='utf-8' /> 
 		<link rel="stylesheet" href="main.css" type="text/css" />
-		<link rel="stylesheet" href="archive.css" type="text/css" />
+		<link rel="stylesheet" href="tagindex.css" type="text/css" />
 		<title>Clandestine Health Food &amp; Living</title>
 		<script src="main.js"></script>
 	</head>
@@ -53,9 +53,23 @@
 			</figure>
 		</nav>
 		<article>
-			<nav data-sblg-nav="1" data-sblg-navcontent="1">
-				<div><time datetime="${date}">${date}</time>: <a href="${base}.html">${title}</a></div>
-				<div class="aside">${aside}</div>
+			<h3>
+				Gluten-free
+			</h3>
+			<nav data-sblg-nav="1" data-sblg-navtag="glutenfree" data-sblg-navcontent="1">
+				<time datetime="${date}">${date}</time>: <a href="${base}.html">${title}</a>
+			</nav>
+			<h3>
+				High Protein
+			</h3>
+			<nav data-sblg-nav="1" data-sblg-navtag="highprotein" data-sblg-navcontent="1">
+				<time datetime="${date}">${date}</time>: <a href="${base}.html">${title}</a>
+			</nav>
+			<h3>
+				Lactose-free
+			</h3>
+			<nav data-sblg-nav="1" data-sblg-navtag="lactosefree" data-sblg-navcontent="1">
+				<time datetime="${date}">${date}</time>: <a href="${base}.html">${title}</a>
 			</nav>
 		</article>
 		<footer>
