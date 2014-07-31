@@ -1,0 +1,161 @@
+article > #recipe,
+article > .img			{ width: 100%; 
+				  box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #474747; 
+				  margin: 0;
+				  max-width: 94%;
+				  clear: both;
+				  width: 94%;
+				  padding: 0;
+				  border-bottom-left-radius: 1ex;
+				  border-bottom-right-radius: 1ex; }
+article > aside			{ display: none; }
+article #recipe table,
+article #recipe p		{ width: 98%;
+				  margin-left: auto; 
+				  margin-right: auto; }
+article .nm			{ font-style: italic;
+				  color: #444; }
+@media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+	article > #recipe,
+	article > .img		{ width: 100%;
+				  max-width: 100%;
+				  border-top-left-radius: 1ex; 
+				  border-top-right-radius: 1ex; }
+	article #recipe table,
+	article #recipe p	{ width: 99%; }
+}
+article > #recipe		{ padding-top: 80px;
+				  padding-bottom: 2%;
+				  margin-bottom: 1ex;
+				  background-color: #ccc; }
+article > header		{ position: absolute;
+				  box-shadow: 2px 2px 6px rgba(0,0,0,0.3), inset 0 -2px 2px rgba(0,0,0,0.1);
+				  background-color: #ddd;
+				  padding-right: 1ex;
+				  border-radius: 24px;
+				  left: 2%;
+				  font-size: 12pt;
+				  top: 10px; }
+article > header address	{ display: none; }
+article > header a		{ text-decoration: none; }
+article > header img		{ margin-bottom: -16px; 
+				  opacity: 0.5;
+				  float: left; }
+article > header img:hover	{ opacity: 1.0; }
+@media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+	article > header img	{ opacity: 1.0; }
+}
+article > header > div		{ float: left; 
+				  padding-left: 1ex;
+				  padding-right: 2ex;
+				  line-height: 24px; }
+article > header h2		{ font-size: 16pt; 
+				  color: #333;
+				  margin: 0; }
+article > header h2 a		{ color: #555; }
+article > header h2 a:hover	{ color: #333; }
+article > header time		{ display: none; }
+article > header span		{ color: #222; }
+article > header span + span	{ border-left: thin solid silver;
+				  padding-left: 0.5ex;
+				  margin-left: 0.25ex; }
+article > header .hicon:hover	{ color: #eee; }
+article > header .hicon		{ font-family: Palatino, serif;
+				  font-style: italic;
+				  font-size: 12pt;
+				  color: #ccc;
+				  margin: 0;
+				  padding: 0;
+				  display: inline-block;
+				  text-align: center;
+				  border-radius: 4px;
+				  line-height: 24px;
+				  height: 24px;
+				  width: 24px;
+				  background-color: purple; }
+@media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+	article > #recipe 	{ padding-top: 2%; }
+	article > header	{ position: static; 
+				  margin-bottom: 1ex;
+				  font-size: inherit;
+				  width: auto;
+				  height: 48px; }
+	article > header h2	{ font-size: 14pt; }
+} 
+article > nav			{ position: absolute;
+				  right: 2%;
+				  top: 10px; }
+@media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+article > nav			{ position: static; 
+				  width: 100%;
+				  text-align: center; }
+}
+article > nav a + a		{ margin-left: 16px; }
+article > nav img		{ box-shadow: 0 3px 6px rgba(0,0,0,0.3), inset 0 -3px 3px rgba(0,0,0,0.1);
+				  margin: 0;
+				  opacity: 0.9;
+				  border: solid #ccc 1px;
+				  border-radius: 10px; }
+article > nav img:hover		{ opacity: 1.0; }
+article .ingredients		{ color: #333;
+				  border-spacing: 0;
+				  border-bottom-left-radius: 0.5ex; 
+				  border-bottom-right-radius: 0.5ex; 
+				  background-color: #999; }
+article .ingredients th,	
+article .ingredients td		{ padding-left: 1ex; 
+				  vertical-align: top; }
+article .ingredients td:last-child
+				{ padding-right: 1ex; }
+article .ingredients caption	{ text-align: left;
+				  color: #333;
+				  padding: 0.5ex;
+				  padding-left: 1ex;
+				  border-bottom: 0;
+				  border-top-left-radius: 0.5ex; 
+				  border-top-right-radius: 0.5ex; 
+				  background-color: #999; }
+article .ingredients td.unit	{ color: #444; }
+article .ingredients th		{ text-align: left; 
+				  font-size: 10pt; }
+article .ingredients th.amount
+				{ text-align: center; }
+article .ingredients td.amount
+				{ text-align: right; }
+article .ingredients td.name span.altor
+				{ font-style: italic; }
+article .ingredients td.alt	
+				{ color: #333;
+				  background-color: #aaa;
+				  font-style: italic; }
+article #steps			{ color: #333;
+				  background-color: #999;
+				  border-bottom-left-radius: 1ex; 
+				  border-bottom-right-radius: 1ex; 
+				  border-spacing: 0; }
+article #steps caption		{ text-align: left;
+				  color: #333;
+				  padding: 0.5ex;
+				  padding-left: 1ex;
+				  border-bottom: 0;
+				  border-top-left-radius: 1ex; 
+				  border-top-right-radius: 1ex; 
+				  background-color: #999; }
+article #steps th,
+article #steps td		{ vertical-align: top; 
+				  padding-left: 1ex; }
+article #steps td:last-child	{ padding-right: 1ex; }
+article #steps th		{ text-align: left; 
+				  font-size: 10pt; }
+article #steps th.amount	{ text-align: center; }
+article #steps td.amount	{ text-align: right; }
+article #steps td.unit 		{ color: #444; }
+article #steps tr:last-child td	{ border-top: thin solid silver;
+				  color: #000; }
+@media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+	article #steps th,
+	article #steps td	{ padding-left: 0.25ex; }
+	article #steps td:last-child
+				{ padding-right: 0.25ex; }
+	article > header > div	{ padding-right: 0; }
+}
