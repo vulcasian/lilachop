@@ -1,0 +1,251 @@
+<article data-sblg-article="1">
+	<header>
+		<a href="#" onclick="return showrecipe('article3a');"><img src="download-colour.png" alt="Download" /></a>
+		<div>
+			<h2><a href="#" onclick="return showrecipe('article3a');">Questbarwhich</a></h2>
+			<address>Christina Hallalulu</address>
+			<time datetime="2014-07-30">2014-07-30</time>
+			<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
+			<!--div class="hicon lactosefree" title="Lactose-Free">Lf</div-->
+			<div class="hicon lowcarb" title="Low-Carb">lC</div>
+			<div class="hicon highprotein" title="High-Protein">hP</div>
+			<!-- div class="hicon vegan" title="Vegan">V</div -->
+			<!-- div class="hicon paleo" title="Paleo">Pa</div -->
+			<!-- div class="hicon raw" title="Raw">Rw</div -->
+			<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
+			<span title="Calories" class="calories">303</span>
+			<span title="Grams Protein" class="protein">34</span>
+			<span title="Grams Carbohydrates" class="carbs">16</span>
+			<span title="Grams Fat" class="fat">22</span>
+
+		</div>
+	</header>
+	<aside>
+		This is some text about the gross questbarwich.
+	</aside>
+	<img onload="showimage('article3a');" id="article3a" class="img noshow" src="article3a.jpg" alt="Questbarwich" />
+	<img id="article3b" class="img noshow" src="article3b.jpg" alt="Questbarwich" />
+	<img id="article3c" class="img noshow" src="article3c.jpg" alt="Questbarwich" />
+	<section id="recipe" class="noshow">
+		<p>
+			<q>This is an intro quote about this recipe</q> (<cite>Joe Foo</cite>).
+			This is a recipe.
+			It is good and stuff.
+			This part is to make sure that there's a long line;
+			this part is to make sure that there's a long line.
+			Moreover, 
+			this part is to make sure that there's a long line and
+			this part is to make sure that there's a long line.
+		</p>
+		<table class="ingredients">
+			<caption>Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount">2</td>
+				<td class="unit">tbsp</td>
+				<td class="name">olive oil</td>
+			</tr>
+			<tr>
+				<td class="alt amount">2</td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">sun-dried olive oil from the jar</td>
+			</tr>
+			<tr>
+				<td class="amount">6</td>
+				<td class="unit">rashers</td>
+				<td class="name">smoked streaky bacon, chopped</td>
+			</tr>
+			<tr>
+				<td class="amount">2</td>
+				<td class="unit"></td>
+				<td class="name">large onions, chopped</td>
+			</tr>
+			<tr>
+				<td class="amount">3</td>
+				<td class="unit"></td>
+				<td class="name">garlic cloves, crushed</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">kg</td>
+				<td class="name">lean minced beef</td>
+			</tr>
+			<tr>
+				<td class="amount">2</td>
+				<td class="unit">large glasses</td>
+				<td class="name">red wine</td>
+			</tr>
+			<tr>
+				<td class="amount">2</td>
+				<td class="unit">400g cans</td>
+				<td class="name">chopped tomatoes</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">290g jar</td>
+				<td class="name">antipasti marinated mushrooms, drained</td>
+			</tr>
+			<tr>
+				<td class="amount">2</td>
+				<td class="unit"></td>
+				<td class="name">fresh bay leaves</td>
+			</tr>
+			<tr>
+				<td class="alt amount">2</td>
+				<td class="alt unit"></td>
+				<td class="alt name">dried bay leaves</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">tsp</td>
+				<td class="name">dried oregano</td>
+			</tr>
+			<tr>
+				<td class="alt amount">1</td>
+				<td class="alt unit">handful</td>
+				<td class="alt name">fresh oregano leaves, chopped</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">tsp</td>
+				<td class="name">dried thyme</td>
+			</tr>
+			<tr>
+				<td class="alt amount">1</td>
+				<td class="alt unit">handful</td>
+				<td class="alt name">fresh thyme leaves, chopped</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">drizzle</td>
+				<td class="name">Balsamic vinegar</td>
+			</tr>
+			<tr>
+				<td class="amount">12&#8211;14</td>
+				<td class="unit"></td>
+				<td class="name">sun-dried tomato halves in oil</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td class="name">salt and freshly-ground black peppar</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">handful</td>
+				<td class="name">fresh basil leaves, torn into small pieces</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">kg</td>
+				<td class="name">dried spaghetti</td>
+			</tr>
+		</table>
+		<p>
+			<q>This is an intro quote about this recipe</q> (<cite>Joe Foo</cite>).
+			This is a recipe.
+			It is good and stuff.
+			This part is to make sure that there's a long line;
+			this part is to make sure that there's a long line.
+			Moreover, 
+			this part is to make sure that there's a long line and
+			this part is to make sure that there's a long line.
+		</p>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount">2</td>
+				<td class="unit">min</td>
+				<td>Heat the oil in a large, heavy-based saucepan and fry the bacon until golden over a medium heat.</td>
+			</tr>
+			<tr>
+				<td class="amount">5</td>
+				<td class="unit">min</td>
+				<td>Add the onions and garlic, frying until softened.</td>
+			</tr>
+			<tr>
+				<td class="amount">5</td>
+				<td class="unit">min</td>
+				<td>
+					Increase the heat and add the minced beef. 
+					Fry it until it has browned, breaking down any chunks of meat with a wooden spoon.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount">2</td>
+				<td class="unit">min</td>
+				<td>Pour in the wine and boil until it has reduced in volume by about a third.</td>
+			</tr>
+			<tr>
+				<td class="amount">2</td>
+				<td class="unit">min</td>
+				<td>
+					Reduce the temperature and stir in the tomatoes, drained mushrooms, bay leaves, oregano, thyme
+					and balsamic vinegar.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount">1&#8211;1.5</td>
+				<td class="unit">hour</td>
+				<td>
+					Either blitz the sun-dried tomatoes in a small blender with a little of the oil to loosen, or just
+					finely chop before adding to the pan. Season well with salt and pepper. Cover with a lid and simmer the
+					Bolognese sauce over a gentle heat for 1&#8211;1.5 hours until it's rich and thickened, stirring
+					occasionally.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">min</td>
+				<td>At the end of the cooking time, stir in the basil and add any extra seasoning if necessary.</td>
+			</tr>
+			<tr>
+				<td class="amount">10</td>
+				<td class="unit">min</td>
+				<td>
+					Remove from the heat to <q>settle</q> while you cook the spaghetti in plenty of boiling salted water
+					(for the time stated on the packet). Drain and divide between warmed plates.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">min</td>
+				<td>
+					Scatter a little parmesan over the spaghetti before adding a good ladleful of the Bolognese sauce,
+					finishing with a scattering of more cheese and a twist of black pepper.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount">10</td>
+				<td class="unit">hour</td>
+				<td></td>
+			</tr>
+		</table>
+		<p>
+			This is a recipe.
+			It is good and stuff.
+			This part is to make sure that there's a long line;
+			this part is to make sure that there's a long line.
+			<q>This is an intro quote about this recipe</q> (<cite>Joe Foo</cite>).
+			Moreover, 
+			this part is to make sure that there's a long line and
+			this part is to make sure that there's a long line.
+		</p>
+	</section>
+	<nav>
+		<a href="#" onclick="return showimage('article3a');"><img alt="Questbarwich" src="article3a.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article3b');"><img alt="Questbarwich" src="article3b.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article3c');"><img alt="Questbarwich" src="article3c.thumb.jpg" /></a>
+	</nav>
+</article>

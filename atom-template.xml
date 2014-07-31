@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Lila, Chop! Version Feed</title>
+	<link href="http://lilachop.com/atom.xml" rel="self" />
+	<link href="http://lilachop.com/" />
+	<rights>Copyright (c) 2013, "Lila, Chop!"</rights>
+	<id data-sblg-id="1" />
+	<updated data-sblg-updated="1" />
+	<entry data-sblg-entry="1" />
+	<entry data-sblg-entry="1" />
+	<entry data-sblg-entry="1" />
+	<entry data-sblg-entry="1" />
+	<entry data-sblg-entry="1" />
+	<entry data-sblg-entry="1" />
+	<entry data-sblg-entry="1" />
+	<entry data-sblg-entry="1" />
+	<entry data-sblg-entry="1" />
+</feed>

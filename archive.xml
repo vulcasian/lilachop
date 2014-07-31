@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+		<meta charset='utf-8' /> 
+		<link rel="stylesheet" href="main.css" type="text/css" />
+		<link rel="stylesheet" href="archive.css" type="text/css" />
+		<title>Clandestine Health Food &amp; Living</title>
+		<script src="main.js"></script>
+	</head>
+	<body>
+		<header>
+			<h1>
+				Lila, Chop!
+			</h1>
+			<div>
+				<span>clandestine health food &amp; living</span>
+				<nav>
+					<a href="http://instagram.com/Project_fitspiration"><img title="Instagram" alt="Instagram" src="instagram-colour.png" /></a>
+					<a href="atom.xml"><img title="RSS" alt="RSS" src="rss-colour.png" /></a>
+					<script>
+					<!--
+					     // Email obfuscator script 2.1 by Tim Williams, University of Arizona
+					     // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+					     // This code is freeware provided these four comment lines remain intact
+					     // A wizard to generate this code is at http://www.jottings.com/obfuscator/
+					     { 
+					     	coded = "ZlPYgxYc5@3Y35ZlSI.ZSa"
+						key = "07QHZrRgSqtayYhBCAw8Tdnzfe6P4JUWx5KXl1LpuvjOc2DsoGEmNiMkF93bVI"
+						shift=coded.length
+						link=""
+						for (i=0; i<coded.length; i++) {
+							if (key.indexOf(coded.charAt(i))==-1) {
+								ltr = coded.charAt(i)
+								link += (ltr)
+							} else {     
+								ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+								link += (key.charAt(ltr))
+							}
+						}
+						document.write("<a href='mailto:"+link+"'><img alt='Email' title='Email' src='email-colour.png'></a>")
+					}
+					//-->
+					</script>
+					<a href="archive.html"><img title="Archive" alt="Archive" src="files-colour.png" /></a>
+				</nav>
+			</div>
+		</header>
+		<nav data-sblg-nav="1" data-sblg-navsz="5" data-sblg-navcontent="1">
+			<figure>
+				<a href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+				<figcaption><a href="${base}.html">${title}</a></figcaption>
+			</figure>
+		</nav>
+		<article>
+			<nav data-sblg-nav="1" data-sblg-navcontent="1">
+				<div><time datetime="${date}">${date}</time>: <a href="${base}.html">${title}</a></div>
+				<div class="aside">${aside}</div>
+			</nav>
+		</article>
+		<footer>
+			&#169; 2013, 2014, <q>Lila, Chop!</q>
+			<span>Powered by <a href="http://kristaps.bsd.lv/sblg">sblg</a></span>
+		</footer>
+	</body>
+</html>

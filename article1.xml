@@ -1,0 +1,159 @@
+<article data-sblg-article="1">
+	<header>
+		<a href="#" onclick="return showrecipe('article1a');"><img src="download-colour.png" alt="Download" /></a>
+		<div>
+			<h2><a href="#" onclick="return showrecipe('article1a');">Mint Chocolate Greeny</a></h2>
+			<address>Christina Hallalulu</address>
+			<time datetime="2014-07-29">2014-07-29</time>
+			<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
+			<div class="hicon lactosefree" title="Lactose-Free">Lf</div>
+			<div class="hicon lowcarb" title="Low-Carb">lC</div>
+			<div class="hicon highprotein" title="High-Protein">hP</div>
+			<!-- div class="hicon vegan" title="Vegan">V</div -->
+			<!-- div class="hicon paleo" title="Paleo">Pa</div -->
+			<!-- div class="hicon raw" title="Raw">Rw</div -->
+			<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
+			<span title="Calories" class="calories">359</span>
+			<span title="Grams Protein" class="protein">32</span>
+			<span title="Grams Carbohydrates" class="carbs">25</span>
+			<span title="Grams Fat" class="fat">18</span>
+		</div>
+	</header>
+	<aside>
+		The perfect combination of mint and chocolate served healthy.
+	</aside>
+	<img onload="showimage('article1a');" id="article1a" class="img noshow" src="article1a.jpg" alt="Mint Chocolate Greeny"/>
+	<img id="article1b" class="img noshow" src="article1b.jpg" alt="Mint Chocolate Greeny"/>
+	<img id="article1c" class="img noshow" src="article1c.jpg" alt="Mint Chocolate Greeny"/>
+	<section id="recipe" class="noshow">
+		<p>
+			As a child, I was allowed to eat cake once a year &#8211; on my
+			birthday. 
+			As such, the importance of getting the right birthday cake was
+			tremendous, for it had an entire year's worth of expectation
+			to live up to. 
+		</p>
+		<p>
+			This is proven by the fact that I still remember today, the best
+			birthday cake I ever had as a child &#8211; a Baskin' Robbins Mint
+			Chocolate Chip icecream cake. 
+			My 9th birthday thus set the standard for all consequent birthday
+			cakes &#8211; yet no cake has ever lived up to it since. 
+		</p>
+		<table class="ingredients">
+			<caption>Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">scoop</td>
+				<td class="name">
+					protein powder (I used Fitnessguru's One Whey
+					mint chocolate isolate), <span
+						class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount">1</td>
+				<td class="alt unit">scoop</td>
+				<td class="alt name">
+					any chocolate-flavoured protein powder (optional)</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">cup</td>
+				<td class="name">unsweetened almond milk</td>
+			</tr>
+			<tr>
+				<td class="amount">1/2</td>
+				<td class="unit"></td>
+				<td class="name">frozen banana</td>
+			</tr>
+			<tr>
+				<td class="amount">1/2</td>
+				<td class="unit"></td>
+				<td class="name">ripe avocado</td>
+			</tr>
+			<tr>
+				<td class="amount">2</td>
+				<td class="unit">handfulls</td>
+				<td class="name">organic baby spinich</td>
+			</tr>
+			<tr>
+				<td class="amount">1/2</td>
+				<td class="unit">cup</td>
+				<td class="name">fresh mint leaves, <span
+						class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount">1-2</td>
+				<td class="alt unit">drops</td>
+				<td class="alt name">mint extract (optional)</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">tbsp</td>
+				<td class="name">dark cacao nibs</td>
+			</tr>
+			<tr>
+				<td class="alt amount"></td>
+				<td class="alt unit"></td>
+				<td class="alt name">ice (optional)</td>
+			</tr>
+			<tr>
+				<td class="alt amount"></td>
+				<td class="alt unit"></td>
+				<td class="alt name">Stevia (optional, for sweetness)</td>
+			</tr>
+		</table>
+		<p>
+			Endowed with the freedom that adulthood brings, I would be
+			well within my rights to embark upon a gluttonous quest to find that perfect
+			mint chocolate chip ice cream cake. 
+			Thankfully, my vanity is what prevents me from doing so, and <span class="nm">Lila, Chop!</span> 
+			inspired me to recreate my own mint chocolate chip ice cream
+			experience in a guilt-free, clean, healthy and protein-rich maner.  
+		</p>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">min</td>
+				<td>blend all the ingredients in a high-speed blender until thick and creamy.</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">min</td>
+				<td>garnish with a fresh mint leaf and additional cacao
+					nibs.</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Serve cold, and enjoy!</td>
+			</tr>
+		</table>
+		<p>
+			This is a very filling smoothie. To make the recipe leaner, simply use less avocado, and
+			replace the frozen banana with crushed ice. Remember, the creamier
+			the consistency and the more frozen the smoothie is, the more it will taste like ice cream. 	
+		</p>
+	</section>
+	<nav>
+		<a href="#" onclick="return showimage('article1a');"><img alt="Mint Chocolate Greeny" src="article1a.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article1b');"><img alt="Mint Chocolate Greeny" src="article1b.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article1c');"><img alt="Mint Chocolate Greeny" src="article1c.thumb.jpg" /></a>
+	</nav>
+</article>

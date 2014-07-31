@@ -1,0 +1,198 @@
+<article data-sblg-article="1">
+	<header>
+		<a href="#" onclick="return showrecipe('article2a');"><img src="download-colour.png" alt="Download" /></a>
+		<div>
+			<h2><a href="#" onclick="return showrecipe('article2a');">Tahini Cheesecakini</a></h2>
+			<address>Christina Hallalulu</address>
+			<time datetime="2014-07-30">2014-07-30</time>
+			<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
+			<!--div class="hicon lactosefree" title="Lactose-Free">Lf</div-->
+			<div class="hicon lowcarb" title="Low-Carb">lC</div>
+			<div class="hicon highprotein" title="High-Protein">hP</div>
+			<!-- div class="hicon vegan" title="Vegan">V</div -->
+			<!-- div class="hicon paleo" title="Paleo">Pa</div -->
+			<!-- div class="hicon raw" title="Raw">Rw</div -->
+			<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
+			<span title="Calories" class="calories">303</span>
+			<span title="Grams Protein" class="protein">34</span>
+			<span title="Grams Carbohydrates" class="carbs">16</span>
+			<span title="Grams Fat" class="fat">22</span>
+
+		</div>
+	</header>
+	<aside>
+		Whoever said cheesecake had to be unhealthy? 
+		Try this sugar-free, low-carb, and high-protein indulgence!
+	</aside>
+	<img onload="showimage('article2a');" id="article2a" class="img noshow" src="article2a.jpg" alt="Tahini Cheesecakeini" />
+	<img id="article2b" class="img noshow" src="article2b.jpg" alt="Tahini Cheesecakeini" />
+	<img id="article2c" class="img noshow" src="article2c.jpg" alt="Tahini Cheesecakeini" />
+	<section id="recipe" class="noshow">
+		<p>
+			For as long as I can remember, I have had a love-hate relationship
+			with cheesecake; love, because, well, what's not to love about
+			something so deliciously sweet, rich and creamy combined with that
+			perfect bite of crunchyiness from the graham cracker-base? 
+			But the price of this would inevtiably be an expanding waistline
+			and feeling stuffed for the next 24-hours. 
+			Thus hate, because of the perpetual trade-off.  
+
+		</p>
+
+		<table class="ingredients">
+			<caption>Base ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount">2</td>
+				<td class="unit">tbsp</td>
+				<td class="name">
+					light tahini, <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount">2</td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">almond butter</td>
+			</tr>
+			<tr>
+				<td class="amount">1/2</td>
+				<td class="unit">cup</td>
+				<td class="name">ground almonds</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">tbsp</td>
+				<td class="name">
+					agave syrup, <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount">1</td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">honey</td>
+			</tr>
+		</table>
+
+		<p>	
+			Imagine my astonishment when I discovered that it is possible to
+			have your cake and eat it too. 
+			This recipe will tell you how. 
+		</p>
+		
+		<table class="ingredients">
+			<caption>Cheesecake ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount">170</td>
+				<td class="unit">g</td>
+				<td class="name">2% Total Greek yoghurt (1 pot)</td>
+			</tr>
+			<tr>
+				<td class="amount">250</td>
+				<td class="unit">g</td>
+				<td class="name">quark</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">scoop</td>
+				<td class="name">vanilla whey protein powder (I used
+					Dymatize Iso-100 Hydrolyzed 100% whey gourmet
+					vanilla).</td>
+			</tr>
+			<tr>
+				<td class="amount">1/4</td>
+				<td class="unit">cup</td>
+				<td class="name">liquid egg whites (2 egg whites)</td>
+			</tr>
+			
+			<tr>
+				<td class="amount">40</td>
+				<td class="unit">g</td>
+				<td class="name">bitter dark Chocolate (I used Lindt 90%)</td>
+			</tr>
+		</table>
+		<p>
+			<q>It's as close to protein magic as one can get.</q> 
+			(<cite>Anna Sward</cite>).
+			This recipe was adapted from Protein Pow's Dark Chocolate and Almond
+			Protein Cheesecake recipe by Anna Sward, who gave it a 10/10.
+			Let's see if you agree!
+		</p>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Mix all the base ingredients together in a bowl.</td> </tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td> Form base layer by pressing the mix evenly down into a
+					small pan.</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Mix all the chesecake ingredients in a bowl.</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Pour the cheesecake filling into the pan ontop of the
+					base.</td> </tr>
+			<tr>
+				<td class="amount">30-45</td>
+				<td class="unit">min</td>
+				<td>
+					Bake at 160'C (320'F). Be careful not to overbake
+					cheesecake! It will harden as it cools, so you
+					want it to still be mushy and wobbly inside when
+					you remove it from the oven.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Whilst the cheesecake is cooling, melt the dark
+					chocolate in a bain-maire or microwave (careful
+					not to let it burn), and drizzle on top of
+					cheesecake.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Devour immediately.</td>
+			</tr>
+		</table>
+		<p>
+			This recipe makes three slices, and macro-nutrient information is
+			per slice. (Careful not to eat all 3 at once!) </p>
+		<p> 
+			To make the recipe leaner, simply use 0% Greek Yoghurt, less
+			chocolate and sugar-free syrup instead of honey or agave. </p>
+		       	
+	</section>
+	<nav>
+		<a href="#" onclick="return showimage('article2a');"><img alt="Tahini Cheesecakeini" src="article2a.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article2b');"><img alt="Tahini Cheesecakeini" src="article2b.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article2c');"><img alt="Tahini Cheesecakeini" src="article2c.thumb.jpg" /></a>
+	</nav>
+</article>
