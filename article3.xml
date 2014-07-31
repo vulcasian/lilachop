@@ -2,7 +2,7 @@
 	<header>
 		<a href="#" onclick="return showrecipe('article3a');"><img src="download-colour.png" alt="Download" /></a>
 		<div>
-			<h2><a href="#" onclick="return showrecipe('article3a');">Questbarwhich</a></h2>
+			<h2><a href="#" onclick="return showrecipe('article3a');">Questbarwich</a></h2>
 			<address>Christina Hallalulu</address>
 			<time datetime="2014-07-30">2014-07-30</time>
 			<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
@@ -13,30 +13,36 @@
 			<!-- div class="hicon paleo" title="Paleo">Pa</div -->
 			<!-- div class="hicon raw" title="Raw">Rw</div -->
 			<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
-			<span title="Calories" class="calories">303</span>
-			<span title="Grams Protein" class="protein">34</span>
-			<span title="Grams Carbohydrates" class="carbs">16</span>
-			<span title="Grams Fat" class="fat">22</span>
-
+			<span title="Calories" class="calories">327</span>
+			<span title="Grams Protein" class="protein">36</span>
+			<span title="Grams Carbohydrates" class="carbs">36</span>
+			<span title="Grams Fat" class="fat">11</span>
 		</div>
 	</header>
 	<aside>
-		This is some text about the gross questbarwich.
+		If you love questbars, you'll die for this questbarwich which
+		packs 36 grams of protein! That's more than a protein shake, my
+		Choppers.  
 	</aside>
 	<img onload="showimage('article3a');" id="article3a" class="img noshow" src="article3a.jpg" alt="Questbarwich" />
 	<img id="article3b" class="img noshow" src="article3b.jpg" alt="Questbarwich" />
 	<img id="article3c" class="img noshow" src="article3c.jpg" alt="Questbarwich" />
 	<section id="recipe" class="noshow">
 		<p>
-			<q>This is an intro quote about this recipe</q> (<cite>Joe Foo</cite>).
-			This is a recipe.
-			It is good and stuff.
-			This part is to make sure that there's a long line;
-			this part is to make sure that there's a long line.
-			Moreover, 
-			this part is to make sure that there's a long line and
-			this part is to make sure that there's a long line.
-		</p>
+			I discovered Questnutrition's protein bars a couple of years ago when I
+			was looking for gluten- and soy-free protein bars on amazon. (I
+			had recently been diagnosed with a host of food
+			intolerances and was in a panic to find something I
+			could still eat.) Unfortunately, the first generation
+			of quest bars tasted like cardboard, and were so
+			difficult to chew that they would give me a jaw-ache.
+			Frustrated, I decided they had been a waste of money. A
+			few years later however, pictures of quest bars kept
+			popping up on my Instagram feed on Instagram, and I
+			wondered why they were so trendy all
+			of a sudden. I decided to try out their new flavours,
+			and oh Lila, am I glad I did!  
+		</p> 
 		<table class="ingredients">
 			<caption>Ingredients</caption>
 			<thead>
@@ -46,115 +52,58 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount">2</td>
-				<td class="unit">tbsp</td>
-				<td class="name">olive oil</td>
-			</tr>
-			<tr>
-				<td class="alt amount">2</td>
-				<td class="alt unit">tbsp</td>
-				<td class="alt name">sun-dried olive oil from the jar</td>
-			</tr>
-			<tr>
-				<td class="amount">6</td>
-				<td class="unit">rashers</td>
-				<td class="name">smoked streaky bacon, chopped</td>
-			</tr>
-			<tr>
-				<td class="amount">2</td>
-				<td class="unit"></td>
-				<td class="name">large onions, chopped</td>
-			</tr>
-			<tr>
-				<td class="amount">3</td>
-				<td class="unit"></td>
-				<td class="name">garlic cloves, crushed</td>
-			</tr>
-			<tr>
 				<td class="amount">1</td>
-				<td class="unit">kg</td>
-				<td class="name">lean minced beef</td>
-			</tr>
-			<tr>
-				<td class="amount">2</td>
-				<td class="unit">large glasses</td>
-				<td class="name">red wine</td>
-			</tr>
-			<tr>
-				<td class="amount">2</td>
-				<td class="unit">400g cans</td>
-				<td class="name">chopped tomatoes</td>
-			</tr>
-			<tr>
-				<td class="amount">1</td>
-				<td class="unit">290g jar</td>
-				<td class="name">antipasti marinated mushrooms, drained</td>
-			</tr>
-			<tr>
-				<td class="amount">2</td>
 				<td class="unit"></td>
-				<td class="name">fresh bay leaves</td>
+				<td class="name">white chocolate raspberry questbar <span class="altor">or</span></td>
 			</tr>
 			<tr>
-				<td class="alt amount">2</td>
+				<td class="alt amount">1</td>
 				<td class="alt unit"></td>
-				<td class="alt name">dried bay leaves</td>
+				<td class="alt name">any flavoured Quest protein bar</td>
+			</tr>
+			<tr>
+				<td class="amount">1/2</td>
+				<td class="unit">pot</td>
+				<td class="name">Fage 0% Total Fat-free Greek
+					Yoghurt (85g) <span class="altor">or</span></td> 
+			</tr>
+			<tr>
+				<td class="alt amount">1/2</td>
+				<td class="alt unit">pot</td>
+				<td class="alt name">full-fat Greek Yoghurt</td>
+			</tr>
+			<tr>
+				<td class="amount">1/4</td>
+				<td class="unit">scoop</td>
+				<td class="name">vanilla whey protein powder (I
+					used Cellucor Whipped Vanilla)</td>
 			</tr>
 			<tr>
 				<td class="amount">1</td>
-				<td class="unit">tsp</td>
-				<td class="name">dried oregano</td>
-			</tr>
-			<tr>
-				<td class="alt amount">1</td>
-				<td class="alt unit">handful</td>
-				<td class="alt name">fresh oregano leaves, chopped</td>
+				<td class="unit">small handful</td>
+				<td class="name">fresh berries</td>
 			</tr>
 			<tr>
 				<td class="amount">1</td>
-				<td class="unit">tsp</td>
-				<td class="name">dried thyme</td>
-			</tr>
-			<tr>
-				<td class="alt amount">1</td>
-				<td class="alt unit">handful</td>
-				<td class="alt name">fresh thyme leaves, chopped</td>
+				<td class="unit">tbsp</td>
+				<td class="name">organic shredded coconut</td>
 			</tr>
 			<tr>
 				<td class="amount">1</td>
-				<td class="unit">drizzle</td>
-				<td class="name">Balsamic vinegar</td>
-			</tr>
-			<tr>
-				<td class="amount">12&#8211;14</td>
-				<td class="unit"></td>
-				<td class="name">sun-dried tomato halves in oil</td>
-			</tr>
-			<tr>
-				<td class="amount"></td>
-				<td class="unit"></td>
-				<td class="name">salt and freshly-ground black peppar</td>
-			</tr>
-			<tr>
-				<td class="amount">1</td>
-				<td class="unit">handful</td>
-				<td class="name">fresh basil leaves, torn into small pieces</td>
-			</tr>
-			<tr>
-				<td class="amount">1</td>
-				<td class="unit">kg</td>
-				<td class="name">dried spaghetti</td>
+				<td class="unit">square</td>
+				<td class="name">very dark chocolate, such as Lindt 90%</td>
 			</tr>
 		</table>
 		<p>
-			<q>This is an intro quote about this recipe</q> (<cite>Joe Foo</cite>).
-			This is a recipe.
-			It is good and stuff.
-			This part is to make sure that there's a long line;
-			this part is to make sure that there's a long line.
-			Moreover, 
-			this part is to make sure that there's a long line and
-			this part is to make sure that there's a long line.
+			I discovered through Instagram that the trick with
+			questbars is to microwave them first.  (Whoever first
+			thought of this must be both some bizarre genius.)
+			Just 10 seconds in the microwave makes a tremendous
+			difference, both in taste and chewability, thereby
+			significantly increasing their edibility. 
+			It also makes the bar easier to mould into shapes for
+			baking - but be warned! They settle and harden very
+			quickly.	
 		</p>
 		<table id="steps">
 			<caption>Steps</caption>
@@ -165,82 +114,81 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount">2</td>
-				<td class="unit">min</td>
-				<td>Heat the oil in a large, heavy-based saucepan and fry the bacon until golden over a medium heat.</td>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td> Mix the yoghurt, berries and coconut in a bowl.</td> 
 			</tr>
 			<tr>
-				<td class="amount">5</td>
-				<td class="unit">min</td>
-				<td>Add the onions and garlic, frying until softened.</td>
-			</tr>
-			<tr>
-				<td class="amount">5</td>
-				<td class="unit">min</td>
+				<td class="amount"></td>
+				<td class="unit"></td>
 				<td>
-					Increase the heat and add the minced beef. 
-					Fry it until it has browned, breaking down any chunks of meat with a wooden spoon.
+					Put the yoghurt mixture in the freezer to
+					make sandwich ice cream filling whilst
+					preparing the questbar.	
+				
 				</td>
 			</tr>
 			<tr>
-				<td class="amount">2</td>
-				<td class="unit">min</td>
-				<td>Pour in the wine and boil until it has reduced in volume by about a third.</td>
+				<td class="amount">10-15</td>
+				<td class="unit">secs</td>
+				<td>Heat the quest bar in the microwave.</td> 
 			</tr>
 			<tr>
-				<td class="amount">2</td>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Cut in half and roll into 2 flat round cookies.</td>
+			</tr>
+			<tr>
+				<td class="amount">&lt;5</td>
 				<td class="unit">min</td>
 				<td>
-					Reduce the temperature and stir in the tomatoes, drained mushrooms, bay leaves, oregano, thyme
-					and balsamic vinegar.
+					Bake at 180'C on baking paper.	
 				</td>
 			</tr>
 			<tr>
-				<td class="amount">1&#8211;1.5</td>
-				<td class="unit">hour</td>
+				<td class="amount"></td>
+				<td class="unit"></td>
 				<td>
-					Either blitz the sun-dried tomatoes in a small blender with a little of the oil to loosen, or just
-					finely chop before adding to the pan. Season well with salt and pepper. Cover with a lid and simmer the
-					Bolognese sauce over a gentle heat for 1&#8211;1.5 hours until it's rich and thickened, stirring
-					occasionally.
+					Take frozen yoghurt mixture out of the
+					freezer and layer between the quest
+					bars cookies to make a sandwich.  </td> 
+			</tr>
+			<tr>
+				<td class="amount">30</td>
+				<td class="unit">secs</td>
+				<td>
+					Melt dark chocolate in microwave
+					(careful not to let it burn).  </td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Drizzle chocolate on questbarwich. 
 				</td>
 			</tr>
 			<tr>
-				<td class="amount">1</td>
-				<td class="unit">min</td>
-				<td>At the end of the cooking time, stir in the basil and add any extra seasoning if necessary.</td>
-			</tr>
-			<tr>
-				<td class="amount">10</td>
-				<td class="unit">min</td>
-				<td>
-					Remove from the heat to <q>settle</q> while you cook the spaghetti in plenty of boiling salted water
-					(for the time stated on the packet). Drain and divide between warmed plates.
-				</td>
-			</tr>
-			<tr>
-				<td class="amount">1</td>
-				<td class="unit">min</td>
-				<td>
-					Scatter a little parmesan over the spaghetti before adding a good ladleful of the Bolognese sauce,
-					finishing with a scattering of more cheese and a twist of black pepper.
-				</td>
-			</tr>
-			<tr>
-				<td class="amount">10</td>
-				<td class="unit">hour</td>
-				<td></td>
-			</tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Devour immediately, before the questbar
+					cookies harden.</td> </tr>
 		</table>
 		<p>
-			This is a recipe.
-			It is good and stuff.
-			This part is to make sure that there's a long line;
-			this part is to make sure that there's a long line.
-			<q>This is an intro quote about this recipe</q> (<cite>Joe Foo</cite>).
-			Moreover, 
-			this part is to make sure that there's a long line and
-			this part is to make sure that there's a long line.
+			As you can see, this is a very nutrient- and protein-
+			dense treat. 
+			To make it lighter, simply halve the recipe, or skip
+			the protein powder altogether. 
+
+		</p>
+
+		<p>	
+			<b>A little note on the macro nutrients:</b> 
+			although the macros for the total amount of
+			carbohydrates looks high, questbars are made up of
+			insoluble prebiotic plant fibres called
+			<i>Isomalto-Oligosaccharides,</i> therefore the amount
+			of net carbohydrates is significantly lower. 
+			That's why I can safely call this recipe low-carb and high-protein. 
 		</p>
 	</section>
 	<nav>
