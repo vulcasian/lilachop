@@ -1,8 +1,8 @@
 <article data-sblg-article="1" data-sblg-tags="glutenfree lowcarb highprotein">
 	<header>
-		<a href="#" onclick="return showrecipe('article2a');"><img src="download-colour.png" alt="Download" /></a>
+		<a href="#" onclick="return showrecipe('article002a');"><img src="download-colour.png" alt="Download" /></a>
 		<div>
-			<h2><a href="#" onclick="return showrecipe('article2a');">Tahini Cheesecakini</a></h2>
+			<h2><a href="#" onclick="return showrecipe('article002a');">Tahini Cheesecakini</a></h2>
 			<address>Christina Hallalulu</address>
 			<time datetime="2014-07-30">2014-07-30</time>
 			<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
@@ -24,9 +24,9 @@
 		Whoever said cheesecake had to be unhealthy? 
 		Try this sugar-free, low-carb, and high-protein indulgence!
 	</aside>
-	<img onload="showimage('article2a');" id="article2a" class="img noshow" src="article2a.jpg" alt="Tahini Cheesecakeini" />
-	<img id="article2b" class="img noshow" src="article2b.jpg" alt="Tahini Cheesecakeini" />
-	<img id="article2c" class="img noshow" src="article2c.jpg" alt="Tahini Cheesecakeini" />
+	<img onload="showimage('article002a');" id="article002a" class="img noshow" src="article002a.jpg" alt="Tahini Cheesecakeini" />
+	<img id="article002b" class="img noshow" src="article002b.jpg" alt="Tahini Cheesecakeini" />
+	<img id="article002c" class="img noshow" src="article002c.jpg" alt="Tahini Cheesecakeini" />
 	<section id="recipe" class="noshow">
 		<p>
 			For as long as I can remember, I have had a love-hate relationship

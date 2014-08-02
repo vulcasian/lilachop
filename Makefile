@@ -12,7 +12,7 @@ STATIC = bg.png \
 
 # These are your articles.
 XMLS = article001.xml \
-       article2.xml \
+       article002.xml \
        article3.xml \
        article4.xml
 	
@@ -21,7 +21,7 @@ XMLS = article001.xml \
 HTMLS = atom.xml \
 	archive.html \
 	article001.html \
-	article2.html \
+	article002.html \
 	article3.html \
 	article4.html \
 	index.html \
@@ -30,13 +30,13 @@ HTMLS = atom.xml \
 # These are the images used by the artiles in $(XMLS).
 # When you add a new XML file, make sure you add its images.
 IMAGES = article001a.jpg article001b.jpg article001c.jpg \
-	 article2a.jpg article2b.jpg article2c.jpg \
+	 article002a.jpg article002b.jpg article002c.jpg \
 	 article3a.jpg article3b.jpg article3c.jpg \
 	 article4a.jpg article4b.jpg article4c.jpg
 
 # We build thumbnails from $(IMAGES)...
 THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
-	 article2a.thumb.jpg article2b.thumb.jpg article2c.thumb.jpg \
+	 article002a.thumb.jpg article002b.thumb.jpg article002c.thumb.jpg \
 	 article3a.thumb.jpg article3b.thumb.jpg article3c.thumb.jpg \
 	 article4a.thumb.jpg article4b.thumb.jpg article4c.thumb.jpg
 
