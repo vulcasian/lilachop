@@ -12,13 +12,14 @@ STATIC = bg.png \
 
 # This is the most current HTML file in $(HTMLS).
 # We're going to copy this into index.html.
-LAST = article3.html
+LAST = article4.html
 
 # These are your articles.
 XMLS = article1.xml \
        article2.xml \
-       article3.xml
-
+       article3.xml \
+       article4.xml
+	
 # These are all the HTML files that I'll build.
 # Make sure all your articles in $(XMLS) appear here!
 HTMLS = atom.xml \
@@ -26,18 +27,21 @@ HTMLS = atom.xml \
 	article1.html \
 	article2.html \
 	article3.html \
+	article4.html \
 	tagindex.html
 
 # These are the images used by the artiles in $(XMLS).
 # When you add a new XML file, make sure you add its images.
 IMAGES = article1a.jpg article1b.jpg article1c.jpg \
 	 article2a.jpg article2b.jpg article2c.jpg \
-	 article3a.jpg article3b.jpg article3c.jpg
+	 article3a.jpg article3b.jpg article3c.jpg \
+	 article4a.jpg article4b.jpg article4c.jpg
 
 # We build thumbnails from $(IMAGES)...
 THUMBS = article1a.thumb.jpg article1b.thumb.jpg article1c.thumb.jpg \
 	 article2a.thumb.jpg article2b.thumb.jpg article2c.thumb.jpg \
-	 article3a.thumb.jpg article3b.thumb.jpg article3c.thumb.jpg
+	 article3a.thumb.jpg article3b.thumb.jpg article3c.thumb.jpg \
+	 article4a.thumb.jpg article4b.thumb.jpg article4c.thumb.jpg
 
 all: $(HTMLS)
 

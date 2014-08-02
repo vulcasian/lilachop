@@ -1,37 +1,47 @@
 <article data-sblg-article="1">
 	<header>
-		<a href="#" onclick="return showrecipe();">
-			<img onmouseover="rollon('download');" onmouseout="rollover('download');" id="download" src="download.png" alt="Download" />
-		</a>
+		<a href="#" onclick="return showrecipe('article3a');"><img src="download-colour.png" alt="Download" /></a>
 		<div>
-			<h2><a href="#" onclick="return showrecipe();">Tahini Smoothy</a></h2>
-			<address>Christina Hallalulu</address>
-			<time datetime="2013-09-12">2013-09-12</time>
-			<span class="calories">210</span>
-			<span class="protein">18</span>
-			<span class="carbs">120</span>
-			<span class="fiber">20</span>
-			<span class="fat">2</span>
+			<h2><a href="#" onclick="return
+					showrecipe('article3a');">Spiced Tahini
+					Smoothini</a></h2> <address>Christina
+				Hallalulu</address>
+			<time datetime="2014-07-31">2014-07-31</time>
+			<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
+			<div class="hicon lactosefree" title="Lactose-Free">Lf</div>
+			<!-- div class="hicon lowcarb" title="Low-Carb">lC</div -->
+			<div class="hicon highprotein" title="High-Protein">hP</div>
+			<div class="hicon vegan" title="Vegan">V</div>
+			<!-- div class="hicon paleo" title="Paleo">Pa</div -->
+			<div class="hicon raw" title="Raw">Rw</div>
+			<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
+			<span title="Calories" class="calories">293</span>
+			<span title="Grams Protein" class="protein">24</span>
+			<span title="Grams Carbohydrates" class="carbs">20</span>
+			<span title="Grams Fat" class="fat">18</span>
 		</div>
 	</header>
 	<aside>
-		This is some text about the tahini smoothy.
-	</aside>
-	<img onload="showimage('article4a');" id="article4a" class="img noshow" src="article4a.jpg" alt="Tahini Smoothy" />
-	<img id="article4b" class="img noshow" src="article4b.jpg" alt="Tahini Smoothy" />
+		"Cinnamon, spice, and everything nice!" This is one hell of a
+		raw vegan treat, packed with nutrients, antioxidants, and of
+		course, protein..
+      </aside>
+	<img onload="showimage('article4a');" id="article4a" class="img noshow" src="article4a.jpg" alt="Tahini Smoothie" />
+	<img id="article4b" class="img noshow" src="article4b.jpg" alt="Tahini Smoother" />
 	<img id="article4c" class="img noshow" src="article4c.jpg" alt="Tahini Smoothy" />
 	<section id="recipe" class="noshow">
 		<p>
-			<q>This is an intro quote about this recipe</q> (<cite>Joe Foo</cite>).
-			This is a recipe.
-			It is good and stuff.
-			This part is to make sure that there's a long line;
-			this part is to make sure that there's a long line.
-			Moreover, 
-			this part is to make sure that there's a long line and
-			this part is to make sure that there's a long line.
-		</p>
-		<table id="ingredients">
+			After my first trip to Egypt back in 2010, when I was
+			still a vegetarian, I discovered real tahini (or as
+			they call it there, "tahina", and ate it with
+			everything.  
+			As salad dressing, as meze, as sandwich
+			spread... I could not get enough of it. It was like
+			peanut butter, only different - more exotic, more
+			versatile, and better. 
+		
+	     </p>
+		<table class="ingredients">
 			<caption>Ingredients</caption>
 			<thead>
 				<tr>
@@ -40,115 +50,61 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount">2</td>
+				<td class="amount">1-2</td>
 				<td class="unit">tbsp</td>
-				<td class="name">olive oil</td>
-			</tr>
-			<tr>
-				<td class="alt amount">2</td>
-				<td class="alt unit">tbsp</td>
-				<td class="alt name">sun-dried olive oil from the jar</td>
-			</tr>
-			<tr>
-				<td class="amount">6</td>
-				<td class="unit">rashers</td>
-				<td class="name">smoked streaky bacon, chopped</td>
-			</tr>
-			<tr>
-				<td class="amount">2</td>
-				<td class="unit"></td>
-				<td class="name">large onions, chopped</td>
-			</tr>
-			<tr>
-				<td class="amount">3</td>
-				<td class="unit"></td>
-				<td class="name">garlic cloves, crushed</td>
+				<td class="name">tahini</td>
 			</tr>
 			<tr>
 				<td class="amount">1</td>
-				<td class="unit">kg</td>
-				<td class="name">lean minced beef</td>
-			</tr>
-			<tr>
-				<td class="amount">2</td>
-				<td class="unit">large glasses</td>
-				<td class="name">red wine</td>
-			</tr>
-			<tr>
-				<td class="amount">2</td>
-				<td class="unit">400g cans</td>
-				<td class="name">chopped tomatoes</td>
+				<td class="unit">scoop</td>
+				<td class="name">raw vegan protein powder (I used Sunwarrior vanilla)</td>
 			</tr>
 			<tr>
 				<td class="amount">1</td>
-				<td class="unit">290g jar</td>
-				<td class="name">antipasti marinated mushrooms, drained</td>
+				<td class="unit">cup</td>
+				<td class="name">raw almond milk</td>
 			</tr>
 			<tr>
-				<td class="amount">2</td>
+				<td class="amount">1/2</td>
 				<td class="unit"></td>
-				<td class="name">fresh bay leaves</td>
+				<td class="name">frozen banana</td>
 			</tr>
 			<tr>
-				<td class="alt amount">2</td>
-				<td class="alt unit"></td>
-				<td class="alt name">dried bay leaves</td>
+				<td class="amount">1-2</td>
+				<td class="unit">tbsp</td>
+				<td class="name">chia seeds</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">tbsp</td>
+				<td class="name">organic ground cinnamon</td>
 			</tr>
 			<tr>
 				<td class="amount">1</td>
 				<td class="unit">tsp</td>
-				<td class="name">dried oregano</td>
+				<td class="name">organic ground cardamon</td>
 			</tr>
 			<tr>
-				<td class="alt amount">1</td>
-				<td class="alt unit">handful</td>
-				<td class="alt name">fresh oregano leaves, chopped</td>
-			</tr>
-			<tr>
-				<td class="amount">1</td>
-				<td class="unit">tsp</td>
-				<td class="name">dried thyme</td>
-			</tr>
-			<tr>
-				<td class="alt amount">1</td>
-				<td class="alt unit">handful</td>
-				<td class="alt name">fresh thyme leaves, chopped</td>
+				<td class="amount">1-2</td>
+				<td class="unit">drops</td>
+				<td class="name">liquid vanilla stevia <i>(for sweetness)</i></td>
 			</tr>
 			<tr>
 				<td class="amount">1</td>
-				<td class="unit">drizzle</td>
-				<td class="name">Balsamic vinegar</td>
-			</tr>
-			<tr>
-				<td class="amount">12&#8211;14</td>
-				<td class="unit"></td>
-				<td class="name">sun-dried tomato halves in oil</td>
-			</tr>
-			<tr>
-				<td class="amount"></td>
-				<td class="unit"></td>
-				<td class="name">salt and freshly-ground black peppar</td>
-			</tr>
-			<tr>
-				<td class="amount">1</td>
-				<td class="unit">handful</td>
-				<td class="name">fresh basil leaves, torn into small pieces</td>
-			</tr>
-			<tr>
-				<td class="amount">1</td>
-				<td class="unit">kg</td>
-				<td class="name">dried spaghetti</td>
+				<td class="unit">cup</td>
+				<td class="name">ice</td>
 			</tr>
 		</table>
 		<p>
-			<q>This is an intro quote about this recipe</q> (<cite>Joe Foo</cite>).
-			This is a recipe.
-			It is good and stuff.
-			This part is to make sure that there's a long line;
-			this part is to make sure that there's a long line.
-			Moreover, 
-			this part is to make sure that there's a long line and
-			this part is to make sure that there's a long line.
+			A few years later I discovered a recipe for a tahini
+			protein Smoothie by <u>Nutritionstripped</u>, one of my
+			favourite food bloggers and sources of healthy recipes. 
+			
+			I was overjoyed to replicate my Egypt experience at
+			home, and adapted the recipe by adding one of my
+			favourite spices: cardamon. It turned out simply
+			divine.... a mix of chai and tahini in a nutrition
+			bomb.   
 		</p>
 		<table id="steps">
 			<caption>Steps</caption>
@@ -159,82 +115,36 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount">2</td>
-				<td class="unit">min</td>
-				<td>Heat the oil in a large, heavy-based saucepan and fry the bacon until golden over a medium heat.</td>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Combine all the ingredients in a blender
+					until you get a smooth, creamy
+					consistency.</td> 
 			</tr>
 			<tr>
-				<td class="amount">5</td>
-				<td class="unit">min</td>
-				<td>Add the onions and garlic, frying until softened.</td>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Pour into a glass and garnish with extra chia seeds.</td>
 			</tr>
 			<tr>
-				<td class="amount">5</td>
-				<td class="unit">min</td>
+				<td class="amount"></td>
+				<td class="unit"></td>
 				<td>
-					Increase the heat and add the minced beef. 
-					Fry it until it has browned, breaking down any chunks of meat with a wooden spoon.
+					Serve cold, and enjoy!
 				</td>
-			</tr>
-			<tr>
-				<td class="amount">2</td>
-				<td class="unit">min</td>
-				<td>Pour in the wine and boil until it has reduced in volume by about a third.</td>
-			</tr>
-			<tr>
-				<td class="amount">2</td>
-				<td class="unit">min</td>
-				<td>
-					Reduce the temperature and stir in the tomatoes, drained mushrooms, bay leaves, oregano, thyme
-					and balsamic vinegar.
-				</td>
-			</tr>
-			<tr>
-				<td class="amount">1&#8211;1.5</td>
-				<td class="unit">hour</td>
-				<td>
-					Either blitz the sun-dried tomatoes in a small blender with a little of the oil to loosen, or just
-					finely chop before adding to the pan. Season well with salt and pepper. Cover with a lid and simmer the
-					Bolognese sauce over a gentle heat for 1&#8211;1.5 hours until it's rich and thickened, stirring
-					occasionally.
-				</td>
-			</tr>
-			<tr>
-				<td class="amount">1</td>
-				<td class="unit">min</td>
-				<td>At the end of the cooking time, stir in the basil and add any extra seasoning if necessary.</td>
-			</tr>
-			<tr>
-				<td class="amount">10</td>
-				<td class="unit">min</td>
-				<td>
-					Remove from the heat to <q>settle</q> while you cook the spaghetti in plenty of boiling salted water
-					(for the time stated on the packet). Drain and divide between warmed plates.
-				</td>
-			</tr>
-			<tr>
-				<td class="amount">1</td>
-				<td class="unit">min</td>
-				<td>
-					Scatter a little parmesan over the spaghetti before adding a good ladleful of the Bolognese sauce,
-					finishing with a scattering of more cheese and a twist of black pepper.
-				</td>
-			</tr>
-			<tr>
-				<td class="amount">10</td>
-				<td class="unit">hour</td>
-				<td></td>
 			</tr>
 		</table>
 		<p>
-			This is a recipe.
-			It is good and stuff.
-			This part is to make sure that there's a long line;
-			this part is to make sure that there's a long line.
-			<q>This is an intro quote about this recipe</q> (<cite>Joe Foo</cite>).
-			Moreover, 
-			this part is to make sure that there's a long line and
-			this part is to make sure that there's a long line.
+			"Cinnamon, spice, and everything nice!" This is one
+			hell of a raw vegan treat, packed with nutrients,
+			antioxidants, and of course, protein.  Rich and
+			unusually nutty-flavoured thanks to the tahini and
+			chia, this smoothie packs in the protein and essential
+			fats. 
+		</p>
+
+		<p>
+			<b>Macro-tip:</b>To make it lighter, simply skip the banana. 
 		</p>
 	</section>
 	<nav>
