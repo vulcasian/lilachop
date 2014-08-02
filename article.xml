@@ -3,8 +3,9 @@
 	<head>
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 		<meta charset='utf-8' /> 
+		<link href="atom.xml" type="application/atom+xml" rel="alternate" title="Lila, Chop! Version Feed" />
 		<link rel="stylesheet" href="main.css" type="text/css" />
-		<link rel="stylesheet" href="index.css" type="text/css" />
+		<link rel="stylesheet" href="article.css" type="text/css" />
 		<title>Clandestine Health Food &amp; Living</title>
 		<script src="main.js"></script>
 	</head>
@@ -26,7 +27,7 @@
 				     // This code is freeware provided these four comment lines remain intact
 				     // A wizard to generate this code is at http://www.jottings.com/obfuscator/
 				     { 
-				     	coded = "ZlPYgxYc5@3Y35ZlSI.ZSa"
+					coded = "ZlPYgxYc5@3Y35ZlSI.ZSa"
 					key = "07QHZrRgSqtayYhBCAw8Tdnzfe6P4JUWx5KXl1LpuvjOc2DsoGEmNiMkF93bVI"
 					shift=coded.length
 					link=""
@@ -46,15 +47,13 @@
 				<a href="archive.html"><img title="Archive" alt="Archive" src="files-colour.png" /></a>
 			</nav>
 		</header>
-		<article>
-			<nav data-sblg-nav="1" data-sblg-navcontent="1">
-				<img src="${base}a.jpg" />
-				<div>
-					<div><time datetime="${date}">${date}</time>: <a href="${base}.html">${title}</a></div>
-					<div class="aside">${aside}</div>
-				</div>
-			</nav>
-		</article>
+		<nav data-sblg-nav="1" data-sblg-navsz="5" data-sblg-navcontent="1">
+			<figure>
+				<a href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+				<figcaption><a href="${base}.html">${title}</a></figcaption>
+			</figure>
+		</nav>
+		<article data-sblg-article="1" data-sblg-permlink="0" />
 		<footer>
 			&#169; 2013, 2014, <q>Lila, Chop!</q>
 			<div>

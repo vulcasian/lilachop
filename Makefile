@@ -10,10 +10,6 @@ STATIC = bg.png \
 	 main.js \
 	 rss-colour.png
 
-# This is the most current HTML file in $(HTMLS).
-# We're going to copy this into index.html.
-LAST = article4.html
-
 # These are your articles.
 XMLS = article1.xml \
        article2.xml \
@@ -28,6 +24,7 @@ HTMLS = atom.xml \
 	article2.html \
 	article3.html \
 	article4.html \
+	index.html \
 	tagindex.html
 
 # These are the images used by the artiles in $(XMLS).
@@ -48,26 +45,28 @@ all: $(HTMLS)
 install: all
 	mkdir -p $(PREFIX)
 	install -m 0444 $(THUMBS) $(HTMLS) $(IMAGES) $(STATIC) $(PREFIX)
-	install -m 0444 archive.css article.css main.css $(PREFIX)
-	install -m 0444 $(LAST) $(PREFIX)/index.html
+	install -m 0444 index.css archive.css article.css main.css $(PREFIX)
 	install -m 0444 atom.xml $(PREFIX)
 
 clean:
 	rm -f $(HTMLS) $(THUMBS)
 
-$(HTMLS): index.xml $(THUMBS)
+$(HTMLS): article.xml $(THUMBS)
 
 .xml.html:
-	/usr/local/bin/sblg -t index.xml -f $< -o $@ $(XMLS)
+	sblg -t article.xml -f $< -o $@ $(XMLS)
 
 archive.html: archive.xml $(XMLS)
-	/usr/local/bin/sblg -t archive.xml -o $@ $(XMLS)
+	sblg -t archive.xml -o $@ $(XMLS)
+
+index.html: index.xml $(XMLS)
+	sblg -t index.xml -o $@ $(XMLS)
 
 tagindex.html: tagindex.xml $(XMLS)
-	/usr/local/bin/sblg -t tagindex.xml -o $@ $(XMLS)
+	sblg -t tagindex.xml -o $@ $(XMLS)
 
 atom.xml: $(XMLS)
-	/usr/local/bin/sblg -a -o $@ $(XMLS)
+	sblg -a -o $@ $(XMLS)
 
 .jpg.thumb.jpg:
-	/usr/local/bin/convert $< -thumbnail 75x75 $@
+	convert $< -thumbnail 75x75 $@

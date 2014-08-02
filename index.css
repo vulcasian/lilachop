@@ -1,0 +1,30 @@
+body > article			{ float: none; 
+				  width: 100%; }
+body > article ul		{ list-style-type: none; }
+body > article li 		{ color: #eee; 
+				  display: table-row; }
+body > article li > * 		{ margin-bottom: 1em;
+				  display: table-cell;
+				  vertical-align: top; }
+body > article li > img		{ width: 400px; 
+				  border: thin solid #aaa;
+				  border-radius: 16px; }
+body > article li >:last-child	{ padding-left: 1em; }
+body > article .aside		{ font-size: 18pt; 
+				  font-style: italic; }
+body > footer			{ padding-left: 2.5%;
+				  padding-right: 2.5%; }
+body > article a		{ text-decoration: none;
+				  color: darkpurple; }
+@media only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
+body > article ul		{ margin: 0;
+			   	  margin-top: 1ex; 
+				  padding: 0; }
+body > article li		{ display: block; 
+				  margin: 0; 
+				  padding: 1ex; }
+body > article li > *		{ display: block; }
+body > article li > img		{ width: 100%; }
+body > article li >:last-child	{ padding-left: 0; }
+body > footer			{ padding: 0; }
+}
