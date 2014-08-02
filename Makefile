@@ -14,7 +14,8 @@ STATIC = bg.png \
 XMLS = article001.xml \
        article002.xml \
        article003.xml \
-       article004.xml
+       article004.xml \
+       article009.xml
 	
 # These are all the HTML files that I'll build.
 # Make sure all your articles in $(XMLS) appear here!
@@ -24,6 +25,7 @@ HTMLS = atom.xml \
 	article002.html \
 	article003.html \
 	article004.html \
+	article009.html \
 	index.html \
 	tagindex.html
 
@@ -32,13 +34,15 @@ HTMLS = atom.xml \
 IMAGES = article001a.jpg article001b.jpg article001c.jpg \
 	 article002a.jpg article002b.jpg article002c.jpg \
 	 article003a.jpg article003b.jpg article003c.jpg \
-	 article004a.jpg article004b.jpg article004c.jpg
+	 article004a.jpg article004b.jpg article004c.jpg \
+	 article009a.jpg article009b.jpg article009c.jpg
 
 # We build thumbnails from $(IMAGES)...
 THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article002a.thumb.jpg article002b.thumb.jpg article002c.thumb.jpg \
 	 article003a.thumb.jpg article003b.thumb.jpg article003c.thumb.jpg \
-	 article004a.thumb.jpg article004b.thumb.jpg article004c.thumb.jpg
+	 article004a.thumb.jpg article004b.thumb.jpg article004c.thumb.jpg \
+	 article009a.thumb.jpg article009b.thumb.jpg article009c.thumb.jpg
 
 all: $(HTMLS)
 

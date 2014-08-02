@@ -1,0 +1,45 @@
+<article data-sblg-article="1" data-sblg-tags="aboutme">
+	<header>
+		<h2><a href="#" onclick="return showrecipe('article009a');">About Christina</a></h2> 
+		<address>Christina Hallalulu</address>
+		<time datetime="2014-08-03">2014-08-03</time>
+	</header>
+	<aside>
+		Moop, moop, moop.
+		Moop?
+		Moop?
+		Moop?
+		Moop?
+		Moop?
+		Moop.
+		Moop.
+		Moop.
+		Moop...
+		Moop...
+		Moop.
+		Moop.
+	</aside>
+	<img onload="showimage('article009a');" id="article009a" class="img noshow" src="article009a.jpg" alt="Tahini Smoothie" />
+	<img id="article009b" class="img noshow" src="article009b.jpg" alt="Tahini Smoother" />
+	<img id="article009c" class="img noshow" src="article009c.jpg" alt="Tahini Smoothy" />
+	<section id="recipe" class="noshow">
+		<p>
+			After my first trip to Egypt back in 2010, when I was
+			still a vegetarian, I discovered real tahini (or as
+			they call it there, <q>tahina</q>, and ate it with
+			everything.  
+			As salad dressing, as meze, as sandwich
+			spread... I could not get enough of it. It was like
+			peanut butter, only different - more exotic, more
+			versatile, and better. 
+		</p>
+		<p>
+			<b>Macro-tip:</b>To make it lighter, simply skip the banana. 
+		</p>
+	</section>
+	<nav>
+		<a href="#" onclick="return showimage('article009a');"><img alt="Tahini Smoothy" src="article009a.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article009b');"><img alt="Tahini Smoothy" src="article009b.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article009c');"><img alt="Tahini Smoothy" src="article009c.thumb.jpg" /></a>
+	</nav>
+</article>
