@@ -1,8 +1,8 @@
 <article data-sblg-article="1" data-sblg-tags="glutenfree lowcarb highprotein">
 	<header>
-		<a href="#" onclick="return showrecipe('article3a');"><img src="download-colour.png" alt="Download" /></a>
+		<a href="#" onclick="return showrecipe('article003a');"><img src="download-colour.png" alt="Download" /></a>
 		<div>
-			<h2><a href="#" onclick="return showrecipe('article3a');">Questbarwich</a></h2>
+			<h2><a href="#" onclick="return showrecipe('article003a');">Questbarwich</a></h2>
 			<address>Christina Hallalulu</address>
 			<time datetime="2014-07-30">2014-07-30</time>
 			<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
@@ -24,9 +24,9 @@
 		packs 36 grams of protein! That's more than a protein shake, my
 		Choppers.  
 	</aside>
-	<img onload="showimage('article3a');" id="article3a" class="img noshow" src="article3a.jpg" alt="Questbarwich" />
-	<img id="article3b" class="img noshow" src="article3b.jpg" alt="Questbarwich" />
-	<img id="article3c" class="img noshow" src="article3c.jpg" alt="Questbarwich" />
+	<img onload="showimage('article003a');" id="article003a" class="img noshow" src="article003a.jpg" alt="Questbarwich" />
+	<img id="article003b" class="img noshow" src="article003b.jpg" alt="Questbarwich" />
+	<img id="article003c" class="img noshow" src="article003c.jpg" alt="Questbarwich" />
 	<section id="recipe" class="noshow">
 		<p>
 			I discovered Questnutrition's protein bars a couple of years ago when I
@@ -192,8 +192,8 @@
 		</p>
 	</section>
 	<nav>
-		<a href="#" onclick="return showimage('article3a');"><img alt="Questbarwich" src="article3a.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article3b');"><img alt="Questbarwich" src="article3b.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article3c');"><img alt="Questbarwich" src="article3c.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article003a');"><img alt="Questbarwich" src="article003a.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article003b');"><img alt="Questbarwich" src="article003b.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article003c');"><img alt="Questbarwich" src="article003c.thumb.jpg" /></a>
 	</nav>
 </article>

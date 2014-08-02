@@ -1,11 +1,9 @@
 <article data-sblg-article="1" data-sblg-tags="glutenfree lactosefree highprotein vegan raw">
 	<header>
-		<a href="#" onclick="return showrecipe('article3a');"><img src="download-colour.png" alt="Download" /></a>
+		<a href="#" onclick="return showrecipe('article004a');"><img src="download-colour.png" alt="Download" /></a>
 		<div>
-			<h2><a href="#" onclick="return
-					showrecipe('article3a');">Spiced Tahini
-					Smoothini</a></h2> <address>Christina
-				Hallalulu</address>
+			<h2><a href="#" onclick="return showrecipe('article004a');">Spiced Tahini Smoothini</a></h2> 
+			<address>Christina Hallalulu</address>
 			<time datetime="2014-07-31">2014-07-31</time>
 			<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
 			<div class="hicon lactosefree" title="Lactose-Free">Lf</div>
@@ -26,9 +24,9 @@
 		raw vegan treat, packed with nutrients, antioxidants, and of
 		course, protein..
       </aside>
-	<img onload="showimage('article4a');" id="article4a" class="img noshow" src="article4a.jpg" alt="Tahini Smoothie" />
-	<img id="article4b" class="img noshow" src="article4b.jpg" alt="Tahini Smoother" />
-	<img id="article4c" class="img noshow" src="article4c.jpg" alt="Tahini Smoothy" />
+	<img onload="showimage('article004a');" id="article004a" class="img noshow" src="article004a.jpg" alt="Tahini Smoothie" />
+	<img id="article004b" class="img noshow" src="article004b.jpg" alt="Tahini Smoother" />
+	<img id="article004c" class="img noshow" src="article004c.jpg" alt="Tahini Smoothy" />
 	<section id="recipe" class="noshow">
 		<p>
 			After my first trip to Egypt back in 2010, when I was
@@ -148,8 +146,8 @@
 		</p>
 	</section>
 	<nav>
-		<a href="#" onclick="return showimage('article4a');"><img alt="Tahini Smoothy" src="article4a.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article4b');"><img alt="Tahini Smoothy" src="article4b.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article4c');"><img alt="Tahini Smoothy" src="article4c.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article004a');"><img alt="Tahini Smoothy" src="article004a.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article004b');"><img alt="Tahini Smoothy" src="article004b.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article004c');"><img alt="Tahini Smoothy" src="article004c.thumb.jpg" /></a>
 	</nav>
 </article>

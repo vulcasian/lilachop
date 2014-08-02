@@ -191,8 +191,8 @@
 		       	
 	</section>
 	<nav>
-		<a href="#" onclick="return showimage('article2a');"><img alt="Tahini Cheesecakeini" src="article2a.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article2b');"><img alt="Tahini Cheesecakeini" src="article2b.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article2c');"><img alt="Tahini Cheesecakeini" src="article2c.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article002a');"><img alt="Tahini Cheesecakeini" src="article002a.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article002b');"><img alt="Tahini Cheesecakeini" src="article002b.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article002c');"><img alt="Tahini Cheesecakeini" src="article002c.thumb.jpg" /></a>
 	</nav>
 </article>
