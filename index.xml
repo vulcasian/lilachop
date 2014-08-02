@@ -47,7 +47,54 @@
 			</nav>
 		</header>
 		<article>
-			<nav data-sblg-nav="1" data-sblg-navcontent="1">
+			<nav id="chapters">
+				<section>
+					<h2>Recipes</h2>
+					<section>
+						<h3>Gluten-Free</h3>
+						<nav data-sblg-nav="1" data-sblg-navtag="glutenfree" data-sblg-navcontent="1" data-sblg-navsz="10">
+							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+						</nav>
+					</section>
+					<section>
+						<h3>High-Protein</h3>
+						<nav data-sblg-nav="1" data-sblg-navtag="highprotein" data-sblg-navcontent="1" data-sblg-navsz="10">
+							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+						</nav>
+					</section>
+					<section>
+						<h3>Lactose-Free</h3>
+						<nav data-sblg-nav="1" data-sblg-navtag="lactosefree" data-sblg-navcontent="1" data-sblg-navsz="10">
+							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+						</nav>
+					</section>
+					<section>
+						<h3>Low-Carb</h3>
+						<nav data-sblg-nav="1" data-sblg-navtag="lowcarb" data-sblg-navcontent="1" data-sblg-navsz="10">
+							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+						</nav>
+					</section>
+					<section>
+						<h3>Paleo Diet</h3>
+						<nav data-sblg-nav="1" data-sblg-navtag="paleo" data-sblg-navcontent="1" data-sblg-navsz="10">
+							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+						</nav>
+					</section>
+					<section>
+						<h3>Raw Food</h3>
+						<nav data-sblg-nav="1" data-sblg-navtag="raw" data-sblg-navcontent="1" data-sblg-navsz="10">
+							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+						</nav>
+					</section>
+					<section>
+						<h3>Vegan</h3>
+						<nav data-sblg-nav="1" data-sblg-navtag="vegan" data-sblg-navcontent="1" data-sblg-navsz="10">
+							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+						</nav>
+					</section>
+				</section>
+			</nav>
+			<nav id="blogroll" data-sblg-nav="1" data-sblg-navcontent="1">
 				<img src="${base}a.jpg" />
 				<div>
 					<div><time datetime="${date}">${date}</time>: <a href="${base}.html">${title}</a></div>

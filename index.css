@@ -1,21 +1,35 @@
 body > article			{ float: none; 
+				  display: table-row; 
 				  width: 100%; }
-body > article ul		{ list-style-type: none; }
-body > article li 		{ color: #eee; 
+#blogroll			{ display: table-cell;
+				  vertical-align: top;
+				  width: 90%; }
+#chapters			{ display: table-cell;
+				  vertical-align: top;
+				  width: 10%; }
+#chapters img			{ width: 50px; }
+#chapters h2, #chapters h3	{ font-weight: normal;
+				  margin: 0;
+				  font-size: inherit; }
+#chapters li			{ display: inline-block; }
+#chapters ul			{ padding: 0; 
+				  margin: 0; }
+#chapters ul, #blogroll ul	{ list-style-type: none; }
+#blogroll li 			{ color: #eee; 
 				  display: table-row; }
-body > article li > * 		{ margin-bottom: 1em;
+#blogroll li > * 		{ margin-bottom: 1em;
 				  display: table-cell;
 				  vertical-align: top; }
-body > article li > img		{ width: 400px; 
+#blogroll li > img		{ width: 400px; 
 				  border: thin solid #aaa;
 				  border-radius: 16px; }
-body > article li >:last-child	{ padding-left: 1em; }
-body > article .aside		{ font-size: 18pt; 
+#blogroll li >:last-child	{ padding-left: 1em; }
+#blogroll .aside		{ font-size: 18pt; 
 				  font-style: italic; }
+#blogroll a			{ text-decoration: none;
+				  color: darkpurple; }
 body > footer			{ padding-left: 2.5%;
 				  padding-right: 2.5%; }
-body > article a		{ text-decoration: none;
-				  color: darkpurple; }
 @media only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
 body > article ul		{ margin: 0;
 			   	  margin-top: 1ex; 
