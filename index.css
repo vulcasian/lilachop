@@ -33,8 +33,7 @@ body > article			{ float: none;
 #blogroll aside			{ font-size: 16pt; 
 				  color: #444;
 				  font-style: italic; }
-#blogroll a			{ text-decoration: none;
-				  color: darkpurple; }
+#blogroll a			{ color: darkpurple; }
 body > footer			{ padding-left: 2.5%;
 				  padding-right: 2.5%; }
 @media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {

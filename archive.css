@@ -9,8 +9,7 @@ article > nav		{ width: 100%;
 			  border-bottom-left-radius: 1ex;
 			  border-bottom-right-radius: 1ex; }
 article > nav time	{ color: #666; }
-article > nav a		{ color: #333; 
-			  text-decoration: none; }
+article > nav a		{ color: #333; }
 article > nav a:hover	{ color: #000; }
 article > nav li	{ padding: 0.5ex; }
 article > nav ul	{ list-style-type: none; 

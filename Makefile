@@ -69,4 +69,4 @@ atom.xml: $(XMLS)
 	sblg -a -o $@ $(XMLS)
 
 .jpg.thumb.jpg:
-	convert $< -thumbnail 75x75 $@
+	convert $< -thumbnail 140x140 $@

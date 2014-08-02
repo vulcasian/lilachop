@@ -47,13 +47,15 @@
 				<a href="archive.html"><img title="Archive" alt="Archive" src="files-colour.png" /></a>
 			</nav>
 		</header>
-		<nav data-sblg-nav="1" data-sblg-navsz="5" data-sblg-navcontent="1">
-			<figure>
-				<a href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
-				<figcaption><a href="${base}.html">${title}</a></figcaption>
-			</figure>
-		</nav>
-		<article data-sblg-article="1" data-sblg-permlink="0" />
+		<section>
+			<nav data-sblg-nav="1" data-sblg-navsz="5" data-sblg-navcontent="1">
+				<figure>
+					<a href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+					<figcaption><a href="${base}.html">${title}</a></figcaption>
+				</figure>
+			</nav>
+			<article data-sblg-article="1" data-sblg-permlink="0" />
+		</section>
 		<footer>
 			&#169; 2013, 2014, <q>Lila, Chop!</q>
 			<div>

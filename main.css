@@ -1,4 +1,6 @@
 html				{ height: 100%; }
+a				{ text-decoration: none; }
+.noshow				{ display: none; }
 body				{ margin: 0; 
 				  padding: 0;
 				  background-color: #666;
@@ -6,12 +8,9 @@ body				{ margin: 0;
 				  font-family: "Times New Roman", serif; }
 body > header			{ box-shadow: 1px 1px 3px 3px #474747;
 				  background: #474747 url(bg.png);
-				  padding-top: 3ex;
-				  padding-bottom: 1ex;
-				  padding-left: 2.5%;
-				  padding-right: 2.5%;
-				  z-index: 99;
-				  position: relative; }
+				  padding: 3ex 2.5% 1ex 2.5%; 
+				  position: relative;
+				  z-index: 99; }
 body > header nav		{ display: inline-block; }
 body > header img		{ filter: grayscale(100%);
 				  filter: url("data:image/svg+xml; utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'> <filter id=\'grayscale\'> <feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/> </filter> </svg>#grayscale"); /* Firefox 10+, Firefox on Android */
@@ -30,7 +29,6 @@ body > header img:hover		{ filter: url("data:image/svg+xml;utf8, <svg xmlns=\'ht
 				  filter: none ; /* IE6-9 */
 				  zoom:1;
 				  -webkit-filter: grayscale(0%); }
-body > header a			{ text-decoration: none; }
 body > header h1		{ margin: 0;
 				  color: #ccc; 
 				  text-shadow: 0px 3px 8px #2a2a2a;
@@ -44,28 +42,25 @@ body > header h2		{ display: inline-block;
 				  color: #ddd;
 				  text-shadow: 0px 3px 8px #2a2a2a; 
 				  letter-spacing: 0.3ex; }
-body > nav			{ float: left;
-				  margin-top: 10px;
-				  width: 12.5%; }
-body > article			{ float: right;
-				  color: #333;
+body > section			{ display: table; 
+				  width: 100%; }
+body > section > *		{ display: table-cell;
+				  vertical-align: top; }
+body > section > article	{ color: #333;
 				  font-size: 14pt;
-				  position: relative;
-				  width: 87.5%; }
-body > nav ul			{ list-style-type: none;  
+				  position: relative; }
+body > section > nav ul		{ list-style-type: none;  
 				  margin: 0; 
-				  padding: 0; }
-body > nav li			{ padding-left: 4px; padding-right: 4px; }
-body > nav figure a		{ text-decoration: none; }
-body > nav figure		{ position: relative; 
+				  padding: 10px; }
+body > section > nav figure	{ position: relative; 
+				  width: 140px;
+				  max-width: 140px;
 				  opacity: 0.7;
 				  text-align: center;
-				  margin: auto;
-				  max-width: 100px;
-				  padding: 0; 
-				  width: 100%; }
-body > nav figure:hover		{ opacity: 1.0; }
-body > nav figcaption		{ position: absolute; 
+				  margin: 0; }
+body > section > nav figure:hover 
+				{ opacity: 1.0; }
+body > section > nav figcaption	{ position: absolute; 
 				  bottom: 14px; 
 				  border: thin solid #fff;
 				  overflow: hidden;
@@ -75,19 +70,16 @@ body > nav figcaption		{ position: absolute;
 				  text-align: center; 
 				  opacity: 0.7;
 				  background-color: #fff; }
-body > nav figcaption a		{ color: black; }
-body > nav li img		{ width: 100%;
+body > section > nav figcaption a
+				{ color: black; }
+body > section > nav li img	{ width: 100%;
 				  box-shadow: 0 3px 6px rgba(0,0,0,0.3), inset 0 -3px 3px rgba(0,0,0,0.1);
-				  margin: 0;
 				  border: solid #ccc 1px;
 				  border-radius: 10px; }
-.right				{ float: right; }
-.noshow				{ display: none; }
-body > footer			{ clear: both; 
-				  padding-top: 8pt;
-				  padding-bottom: 8pt;
-				  padding-left: 12.5%;
-				  padding-right: 12.5%;
+body > footer			{ margin-left: 140px;
+				  margin-top: 1ex;
+				  margin-bottom: 1ex;
+				  text-align: center;
 				  text-shadow: 0px 3px 8px #2a2a2a;
 				  color: #bbb; }
 body > footer div		{ border-left: thin solid silver;
@@ -95,8 +87,7 @@ body > footer div		{ border-left: thin solid silver;
 				  color: #ccc;
 				  margin-left: 1ex;
 				  padding-left: 1ex; }
-body > footer a			{ color: #ddd; 
-				  text-decoration: none; }
+body > footer a			{ color: #eee; }
 body > footer a:hover		{ color: #fff; }
 @media only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
 	body > header 		{ text-align: center; 
@@ -112,24 +103,27 @@ body > footer a:hover		{ color: #fff; }
 				  padding-left: 2ex;
 				  padding-right: 2ex;
 				  text-align: center; }
-	body > article,
-	body > nav		{ float: none; 
-				  width: 98%; 
+	body > section		{ display: block; }
+	body > section > article,
+	body > section > nav	{ display: block;
+				  width: 100%; 
 				  padding: 0;
 				  margin: 0;
 				  font-size: inherit;
 				  margin-left: auto;
 				  margin-right: auto; }
-	body > nav figure	{ opacity: 1.0; }
-	body > nav ul		{ padding: 0;
-				  margin: 0;
-				  padding-top: 2%; 
-				  text-align: center; }
-	body > nav li		{ padding: 0; 
-				  margin: 0;
-				  width: 32%;
-				  display: inline-block; }
-	body > nav li:nth-child(n+4)
+	body > section > nav figure
+				{ opacity: 1.0; 
+				  margin-left: auto;
+				  margin-right: auto;
+				  width: 100%; }
+	body > section > nav ul	{ display: table;
+				  padding: 6px 0 0 0;
+				  width: 100%; }
+	body > section > nav li	{ display: table-cell; 
+				  padding: 4px;
+				  width: 33%; }
+	body > section > nav li:nth-child(n+4)
 				{ display: none; }
 	body > footer		{ margin: 0;
 				  padding: 0;

@@ -1,23 +1,20 @@
 <article data-sblg-article="1" data-sblg-tags="glutenfree lowcarb highprotein">
 	<header>
-		<a href="#" onclick="return showrecipe('article003a');"><img src="download-colour.png" alt="Download" /></a>
-		<div>
-			<h2><a href="#" onclick="return showrecipe('article003a');">Questbarwich</a></h2>
-			<address>Christina Hallalulu</address>
-			<time datetime="2014-07-30">2014-07-30</time>
-			<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
-			<!--div class="hicon lactosefree" title="Lactose-Free">Lf</div-->
-			<div class="hicon lowcarb" title="Low-Carb">lC</div>
-			<div class="hicon highprotein" title="High-Protein">hP</div>
-			<!-- div class="hicon vegan" title="Vegan">V</div -->
-			<!-- div class="hicon paleo" title="Paleo">Pa</div -->
-			<!-- div class="hicon raw" title="Raw">Rw</div -->
-			<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
-			<span title="Calories" class="calories">327</span>
-			<span title="Grams Protein" class="protein">36</span>
-			<span title="Grams Carbohydrates" class="carbs">36</span>
-			<span title="Grams Fat" class="fat">11</span>
-		</div>
+		<h2><a href="#" onclick="return showrecipe('article003a');">Questbarwich</a></h2>
+		<address>Christina Hallalulu</address>
+		<time datetime="2014-07-30">2014-07-30</time>
+		<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
+		<!--div class="hicon lactosefree" title="Lactose-Free">Lf</div-->
+		<div class="hicon lowcarb" title="Low-Carb">lC</div>
+		<div class="hicon highprotein" title="High-Protein">hP</div>
+		<!-- div class="hicon vegan" title="Vegan">V</div -->
+		<!-- div class="hicon paleo" title="Paleo">Pa</div -->
+		<!-- div class="hicon raw" title="Raw">Rw</div -->
+		<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
+		<span title="Calories" class="calories">327</span>
+		<span title="Grams Protein" class="protein">36</span>
+		<span title="Grams Carbohydrates" class="carbs">36</span>
+		<span title="Grams Fat" class="fat">11</span>
 	</header>
 	<aside>
 		If you love questbars, you'll die for this questbarwich which

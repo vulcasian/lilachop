@@ -1,23 +1,20 @@
 <article data-sblg-article="1" data-sblg-tags="glutenfree lactosefree highprotein vegan raw">
 	<header>
-		<a href="#" onclick="return showrecipe('article004a');"><img src="download-colour.png" alt="Download" /></a>
-		<div>
-			<h2><a href="#" onclick="return showrecipe('article004a');">Spiced Tahini Smoothini</a></h2> 
-			<address>Christina Hallalulu</address>
-			<time datetime="2014-07-31">2014-07-31</time>
-			<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
-			<div class="hicon lactosefree" title="Lactose-Free">Lf</div>
-			<!-- div class="hicon lowcarb" title="Low-Carb">lC</div -->
-			<div class="hicon highprotein" title="High-Protein">hP</div>
-			<div class="hicon vegan" title="Vegan">V</div>
-			<!-- div class="hicon paleo" title="Paleo">Pa</div -->
-			<div class="hicon raw" title="Raw">Rw</div>
-			<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
-			<span title="Calories" class="calories">293</span>
-			<span title="Grams Protein" class="protein">24</span>
-			<span title="Grams Carbohydrates" class="carbs">20</span>
-			<span title="Grams Fat" class="fat">18</span>
-		</div>
+		<h2><a href="#" onclick="return showrecipe('article004a');">Spiced Tahini Smoothini</a></h2> 
+		<address>Christina Hallalulu</address>
+		<time datetime="2014-07-31">2014-07-31</time>
+		<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
+		<div class="hicon lactosefree" title="Lactose-Free">Lf</div>
+		<!-- div class="hicon lowcarb" title="Low-Carb">lC</div -->
+		<div class="hicon highprotein" title="High-Protein">hP</div>
+		<div class="hicon vegan" title="Vegan">V</div>
+		<!-- div class="hicon paleo" title="Paleo">Pa</div -->
+		<div class="hicon raw" title="Raw">Rw</div>
+		<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
+		<span title="Calories" class="calories">293</span>
+		<span title="Grams Protein" class="protein">24</span>
+		<span title="Grams Carbohydrates" class="carbs">20</span>
+		<span title="Grams Fat" class="fat">18</span>
 	</header>
 	<aside>
 		"Cinnamon, spice, and everything nice!" This is one hell of a
@@ -31,7 +28,7 @@
 		<p>
 			After my first trip to Egypt back in 2010, when I was
 			still a vegetarian, I discovered real tahini (or as
-			they call it there, "tahina", and ate it with
+			they call it there, <q>tahina</q>, and ate it with
 			everything.  
 			As salad dressing, as meze, as sandwich
 			spread... I could not get enough of it. It was like
