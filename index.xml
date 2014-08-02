@@ -97,8 +97,15 @@
 			<nav id="blogroll" data-sblg-nav="1" data-sblg-navcontent="1">
 				<img src="${base}a.jpg" />
 				<div>
-					<div><time datetime="${date}">${date}</time>: <a href="${base}.html">${title}</a></div>
-					<div class="aside">${aside}</div>
+					<div>
+						<img class="thumb" src="${base}b.thumb.jpg" />
+						<img class="thumb" src="${base}c.thumb.jpg" />
+					</div>
+					<header>
+						<time datetime="${date}">${date}</time>: 
+						<a href="${base}.html">${title}</a>
+					</header>
+					<aside>${aside}</aside>
 				</div>
 			</nav>
 		</article>
