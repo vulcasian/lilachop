@@ -2,7 +2,8 @@
 
 # These are images and stuff (javascript, CSS, etc.) that aren't built,
 # but we need to install them.
-STATIC = bg.png \
+STATIC = article.js \
+	 bg.png \
 	 download-colour.png \
 	 email-colour.png \
 	 files-colour.png \

@@ -15,6 +15,8 @@ article > a img			{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #47474
 #image1:target,
 #image2:target,
 #image3:target			{ display: block; }
+article > #recipe input		{ width: 6ex; }
+article > #recipe table + p	{ margin-top: 0; }
 article > #recipe table,
 article > #recipe p		{ width: 98%;
 				  margin-left: auto; 
