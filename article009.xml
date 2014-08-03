@@ -3,6 +3,7 @@
 		<div>
 			<h2><a href="#" onclick="return showrecipe('article009a');">About Christina</a></h2> 
 		</div>
+		<nav>
 			<a href="#" onclick="return showimage('article009a');"><img src="article009a.thumb.jpg" /></a>
 			<a href="#" onclick="return showimage('article009b');"><img src="article009b.thumb.jpg" /></a>
 			<a href="#" onclick="return showimage('article009c');"><img src="article009c.thumb.jpg" /></a>
