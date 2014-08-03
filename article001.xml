@@ -117,7 +117,7 @@
 				<td class="alt name">Stevia (optional, for sweetness)</td>
 			</tr>
 		</table>
-		<p>
+		<p class="servings">
 			Change servings: <input type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
 		</p>
 		<p>

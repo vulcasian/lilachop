@@ -16,7 +16,7 @@ article > a img			{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #47474
 #image2:target,
 #image3:target			{ display: block; }
 article > #recipe input		{ width: 6ex; }
-article > #recipe table + p	{ margin-top: 0; }
+article > #recipe p.servings	{ margin-top: 0; }
 article > #recipe table,
 article > #recipe p		{ width: 98%;
 				  margin-left: auto; 
@@ -148,8 +148,12 @@ article #steps tr:last-child td	{ border-top: thin solid silver;
 				  max-width: 140px; }
 	article > #recipe,
 	article > a 		{ text-align: center; }
+	article > #recipe > *	{ text-align: left; }
+	article > #recipe,
 	article > a img		{ width: 98%; 
 				  max-width: 1280px; 
+				  margin-left: auto;
+				  margin-right: auto;
 			  	  border-top-left-radius: 1ex; 
 				  border-top-right-radius: 1ex; }
 	article #recipe 	{ padding-top: 2px; }
