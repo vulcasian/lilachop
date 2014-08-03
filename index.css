@@ -1,48 +1,61 @@
-body > article			{ float: none; 
-				  display: table-row; 
-				  background-color: #ccc;
-				  color: #333;
-				  width: 100%; }
-#blogroll			{ display: table-cell;
-				  vertical-align: top;
-				  padding-right: 10%;
-				  width: 80%; }
-#chapters			{ display: table-cell;
-				  vertical-align: top;
-				  text-align: center;
-				  padding: 1ex;
-				  width: 10%; }
-#chapters img			{ width: 50px; }
-#chapters h2, #chapters h3	{ font-weight: normal;
-				  margin: 0;
-				  font-size: inherit; }
-#chapters li			{ display: inline-block; }
-#chapters ul			{ padding: 0; 
-				  margin: 0; }
-#chapters ul, #blogroll ul	{ list-style-type: none; }
-#blogroll li 			{ display: table-row; }
-#blogroll li > * 		{ margin-bottom: 1em;
-				  display: table-cell;
-				  vertical-align: top; }
-#blogroll li > img		{ width: 400px; 
-				  border: thin solid #aaa;
-				  border-radius: 16px; }
-#blogroll li > :last-child	{ padding-left: 1em; }
-#blogroll li img.thumb		{ border-radius: 5px; }
-#blogroll header		{ font-size: 12pt; }
-#blogroll aside			{ font-size: 16pt; 
-				  color: #444;
-				  font-style: italic; }
-#blogroll a			{ color: darkpurple; }
-body > footer			{ padding-left: 2.5%;
-				  padding-right: 2.5%; }
+body > article				{ float: none; 
+					  display: table-row; 
+					  width: 100%; }
+#blogroll				{ display: table-cell;
+					  vertical-align: top;
+					  padding-right: 10%;
+					  width: 80%; }
+#chapters				{ display: table-cell;
+					  vertical-align: top;
+					  text-align: center;
+					  padding: 1ex;
+					  width: 10%; }
+#chapters img				{ width: 50px; }
+#chapters h2, #chapters h3		{ font-weight: normal;
+					  margin: 0;
+					  font-size: inherit; }
+#chapters li				{ display: inline-block; }
+#chapters ul				{ padding: 0; 
+					  margin: 0; }
+#chapters ul, #blogroll ul		{ list-style-type: none; }
+#blogroll li				{ display: table; 
+					  margin-bottom: 1em; }
+#blogroll li > *			{ display: table-cell;
+					  vertical-align: top; }
+#blogroll li > a			{ width: 400px; }
+#blogroll li > a img			{ width: 100%; 
+					  border: thin solid #aaa;
+					  border-radius: 16px; }
+#blogroll li > div > div		{ background-color: #eee;
+				 	  border-radius: 6px;
+					  margin-left: 1em;
+					  color: #999;
+				  	  box-shadow: 3px 4px 4px #333; }
+#blogroll li > div > div time		{ color: #666; }
+#blogroll li > div > div .clock		{ font-size: 10pt; }
+#blogroll li > div > div .thumbs	{ padding-top: 1em; }
+#blogroll li > div > div > div		{ padding: 1em; }
+#blogroll li > div > div img.thumb	{ border-radius: 5px; 
+					  border: thin solid #ccc;
+				 	  width: 80px; }
+#blogroll aside				{ font-size: 16pt; 
+				 	  box-shadow: 0 1px 1px #ccc;
+					  margin-bottom: 1ex;
+				 	  border-top-left-radius: 6px;
+				 	  border-top-right-radius: 6px;
+					  background-color: #EBCCA4;
+					  padding: 1ex;
+					  color: #000;
+					  font-style: italic; }
+body > footer				{ padding-left: 2.5%;
+					  padding-right: 2.5%; }
 @media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
-body > article 			{ display: block; }
-#blogroll, #chapters		{ display: block; 
-				  width: auto; }
-#chapters li			{ display: block; }
-#blogroll li 			{ display: block; }
-#blogroll li > * 		{ display: block; }
-#blogroll li > img		{ width: 100%; }
-body > footer			{ padding: 0; }
+	body > article 			{ display: block; }
+	#blogroll, #chapters		{ display: block; 
+					  width: auto; }
+	#chapters li			{ display: block; }
+	#blogroll li 			{ display: block; }
+	#blogroll li > * 		{ display: block; }
+	#blogroll li > img		{ width: 100%; }
+	body > footer			{ padding: 0; }
 }

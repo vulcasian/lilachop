@@ -17,9 +17,9 @@
 		<span title="Grams Fat" class="fat">18</span>
 	</header>
 	<aside>
-		"Cinnamon, spice, and everything nice!" This is one hell of a
+		<q>Cinnamon, spice, and everything nice!</q> This is one hell of a
 		raw vegan treat, packed with nutrients, antioxidants, and of
-		course, protein..
+		course, protein.
       </aside>
 	<img onload="showimage('article004a');" id="article004a" class="img noshow" src="article004a.jpg" alt="Tahini Smoothie" />
 	<img id="article004b" class="img noshow" src="article004b.jpg" alt="Tahini Smoother" />

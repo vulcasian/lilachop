@@ -11,7 +11,7 @@
 	<body>
 		<header>
 			<h1>
-				Lila, Chop!
+				<a href="index.html">Lila, Chop!</a>
 			</h1>
 			<h2>
 				clandestine health food &amp; living
@@ -95,17 +95,18 @@
 				</section>
 			</nav>
 			<nav id="blogroll" data-sblg-nav="1" data-sblg-navcontent="1">
-				<img src="${base}a.jpg" />
+				<a href="${base}.html"><img src="${base}a.jpg" /></a>
 				<div>
 					<div>
-						<img class="thumb" src="${base}b.thumb.jpg" />
-						<img class="thumb" src="${base}c.thumb.jpg" />
+						<aside>${aside}</aside>
+						<div>
+							<span class="clock">&#x1F553;</span> <time datetime="${date}">${date}</time>: <a href="${base}.html">${title}</a>
+							<div class="thumbs">
+								<img class="thumb" src="${base}b.thumb.jpg" />
+								<img class="thumb" src="${base}c.thumb.jpg" />
+							</div>
+						</div>
 					</div>
-					<header>
-						<time datetime="${date}">${date}</time>: 
-						<a href="${base}.html">${title}</a>
-					</header>
-					<aside>${aside}</aside>
 				</div>
 			</nav>
 		</article>

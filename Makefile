@@ -26,8 +26,7 @@ HTMLS = atom.xml \
 	article003.html \
 	article004.html \
 	article009.html \
-	index.html \
-	tagindex.html
+	index.html
 
 # These are the images used by the artiles in $(XMLS).
 # When you add a new XML file, make sure you add its images.
@@ -65,9 +64,6 @@ archive.html: archive.xml $(XMLS)
 
 index.html: index.xml $(XMLS)
 	sblg -t index.xml -o $@ $(XMLS)
-
-tagindex.html: tagindex.xml $(XMLS)
-	sblg -t tagindex.xml -o $@ $(XMLS)
 
 atom.xml: $(XMLS)
 	sblg -a -o $@ $(XMLS)
