@@ -174,7 +174,7 @@
 					<div>
 						<aside>${aside}</aside>
 						<div>
-							<span class="clock">&#x1F553;</span> 
+							<img class="clock" src="timedark.png" />
 							<time datetime="${date}">${date}</time>: <a href="${base}.html#recipe">${title}</a>
 							<div class="thumbs">
 								<a href="${base}.html#image2"><img class="thumb" src="${base}b.thumb.jpg" /></a>

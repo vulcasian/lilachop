@@ -7,7 +7,9 @@ STATIC = bg.png \
 	 email-colour.png \
 	 files-colour.png \
 	 instagram-colour.png \
-	 rss-colour.png
+	 rss-colour.png \
+	 time.png \
+	 timedark.png
 
 # These are your articles.
 XMLS = article001.xml \
