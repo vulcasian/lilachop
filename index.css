@@ -2,20 +2,21 @@ body > article				{ float: none;
 					  display: table-row; 
 					  width: 100%; }
 #blogroll				{ display: table-cell;
+					  padding-top: 1em;
 					  vertical-align: top;
 					  padding-right: 10%;
 					  width: 80%; }
 #chapters				{ display: table-cell;
 					  vertical-align: top;
 					  text-align: center;
-					  padding: 1ex;
+					  padding: 1em;
 					  width: 10%; }
 #chapters img				{ width: 50px; }
 #chapters h2, #chapters h3		{ font-weight: normal;
 					  margin: 0;
 					  font-size: inherit; }
 #chapters li				{ display: inline-block; }
-#chapters ul				{ padding: 0; 
+#blogroll ul, #chapters ul		{ padding: 0; 
 					  margin: 0; }
 #chapters ul, #blogroll ul		{ list-style-type: none; }
 #blogroll li				{ display: table; 
@@ -51,11 +52,21 @@ body > footer				{ padding-left: 2.5%;
 					  padding-right: 2.5%; }
 @media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
 	body > article 			{ display: block; }
-	#blogroll, #chapters		{ display: block; 
-					  width: auto; }
+	#chapters			{ display: none; }
+	#blogroll			{ display: block; 
+					  padding-left: 0;
+					  padding-right: 0;
+					  margin-left: auto;
+					  margin-right: auto;
+					  width: 96%; }
 	#chapters li			{ display: block; }
 	#blogroll li 			{ display: block; }
 	#blogroll li > * 		{ display: block; }
-	#blogroll li > img		{ width: 100%; }
+	#blogroll li > a 		{ width: 100%; }
+	#blogroll aside			{ font-size: 12pt; }
+	#blogroll li > div > div	{ margin-left: 0; }
+	#blogroll li > div > div .thumbs	
+					{ padding-top: 1ex; }
+	#blogroll li > div > div > div	{ padding: 1ex; }
 	body > footer			{ padding: 0; }
 }

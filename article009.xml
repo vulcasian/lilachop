@@ -1,27 +1,21 @@
 <article data-sblg-article="1" data-sblg-tags="aboutme">
 	<header>
-		<h2><a href="#" onclick="return showrecipe('article009a');">About Christina</a></h2> 
+		<div>
+			<h2><a href="#" onclick="return showrecipe('article009a');">About Christina</a></h2> 
+		</div>
+			<a href="#" onclick="return showimage('article009a');"><img src="article009a.thumb.jpg" /></a>
+			<a href="#" onclick="return showimage('article009b');"><img src="article009b.thumb.jpg" /></a>
+			<a href="#" onclick="return showimage('article009c');"><img src="article009c.thumb.jpg" /></a>
+		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-08-03">2014-08-03</time>
+		<aside>
+			Moop, moop, moop.  Moop?  Moop?  Moop?  Moop?  Moop?  Moop.  Moop.  Moop.  Moop...  Moop...  Moop.  Moop.
+		</aside>
 	</header>
-	<aside>
-		Moop, moop, moop.
-		Moop?
-		Moop?
-		Moop?
-		Moop?
-		Moop?
-		Moop.
-		Moop.
-		Moop.
-		Moop...
-		Moop...
-		Moop.
-		Moop.
-	</aside>
-	<img onload="showimage('article009a');" id="article009a" class="img noshow" src="article009a.jpg" alt="Tahini Smoothie" />
-	<img id="article009b" class="img noshow" src="article009b.jpg" alt="Tahini Smoother" />
-	<img id="article009c" class="img noshow" src="article009c.jpg" alt="Tahini Smoothy" />
+	<a class="img noshow" id="article009a" href="#" onclick="return showrecipe('article009a');"><img onload="showimage('article009a');" src="article009a.jpg" /></a>
+	<a class="img noshow" id="article009b" href="#" onclick="return showrecipe('article009a');"><img src="article009b.jpg" /></a>
+	<a class="img noshow" id="article009c" href="#" onclick="return showrecipe('article00009);"><img src="article009c.jpg" /></a>
 	<section id="recipe" class="noshow">
 		<p>
 			After my first trip to Egypt back in 2010, when I was

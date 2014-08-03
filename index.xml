@@ -102,8 +102,8 @@
 						<div>
 							<span class="clock">&#x1F553;</span> <time datetime="${date}">${date}</time>: <a href="${base}.html">${title}</a>
 							<div class="thumbs">
-								<img class="thumb" src="${base}b.thumb.jpg" />
-								<img class="thumb" src="${base}c.thumb.jpg" />
+								<a href="${base}.html"><img class="thumb" src="${base}b.thumb.jpg" /></a>
+								<a href="${base}.html"><img class="thumb" src="${base}c.thumb.jpg" /></a>
 							</div>
 						</div>
 					</div>

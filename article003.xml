@@ -1,29 +1,38 @@
 <article data-sblg-article="1" data-sblg-tags="glutenfree lowcarb highprotein">
 	<header>
-		<h2><a href="#" onclick="return showrecipe('article003a');">Questbarwich</a></h2>
+		<div>
+			<h2><a href="#" onclick="return showrecipe('article003a');">Questbarwich</a></h2>
+			<div class="health">
+				<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
+				<!--div class="hicon lactosefree" title="Lactose-Free">Lf</div-->
+				<div class="hicon lowcarb" title="Low-Carb">lC</div>
+				<div class="hicon highprotein" title="High-Protein">hP</div>
+				<!-- div class="hicon vegan" title="Vegan">V</div -->
+				<!-- div class="hicon paleo" title="Paleo">Pa</div -->
+				<!-- div class="hicon raw" title="Raw">Rw</div -->
+				<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
+				<span title="Calories" class="calories">327</span>
+				<span title="Grams Protein" class="protein">36</span>
+				<span title="Grams Carbohydrates" class="carbs">36</span>
+				<span title="Grams Fat" class="fat">11</span>
+			</div>
+		</div>
+		<nav>
+			<a href="#" onclick="return showimage('article003a');"><img src="article003a.thumb.jpg" /></a>
+			<a href="#" onclick="return showimage('article003b');"><img src="article003b.thumb.jpg" /></a>
+			<a href="#" onclick="return showimage('article003c');"><img src="article003c.thumb.jpg" /></a>
+		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-07-30">2014-07-30</time>
-		<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
-		<!--div class="hicon lactosefree" title="Lactose-Free">Lf</div-->
-		<div class="hicon lowcarb" title="Low-Carb">lC</div>
-		<div class="hicon highprotein" title="High-Protein">hP</div>
-		<!-- div class="hicon vegan" title="Vegan">V</div -->
-		<!-- div class="hicon paleo" title="Paleo">Pa</div -->
-		<!-- div class="hicon raw" title="Raw">Rw</div -->
-		<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
-		<span title="Calories" class="calories">327</span>
-		<span title="Grams Protein" class="protein">36</span>
-		<span title="Grams Carbohydrates" class="carbs">36</span>
-		<span title="Grams Fat" class="fat">11</span>
+		<aside>
+			If you love questbars, you'll die for this questbarwich which
+			packs 36 grams of protein! That's more than a protein shake, my
+			Choppers.  
+		</aside>
 	</header>
-	<aside>
-		If you love questbars, you'll die for this questbarwich which
-		packs 36 grams of protein! That's more than a protein shake, my
-		Choppers.  
-	</aside>
-	<img onload="showimage('article003a');" id="article003a" class="img noshow" src="article003a.jpg" alt="Questbarwich" />
-	<img id="article003b" class="img noshow" src="article003b.jpg" alt="Questbarwich" />
-	<img id="article003c" class="img noshow" src="article003c.jpg" alt="Questbarwich" />
+	<a class="img noshow" id="article003a" href="#" onclick="return showrecipe('article003a');"><img onload="showimage('article003a');" src="article003a.jpg" /></a>
+	<a class="img noshow" id="article003a" href="#" onclick="return showrecipe('article003a');"><img src="article003b.jpg" /></a>
+	<a class="img noshow" id="article003a" href="#" onclick="return showrecipe('article003a');"><img src="article003c.jpg" /></a>
 	<section id="recipe" class="noshow">
 		<p>
 			I discovered Questnutrition's protein bars a couple of years ago when I
@@ -189,8 +198,8 @@
 		</p>
 	</section>
 	<nav>
-		<a href="#" onclick="return showimage('article003a');"><img alt="Questbarwich" src="article003a.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article003b');"><img alt="Questbarwich" src="article003b.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article003c');"><img alt="Questbarwich" src="article003c.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article003a');"><img src="article003a.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article003b');"><img src="article003b.thumb.jpg" /></a>
+		<a href="#" onclick="return showimage('article003c');"><img src="article003c.thumb.jpg" /></a>
 	</nav>
 </article>

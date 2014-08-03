@@ -1,12 +1,12 @@
 article > #recipe,
-article > .img			{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #474747; 
-				  margin: 0;
+article > .img			{ margin: 0;
 				  max-width: 94%;
 				  width: 94%;
-				  padding: 0;
+				  padding: 0; }
+article > .img img		{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #474747; 
+				  width: 100%; 
 				  border-bottom-left-radius: 1ex;
 				  border-bottom-right-radius: 1ex; }
-article > aside			{ display: none; }
 article #recipe table,
 article #recipe p		{ width: 98%;
 				  margin-left: auto; 
@@ -20,38 +20,35 @@ article > #recipe		{ padding-top: 80px;
 article > header		{ position: absolute;
 				  box-shadow: 2px 2px 6px rgba(0,0,0,0.3), inset 0 -2px 2px rgba(0,0,0,0.1);
 				  background-color: #ddd;
-				  padding-right: 1ex;
 				  border-radius: 4px;
-				  left: 2%;
+				  padding: 4px 10px;
+				  text-align: center;
+				  display: table-row;
+				  right: 10px;
 				  font-size: 12pt;
 				  top: 10px; }
+article > header > * 		{ display: table-cell; 
+				  vertical-align: middle; }
+article > header nav img	{ width: 60px; }
+article > header nav 		{ padding-left: 10px; }
+article > header aside,
+article > header time,
 article > header address	{ display: none; }
-article > header h2		{ font-size: 16pt; 
+article > header h2		{ font-size: 20pt; 
+				  font-weight: inherit;
 				  color: #333;
 				  margin: 0; }
 article > header h2 a		{ color: #555; }
 article > header h2 a:hover	{ color: #333; }
-article > header time		{ display: none; }
 article > header span		{ color: #222; }
 article > header span 		{ border-left: thin solid silver;
 				  padding-left: 0.5ex;
 				  margin-left: 0.25ex; }
-article > header .hicon:hover	{ color: #eee; }
 article > header .hicon		{ font-style: italic;
-				  font-size: 12pt;
-				  color: #ccc;
-				  margin: 0;
-				  padding: 0;
-				  display: inline-block;
-				  text-align: center;
-				  border-radius: 4px;
-				  line-height: 24px;
-				  height: 24px;
-				  width: 24px;
-				  background-color: purple; }
-article > nav			{ position: absolute;
-				  right: 2%;
-				  top: 10px; }
+				  font-weight: bolder;
+				  color: purple;
+				  display: inline-block; }
+article > nav			{ display: none; }
 article > nav a + a		{ margin-left: 16px; }
 article > nav img		{ box-shadow: 0 3px 6px rgba(0,0,0,0.3), inset 0 -3px 3px rgba(0,0,0,0.1);
 				  margin: 0;
@@ -118,20 +115,26 @@ article #steps tr:last-child td	{ border-top: thin solid silver;
 	article > #recipe 	{ padding-top: 2%; }
 	article > header	{ position: static; 
 				  margin-bottom: 1ex;
+				  display: block; 
+				  margin: 0;
+				  padding: 0;
 				  border: 0;
 				  text-align: center;
 				  box-shadow: 0 0 0;
 				  background-color: inherit;
 				  font-size: inherit; }
-	article > header .hicon	{ background-color: inherit; 
-				  font-weight: bolder; 
-				  color: purple; }
-	article > header h2 a	{ color: #fff; }
+	article > header nav	{ display: none; }
+	article > header > div	{ display: block; }
+	article > header h2 a	{ color: #A4D4EB; }
+	article > header h2 a:hover	
+				{ color: #fff; }
 	article > header h2	{ font-size: 14pt; 
 				  letter-spacing: 2pt;
-				  font-weight: inherit;
-			   	  text-align: center; }
+				  font-weight: inherit; }
 	article > header img	{ opacity: 1.0; }
+	article > header aside	{ color: #ccc; 
+				  margin-top: 0; 
+				  text-align: left; }
 	article > nav		{ position: static; 
 				  display: table;
 				  width: 100%;
@@ -143,8 +146,8 @@ article #steps tr:last-child td	{ border-top: thin solid silver;
 				  max-width: 140px; }
 	article > #recipe,
 	article > .img		{ width: 100%;
-				  max-width: 100%;
-				  border-top-left-radius: 1ex; 
+				  max-width: 100%; }
+	article > .img img	{ border-top-left-radius: 1ex; 
 				  border-top-right-radius: 1ex; }
 	article #recipe table,
 	article #recipe p	{ width: 99%; }

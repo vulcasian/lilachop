@@ -1,27 +1,36 @@
 <article data-sblg-article="1" data-sblg-tags="glutenfree lactosefree lowcarb highprotein">
 	<header>
-		<h2><a href="#" onclick="return showrecipe('article001a');">Mint Chocolate Greeny</a></h2>
+		<div>
+			<h2><a href="#" onclick="return showrecipe('article001a');">Mint Chocolate Greeny</a></h2>
+			<div class="health">
+				<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
+				<div class="hicon lactosefree" title="Lactose-Free">Lf</div>
+				<div class="hicon lowcarb" title="Low-Carb">lC</div>
+				<div class="hicon highprotein" title="High-Protein">hP</div>
+				<!-- div class="hicon vegan" title="Vegan">V</div -->
+				<!-- div class="hicon paleo" title="Paleo">Pa</div -->
+				<!-- div class="hicon raw" title="Raw">Rw</div -->
+				<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
+				<span title="Calories" class="calories">359</span>
+				<span title="Grams Protein" class="protein">32</span>
+				<span title="Grams Carbohydrates" class="carbs">25</span>
+				<span title="Grams Fat" class="fat">18</span>
+			</div>
+		</div>
+		<nav>
+			<a href="#" onclick="return showimage('article001a');"><img src="article001a.thumb.jpg" /></a>
+			<a href="#" onclick="return showimage('article001b');"><img src="article001b.thumb.jpg" /></a>
+			<a href="#" onclick="return showimage('article001c');"><img src="article001c.thumb.jpg" /></a>
+		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-07-29">2014-07-29</time>
-		<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
-		<div class="hicon lactosefree" title="Lactose-Free">Lf</div>
-		<div class="hicon lowcarb" title="Low-Carb">lC</div>
-		<div class="hicon highprotein" title="High-Protein">hP</div>
-		<!-- div class="hicon vegan" title="Vegan">V</div -->
-		<!-- div class="hicon paleo" title="Paleo">Pa</div -->
-		<!-- div class="hicon raw" title="Raw">Rw</div -->
-		<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
-		<span title="Calories" class="calories">359</span>
-		<span title="Grams Protein" class="protein">32</span>
-		<span title="Grams Carbohydrates" class="carbs">25</span>
-		<span title="Grams Fat" class="fat">18</span>
+		<aside>
+			The perfect combination of mint and chocolate served healthy.
+		</aside>
 	</header>
-	<aside>
-		The perfect combination of mint and chocolate served healthy.
-	</aside>
-	<img onload="showimage('article001a');" id="article001a" class="img noshow" src="article001a.jpg" alt="Mint Chocolate Greeny"/>
-	<img id="article001b" class="img noshow" src="article001b.jpg" alt="Mint Chocolate Greeny"/>
-	<img id="article001c" class="img noshow" src="article001c.jpg" alt="Mint Chocolate Greeny"/>
+	<a class="img noshow" id="article001a" href="#" onclick="return showrecipe('article001a');"><img onload="showimage('article001a');" src="article001a.jpg" /></a>
+	<a class="img noshow" id="article001b" href="#" onclick="return showrecipe('article001a');"><img src="article001b.jpg" /></a>
+	<a class="img noshow" id="article001c" href="#" onclick="return showrecipe('article001a');"><img src="article001c.jpg" /></a>
 	<section id="recipe" class="noshow">
 		<p>
 			As a child, I was allowed to eat cake once a year &#8211; on my
