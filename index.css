@@ -1,21 +1,36 @@
 body > article				{ float: none; 
 					  display: table-row; 
 					  width: 100%; }
+.clock					{ font-size: 10pt; }
 #blogroll				{ display: table-cell;
 					  padding-top: 1em;
 					  vertical-align: top;
 					  padding-right: 10%;
-					  width: 80%; }
+					  width: 70%; }
 #chapters				{ display: table-cell;
 					  vertical-align: top;
-					  text-align: center;
 					  padding: 1em;
-					  width: 10%; }
-#chapters img				{ width: 50px; }
-#chapters h2, #chapters h3		{ font-weight: normal;
-					  margin: 0;
-					  font-size: inherit; }
-#chapters li				{ display: inline-block; }
+					  width: 20%; }
+/*#chapters section.show > :not(h2):not(h3):not(h4)
+					{ display: block; }
+#chapters section.noshow > :not(h2):not(h3):not(h4)
+					{ display: none; }*/
+#chapters section > h3,
+#chapters section > h4			{ cursor: pointer;
+					  margin: 0; }
+#chapters section > h2			{ margin: 0; }
+#chapters a				{ color: #ccc; }
+#chapters a:hover			{ color: #eee; }
+#chapters time				{ color: #aaa; }
+#chapters img				{ width: 40px; 
+				   	  border-radius: 4px;
+					  margin-right: 10px; }
+#chapters img.clock			{ width: 20px; 
+				   	  margin-right: 4px; 
+					  margin-bottom: -5px; }
+#chapters li				{ display: table; }
+#chapters li > div			{ display: table-cell; 
+					  vertical-align: middle; }
 #blogroll ul, #chapters ul		{ padding: 0; 
 					  margin: 0; }
 #chapters ul, #blogroll ul		{ list-style-type: none; }
@@ -33,7 +48,6 @@ body > article				{ float: none;
 					  color: #999;
 				  	  box-shadow: 3px 4px 4px #333; }
 #blogroll li > div > div time		{ color: #666; }
-#blogroll li > div > div .clock		{ font-size: 10pt; }
 #blogroll li > div > div .thumbs	{ padding-top: 1em; }
 #blogroll li > div > div > div		{ padding: 1em; }
 #blogroll li > div > div img.thumb	{ border-radius: 5px; 
@@ -52,14 +66,13 @@ body > footer				{ padding-left: 2.5%;
 					  padding-right: 2.5%; }
 @media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
 	body > article 			{ display: block; }
-	#chapters			{ display: none; }
 	#blogroll			{ display: block; 
 					  padding-left: 0;
 					  padding-right: 0;
 					  margin-left: auto;
 					  margin-right: auto;
 					  width: 96%; }
-	#chapters li			{ display: block; }
+	#chapters 			{ display: none; }
 	#blogroll li 			{ display: block; }
 	#blogroll li > * 		{ display: block; }
 	#blogroll li > a 		{ width: 100%; }

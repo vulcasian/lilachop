@@ -6,6 +6,18 @@
 		<link rel="stylesheet" href="main.css" type="text/css" />
 		<link rel="stylesheet" href="index.css" type="text/css" />
 		<title>Clandestine Health Food &amp; Living</title>
+		<script>
+			function ontoggle(node) {
+				console.log('foo = ' + node.className);
+				if (node.className == 'show') {
+					node.className = 'noshow';
+					console.log('hiding');
+				} else {
+					node.className = 'show';
+					console.log('showing');
+				}
+			}
+		</script>
 	</head>
 	<body>
 		<header>
@@ -48,48 +60,111 @@
 		<article>
 			<nav id="chapters">
 				<section>
-					<h2>Recipes</h2>
-					<section>
-						<h3>Gluten-Free</h3>
-						<nav data-sblg-nav="1" data-sblg-navtag="glutenfree" data-sblg-navcontent="1" data-sblg-navsz="10">
-							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+					<section class="noshow">
+						<nav data-sblg-nav="1" data-sblg-navtag="aboutme" data-sblg-navcontent="1" data-sblg-navsz="2">
+							<div>
+								<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+							</div>
+							<div>
+								<div><a title="${title}" href="${base}.html">${title}</a></div>
+								<img class="clock" src="time.png" />
+								<time datetime="${date}">${date}</time>
+							</div>
 						</nav>
 					</section>
-					<section>
-						<h3>High-Protein</h3>
-						<nav data-sblg-nav="1" data-sblg-navtag="highprotein" data-sblg-navcontent="1" data-sblg-navsz="10">
-							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
-						</nav>
-					</section>
-					<section>
-						<h3>Lactose-Free</h3>
-						<nav data-sblg-nav="1" data-sblg-navtag="lactosefree" data-sblg-navcontent="1" data-sblg-navsz="10">
-							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
-						</nav>
-					</section>
-					<section>
-						<h3>Low-Carb</h3>
-						<nav data-sblg-nav="1" data-sblg-navtag="lowcarb" data-sblg-navcontent="1" data-sblg-navsz="10">
-							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
-						</nav>
-					</section>
-					<section>
-						<h3>Paleo Diet</h3>
-						<nav data-sblg-nav="1" data-sblg-navtag="paleo" data-sblg-navcontent="1" data-sblg-navsz="10">
-							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
-						</nav>
-					</section>
-					<section>
-						<h3>Raw Food</h3>
-						<nav data-sblg-nav="1" data-sblg-navtag="raw" data-sblg-navcontent="1" data-sblg-navsz="10">
-							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
-						</nav>
-					</section>
-					<section>
-						<h3>Vegan</h3>
-						<nav data-sblg-nav="1" data-sblg-navtag="vegan" data-sblg-navcontent="1" data-sblg-navsz="10">
-							<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
-						</nav>
+					<section class="noshow">
+						<h3 onclick="ontoggle(this.parentNode);">Recipes</h3>
+						<section class="noshow">
+							<h4 onclick="ontoggle(this.parentNode);">Gluten-Free</h4>
+							<nav data-sblg-nav="1" data-sblg-navtag="glutenfree" data-sblg-navcontent="1" data-sblg-navsz="2">
+								<div>
+									<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+								</div>
+								<div>
+									<div><a title="${title}" href="${base}.html">${title}</a></div>
+									<img class="clock" src="time.png" />
+									<time datetime="${date}">${date}</time>
+								</div>
+							</nav>
+						</section>
+						<section class="noshow">
+							<h4 onclick="ontoggle(this.parentNode);">High-Protein</h4>
+							<nav data-sblg-nav="1" data-sblg-navtag="highprotein" data-sblg-navcontent="1" data-sblg-navsz="2">
+								<div>
+									<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+								</div>
+								<div>
+									<div><a title="${title}" href="${base}.html">${title}</a></div>
+									<img class="clock" src="time.png" />
+									<time datetime="${date}">${date}</time>
+								</div>
+							</nav>
+						</section>
+						<section class="noshow">
+							<h4 onclick="ontoggle(this.parentNode);">Lactose-Free</h4>
+							<nav data-sblg-nav="1" data-sblg-navtag="lactosefree" data-sblg-navcontent="1" data-sblg-navsz="2">
+								<div>
+									<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+								</div>
+								<div>
+									<div><a title="${title}" href="${base}.html">${title}</a></div>
+									<img class="clock" src="time.png" />
+									<time datetime="${date}">${date}</time>
+								</div>
+							</nav>
+						</section>
+						<section class="noshow">
+							<h4 onclick="ontoggle(this.parentNode);">Low-Carb</h4>
+							<nav data-sblg-nav="1" data-sblg-navtag="lowcarb" data-sblg-navcontent="1" data-sblg-navsz="2">
+								<div>
+									<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+								</div>
+								<div>
+									<div><a title="${title}" href="${base}.html">${title}</a></div>
+									<img class="clock" src="time.png" />
+									<time datetime="${date}">${date}</time>
+								</div>
+							</nav>
+						</section>
+						<!-- section class="noshow">
+							<h4 onclick="ontoggle(this.parentNode);">Paleo Diet</h4>
+							<nav data-sblg-nav="1" data-sblg-navtag="paleo" data-sblg-navcontent="1" data-sblg-navsz="2">
+								<div>
+									<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+								</div>
+								<div>
+									<div><a title="${title}" href="${base}.html">${title}</a></div>
+									<img class="clock" src="time.png" />
+									<div>${date}</div>
+								</div>
+							</nav>
+						</section -->
+						<section class="noshow">
+							<h4 onclick="ontoggle(this.parentNode);">Raw Food</h4>
+							<nav data-sblg-nav="1" data-sblg-navtag="raw" data-sblg-navcontent="1" data-sblg-navsz="2">
+								<div>
+									<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+								</div>
+								<div>
+									<div><a title="${title}" href="${base}.html">${title}</a></div>
+									<img class="clock" src="time.png" />
+									<time datetime="${date}">${date}</time>
+								</div>
+							</nav>
+						</section>
+						<section class="noshow">
+							<h4 onclick="ontoggle(this.parentNode);">Vegan</h4>
+							<nav data-sblg-nav="1" data-sblg-navtag="vegan" data-sblg-navcontent="1" data-sblg-navsz="2">
+								<div>
+									<a title="${title}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+								</div>
+								<div>
+									<div><a title="${title}" href="${base}.html">${title}</a></div>
+									<img class="clock" src="time.png" />
+									<time datetime="${date}">${date}</time>
+								</div>
+							</nav>
+						</section>
 					</section>
 				</section>
 			</nav>
@@ -99,7 +174,8 @@
 					<div>
 						<aside>${aside}</aside>
 						<div>
-							<span class="clock">&#x1F553;</span> <time datetime="${date}">${date}</time>: <a href="${base}.html#recipe">${title}</a>
+							<span class="clock">&#x1F553;</span> 
+							<time datetime="${date}">${date}</time>: <a href="${base}.html#recipe">${title}</a>
 							<div class="thumbs">
 								<a href="${base}.html#image2"><img class="thumb" src="${base}b.thumb.jpg" /></a>
 								<a href="${base}.html#image3"><img class="thumb" src="${base}c.thumb.jpg" /></a>
