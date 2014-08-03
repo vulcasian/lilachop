@@ -3,6 +3,7 @@ a				{ text-decoration: none;
 				  color: #47A4CF; }
 a:hover				{ color: darkblue; }
 .noshow				{ display: none; }
+.nm				{ font-style: italic; }
 body				{ margin: 0; 
 				  padding: 0;
 				  background-color: #666;
@@ -49,6 +50,7 @@ body > section			{ display: table;
 				  width: 100%; }
 body > section > *		{ display: table-cell;
 				  vertical-align: top; }
+body > section > nav		{ width: 140px; }
 body > section > article	{ color: #333;
 				  font-size: 14pt;
 				  position: relative; }

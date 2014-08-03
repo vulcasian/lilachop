@@ -1,7 +1,7 @@
 <article data-sblg-article="1" data-sblg-tags="glutenfree lowcarb highprotein">
 	<header>
 		<div>
-			<h2><a href="#" onclick="return showrecipe('article002a');">Tahini Cheesecakini</a></h2>
+			<h2><a href="#recipe">Tahini Cheesecakini</a></h2>
 			<div class="health">
 				<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
 				<!--div class="hicon lactosefree" title="Lactose-Free">Lf</div-->
@@ -18,9 +18,9 @@
 			</div>
 		</div>
 		<nav>
-			<a href="#" onclick="return showimage('article002a');"><img src="article002a.thumb.jpg" /></a>
-			<a href="#" onclick="return showimage('article002b');"><img src="article002b.thumb.jpg" /></a>
-			<a href="#" onclick="return showimage('article002c');"><img src="article002c.thumb.jpg" /></a>
+			<a href="#image1"><img src="article002a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article002b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article002c.thumb.jpg" /></a>
 		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-07-30">2014-07-30</time>
@@ -29,10 +29,10 @@
 			Try this sugar-free, low-carb, and high-protein indulgence!
 		</aside>
 	</header>
-	<a class="img noshow" id="article002a" href="#" onclick="return showrecipe('article002a');"><img onload="showimage('article002a');" src="article002a.jpg" /></a>
-	<a class="img noshow" id="article002b" href="#" onclick="return showrecipe('article002a');"><img src="article002b.jpg" /></a>
-	<a class="img noshow" id="article002c" href="#" onclick="return showrecipe('article002a');"><img src="article002c.jpg" /></a>
-	<section id="recipe" class="noshow">
+	<a id="image1" href="#recipe"><img src="article002a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article002b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article002c.jpg" /></a>
+	<section id="recipe">
 		<p>
 			For as long as I can remember, I have had a love-hate relationship
 			with cheesecake; love, because, well, what's not to love about
@@ -196,8 +196,8 @@
 		       	
 	</section>
 	<nav>
-		<a href="#" onclick="return showimage('article002a');"><img src="article002a.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article002b');"><img src="article002b.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article002c');"><img src="article002c.thumb.jpg" /></a>
+		<a href="#image1"><img src="article002a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article002b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article002c.thumb.jpg" /></a>
 	</nav>
 </article>

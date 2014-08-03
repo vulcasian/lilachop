@@ -7,7 +7,6 @@ STATIC = bg.png \
 	 email-colour.png \
 	 files-colour.png \
 	 instagram-colour.png \
-	 main.js \
 	 rss-colour.png
 
 # These are your articles.

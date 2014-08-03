@@ -1,7 +1,7 @@
 <article data-sblg-article="1" data-sblg-tags="glutenfree lowcarb highprotein">
 	<header>
 		<div>
-			<h2><a href="#" onclick="return showrecipe('article003a');">Questbarwich</a></h2>
+			<h2><a href="#recipe">Questbarwich</a></h2>
 			<div class="health">
 				<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
 				<!--div class="hicon lactosefree" title="Lactose-Free">Lf</div-->
@@ -18,9 +18,9 @@
 			</div>
 		</div>
 		<nav>
-			<a href="#" onclick="return showimage('article003a');"><img src="article003a.thumb.jpg" /></a>
-			<a href="#" onclick="return showimage('article003b');"><img src="article003b.thumb.jpg" /></a>
-			<a href="#" onclick="return showimage('article003c');"><img src="article003c.thumb.jpg" /></a>
+			<a href="#image1"><img src="article003a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article003b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article003c.thumb.jpg" /></a>
 		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-07-30">2014-07-30</time>
@@ -30,10 +30,10 @@
 			Choppers.  
 		</aside>
 	</header>
-	<a class="img noshow" id="article003a" href="#" onclick="return showrecipe('article003a');"><img onload="showimage('article003a');" src="article003a.jpg" /></a>
-	<a class="img noshow" id="article003a" href="#" onclick="return showrecipe('article003a');"><img src="article003b.jpg" /></a>
-	<a class="img noshow" id="article003a" href="#" onclick="return showrecipe('article003a');"><img src="article003c.jpg" /></a>
-	<section id="recipe" class="noshow">
+	<a id="image1" href="#recipe"><img src="article003a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article003b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article003c.jpg" /></a>
+	<section id="recipe">
 		<p>
 			I discovered Questnutrition's protein bars a couple of years ago when I
 			was looking for gluten- and soy-free protein bars on amazon. (I
@@ -198,8 +198,8 @@
 		</p>
 	</section>
 	<nav>
-		<a href="#" onclick="return showimage('article003a');"><img src="article003a.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article003b');"><img src="article003b.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article003c');"><img src="article003c.thumb.jpg" /></a>
+		<a href="#image1"><img src="article003a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article003b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article003c.thumb.jpg" /></a>
 	</nav>
 </article>

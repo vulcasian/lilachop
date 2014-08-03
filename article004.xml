@@ -1,7 +1,7 @@
 <article data-sblg-article="1" data-sblg-tags="glutenfree lactosefree highprotein vegan raw">
 	<header>
 		<div>
-			<h2><a href="#" onclick="return showrecipe('article004a');">Spiced Tahini Smoothini</a></h2> 
+			<h2><a href="#recipe">Spiced Tahini Smoothini</a></h2> 
 			<div class="health">
 				<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
 				<div class="hicon lactosefree" title="Lactose-Free">Lf</div>
@@ -18,9 +18,9 @@
 			</div>
 		</div>
 		<nav>
-			<a href="#" onclick="return showimage('article004a');"><img src="article004a.thumb.jpg" /></a>
-			<a href="#" onclick="return showimage('article004b');"><img src="article004b.thumb.jpg" /></a>
-			<a href="#" onclick="return showimage('article004c');"><img src="article004c.thumb.jpg" /></a>
+			<a href="#image1"><img src="article004a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article004b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article004c.thumb.jpg" /></a>
 		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-07-31">2014-07-31</time>
@@ -30,10 +30,10 @@
 			course, protein.
 		</aside>
 	</header>
-	<a class="img noshow" id="article004a" href="#" onclick="return showrecipe('article004a');"><img onload="showimage('article004a');" src="article004a.jpg" /></a>
-	<a class="img noshow" id="article004a" href="#" onclick="return showrecipe('article004a');"><img src="article004b.jpg" /></a>
-	<a class="img noshow" id="article004a" href="#" onclick="return showrecipe('article004a');"><img src="article004c.jpg" /></a>
-	<section id="recipe" class="noshow">
+	<a id="image1" href="#recipe"><img src="article004a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article004b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article004c.jpg" /></a>
+	<section id="recipe">
 		<p>
 			After my first trip to Egypt back in 2010, when I was
 			still a vegetarian, I discovered real tahini (or as
@@ -152,8 +152,8 @@
 		</p>
 	</section>
 	<nav>
-		<a href="#" onclick="return showimage('article004a');"><img alt="Tahini Smoothy" src="article004a.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article004b');"><img alt="Tahini Smoothy" src="article004b.thumb.jpg" /></a>
-		<a href="#" onclick="return showimage('article004c');"><img alt="Tahini Smoothy" src="article004c.thumb.jpg" /></a>
+		<a href="#image1"><img src="article004a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article004b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article004c.thumb.jpg" /></a>
 	</nav>
 </article>

@@ -1,30 +1,37 @@
 article > #recipe,
-article > .img			{ margin: 0;
-				  max-width: 94%;
-				  width: 94%;
-				  padding: 0; }
-article > .img img		{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #474747; 
-				  width: 100%; 
+article > a img			{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #474747; 
+				  width: 90%; 
+				  max-width: 1280px;
 				  border-bottom-left-radius: 1ex;
 				  border-bottom-right-radius: 1ex; }
-article #recipe table,
-article #recipe p		{ width: 98%;
+
+#image1, 
+#image2, 
+#image3, 
+#image1:target ~ #recipe,
+#image2:target ~ #recipe,
+#image3:target ~ #recipe	{ display: none; }
+#recipe,
+#image1:target,
+#image2:target,
+#image3:target			{ display: block; }
+article > #recipe table,
+article > #recipe p		{ width: 98%;
 				  margin-left: auto; 
 				  margin-right: auto; }
-article .nm			{ font-style: italic;
-				  color: #444; }
 article > #recipe		{ padding-top: 80px;
 				  padding-bottom: 2%;
 				  margin-bottom: 1ex;
 				  background-color: #ccc; }
 article > header		{ position: absolute;
 				  box-shadow: 2px 2px 6px rgba(0,0,0,0.3), inset 0 -2px 2px rgba(0,0,0,0.1);
-				  background-color: #ddd;
+				  background-color: #EBCCA4;
 				  border-radius: 4px;
-				  padding: 4px 10px;
+				  padding: 6px 10px;
+				  padding-top: 8px;
 				  text-align: center;
 				  display: table-row;
-				  right: 10px;
+				  left: 10px;
 				  font-size: 12pt;
 				  top: 10px; }
 article > header > * 		{ display: table-cell; 
@@ -112,12 +119,8 @@ article #steps td.unit 		{ color: #444; }
 article #steps tr:last-child td	{ border-top: thin solid silver;
 				  color: #000; }
 @media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
-	article > #recipe 	{ padding-top: 2%; }
 	article > header	{ position: static; 
-				  margin-bottom: 1ex;
 				  display: block; 
-				  margin: 0;
-				  padding: 0;
 				  border: 0;
 				  text-align: center;
 				  box-shadow: 0 0 0;
@@ -132,9 +135,6 @@ article #steps tr:last-child td	{ border-top: thin solid silver;
 				  letter-spacing: 2pt;
 				  font-weight: inherit; }
 	article > header img	{ opacity: 1.0; }
-	article > header aside	{ color: #ccc; 
-				  margin-top: 0; 
-				  text-align: left; }
 	article > nav		{ position: static; 
 				  display: table;
 				  width: 100%;
@@ -145,10 +145,12 @@ article #steps tr:last-child td	{ border-top: thin solid silver;
 	article > nav a img	{ width: 100%; 
 				  max-width: 140px; }
 	article > #recipe,
-	article > .img		{ width: 100%;
-				  max-width: 100%; }
-	article > .img img	{ border-top-left-radius: 1ex; 
+	article > a 		{ text-align: center; }
+	article > a img		{ width: 98%; 
+				  max-width: 1280px; 
+			  	  border-top-left-radius: 1ex; 
 				  border-top-right-radius: 1ex; }
+	article #recipe 	{ padding-top: 2px; }
 	article #recipe table,
 	article #recipe p	{ width: 99%; }
 	article #steps th,

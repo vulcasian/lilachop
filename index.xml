@@ -6,7 +6,6 @@
 		<link rel="stylesheet" href="main.css" type="text/css" />
 		<link rel="stylesheet" href="index.css" type="text/css" />
 		<title>Clandestine Health Food &amp; Living</title>
-		<script src="main.js"></script>
 	</head>
 	<body>
 		<header>
@@ -95,15 +94,15 @@
 				</section>
 			</nav>
 			<nav id="blogroll" data-sblg-nav="1" data-sblg-navcontent="1">
-				<a href="${base}.html"><img src="${base}a.jpg" /></a>
+				<a href="${base}.html#image1"><img src="${base}a.jpg" /></a>
 				<div>
 					<div>
 						<aside>${aside}</aside>
 						<div>
-							<span class="clock">&#x1F553;</span> <time datetime="${date}">${date}</time>: <a href="${base}.html">${title}</a>
+							<span class="clock">&#x1F553;</span> <time datetime="${date}">${date}</time>: <a href="${base}.html#recipe">${title}</a>
 							<div class="thumbs">
-								<a href="${base}.html"><img class="thumb" src="${base}b.thumb.jpg" /></a>
-								<a href="${base}.html"><img class="thumb" src="${base}c.thumb.jpg" /></a>
+								<a href="${base}.html#image2"><img class="thumb" src="${base}b.thumb.jpg" /></a>
+								<a href="${base}.html#image3"><img class="thumb" src="${base}c.thumb.jpg" /></a>
 							</div>
 						</div>
 					</div>
