@@ -51,7 +51,7 @@
 			<nav data-sblg-nav="1" data-sblg-navsz="5" data-sblg-navcontent="1">
 				<figure>
 					<a href="${base}.html#image1"><img src="${base}a.thumb.jpg" /></a>
-					<figcaption><a href="${base}.html#recipe">${title}</a></figcaption>
+					<figcaption><a href="${base}.html#recipe">${titletext}</a></figcaption>
 				</figure>
 			</nav>
 			<article data-sblg-article="1" data-sblg-permlink="0" />
