@@ -57,6 +57,8 @@ article > header .hicon		{ font-style: italic;
 				  font-weight: bolder;
 				  color: purple;
 				  display: inline-block; }
+article > header .health img	{ width: 32px; 
+				  margin-bottom: -10px; }
 article > nav			{ display: none; }
 article > nav a + a		{ margin-left: 16px; }
 article > nav img		{ box-shadow: 0 3px 6px rgba(0,0,0,0.3), inset 0 -3px 3px rgba(0,0,0,0.1);

@@ -1,4 +1,4 @@
-<article data-sblg-article="1" data-sblg-tags="glutenfree lactosefree lowcarb highprotein">
+<article data-sblg-article="1" data-sblg-tags="glutenfree lactosefree lowcarb">
 	<header>
 		<div>
 			<h2><a href="#recipe">Nutella Protein Smoothie</a></h2>
@@ -6,7 +6,7 @@
 				<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
 				<div class="hicon lactosefree" title="Lactose-Free">Lf</div>
 				<div class="hicon lowcarb" title="Low-Carb">lC</div>
-				<div class="hicon highprotein" title="High-Protein">hP</div>
+				<img title="High-Protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<!-- div class="hicon vegan" title="Vegan">V</div -->
 				<!-- div class="hicon paleo" title="Paleo">Pa</div -->
 				<!-- div class="hicon raw" title="Raw">Rw</div -->
