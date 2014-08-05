@@ -14,7 +14,7 @@ body > header			{ box-shadow: 1px 1px 3px 3px #474747;
 				  position: relative;
 				  z-index: 99; }
 body > header nav		{ display: inline-block; }
-body > header img		{ width: 40px; 
+body > header img		{ width: 32px; 
 				  opacity: 0.8;
 				  margin-bottom: -8px; }
 body > header img:hover		{ opacity: 1.0; }
@@ -82,10 +82,13 @@ body > footer a:hover		{ color: #fff; }
 @media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
 	body > header 		{ text-align: center; 
 				  padding-top: 1ex;
+				  padding-bottom: 0;
 				  padding-left: 0;
 		 	 	  padding-right; 0; }
 	body > header h2	{ padding-right: 0; }
 	body > header img	{ margin-top: 0.5ex; 
+				  margin-bottom: 0; 
+				  width: 40px;
 				  opacity: 1.0; }
 	body > header nav	{ display: table; 
 				  width: 100%;
