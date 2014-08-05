@@ -116,7 +116,7 @@
 		</table>
 		<p class="servings">
 			Change servings: 
-			<input type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
 		</p>
 		<p>
 			I have learned that the trick to making healthy treats
@@ -182,6 +182,6 @@
 		<a href="#image3"><img src="article005c.thumb.jpg" /></a>
 	</nav>
 	<script>
-		changeservings(1.0);
+		changeservings(document.getElementById('servings').value);
 	</script>
 </article>

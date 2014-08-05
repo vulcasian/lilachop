@@ -118,7 +118,8 @@
 			</tr>
 		</table>
 		<p class="servings">
-			Change servings: <input type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			Change servings: 
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
 		</p>
 		<p>
 			Endowed with the freedom that adulthood brings, I would be
@@ -166,6 +167,6 @@
 		<a href="#image3"><img src="article001c.thumb.jpg" /></a>
 	</nav>
 	<script>
-		changeservings(1.0);
+		changeservings(document.getElementById('servings').value);
 	</script>
 </article>
