@@ -18,8 +18,9 @@
 				clandestine health food &amp; living
 			</h2>
 			<nav>
-				<a href="http://instagram.com/Project_fitspiration"><img title="Instagram" alt="Instagram" src="instagram-colour.png" /></a>
-				<a href="atom.xml"><img title="RSS" alt="RSS" src="rss-colour.png" /></a>
+				<a href="index.html"><img title="Homepage" alt="Homepage" src="home.png" /></a>
+				<a href="http://instagram.com/Project_fitspiration"><img title="Instagram" alt="Instagram" src="instagram.png" /></a>
+				<a href="atom.xml"><img title="RSS" alt="RSS" src="rss.png" /></a>
 				<script>
 				<!--
 				     // Email obfuscator script 2.1 by Tim Williams, University of Arizona
@@ -40,11 +41,11 @@
 							link += (key.charAt(ltr))
 						}
 					}
-					document.write("<a href='mailto:"+link+"'><img alt='Email' title='Email' src='email-colour.png'></a>")
+					document.write("<a href='mailto:"+link+"'><img alt='Email' title='Email' src='email.png'></a>")
 				}
 				//-->
 				</script>
-				<a href="archive.html"><img title="Archive" alt="Archive" src="files-colour.png" /></a>
+				<a href="archive.html"><img title="Archive" alt="Archive" src="files.png" /></a>
 			</nav>
 		</header>
 		<section>

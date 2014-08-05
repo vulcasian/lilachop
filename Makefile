@@ -4,18 +4,17 @@
 # but we need to install them.
 STATIC = article.js \
 	 bg.png \
-	 download-colour.png \
-	 email-colour.png \
-	 files-colour.png \
+	 files.png \
 	 glutenfree.png \
 	 highprotein.png \
-	 instagram-colour.png \
+	 home.png \
+	 instagram.png \
 	 lactosefree.png \
 	 lowcarb.png \
 	 lowfat.png \
 	 paleo.png \
 	 raw.png \
-	 rss-colour.png \
+	 rss.png \
 	 sugarfree.png \
 	 time.png \
 	 timedark.png \
