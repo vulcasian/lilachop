@@ -26,20 +26,21 @@
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-08-04">2014-08-04</time>
 		<aside>
-			  A combination of sticky toffee pudding, cauliflower
-			  dumplings and bread pudding... (Did I say
-			  "cauliflower"?! Yes sir!) all cleaned-up and
-			  protein-fortified.
-    			  </aside> </header>
+			A combination of sticky toffee pudding, cauliflower
+			dumplings and bread pudding... (Did I say
+			<q>cauliflower</q>?! Yes sir!) all cleaned-up and
+			protein-fortified.
+		</aside> 
+	</header>
 	<a id="image1" href="#recipe"><img src="article006a.jpg" /></a>
 	<a id="image2" href="#recipe"><img src="article006b.jpg" /></a>
 	<a id="image3" href="#recipe"><img src="article006c.jpg" /></a>
 	<section id="recipe">
 		<p>
 			The challenge when making clean recipes for 
-			notoriously high-sugar and high-fat dishes (such as bread pudding) is
-			to find magic healthy ingredients to replace all those
-			unhealthy ones.	
+			notoriously high-sugar and high-fat dishes (such as
+			bread pudding) is to find magic healthy ingredients to
+			replace all those unhealthy ones.	
 			In this recipe, that magic ingredient happened to be
 			cauliflower. 
 			Yes sir, this was some magic indeed! Don't refuse it
@@ -54,58 +55,58 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="amount" data-lilachop-amount="0.25"></td>
 				<td class="unit">scoop</td>
 				<td class="name">
 					Tone it Up - Perfect Fit vanilla vegan
-					protein powder, <span
-						class="altor">or</span> </td>
+					protein powder, <span class="altor">or</span> 
+				</td>
 			</tr>
 			<tr>
-				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt amount" data-lilachop-amount="0.25"></td>
 				<td class="alt unit">scoop</td>
 				<td class="alt name">
 					any vanilla- or toffee-flavoured protein powder
 				</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="2"></td>
+				<td class="amount" data-lilachop-amount="0.5"></td>
 				<td class="unit">cups</td>
 				<td class="name">steamed cauliflower</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="amount" data-lilachop-amount="0.25"></td>
 				<td class="unit">cup</td>
 				<td class="name">liquid egg whites</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="2"></td>
+				<td class="amount" data-lilachop-amount="0.5"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">
 					Bob's Red Mill coconut flour</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="amount" data-lilachop-amount="0.25"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">natural vanilla essence</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="5"></td>
+				<td class="amount" data-lilachop-amount="1.25"></td>
 				<td class="unit">drops</td>
 				<td class="name">Sweet Leaf liquid stevia English toffee</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="4"></td>
+				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">whole</td>
 				<td class="name">fresh strawberries</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="amount" data-lilachop-amount="0.25"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">cinnamon</td>
 			</tr>
 			<tr>
-				<td class="alt amount" data-lilachop-amount= "2"></td>
+				<td class="alt amount" data-lilachop-amount= "0.5"></td>
 				<td class="alt unit">tbsp</td>
 				<td class="alt name">maple syrup (optional, for sweetness)</td>
 			</tr>
@@ -120,7 +121,8 @@
 			genius and my source of inspiration for clean,
 			protein-packed recipes. (She called it cross between
 			bread pudding and french toast. Do you agree, my
-			Choppers?)	</p>
+			Choppers?)	
+		</p>
 		<table id="steps">
 			<caption>Steps</caption>
 			<thead>
@@ -161,7 +163,8 @@
 				<td>
 					Sprinkle muffins with cinnamon and
 					maple syrup, and garnish with fresh
-					strawberries.	</td>
+					strawberries.	
+				</td>
 			</tr>
 			<tr>
 				<td class="amount"></td>
