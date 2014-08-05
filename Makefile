@@ -7,11 +7,20 @@ STATIC = article.js \
 	 download-colour.png \
 	 email-colour.png \
 	 files-colour.png \
+	 glutenfree.png \
 	 highprotein.png \
 	 instagram-colour.png \
+	 lactosefree.png \
+	 lowcarb.png \
+	 lowfat.png \
+	 paleo.png \
+	 raw.png \
 	 rss-colour.png \
+	 sugarfree.png \
 	 time.png \
-	 timedark.png
+	 timedark.png \
+	 vegan.png
+
 
 # These are your articles.
 #XXX Go to last article, hit "o" to open up a new line below, and add new article.xml with a new \ at the end of the second-last article. 
