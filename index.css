@@ -51,8 +51,7 @@ body > article				{ float: none;
 					  margin-bottom: 1em; }
 #blogroll li > *			{ display: table-cell;
 					  vertical-align: top; }
-#blogroll li > a			{ width: 400px; }
-#blogroll li > a img			{ width: 100%; 
+#blogroll li > a img			{ width: 400px; 
 					  border: thin solid #aaa;
 					  border-radius: 16px; }
 #blogroll li > div > div		{ background-color: #eee;
@@ -84,13 +83,14 @@ body > footer				{ padding-left: 2.5%;
 	body > article 			{ display: block; }
 	#blogroll			{ display: block; 
 					  padding-left: 0;
+					  min-width: 0;
 					  padding-right: 0;
 					  margin-left: auto;
 					  margin-right: auto;
 					  width: 96%; }
 	#blogroll li 			{ display: block; }
 	#blogroll li > * 		{ display: block; }
-	#blogroll li > a 		{ width: 100%; }
+	#blogroll li > a img 		{ width: 100%; }
 	#blogroll aside			{ font-size: 12pt; }
 	#blogroll li > div > div	{ margin-left: 0; }
 	#blogroll li > div > div .thumbs	
