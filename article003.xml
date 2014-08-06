@@ -53,48 +53,52 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount">1</td>
+				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit"></td>
 				<td class="name">white chocolate raspberry questbar <span class="altor">or</span></td>
 			</tr>
 			<tr>
-				<td class="alt amount">1</td>
+				<td class="alt amount" data-lilachop-amount="1"></td>
 				<td class="alt unit"></td>
 				<td class="alt name">any flavoured Quest protein bar</td>
 			</tr>
 			<tr>
-				<td class="amount">1/2</td>
+				<td class="amount" data-lilachop-amount="0.5"></td>
 				<td class="unit">pot</td>
 				<td class="name">Fage 0% Total Fat-free Greek
 					Yoghurt (85g) <span class="altor">or</span></td> 
 			</tr>
 			<tr>
-				<td class="alt amount">1/2</td>
+				<td class="alt amount" data-lilachop-amount="0.5"></td>
 				<td class="alt unit">pot</td>
 				<td class="alt name">full-fat Greek Yoghurt</td>
 			</tr>
 			<tr>
-				<td class="amount">1/4</td>
+				<td class="amount" data-lilachop-amount="0.25"></td>
 				<td class="unit">scoop</td>
 				<td class="name">vanilla whey protein powder (I
 					used Cellucor Whipped Vanilla)</td>
 			</tr>
 			<tr>
-				<td class="amount">1</td>
+				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">small handful</td>
 				<td class="name">fresh berries</td>
 			</tr>
 			<tr>
-				<td class="amount">1</td>
+				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">organic shredded coconut</td>
 			</tr>
 			<tr>
-				<td class="amount">1</td>
+				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">square</td>
 				<td class="name">very dark chocolate, such as Lindt 90%</td>
 			</tr>
 		</table>
+		<p class="servings">
+			Change servings: 
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+		</p>
 		<p>
 			I discovered through Instagram that the trick with
 			questbars is to microwave them first.  (Whoever first
@@ -197,4 +201,7 @@
 		<a href="#image2"><img src="article003b.thumb.jpg" /></a>
 		<a href="#image3"><img src="article003c.thumb.jpg" /></a>
 	</nav>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>
 </article>

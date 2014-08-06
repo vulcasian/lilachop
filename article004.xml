@@ -51,51 +51,55 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount">1-2</td>
+				<td class="amount"><span data-lilachop-amount="1"></span>&#8211;<span data-lilachop-amount="2"></span></td>
 				<td class="unit">tbsp</td>
 				<td class="name">tahini</td>
 			</tr>
 			<tr>
-				<td class="amount">1</td>
+				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">scoop</td>
 				<td class="name">raw vegan protein powder (I used Sunwarrior vanilla)</td>
 			</tr>
 			<tr>
-				<td class="amount">1</td>
+				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">cup</td>
 				<td class="name">raw almond milk</td>
 			</tr>
 			<tr>
-				<td class="amount">1/2</td>
+				<td class="amount" data-lilachop-amount="0.5"></td>
 				<td class="unit"></td>
 				<td class="name">frozen banana</td>
 			</tr>
 			<tr>
-				<td class="amount">1-2</td>
+				<td class="amount"><span data-lilachop-amount="1"></span>&#8211;<span data-lilachop-amount="2"></span></td>
 				<td class="unit">tbsp</td>
 				<td class="name">chia seeds</td>
 			</tr>
 			<tr>
-				<td class="amount">1</td>
+				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">organic ground cinnamon</td>
 			</tr>
 			<tr>
-				<td class="amount">1</td>
+				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">tsp</td>
 				<td class="name">organic ground cardamon</td>
 			</tr>
 			<tr>
-				<td class="amount">1-2</td>
+				<td class="amount"><span data-lilachop-amount="1"></span>&#8211;<span data-lilachop-amount="2"></span></td>
 				<td class="unit">drops</td>
 				<td class="name">liquid vanilla stevia <i>(for sweetness)</i></td>
 			</tr>
 			<tr>
-				<td class="amount">1</td>
+				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">cup</td>
 				<td class="name">ice</td>
 			</tr>
 		</table>
+		<p class="servings">
+			Change servings: 
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+		</p>
 		<p>
 			A few years later I discovered a recipe for a tahini
 			protein Smoothie by <u>Nutritionstripped</u>, one of my
@@ -153,4 +157,7 @@
 		<a href="#image2"><img src="article004b.thumb.jpg" /></a>
 		<a href="#image3"><img src="article004c.thumb.jpg" /></a>
 	</nav>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>
 </article>
