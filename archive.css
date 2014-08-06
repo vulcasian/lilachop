@@ -9,11 +9,19 @@ article > nav		{ width: 100%;
 			  border-bottom-left-radius: 1ex;
 			  border-bottom-right-radius: 1ex; }
 article > nav time	{ color: #666; }
-article > nav li	{ padding: 0.5ex; }
+article > nav li	{ padding: 0.5ex; 
+			  display: table-row; }
+article > nav li > *	{ display: table-cell;
+			  padding-bottom: 1ex;
+			  vertical-align: top; }
+article > nav li > a	{ width: 64px; 
+			  padding-right: 1ex; }
+article > nav li > a img
+			{ width: 100%; 
+			  border-radius: 8px; }
 article > nav ul	{ list-style-type: none; 
 			  padding-left: 2%; 
 			  padding-right: 2%; }
-article > nav aside	{ padding-left: 4%; }
 @media only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
 article > nav		{ margin-left: auto;
 			  margin-right: auto; 

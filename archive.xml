@@ -55,8 +55,11 @@
 			</nav>
 			<article>
 				<nav data-sblg-nav="1" data-sblg-navcontent="1">
-					<time datetime="${date}">${date}</time>: <a href="${base}.html">${titletext}</a>
-					<aside>${aside}</aside>
+					<a title="${titletext}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+					<div>
+						<time datetime="${date}">${date}</time>: <a href="${base}.html">${titletext}</a>
+						<aside>${aside}</aside>
+					</div>
 				</nav>
 			</article>
 		</section>

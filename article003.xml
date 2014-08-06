@@ -3,14 +3,9 @@
 		<div>
 			<h2><a href="#recipe">Questbarwich</a></h2>
 			<div class="health">
-				<div class="hicon glutenfree" title="Gluten-Free">Gf</div>
-				<!--div class="hicon lactosefree" title="Lactose-Free">Lf</div-->
-				<div class="hicon lowcarb" title="Low-Carb">lC</div>
-				<div class="hicon highprotein" title="High-Protein">hP</div>
-				<!-- div class="hicon vegan" title="Vegan">V</div -->
-				<!-- div class="hicon paleo" title="Paleo">Pa</div -->
-				<!-- div class="hicon raw" title="Raw">Rw</div -->
-				<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
+				<img title="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
+				<img title="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<span title="Calories" class="calories">327</span>
 				<span title="Grams Protein" class="protein">36</span>
 				<span title="Grams Carbohydrates" class="carbs">36</span>

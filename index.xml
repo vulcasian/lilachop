@@ -170,16 +170,16 @@
 				</section>
 			</nav>
 			<nav id="blogroll" data-sblg-nav="1" data-sblg-navcontent="1">
-				<a href="${base}.html#image1"><img src="${base}a.jpg" /></a>
+				<a href="${base}.html"><img src="${base}a.jpg" /></a>
 				<div>
 					<div>
 						<aside>${aside}</aside>
 						<div>
 							<img class="clock" src="timedark.png" />
-							<time datetime="${date}">${date}</time>: <a href="${base}.html#recipe">${titletext}</a>
+							<time datetime="${date}">${date}</time>: <a href="${base}.html">${titletext}</a>
 							<div class="thumbs">
-								<a href="${base}.html#image2"><img class="thumb" src="${base}b.thumb.jpg" /></a>
-								<a href="${base}.html#image3"><img class="thumb" src="${base}c.thumb.jpg" /></a>
+								<a href="${base}.html"><img class="thumb" src="${base}b.thumb.jpg" /></a>
+								<a href="${base}.html"><img class="thumb" src="${base}c.thumb.jpg" /></a>
 							</div>
 						</div>
 					</div>
