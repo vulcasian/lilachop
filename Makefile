@@ -29,6 +29,7 @@ XMLS = article001.xml \
        article004.xml \
        article005.xml \
        article006.xml \
+       article007.xml \
        article009.xml
 	
 # These are all the HTML files that I'll build.
@@ -42,6 +43,7 @@ HTMLS = atom.xml \
 	article004.html \
 	article005.html \
 	article006.html \
+	article007.html \
 	article009.html \
 	index.html
 
@@ -54,6 +56,7 @@ IMAGES = article001a.jpg article001b.jpg article001c.jpg \
 	 article004a.jpg article004b.jpg article004c.jpg \
 	 article005a.jpg article005b.jpg article005c.jpg \
 	 article006a.jpg article006b.jpg article006c.jpg \
+	 article007a.jpg article007b.jpg article007c.jpg \
 	 article009a.jpg article009b.jpg article009c.jpg
 
 # We build thumbnails from $(IMAGES)...
@@ -64,6 +67,7 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article004a.thumb.jpg article004b.thumb.jpg article004c.thumb.jpg \
 	 article005a.thumb.jpg article005b.thumb.jpg article005c.thumb.jpg \
 	 article006a.thumb.jpg article006b.thumb.jpg article006c.thumb.jpg \
+	 article007a.thumb.jpg article007b.thumb.jpg article007c.thumb.jpg \
 	 article009a.thumb.jpg article009b.thumb.jpg article009c.thumb.jpg
 
 all: $(HTMLS)

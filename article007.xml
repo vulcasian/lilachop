@@ -1,50 +1,50 @@
-<article data-sblg-article="1" data-sblg-tags="toffee sticky bread pudding cauliflower veganprotein eggs proteinpow stevia coconutflour">
+<article data-sblg-article="1" data-sblg-tags="chocolate strawberry proteinbar bars coconutflour proteinpow valentinesday holidayrecipes">
 	<header>
 		<div>
-			<h2><a href="#recipe">Sticky Protein Pudding</a></h2>
+			<h2><a href="#recipe">Valentine's Day Protein Bars</a></h2>
 			<div class="health">
 				<img title="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
 				<img title="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
-				<img title="Low-carb" data-sblg-tags="Lowcarb" src="lowcarb.png" />
+				<!--img title="Low-carb" data-sblg-tags="Lowcarb" src="lowcarb.png" /-->
 				<img title="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<!--img title="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" /-->
 				<!-- img title="Vegan" data-sblg-tags="vegan" src="vegan.png" /-->
 				<!-- img title="Raw" data-sblg-tags="raw" src="raw.png" /-->
 				<!-- img title="Paleo" data-sblg-tags="paleo" src="paleo.png" /-->
-				<img title="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
-				<span title="Calories" class="calories">105</span>
-				<span title="Grams Protein" class="protein">12</span>
-				<span title="Grams Carbohydrates" class="carbs">9</span>
-				<span title="Grams Fat" class="fat">1</span>
+				<!--img title="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" /-->
+				<span title="Calories" class="calories">130</span>
+				<span title="Grams Protein" class="protein">7</span>
+				<span title="Grams Carbohydrates" class="carbs">7</span>
+				<span title="Grams Fat" class="fat">9</span>
 			</div>
 		</div>
 		<nav>
-			<a href="#image1"><img src="article006a.thumb.jpg" /></a>
-			<a href="#image2"><img src="article006b.thumb.jpg" /></a>
-			<a href="#image3"><img src="article006c.thumb.jpg" /></a>
+			<a href="#image1"><img src="article007a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article007b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article007c.thumb.jpg" /></a>
 		</nav>
 		<address>Christina Hallalulu</address>
-		<time datetime="2014-08-04">2014-08-04</time>
-		<aside>
-			A combination of sticky toffee pudding, cauliflower
-			dumplings and bread pudding... (Did I say
-			<q>cauliflower</q>?! Yes sir!) all cleaned-up and
-			protein-fortified.
+		<time datetime="2014-02-14">2014-02-14</time>
+		<aside> 
+			Dark-chocolate covered strawberry protein bars,
+			completely clean, simple and home-made. What better
+			Valentine's day (or any day) treat?  
 		</aside> 
 	</header>
-	<a id="image1" href="#recipe"><img src="article006a.jpg" /></a>
-	<a id="image2" href="#recipe"><img src="article006b.jpg" /></a>
-	<a id="image3" href="#recipe"><img src="article006c.jpg" /></a>
+	<a id="image1" href="#recipe"><img src="article007a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article007b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article007c.jpg" /></a>
 	<section id="recipe">
 		<p>
-			The challenge when making clean recipes for 
-			notoriously high-sugar and high-fat dishes (such as
-			bread pudding) is to find magic healthy ingredients to
-			replace all those unhealthy ones.	
-			In this recipe, that magic ingredient happened to be
-			cauliflower. 
-			Yes sir, this was some magic indeed! Don't refuse it
-			until you try it.
+			Dark-chocolate covered strawberry protein bars...
+			sounds like Valentine's day at Godiva Chocolaterie,
+			doesn't it? 
+			Well, I can promise you it's even better -
+			not only is this luxuriously delicious and
+			decadent-looking treat completely clean and healthy,
+			but it's so simple and easy to make yourself. 
+			Four
+			words: Best. Valentines. Day. Ever.
 		</p>
 		<table class="ingredients">
 			<caption>Ingredients</caption>
@@ -55,73 +55,72 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="amount" data-lilachop-amount="0.1875"></td>
 				<td class="unit">scoop</td>
 				<td class="name">
-					Tone it Up - Perfect Fit vanilla vegan
-					protein powder, <span class="altor">or</span> 
+					Cellucor COR-performance series whey
+					protein powder strawberry milkshake,
+					<span class="altor">or</span> 
 				</td>
 			</tr>
 			<tr>
-				<td class="alt amount" data-lilachop-amount="0.25"></td>
+				<td class="alt amount" data-lilachop-amount="0.1875"></td>
 				<td class="alt unit">scoop</td>
 				<td class="alt name">
-					any vanilla- or toffee-flavoured protein powder
+					any strawberry-flavoured protein powder
 				</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="0.5"></td>
-				<td class="unit">cups</td>
-				<td class="name">steamed cauliflower</td>
-			</tr>
-			<tr>
-				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="amount" data-lilachop-amount="0.0625"></td>
 				<td class="unit">cup</td>
-				<td class="name">liquid egg whites</td>
+				<td class="name">Almond Breeze unsweetened
+					vanilla almond milk, <span
+						class="altor">or</span> 
+				</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="0.5"></td>
+				<td class="alt amount" data-lilachop-amount="0.0625"></td>
+				<td class="alt unit">cup</td>
+				<td class="alt name">any vegan milk</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.75"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">
-					Bob's Red Mill coconut flour</td>
+					Coconut Secret raw organic coconut flour</td>
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="0.25"></td>
 				<td class="unit">tbsp</td>
-				<td class="name">natural vanilla essence</td>
+				<td class="name">Nutiva organic coconut oil</td>
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="1.25"></td>
-				<td class="unit">drops</td>
-				<td class="name">Sweet Leaf liquid stevia English toffee</td>
-			</tr>
-			<tr>
-				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">whole</td>
 				<td class="name">fresh strawberries</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="0.25"></td>
-				<td class="unit">tbsp</td>
-				<td class="name">cinnamon</td>
-			</tr>
-			<tr>
-				<td class="alt amount" data-lilachop-amount= "0.5"></td>
-				<td class="alt unit">tbsp</td>
-				<td class="alt name">maple syrup (optional, for sweetness)</td>
+				<td class="amount" data-lilachop-amount="0.75"></td>
+				<td class="unit">squares</td>
+				<td class="name">Lindt 90% dark chocolate</td>
 			</tr>
 		</table>
 		<p class="servings">
 			Change servings: 
-			<input id="servings" type="number" min="0" step="1" value="4" onchange="changeservings(this.value);" />
+			<input id="servings" type="number" min="0" step="1"
+				value="4"
+				onchange="changeservings(this.value);" /> 
 		</p>
 		<p>
-			This surprisingly simple and unusual recipe was
-			adapted from Proteinpow by Anna Sward - the protein
-			genius and my source of inspiration for clean,
-			protein-packed recipes. (She called it cross between
-			bread pudding and french toast. Do you agree, my
-			Choppers?)	
+
+			This recipe was adapted from Proteinpow by Anna Sward -
+			the protein genius who taught me that the best part
+			about making your own protein bars is that they don't
+			have all the artificial binding agents, fillers and
+			preservatives that store-bought ones do. 
+			So nutrition, without the crap.  
+			What's not to love about home-made protein bars?  
+			
 		</p>
 		<table id="steps">
 			<caption>Steps</caption>
@@ -135,7 +134,7 @@
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td>
-					Put aside the cinnamon, maple syrup and
+					Put aside the dark chocolate and 2 of the
 					strawberries for last.
 				</td> 
 			</tr>
@@ -144,52 +143,66 @@
 				<td class="unit"></td>
 				<td> 
 					Blend all other ingredients together in a
-					high-speed blender until smooth (make
-					sure there are no lumpy cauliflower
-					bits).  
+					hand-held speed blender or food-processor until smooth 
 				</td> 
 			</tr>
 			<tr>
-				<td class="amount">35</td>
-				<td class="unit">min</td>
+				<td class="amount"></td>
+				<td class="unit"></td>
 				<td>
-					Pour into 4 muffin cups in a silicone
-					muffin pan and bake at 160'C (320'F).
+					Shape batter into 2 bars.
 				</td>
 			</tr>
 			<tr>
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td>
-					Sprinkle muffins with cinnamon and
-					maple syrup, and garnish with fresh
-					strawberries.	
+					Melt the dark chocolate in a bain-marie
+					or microwave (careful not to let it
+					burn!)	
 				</td>
 			</tr>
 			<tr>
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td>
-					Devour!
+					Cover the bars by rolling
+					them around in the melted dark
+					chocolate, and place on aluminium
+					foil-lined tray.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Cut the remaining 2 strawberries in
+					half, and place 1 half the on top of each bar.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Refrigerate for a few hours, then Devour!
 				</td>
 			</tr>
 		</table>
 		<p>
-			This recipe serves 4, and macros are per sticky protein
-			bread-pudding. (Admit it, those are some impressive
-			macros huh?) 
+			Just take them out of the fridge, wrap them up in
+			tinfoil and there you have it - protein bar to go! 
+			This recipe serves 4, and macros are per bar.
 		</p>
 		<p>
-			<b>Recipe tip:</b> To make the recipe sugar-free, skip the
-			maple syrup. However, if you find that you can
-			still taste the cauliflower, simply add more cinnamon,
-			maple syrup, and vanilla essence.	
+			<b>Recipe tip:</b> To make the recipe richer, use
+			full-fat milk or coconut milk to bind
+			the protein powder together.  
 		</p>
 	</section>
 	<nav>
-		<a href="#image1"><img src="article006a.thumb.jpg" /></a>
-		<a href="#image2"><img src="article006b.thumb.jpg" /></a>
-		<a href="#image3"><img src="article006c.thumb.jpg" /></a>
+		<a href="#image1"><img src="article007a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article007b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article007c.thumb.jpg" /></a>
 	</nav>
 	<script>
 		changeservings(document.getElementById('servings').value);
