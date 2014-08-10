@@ -58,8 +58,12 @@
 				<td class="amount" data-lilachop-amount="0.1875"></td>
 				<td class="unit">scoop</td>
 				<td class="name">
-					Cellucor COR-performance series whey
-					protein powder strawberry milkshake,
+					<script>
+					amazonlink('B00ARK704C',
+						'Cellucor COR Performance Whey ' +
+						'Protein, Strawberry Milkshake, ' +
+						'2lbs');
+					</script>,
 					<span class="altor">or</span> 
 				</td>
 			</tr>
@@ -73,9 +77,13 @@
 			<tr>
 				<td class="amount" data-lilachop-amount="0.0625"></td>
 				<td class="unit">cup</td>
-				<td class="name">Almond Breeze unsweetened
-					vanilla almond milk, <span
-						class="altor">or</span> 
+				<td class="name">
+					<script>
+						amazonlink('B00474AL2M',
+						'Blue Diamond Breeze '+
+						'unsweetened vanilla almond milk');
+					</script>,
+					<span class="altor">or</span> 
 				</td>
 			</tr>
 			<tr>
@@ -87,12 +95,22 @@
 				<td class="amount" data-lilachop-amount="0.75"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">
-					Coconut Secret raw organic coconut flour</td>
+					<script>
+					amazonlink('B003XB3NNE',
+						'Secret Raw Coconut Flour');
+					</script>
+				</td> 
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="0.25"></td>
 				<td class="unit">tbsp</td>
-				<td class="name">Nutiva organic coconut oil</td>
+				<td class="name">
+					<script>
+						amazonlink('B001EO5Q64',
+						'Nutiva organic virgin coconut oil');
+					</script>	
+				</td>
+
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="1.25"></td>
@@ -102,7 +120,10 @@
 			<tr>
 				<td class="amount" data-lilachop-amount="0.75"></td>
 				<td class="unit">squares</td>
-				<td class="name">Lindt 90% dark chocolate</td>
+				<td class="name">
+	
+					<a href="http://www.amazon.com/dp/B002RBOCZE/?tag=lich08-20" class="amazon">Lindt Excellence dark chocolate 90%</a>
+					</td>
 			</tr>
 		</table>
 		<p class="servings">
@@ -113,14 +134,17 @@
 		</p>
 		<p>
 
-			This recipe was adapted from Proteinpow by Anna Sward -
-			the protein genius who taught me that the best part
-			about making your own protein bars is that they don't
-			have all the artificial binding agents, fillers and
-			preservatives that store-bought ones do. 
+			This recipe was adapted from
+
+			<a href="http://proteinpow.com/2014/07/strawberry-protein-bars.html">Proteinpow's
+				Strawberry Protein Bars recipe</a> 
+
+			by Anna Sward. This protein genius taught me that the
+			best part about making your own protein bars is that
+			they don't have all the artificial binding agents,
+			fillers and preservatives that store-bought ones do. 
 			So nutrition, without the crap.  
 			What's not to love about home-made protein bars?  
-			
 		</p>
 		<table id="steps">
 			<caption>Steps</caption>
@@ -184,7 +208,7 @@
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td>
-					Refrigerate for a few hours, then Devour!
+					Refrigerate for a few hours, then devour!
 				</td>
 			</tr>
 		</table>

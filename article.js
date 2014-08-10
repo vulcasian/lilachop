@@ -1,3 +1,10 @@
+function amazonlink(asin, name)
+{
+	document.write(
+		'<a href="http://www.amazon.com/dp/' + asin + '/?tag=lich08-20" class="amazon">' +
+		name +
+		'</a>');
+}
 
 function changeservings(e)
 {

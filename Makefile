@@ -2,7 +2,8 @@
 
 # These are images and stuff (javascript, CSS, etc.) that aren't built,
 # but we need to install them.
-STATIC = article.js \
+STATIC = amazon.png \
+	 article.js \
 	 bg.png \
 	 files.png \
 	 glutenfree.png \

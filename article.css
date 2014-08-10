@@ -98,6 +98,9 @@ article .ingredients td.alt
 				{ color: #333;
 				  background-color: #aaa;
 				  font-style: italic; }
+article .ingredients a		{ color: purple; }
+article .ingredients a.amazon	{ background:url('amazon.png') no-repeat scroll left top transparent;
+				  padding-left: 22px; }
 article #steps			{ color: #333;
 				  background-color: #999;
 				  border-bottom-left-radius: 1ex; 
