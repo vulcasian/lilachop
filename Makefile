@@ -2,7 +2,25 @@
 
 # These are images and stuff (javascript, CSS, etc.) that aren't built,
 # but we need to install them.
-STATIC = amazon.png \
+STATIC = aboutmephotoCSlegs.jpg \
+	 aboutmephotobrunchcollage.jpg \
+	 aboutmephotocsapkitchen.jpg \
+	 aboutmephotocsapplates.jpg \
+	 aboutmephotocseatalltheicecream.jpg \
+	 aboutmephotocsgradtripfood.jpg \
+	 aboutmephotocskd23bday.jpg \
+	 aboutmephotocskdkanelbulle.jpg \
+	 aboutmephotocskladdkakafu.jpg \
+	 aboutmephotocslilachocolaterie.jpg \
+	 aboutmephotocslilapuppy.jpg \
+	 aboutmephotocslobster.jpg \
+	 aboutmephotocsmusclebeach.jpg \
+	 aboutmephotocspilot.jpg \
+	 aboutmephotocsthailandmagnum.jpg \
+	 aboutmephotokanelbulle.jpg \
+	 aboutmephotolilaroomservice.jpg \
+	 aboutmephotovegetarian.jpg \
+	 amazon.png \
 	 article.js \
 	 bg.png \
 	 files.png \

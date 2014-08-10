@@ -28,26 +28,30 @@
 			about everything related to fitness, health food,
 			gourmet food, travel and siberian huskies.
 			I am also a pilot, and I love to fly. 
-			<img src="cspilot.jpg" alt="Christina the pilot" /> 
 		</p> 
+		<figure>
+			<img src="aboutmephotocspilot.jpg" alt="Christina the pilot" /> 
+			<figcaption>Christina the pilot</figcaption>
+		</figure>
 		<p> 
 			But let's talk abut healthy gourmet food, a supposed
 			oxymoron.
-
-			<img src="cslobster.jpg" alt="Christina eating lobster" />
 		</p>
-
+		<figure>
+			<img src="aboutmephotocslobster.jpg" alt="Christina eating lobster" />
+			<figcaption>Christina eating lobster</figcaption>
+		</figure>
 		<p> 
 			Having graduated from the world's top hotel school, Ecole
 			hôteliere de Lausanne in Switzlernad, I suddenly had
 			a lot of time on my hands and the usual choices to make
 			about what to do with my life and who I want to be,
-			etcetera.  
-
-			<img src= "csapkitchen.jpg" alt="Chrisitna in kitchen uniform" />
-
+			et cetera.  
 		</p>
-			
+		<figure>
+			<img src="aboutmephotocsapkitchen.jpg" alt="Christina in kitchen uniform" />
+			<figcaption>Christina in kitchen uniform</figcaption>
+		</figure>
 		<p>	
 			Raised as a pesce-vegetarian, and having spent the
 			better part of my teens and early twenties
@@ -55,24 +59,23 @@
 			(vegan, vegetarian, gluten-free, raw food,
 			macrobiotic and detox fasts) I was fundamentally fed up
 			of dieting and restricting myself. 
-			
-			<img src= "vegetarian.jpg" alt="Joke about vegetarians" />
-
 		</p>
-
+		<figure>
+			<img src="aboutmephotovegetarian.jpg" alt="Joke about vegetarians" />
+			<figcaption>Vegetarians...</figcaption>
+		</figure>
 		<p>
-			
 			I have always been a real foodie and known for my sweet
 			tooth &#8211;some of my favourite childhood memories
 			include trying out Argentenean snow fish at one of
 			Bangkok's top Italian restaurants and baking Swedish
 			cinnamon buns ("kanelbullar") with my grandmoster in
 			Gothenburg.
-
-			<img src="kanelbulle.jpg" alt="Kanelbulle" />
-			
 		</p>
-
+		<figure>
+			<img src="aboutmephotokanelbulle.jpg" alt="Kanelbulle" />
+			<figcaption>Kanelbulle</figcaption>
+		</figure>
 		<p>
 			I love gastronomy, fine-dining, luxury ingredients such
 			as white truffle and lobster, and gourmet-cooking at
@@ -90,10 +93,11 @@
 			the richest hand-made truffles creations of the day,
 			and buying the finest ingredients to bring back home to
 			use in my baking.
-
-			<img src="cslilachocolaterie.jpg" alt="Christina and Lila in a Chocolate factory" />
 		</p>
-
+		<figure>
+			<img src="aboutmephotocslilachocolaterie.jpg" alt="Christina and Lila in a Chocolate factory" />
+			<figcaption>Christina and Lila in a Chocolate Factory</figcaption>
+		</figure>
 		<p>
 			Spending four-years at the most renown hotel
 			school in the world did nothing but cultivate and
@@ -104,20 +108,23 @@
 			Swedish sticky chocolate cake ("kladdkaka"), one of the
 			most norotirously sinfully delicious and unhealthy
 			desserts out there, in large quantities. 
-			
-			<img src="cskladdkakafu.jpg" alt="Christina baking Swedish sticky chocolate cake" />	
-
 		</p>
-
+		<figure>
+			<img src="aboutmephotocskladdkakafu.jpg" alt="Christina baking Swedish sticky chocolate cake" />	
+			<figcaption>Christina baking Swedish sticky chocolate cake</figcaption>
+		</figure>
 		<p> 
 			But I had a problem&#8211;I could not coincide this
 			with my passion for health and fitness, with my female
 			pride of wanting to look good in a bikini, and my sound
 			belief in taking care of one's body by nourishing it
 			with wholesome, lean and natural foods.
-
-			<img src="csgradtrip.jpg" alt="Christina in a bikini and eating dessert and fruit." />	
-
+		</p>
+		<figure>
+			<img src="aboutmephotocsgradtripfood.jpg" alt="Christina in a bikini and eating dessert and fruit." />	
+			<figcaption>Christina in a bikini and eating dessert and fruit</figcaption>
+		</figure>
+		<p>
 			That was the perpetual conflict: being a real foodie,
 			but also a real health junkie. 
 
@@ -136,13 +143,12 @@
 			I began to find myself in the best shape of my life, and
 			getting continually stronger, fitter, and leaner every
 			month. 
-
-			<img src="CSlegs.jpg" alt="Christina squatting 60kg" />
-
 		</p>
-
+		<figure>
+			<img src="aboutmephotoCSlegs.jpg" alt="Christina squatting 60kg" />
+			<figcaption>Christina squatting 60 kg</figcaption>
+		</figure>
 		<p>
-
 			This could only have been possible with the
 			right approach to food and nutrition, however. 
 
@@ -159,10 +165,11 @@
 			(And everytime such dire thoughts crossed my mind, I
 			would find myself inexplicably fantasising about ice
 			cream.)
-
-			<img src="cseatalltheicecream.jpg" alt="Christina eat all the ice cream" />	
-
 		</p>
+		<figure>
+			<img src="aboutmephotocseatalltheicecream.jpg" alt="Christina eat all the ice cream" />	
+			<figcaption>Christina eat all of the ice cream</figcaption>
+		</figure>
 		<p>
 			Fortunately, I found a way around that &#8211;the perfect
 			compromise between fine food and fine health -
@@ -184,9 +191,11 @@
 			because it's the one ingredient that spiffies up my
 			creations in terms of consistency, flavour, sweetness
 			and nutritional value.
-
-			<img src="brunchcollage.jpg" alt="Christina's healthy brunch recipes" />	
 		</p>
+		<figure>
+			<img src="aboutmephotobrunchcollage.jpg" alt="Christina's healthy brunch recipes" />	
+			<figcaption>Christina's healthy brunch recipes</figcaption>
+		</figure>
 		<p>
 			I began experiementing, and inviting my girlfriends
 			over for Sunday brunch to taste out my clean, healthy
@@ -201,11 +210,11 @@
 			recipes, and I could not keep up with scribbling them
 			down on post-its or writing them in the instagram
 			comments of my photos. 
-
-			<img src="smoothiescollage.jpg" alt="Smoothies collage" />
-
 		</p>
-
+		<figure>
+			<img src="aboutmephotosmoothiescollage.jpg" alt="Smoothies collage" />
+			<figcaption>Smoothies Collage</figcaption>
+		</figure>
 		<p>
 			One day, someone very special to me called K, decided
 			to help me finally start my own blog. 
@@ -222,20 +231,20 @@
 			expected to make a sudden appearance in the kitchen
 			when I'm baking, deserves to name my online cafe and
 			recipe collection. 
-
-			<img src="lilaroomservice.jpg" alt="Lila with doggy roomservice" />
-
 		</p>
-
+		<figure>
+			<img src="aboutmephotolilaroomservice.jpg" alt="Lila with doggy roomservice" />
+			<figcaption>Lila with doggy roomservice</figcaption>
+		</figure>
 		<p>
 			The was the birth of Lila,Chop! Clandestine Health food
 			and Living. 
-			<i>Fatally delicious, baking clean with
-				protein powder.</i> 
+			<i>Fatally delicious, baking clean with protein powder.</i> 
 		</p>
-
-			<img src="cslilapuppy.jpg" alt="Christina and Lila" />
-
+		<figure>
+			<img src="aboutmephotocslilapuppy.jpg" alt="Christina and Lila" />
+			<figcaption>Christina and Lila</figcaption>
+		</figure>
 		<p>
 			<b>Lila,Chop!'s promise to you</b>
 			As you are reading this recipe blog, you are obviously
@@ -254,9 +263,7 @@
 			food-icons to see exactly what kind of nutritional
 			profile each recipe has! And remember, you can always
 			adapt them to your liking.
-
 		</p>	
-
 	</section>
 	<nav>
 		<a href="#image1"><img src="article009a.thumb.jpg" /></a>

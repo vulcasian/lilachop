@@ -15,6 +15,14 @@ article > a img			{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #47474
 #image1:target,
 #image2:target,
 #image3:target			{ display: block; }
+article figcaption		{ font-style: italic;
+				  color: #666; }
+article figure			{ text-align: center; 
+				  margin: 0; }
+article figure img		{ width: 100%; 
+				  border-radius: 20px;
+				  box-shadow: 0px 0px 10px #333, inset 0px 0px 10px #000;
+				  max-width: 500px; }
 article > #recipe input		{ width: 6ex; }
 article > #recipe p.servings	{ margin-top: 0; }
 article > #recipe table,
@@ -168,4 +176,5 @@ article #steps tr:last-child td	{ border-top: thin solid silver;
 	article #steps td	{ padding-left: 0.25ex; }
 	article #steps td:last-child
 				{ padding-right: 0.25ex; }
+	article figure		{ margin: 0 1ex; }
 }
