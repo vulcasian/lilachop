@@ -29,7 +29,7 @@ article > #recipe table,
 article > #recipe p		{ width: 98%;
 				  margin-left: auto; 
 				  margin-right: auto; }
-article > #recipe		{ padding-top: 80px;
+article > #recipe		{ padding-top: 90px;
 				  padding-bottom: 2%;
 				  margin-bottom: 1ex;
 				  background-color: #ccc; }
@@ -122,6 +122,7 @@ article #steps td.amount	{ text-align: right;
 article #steps td.unit 		{ color: #444; 
 				  width: 10ex; }
 article #steps tr:last-child td	{ border-top: thin solid #ddd; }
+article div.fb-like		{ padding-left: 1%; }
 @media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
 article > #recipe,
 article > a img			{ width: 100%; 
