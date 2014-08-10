@@ -1,5 +1,4 @@
-article > nav		{ width: 100%;
-			  box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #474747; 
+article > nav		{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #474747; 
 			  margin: 0;
 			  margin-bottom: 1ex;
 			  padding-top: 2px;
@@ -22,11 +21,11 @@ article > nav li > a img
 article > nav ul	{ list-style-type: none; 
 			  padding-left: 2%; 
 			  padding-right: 2%; }
+@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
+article > nav		{ width: 100%; }
+}
 @media only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
-article > nav		{ margin-left: auto;
-			  margin-right: auto; 
-			  width: 98%;
-			  border-top-left-radius: 1ex; 
+article > nav		{ border-top-left-radius: 1ex; 
 			  border-top-right-radius: 1ex; }
 article > nav ul	{ padding-left: 1%; 
 			  padding-right: 1%; }
