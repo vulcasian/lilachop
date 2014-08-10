@@ -125,10 +125,10 @@
 				<td class="name">bitter dark Chocolate (I used Lindt 90%)</td>
 			</tr>
 		</table>
-		<p class="servings">
+		<div class="servings">
 			Change servings: 
 			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
-		</p>
+		</div>
 		<p>
 			<q>It's as close to protein magic as one can get.</q> 
 			(<cite>Anna Sward</cite>).

@@ -96,10 +96,10 @@
 				<td class="name">ice</td>
 			</tr>
 		</table>
-		<p class="servings">
+		<div class="servings">
 			Change servings: 
 			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
-		</p>
+		</div>
 		<p>
 			A few years later I discovered a recipe for a tahini
 			protein Smoothie by <u>Nutritionstripped</u>, one of my

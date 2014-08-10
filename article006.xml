@@ -107,10 +107,10 @@
 				<td class="alt name">maple syrup (optional, for sweetness)</td>
 			</tr>
 		</table>
-		<p class="servings">
+		<div class="servings">
 			Change servings: 
 			<input id="servings" type="number" min="0" step="1" value="4" onchange="changeservings(this.value);" />
-		</p>
+		</div>
 		<p>
 			This surprisingly simple and unusual recipe was
 			adapted from Proteinpow by Anna Sward - the protein

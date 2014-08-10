@@ -113,10 +113,10 @@
 				<td class="alt name">liquid Stevia, hazelnut (optional, for sweetness)</td>
 			</tr>
 		</table>
-		<p class="servings">
+		<div class="servings">
 			Change servings: 
 			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
-		</p>
+		</div>
 		<p>
 			I have learned that the trick to making healthy treats
 			out of traditionally unhealthy recipes, such as

@@ -126,12 +126,12 @@
 					</td>
 			</tr>
 		</table>
-		<p class="servings">
+		<div class="servings">
 			Change servings: 
 			<input id="servings" type="number" min="0" step="1"
 				value="4"
 				onchange="changeservings(this.value);" /> 
-		</p>
+		</div>
 		<p>
 
 			This recipe was adapted from
@@ -205,8 +205,8 @@
 				</td>
 			</tr>
 			<tr>
-				<td class="amount"></td>
-				<td class="unit"></td>
+				<td class="amount">&lt;10</td>
+				<td class="unit">minutes</td>
 				<td>
 					Refrigerate for a few hours, then devour!
 				</td>

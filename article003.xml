@@ -95,10 +95,10 @@
 				<td class="name">very dark chocolate, such as Lindt 90%</td>
 			</tr>
 		</table>
-		<p class="servings">
+		<div class="servings">
 			Change servings: 
 			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
-		</p>
+		</div>
 		<p>
 			I discovered through Instagram that the trick with
 			questbars is to microwave them first.  (Whoever first

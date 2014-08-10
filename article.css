@@ -4,7 +4,6 @@ article > a img			{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #47474
 				  max-width: 1280px;
 				  border-bottom-left-radius: 1ex;
 				  border-bottom-right-radius: 1ex; }
-
 #image1, 
 #image2, 
 #image3, 
@@ -24,7 +23,8 @@ article figure img		{ width: 100%;
 				  box-shadow: 0px 0px 10px #333, inset 0px 0px 10px #000;
 				  max-width: 500px; }
 article > #recipe input		{ width: 6ex; }
-article > #recipe p.servings	{ margin-top: 0; }
+article > #recipe div.servings	{ padding-top: 0.5ex; 
+				  padding-left: 1em; }
 article > #recipe table,
 article > #recipe p		{ width: 98%;
 				  margin-left: auto; 
@@ -34,8 +34,8 @@ article > #recipe		{ padding-top: 80px;
 				  margin-bottom: 1ex;
 				  background-color: #ccc; }
 article > header		{ position: absolute;
-				  box-shadow: 2px 2px 6px rgba(0,0,0,0.3), inset 0 -2px 2px rgba(0,0,0,0.1);
-				  background-color: #EBCCA4;
+				  box-shadow: 2px 2px 2px rgba(0,0,0,0.3), inset 0 -2px 2px rgba(0,0,0,0.1);
+				  background-color: #E9E9E9;
 				  border-radius: 4px;
 				  padding: 6px 10px;
 				  padding-top: 8px;
@@ -61,10 +61,7 @@ article > header span		{ color: #222; }
 article > header span 		{ border-left: thin solid silver;
 				  padding-left: 0.5ex;
 				  margin-left: 0.25ex; }
-article > header .hicon		{ font-style: italic;
-				  font-weight: bolder;
-				  color: purple;
-				  display: inline-block; }
+article > header .hicon		{ display: inline-block; }
 article > header .health img	{ width: 32px; 
 				  margin-bottom: -10px; }
 article > nav			{ display: none; }
@@ -75,40 +72,36 @@ article > nav img		{ box-shadow: 0 3px 6px rgba(0,0,0,0.3), inset 0 -3px 3px rgb
 				  border: solid #ccc 1px;
 				  border-radius: 10px; }
 article > nav img:hover		{ opacity: 1.0; }
-article .ingredients		{ color: #333;
-				  border-spacing: 0;
-				  border-bottom-left-radius: 0.5ex; 
-				  border-bottom-right-radius: 0.5ex; 
-				  background-color: #999; }
+article .ingredients		{ color: #E9E9E9;
+				  border-spacing: 0; }
+article .ingredients tr:last-child td:first-child 
+				{ border-bottom-left-radius: 1ex; }
+article .ingredients tr:last-child td:last-child 
+				{ border-bottom-right-radius: 1ex;  }
+article .ingredients caption,	
 article .ingredients th,	
-article .ingredients td		{ padding-left: 1ex; 
+article .ingredients td		{ padding: 0.75ex;
+				  background-color: #333;
 				  vertical-align: top; }
-article .ingredients td:last-child
-				{ padding-right: 1ex; }
-article .ingredients caption	{ text-align: left;
-				  color: #333;
-				  padding: 0.5ex;
-				  padding-left: 1ex;
-				  border-bottom: 0;
-				  border-top-left-radius: 0.5ex; 
-				  border-top-right-radius: 0.5ex; 
-				  background-color: #999; }
-article .ingredients td.unit	{ color: #444; }
+article .ingredients caption	{ border-bottom: thin solid #000;
+				  border-top-left-radius: 0.5ex;
+				  border-top-right-radius: 0.5ex;
+				  background-color: #333; }
+article .ingredients td.unit	{ color: #aaa; 
+				  width: 14ex; }
 article .ingredients th		{ text-align: left; 
 				  font-size: 10pt; }
-article .ingredients th.amount
-				{ text-align: center; }
-article .ingredients td.amount
-				{ text-align: right; }
+article .ingredients th.amount	{ text-align: center; }
+article .ingredients td.amount	{ text-align: right; 
+				  width: 8ex; }
 article .ingredients td.name span.altor
 				{ font-style: italic; }
-article .ingredients td.alt	
-				{ color: #333;
-				  background-color: #aaa;
+article .ingredients td.alt	{ color: #ddd;
+				  background-color: #666;
 				  font-style: italic; }
-article .ingredients a		{ color: purple; }
+article .ingredients a		{ color: #4EB1BA; }
 article .ingredients a.amazon	{ background:url('amazon.png') no-repeat scroll left top transparent;
-				  padding-left: 22px; }
+				  padding-left: 24px; }
 article #steps			{ color: #333;
 				  background-color: #999;
 				  border-bottom-left-radius: 1ex; 
@@ -135,7 +128,9 @@ article #steps tr:last-child td	{ border-top: thin solid silver;
 				  color: #000; }
 @media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
 article > #recipe,
-article > a img			{ width: 100%; }
+article > a img			{ width: 100%; 
+				  border: 0;
+				  box-shadow: none; }
 }
 @media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
 	article > header	{ position: static; 
