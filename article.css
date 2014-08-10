@@ -183,3 +183,33 @@ article > a img			{ width: 100%; }
 				{ padding-right: 0.25ex; }
 	article figure		{ margin: 0 1ex; }
 }
+@media print {
+	article > header	{ position: static; 
+				  display: table;
+				  margin-left: auto;
+				  margin-right: auto;
+				  box-shadow: none; 
+				  font-size: 12pt; }
+	article > header nav img{ margin-bottom: -10px; 
+				  border-radius: 4px; }
+	article > #recipe,
+	article > a img		{ width: 100%; 
+			  	  font-size: 12pt;
+				  border: 0;
+				  box-shadow: none; }
+	p.servings		{ display: none; }
+	article #recipe 	{ padding-top: 2px; }
+	article > header .calories:after,
+	article > header .protein:after,
+	article > header .carbs:after,
+	article > header .fat:after
+				{ font-size: 9pt; }
+	article > header .calories:after
+				{ content: 'calories'; }
+	article > header .protein:after
+				{ content: 'g protein'; }
+	article > header .carbs:after
+				{ content: 'g carb'; }
+	article > header .fat:after
+				{ content: 'g fat'; }
+}

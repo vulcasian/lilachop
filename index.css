@@ -81,10 +81,10 @@ body > footer				{ padding-left: 2.5%;
 #archivelink > *			{ display: table-cell;
 					  font-size: 18pt;
 					  vertical-align: middle; }
-@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
+@media print, only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
 	#chapters 			{ display: none; }
 }
-@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+@media print, only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
 	body > article 			{ display: block; }
 	#blogroll			{ display: block; 
 					  padding-left: 0;
@@ -104,4 +104,8 @@ body > footer				{ padding-left: 2.5%;
 	#archivelink > *		{ font-size: 14pt; }
 	#archivelink img		{ width: 60px; }
 	body > footer			{ padding: 0; }
+}
+@media print {
+	body				{ font-size: 12pt; }
+	#archivelink			{ display: none; }
 }

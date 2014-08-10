@@ -79,7 +79,7 @@ body > footer div		{ border-left: thin solid silver;
 				  padding-left: 1ex; }
 body > footer a			{ color: #ddd; }
 body > footer a:hover		{ color: #fff; }
-@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+@media print, only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
 	body > header 		{ text-align: center; 
 				  padding-top: 1ex;
 				  padding-bottom: 0;
@@ -130,10 +130,22 @@ body > footer a:hover		{ color: #fff; }
 				  margin-left: 0;
 				  padding-left: 0; }
 }
-@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+@media print, only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
 	body > header h1	{ font-size: 24pt; }
 	body > header h2	{ font-size: 12pt; }
 	body > section > nav li	{ width: 33%; }
 	body > section > nav li:nth-child(n+4)
 				{ display: none; }
+}
+@media print {
+	body > header		{ display: none; }
+	body > section > nav	{ display: none; }
+	body > footer		{ margin: 0;
+				  padding: 0;
+				  text-shadow: none;
+				  color: inherit;
+				  font-size: 10pt;
+				  width: 100%;
+				  text-align: center; }
+	body > footer div	{ display: inline-block;  }
 }
