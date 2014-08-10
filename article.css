@@ -56,7 +56,6 @@ article > header h2		{ font-size: 20pt;
 				  color: #333;
 				  margin: 0; }
 article > header h2 a		{ color: #555; }
-article > header h2 a:hover	{ color: #333; }
 article > header span		{ color: #222; }
 article > header span 		{ border-left: thin solid silver;
 				  padding-left: 0.5ex;
@@ -88,7 +87,7 @@ article .ingredients caption	{ border-bottom: thin solid #000;
 				  border-top-right-radius: 0.5ex;
 				  background-color: #333; }
 article .ingredients td.unit	{ color: #aaa; 
-				  width: 14ex; }
+				  width: 10ex; }
 article .ingredients th		{ text-align: left; 
 				  font-size: 10pt; }
 article .ingredients th.amount	{ text-align: center; }
@@ -102,30 +101,27 @@ article .ingredients td.alt	{ color: #ddd;
 article .ingredients a		{ color: #4EB1BA; }
 article .ingredients a.amazon	{ background:url('amazon.png') no-repeat scroll left top transparent;
 				  padding-left: 24px; }
-article #steps			{ color: #333;
+article #steps			{ color: #000;
 				  background-color: #999;
 				  border-bottom-left-radius: 1ex; 
 				  border-bottom-right-radius: 1ex; 
 				  border-spacing: 0; }
-article #steps caption		{ text-align: left;
-				  color: #333;
-				  padding: 0.5ex;
-				  padding-left: 1ex;
-				  border-bottom: 0;
-				  border-top-left-radius: 1ex; 
-				  border-top-right-radius: 1ex; 
+article #steps caption		{ border-bottom: thin solid #ddd;
+				  border-top-left-radius: 0.5ex; 
+				  border-top-right-radius: 0.5ex; 
 				  background-color: #999; }
+article #steps caption,
 article #steps th,
 article #steps td		{ vertical-align: top; 
-				  padding-left: 1ex; }
-article #steps td:last-child	{ padding-right: 1ex; }
+				  padding: 0.75ex; }
 article #steps th		{ text-align: left; 
 				  font-size: 10pt; }
 article #steps th.amount	{ text-align: center; }
-article #steps td.amount	{ text-align: right; }
-article #steps td.unit 		{ color: #444; }
-article #steps tr:last-child td	{ border-top: thin solid silver;
-				  color: #000; }
+article #steps td.amount	{ text-align: right; 
+				  width: 8ex; }
+article #steps td.unit 		{ color: #444; 
+				  width: 10ex; }
+article #steps tr:last-child td	{ border-top: thin solid #ddd; }
 @media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
 article > #recipe,
 article > a img			{ width: 100%; 
@@ -142,9 +138,7 @@ article > a img			{ width: 100%;
 				  font-size: inherit; }
 	article > header nav	{ display: none; }
 	article > header > div	{ display: block; }
-	article > header h2 a	{ color: #A4D4EB; }
-	article > header h2 a:hover	
-				{ color: #fff; }
+	article > header h2 a	{ color: #4EB1BA; }
 	article > header h2	{ font-size: 14pt; 
 				  letter-spacing: 2pt;
 				  font-weight: inherit; }
@@ -177,6 +171,17 @@ article > a img			{ width: 100%;
 	article #steps td:last-child
 				{ padding-right: 0.25ex; }
 	article figure		{ margin: 0 1ex; }
+	article #steps td.unit,
+	article #steps td.amount,
+	article .ingredients td.unit,
+	article .ingredients td.amount
+				{ width: auto; }
+	article #steps caption,
+	article #steps th,
+	article #steps td,
+	article .ingredients caption,
+	article .ingredients th,
+	article .ingredients td { padding: 0.5ex; }
 }
 @media print {
 	article > header	{ position: static; 
