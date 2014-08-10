@@ -62,7 +62,7 @@
 			<nav id="chapters">
 				<section>
 					<section class="noshow">
-						<nav data-sblg-nav="1" data-sblg-navtag="aboutme" data-sblg-navcontent="1" data-sblg-navsz="2">
+						<nav data-sblg-nav="1" data-sblg-navtag="about" data-sblg-navcontent="1" data-sblg-navsz="2">
 							<div>
 								<a title="${titletext}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
 							</div>

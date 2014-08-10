@@ -50,7 +50,10 @@ XMLS = article001.xml \
        article005.xml \
        article006.xml \
        article007.xml \
-       article009.xml
+       article009.xml \
+       article010.xml
+
+
 	
 # These are all the HTML files that I'll build.
 # Make sure all your articles in $(XMLS) appear here!
@@ -65,6 +68,7 @@ HTMLS = atom.xml \
 	article006.html \
 	article007.html \
 	article009.html \
+	article010.html \
 	index.html
 
 # These are the images used by the artiles in $(XMLS).
