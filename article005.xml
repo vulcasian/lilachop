@@ -37,7 +37,7 @@
 			eat it with their crêpes; the kids with everything. So
 			why not you?  
 			Oh right, because it's unhealthy, and since you've come
-			to Lila,Chop! for recipes, then you certainly care
+			to <span class="nm">Lila, Chop!</span> for recipes, then you certainly care
 			about that!  
 			Well, how about protein-nutella
 			served clean, healthy, and deliciously nutritious?
@@ -54,8 +54,8 @@
 				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">scoop</td>
 				<td class="name">
-					Fitnessguru One Whey isolate
-					milk chocolate), <span class="altor">or</span>
+					<a href="http://www.amazon.com/dp/B000GIQSV6/?tag=lich048-20" class="amazon">Fitnessguru's One Whey Mint Chocolate</a>
+					<span class="altor">or</span>
 				</td>
 			</tr>
 			<tr>
@@ -79,7 +79,8 @@
 				<td class="amount" data-lilachop-amount="2"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">
-					Bob's Red Mill hazelnut meal, <span class="altor">or</span>
+					<a href="http://www.amazon.com/dp/B005P0I322/?tag=lich048-20" class="amazon">Bob's Red Mill hazelnut meal</a>
+					<span class="altor">or</span>
 				</td>
 			</tr>
 			<tr>

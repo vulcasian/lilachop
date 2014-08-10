@@ -58,7 +58,9 @@
 			<tr>
 				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">scoop</td>
-				<td class="name">raw vegan protein powder (I used Sunwarrior vanilla)</td>
+				<td class="name">raw vegan protein powder (I used 
+					<a href="http://www.amazon.com/dp/B005WLY4L8/?tag=lich048-20" class="amazon">Sunwarrior vanilla</a>)
+				</td>
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="1"></td>
@@ -140,7 +142,8 @@
 			</tr>
 		</table>
 		<p>
-			"Cinnamon, spice, and everything nice!" This is one
+			<q>Cinnamon, spice, and everything nice!</q> 
+			This is one
 			hell of a raw vegan treat, packed with nutrients,
 			antioxidants, and of course, protein.  Rich and
 			unusually nutty-flavoured thanks to the tahini and

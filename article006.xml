@@ -54,8 +54,8 @@
 				<td class="amount" data-lilachop-amount="0.25"></td>
 				<td class="unit">scoop</td>
 				<td class="name">
-					Tone it Up - Perfect Fit vanilla vegan
-					protein powder, <span class="altor">or</span> 
+					<a href="http://www.amazon.com/dp/B00BFIVOZG/?tag=lich048-20" class="amazon">Perfect Fit vanilla vegan protein powder</a>
+					<span class="altor">or</span> 
 				</td>
 			</tr>
 			<tr>
@@ -79,7 +79,8 @@
 				<td class="amount" data-lilachop-amount="0.5"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">
-					Bob's Red Mill coconut flour</td>
+					<a href="http://www.amazon.com/dp/B000KENKZ8/?tag=lich048-20" class="amazon">Bob's Red Mill coconut flour</a>
+				</td>
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="0.25"></td>
@@ -89,7 +90,9 @@
 			<tr>
 				<td class="amount" data-lilachop-amount="1.25"></td>
 				<td class="unit">drops</td>
-				<td class="name">Sweet Leaf liquid stevia English toffee</td>
+				<td class="name">
+					<a href="http://www.amazon.com/dp/B001EO5RF4/?tag=lich048-20" class="amazon">Sweet Leaf liquid stevia English toffee</a>
+				</td>
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="1"></td>
