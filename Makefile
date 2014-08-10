@@ -20,6 +20,7 @@ STATIC = aboutmephotoCSlegs.jpg \
 	 aboutmephotokanelbulle.jpg \
 	 aboutmephotolilaroomservice.jpg \
 	 aboutmephotovegetarian.jpg \
+	 aboutmephotosmoothiescollage.jpg \
 	 amazon.png \
 	 article.js \
 	 bg.png \
