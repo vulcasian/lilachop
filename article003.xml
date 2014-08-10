@@ -55,7 +55,9 @@
 			<tr>
 				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit"></td>
-				<td class="name">white chocolate raspberry questbar <span class="altor">or</span></td>
+				<td class="name">
+					<a href="http://www.amazon.com/dp/B00DZR75G2/?tag=lich048-20" class="amazon">white chocolate raspberry Quest Bar</a> 
+					<span class="altor">or</span></td>
 			</tr>
 			<tr>
 				<td class="alt amount" data-lilachop-amount="1"></td>
@@ -65,8 +67,10 @@
 			<tr>
 				<td class="amount" data-lilachop-amount="0.5"></td>
 				<td class="unit">pot</td>
-				<td class="name">Fage 0% Total Fat-free Greek
-					Yoghurt (85g) <span class="altor">or</span></td> 
+				<td class="name">
+					<a href="http://www.amazon.com/dp/B00CHTUJIU/?tag=lich048-20" class="amazon">Fage 0% Total Fat-free Greek Yoghurt</a>
+					(85g) <span class="altor">or</span>
+				</td> 
 			</tr>
 			<tr>
 				<td class="alt amount" data-lilachop-amount="0.5"></td>
@@ -76,8 +80,9 @@
 			<tr>
 				<td class="amount" data-lilachop-amount="0.25"></td>
 				<td class="unit">scoop</td>
-				<td class="name">vanilla whey protein powder (I
-					used Cellucor Whipped Vanilla)</td>
+				<td class="name">vanilla whey protein powder (I used 
+					<a href="http://www.amazon.com/dp/B00ARJN2UO/?tag=lich048-20" class="amazon"> Cellucor Whipped Vanilla</a>)
+				</td>
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="1"></td>
@@ -92,7 +97,9 @@
 			<tr>
 				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">square</td>
-				<td class="name">very dark chocolate, such as Lindt 90%</td>
+				<td class="name">very dark chocolate (I used
+					<a href="http://www.amazon.com/dp/B0059X9C7K/?tag=lich048-20" class="amazon">Lindt 90%</a>)
+				</td>
 			</tr>
 		</table>
 		<div class="servings">
@@ -107,7 +114,7 @@
 			difference, both in taste and chewability, thereby
 			significantly increasing their edibility. 
 			It also makes the bar easier to mould into shapes for
-			baking - but be warned! They settle and harden very
+			baking &#8211; but be warned! They settle and harden very
 			quickly.	
 		</p>
 		<table id="steps">
@@ -130,7 +137,6 @@
 					Put the yoghurt mixture in the freezer to
 					make sandwich ice cream filling whilst
 					preparing the questbar.	
-				
 				</td>
 			</tr>
 			<tr>
