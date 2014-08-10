@@ -133,7 +133,11 @@ article #steps td.amount	{ text-align: right; }
 article #steps td.unit 		{ color: #444; }
 article #steps tr:last-child td	{ border-top: thin solid silver;
 				  color: #000; }
-@media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
+article > #recipe,
+article > a img			{ width: 100%; }
+}
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
 	article > header	{ position: static; 
 				  display: block; 
 				  border: 0;
@@ -161,7 +165,8 @@ article #steps tr:last-child td	{ border-top: thin solid silver;
 				  max-width: 140px; }
 	article > #recipe,
 	article > a 		{ text-align: center; }
-	article > #recipe > *	{ text-align: left; }
+	article > #recipe > :not(figure)	
+				{ text-align: left; }
 	article > #recipe,
 	article > a img		{ width: 98%; 
 				  max-width: 1280px; 

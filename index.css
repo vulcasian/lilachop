@@ -76,6 +76,11 @@ body > article				{ float: none;
 					  font-style: italic; }
 body > footer				{ padding-left: 2.5%;
 					  padding-right: 2.5%; }
+#archivelink img	  		{ margin-right: 5px; }
+#archivelink 		  		{ display: table-row; }
+#archivelink > *			{ display: table-cell;
+					  font-size: 18pt;
+					  vertical-align: middle; }
 @media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
 	#chapters 			{ display: none; }
 }
@@ -96,5 +101,7 @@ body > footer				{ padding-left: 2.5%;
 	#blogroll li > div > div .thumbs	
 					{ padding-top: 1ex; }
 	#blogroll li > div > div > div	{ padding: 1ex; }
+	#archivelink > *		{ font-size: 14pt; }
+	#archivelink img		{ width: 60px; }
 	body > footer			{ padding: 0; }
 }
