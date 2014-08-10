@@ -39,7 +39,7 @@
 			Dark-chocolate covered strawberry protein bars...
 			sounds like Valentine's day at Godiva Chocolaterie,
 			doesn't it? 
-			Well, I can promise you it's even better -
+			Well, I can promise you it's even better &#8211;
 			not only is this luxuriously delicious and
 			decadent-looking treat completely clean and healthy,
 			but it's so simple and easy to make yourself. 
@@ -132,12 +132,8 @@
 				onchange="changeservings(this.value);" /> 
 		</div>
 		<p>
-
 			This recipe was adapted from
-
-			<a href="http://proteinpow.com/2014/07/strawberry-protein-bars.html">Proteinpow's
-				Strawberry Protein Bars recipe</a> 
-
+			<a href="http://proteinpow.com/2014/07/strawberry-protein-bars.html">Proteinpow's Strawberry Protein Bars recipe</a> 
 			by Anna Sward. This protein genius taught me that the
 			best part about making your own protein bars is that
 			they don't have all the artificial binding agents,
@@ -213,11 +209,11 @@
 		</table>
 		<p>
 			Just take them out of the fridge, wrap them up in
-			tinfoil and there you have it - protein bar to go! 
+			tinfoil and there you have it &#8211; protein bar to go! 
 			This recipe serves 4, and macros are per bar.
 		</p>
 		<p>
-			<b>Recipe tip:</b> To make the recipe richer, use
+			<b>Recipe tip</b>: to make the recipe richer, use
 			full-fat milk or coconut milk to bind
 			the protein powder together.  
 		</p>
