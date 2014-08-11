@@ -64,11 +64,11 @@
 					<section class="noshow">
 						<nav data-sblg-nav="1" data-sblg-navtag="about" data-sblg-navcontent="1" data-sblg-navsz="2">
 							<div>
-								<a title="${titletext}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+								<a title="${titletext}" href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
 							</div>
 							<div>
 								<div><a title="${titletext}" href="${base}.html">${titletext}</a></div>
-								<img class="clock" src="time.png" />
+								<img class="clock" alt="Date Posted" src="time.png" />
 								<time datetime="${date}">${date}</time>
 							</div>
 						</nav>
@@ -79,11 +79,11 @@
 							<h4 onclick="ontoggle(this.parentNode);">Gluten-Free</h4>
 							<nav data-sblg-nav="1" data-sblg-navtag="glutenfree" data-sblg-navcontent="1" data-sblg-navsz="2">
 								<div>
-									<a title="${titletext}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+									<a title="${titletext}" href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
 								</div>
 								<div>
 									<div><a title="${titletext}" href="${base}.html">${titletext}</a></div>
-									<img class="clock" src="time.png" />
+									<img class="clock" alt="Date Posted" src="time.png" />
 									<time datetime="${date}">${date}</time>
 								</div>
 							</nav>
@@ -92,11 +92,11 @@
 							<h4 onclick="ontoggle(this.parentNode);">High-Protein</h4>
 							<nav data-sblg-nav="1" data-sblg-navtag="highprotein" data-sblg-navcontent="1" data-sblg-navsz="2">
 								<div>
-									<a title="${titletext}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+									<a title="${titletext}" href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
 								</div>
 								<div>
 									<div><a title="${titletext}" href="${base}.html">${titletext}</a></div>
-									<img class="clock" src="time.png" />
+									<img class="clock" alt="Date Posted" src="time.png" />
 									<time datetime="${date}">${date}</time>
 								</div>
 							</nav>
@@ -105,11 +105,11 @@
 							<h4 onclick="ontoggle(this.parentNode);">Lactose-Free</h4>
 							<nav data-sblg-nav="1" data-sblg-navtag="lactosefree" data-sblg-navcontent="1" data-sblg-navsz="2">
 								<div>
-									<a title="${titletext}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+									<a title="${titletext}" href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
 								</div>
 								<div>
 									<div><a title="${titletext}" href="${base}.html">${titletext}</a></div>
-									<img class="clock" src="time.png" />
+									<img class="clock" alt="Date Posted" src="time.png" />
 									<time datetime="${date}">${date}</time>
 								</div>
 							</nav>
@@ -118,11 +118,11 @@
 							<h4 onclick="ontoggle(this.parentNode);">Low-Carb</h4>
 							<nav data-sblg-nav="1" data-sblg-navtag="lowcarb" data-sblg-navcontent="1" data-sblg-navsz="2">
 								<div>
-									<a title="${titletext}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+									<a title="${titletext}" href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
 								</div>
 								<div>
 									<div><a title="${titletext}" href="${base}.html">${titletext}</a></div>
-									<img class="clock" src="time.png" />
+									<img class="clock" alt="Date Posted" src="time.png" />
 									<time datetime="${date}">${date}</time>
 								</div>
 							</nav>
@@ -131,11 +131,11 @@
 							<h4 onclick="ontoggle(this.parentNode);">Paleo Diet</h4>
 							<nav data-sblg-nav="1" data-sblg-navtag="paleo" data-sblg-navcontent="1" data-sblg-navsz="2">
 								<div>
-									<a title="${titletext}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+									<a title="${titletext}" href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
 								</div>
 								<div>
 									<div><a title="${titletext}" href="${base}.html">${titletext}</a></div>
-									<img class="clock" src="time.png" />
+									<img class="clock" alt="Date Posted" src="time.png" />
 									<div>${date}</div>
 								</div>
 							</nav>
@@ -144,11 +144,11 @@
 							<h4 onclick="ontoggle(this.parentNode);">Raw Food</h4>
 							<nav data-sblg-nav="1" data-sblg-navtag="raw" data-sblg-navcontent="1" data-sblg-navsz="2">
 								<div>
-									<a title="${titletext}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+									<a title="${titletext}" href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
 								</div>
 								<div>
 									<div><a title="${titletext}" href="${base}.html">${titletext}</a></div>
-									<img class="clock" src="time.png" />
+									<img class="clock" alt="Date Posted" src="time.png" />
 									<time datetime="${date}">${date}</time>
 								</div>
 							</nav>
@@ -157,11 +157,11 @@
 							<h4 onclick="ontoggle(this.parentNode);">Vegan</h4>
 							<nav data-sblg-nav="1" data-sblg-navtag="vegan" data-sblg-navcontent="1" data-sblg-navsz="2">
 								<div>
-									<a title="${titletext}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+									<a title="${titletext}" href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
 								</div>
 								<div>
 									<div><a title="${titletext}" href="${base}.html">${titletext}</a></div>
-									<img class="clock" src="time.png" />
+									<img class="clock" alt="Date Posted" src="time.png" />
 									<time datetime="${date}">${date}</time>
 								</div>
 							</nav>
@@ -171,16 +171,16 @@
 			</nav>
 			<div id="blogroll">
 				<nav data-sblg-navsz="6" data-sblg-nav="1" data-sblg-navcontent="1">
-					<a href="${base}.html"><img src="${base}a.jpg" /></a>
+					<a href="${base}.html"><img alt="${titletext}" src="${base}a.jpg" /></a>
 					<div>
 						<div>
 							<aside>${aside}</aside>
 							<div>
-								<img class="clock" src="timedark.png" />
+								<img class="clock" alt="Date Posted" src="timedark.png" />
 								<time datetime="${date}">${date}</time>: <a href="${base}.html">${titletext}</a>
 								<div class="thumbs">
-									<a href="${base}.html"><img class="thumb" src="${base}b.thumb.jpg" /></a>
-									<a href="${base}.html"><img class="thumb" src="${base}c.thumb.jpg" /></a>
+									<a href="${base}.html"><img class="thumb" alt="${titletext}" src="${base}b.thumb.jpg" /></a>
+									<a href="${base}.html"><img class="thumb" alt="${titletext}" src="${base}c.thumb.jpg" /></a>
 								</div>
 							</div>
 						</div>

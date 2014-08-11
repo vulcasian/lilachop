@@ -49,13 +49,13 @@
 		<section>
 			<nav data-sblg-nav="1" data-sblg-navsz="5" data-sblg-navcontent="1">
 				<figure>
-					<a href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+					<a href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
 					<figcaption><a href="${base}.html">${titletext}</a></figcaption>
 				</figure>
 			</nav>
 			<article>
 				<nav data-sblg-nav="1" data-sblg-navcontent="1">
-					<a title="${titletext}" href="${base}.html"><img src="${base}a.thumb.jpg" /></a>
+					<a title="${titletext}" href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
 					<div>
 						<time datetime="${date}">${date}</time>: <a href="${base}.html">${titletext}</a>
 						<aside>${aside}</aside>
