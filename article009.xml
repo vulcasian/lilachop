@@ -4,9 +4,9 @@
 			<h2><a href="#recipe">About Christina</a></h2> 
 		</div>
 		<nav>
-			<a href="#image1"><img src="article009a.thumb.jpg" /></a>
-			<a href="#image2"><img src="article009b.thumb.jpg" /></a>
-			<a href="#image3"><img src="article009c.thumb.jpg" /></a>
+			<a href="#image1"><img src="article009a.thumb.jpg" alt="Core exercises" title="Core exercises" /></a>
+			<a href="#image2"><img src="article009b.thumb.jpg" alt="Me and Lila" title="Summertime with Lila"/></a>
+			<a href="#image3"><img src="article009c.thumb.jpg" alt="Working on Lila, Chop!" title="Working on the Lila,Chop! site"/></a>
 		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-08-10">2014-08-10</time>
@@ -34,21 +34,25 @@
 		</p> 
 		<figure>
 			<img src="aboutmephotocspilot.jpg" alt="Christina the pilot" /> 
-			<figcaption>Getting my Private Pilot's license</figcaption>
+			<figcaption>Becoming a pilot.</figcaption>
 		</figure>
 		<p> 
 			But let's talk about my love of healthy gourmet food&#8211;a supposed
 			oxymoron.
 		</p>
+		<figure>
+			<img src="aboutmephotocsapkitchen.jpg" alt="Christina in kitchen uniform" /> 
+			<figcaption>Immaculate uniform for a week in the pastry kitchen.</figcaption>
+		</figure>
 		<p> 
-			Having graduated last year from the world's top hotel
-			school, Ecole hôteliere de Lausanne in Switzerland, I
-			suddenly found myself with a lot of time on my hands
-			and the usual pressing decisions to make about what to
-			do with life, career, identify, et cetera.  
-			I certainly didn't feel ready to open up my own hotel
-			or start my own chain of restaurants, nor did I feel
-			inclined to work split shifts as a chef.  
+			Having graduated last year from Ecole hôteliere de
+			Lausanne in Switzerland, I suddenly found myself with a
+			lot of time on my hands and the usual pressing
+			decisions to make about what to do with life, career,
+			identify, et cetera.  I certainly didn't feel ready to
+			open up my own hotel or start my own chain of
+			restaurants, nor did I feel inclined to work split
+			shifts as a chef.  
 			But there had to be something I could do with my
 			background and food! 
 			Something non-traditional, something that would reflect
@@ -92,18 +96,24 @@
 			possess a <i>terrible</i> sweet tooth. 
 
 			My favourite desserts in the world include
-			molten chocolate (<q>molleaux au chocolat</q>) and sticky
-			toffee pudding (how much unhealthier can one's tastes
-			get?). 
-			Day trip to a chocolate factory for a history of
-			chocolate followed by coffee and truffle-pairing?  
-			Hell, yes. 
+			molten chocolate cake (<q>molleaux au chocolat</q>) and sticky
+			toffee pudding. Now imagine what you would get if these
+			two sinfully rich and sweet desserts had a love-child:
+			Swedish sticky chocolate cake,<q>kladdkaka</q>. Yup,
+			that's the best one of all, and what I lived off of
+			during my boarding-school days in Sweden. 
+			(How muchunhealthier can one's tastes get?) 
 
 		</p>
 		<p>
 			Spending four-years at the world's most renown hotel
 			school in Switzerland did nothing but cultivate and
-			refine my taste and interest in this. 
+			refine my taste and interest in this.  
+			Day trip to a chocolate factory for a history of
+			chocolate followed by coffee and truffle-pairing?  
+			Hell, yes. 
+		       An expanding waisteline as a consequence of all this?
+		       Unfortunately, yes as well.	
 
 		</p>
 		<figure>
