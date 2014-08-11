@@ -184,7 +184,9 @@
 			still taste the cauliflower, simply add more cinnamon,
 			maple syrup, and vanilla essence.	
 		</p>
-		<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
 	</section>
 	<nav>
 		<a href="#image1"><img src="article006a.thumb.jpg" /></a>

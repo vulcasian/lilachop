@@ -184,6 +184,8 @@ article > a img			{ width: 100%;
 	article .ingredients caption,
 	article .ingredients th,
 	article .ingredients td { padding: 0.5ex; }
+	div.fb-wrapper		{ width: 98%; 
+				  overflow: hidden; }
 }
 @media print {
 	article > header	{ position: static; 

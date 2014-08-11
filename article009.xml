@@ -257,7 +257,9 @@
 			<img src="aboutmephotolilaroomservice.jpg" alt="Lila with doggy room-service" />
 			<figcaption>Lila the spoilt husky, enjoying room-service</figcaption>
 		</figure>
-		<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
 	</section>
 	<nav>
 		<a href="#image1"><img src="article009a.thumb.jpg" /></a>
