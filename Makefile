@@ -14,7 +14,7 @@ STATIC = aboutmephotoCSlegs.jpg \
 	 aboutmephotocslilachocolaterie.jpg \
 	 aboutmephotocslilapuppy.jpg \
 	 aboutmephotocslobster.jpg \
-	 aboutmephotocsmusclebeach.jpg \
+	 aboutmephotocbackday.jpg \
 	 aboutmephotocspilot.jpg \
 	 aboutmephotocsthailandmagnum.jpg \
 	 aboutmephotokanelbulle.jpg \
