@@ -3,6 +3,7 @@
 	<head>
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 		<meta charset='utf-8' /> 
+		<meta property="fb:admins" content="501890034" />
 		<link href="atom.xml" type="application/atom+xml" rel="alternate" title="Lila, Chop! Version Feed" />
 		<link rel="stylesheet" href="main.css" type="text/css" />
 		<link rel="stylesheet" href="article.css" type="text/css" />
