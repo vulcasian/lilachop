@@ -3,9 +3,9 @@
 		<div>
 			<h2><a href="#recipe">Tahini Cheesecakini</a></h2>
 			<div class="health">
-				<img title="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
-				<img title="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
-				<img title="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<!-- div class="hicon vegan" title="Vegan">V</div -->
 				<!-- div class="hicon paleo" title="Paleo">Pa</div -->
 				<!-- div class="hicon raw" title="Raw">Rw</div -->

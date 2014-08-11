@@ -3,10 +3,10 @@
 		<div>
 			<h2><a href="#recipe">Mint Chocolate Greeny</a></h2>
 			<div class="health">
-				<img title="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
-				<img title="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
-				<img title="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
-				<img title="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Gluten-free" alt="Gluten-Free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
+				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<span title="Calories" class="calories">359</span>
 				<span title="Grams Protein" class="protein">32</span>
 				<span title="Grams Carbohydrates" class="carbs">25</span>

@@ -3,11 +3,11 @@
 		<div>
 			<h2><a href="#recipe">Sticky Protein Pudding</a></h2>
 			<div class="health">
-				<img title="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
-				<img title="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
-				<img title="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
-				<img title="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
-				<img title="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
+				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Low-fat" alt="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
 				<span title="Calories" class="calories">105</span>
 				<span title="Grams Protein" class="protein">12</span>
 				<span title="Grams Carbohydrates" class="carbs">9</span>

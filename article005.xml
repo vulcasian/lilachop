@@ -3,10 +3,10 @@
 		<div>
 			<h2><a href="#recipe">Nuts about Nutella</a></h2>
 			<div class="health">
-				<img title="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
-				<img title="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
-				<img title="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
-				<img title="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
 				<!-- img title="Vegan" data-sblg-tags="vegan" src="vegan.png" /-->
 				<!-- img title="Raw" data-sblg-tags="raw" src="raw.png" /-->
 				<!-- img title="Paleo" data-sblg-tags="paleo" src="paleo.png" /-->
