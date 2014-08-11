@@ -8,10 +8,10 @@
 				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
 				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<img title="Low-fat" alt="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
-				<div class="nutrition"><div data-lilachop-amount="26.25"></div><div>cal</div></div>
-				<div class="nutrition"><div data-lilachop-amount="3"></div><div>pro</div></div>
-				<div class="nutrition"><div data-lilachop-amount="2.25"></div><div>carb</div></div>
-				<div class="nutrition"><div data-lilachop-amount="0.25"></div><div>fat</div></div>
+				<div class="nutrition"><div>105</div><div>cal</div></div>
+				<div class="nutrition"><div>12</div><div>pro</div></div>
+				<div class="nutrition"><div>9</div><div>carb</div></div>
+				<div class="nutrition"><div>1</div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>
@@ -111,8 +111,9 @@
 			</tr>
 		</table>
 		<div class="servings">
-			Change servings: 
+			Servings: 
 			<input id="servings" type="number" min="0" step="1" value="4" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="105"></span>.)
 		</div>
 		<p>
 			This surprisingly simple and unusual recipe was

@@ -101,8 +101,9 @@
 			</tr>
 		</table>
 		<div class="servings">
-			Change servings: 
+			Servings: 
 			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="293"></span>.)
 		</div>
 		<p>
 			A few years later I discovered a recipe for a tahini

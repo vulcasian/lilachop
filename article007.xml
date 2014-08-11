@@ -6,10 +6,10 @@
 				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
 				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
 				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
-				<div class="nutrition"><div data-lilachop-amount="32.5"></div><div>cal</div></div>
-				<div class="nutrition"><div data-lilachop-amount="1.75"></div><div>pro</div></div>
-				<div class="nutrition"><div data-lilachop-amount="1.75"></div><div>carb</div></div>
-				<div class="nutrition"><div data-lilachop-amount="2.25"></div><div>fat</div></div>
+				<div class="nutrition"><div>130</div><div>cal</div></div>
+				<div class="nutrition"><div>7</div><div>pro</div></div>
+				<div class="nutrition"><div>7</div><div>carb</div></div>
+				<div class="nutrition"><div>9</div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>
@@ -120,10 +120,9 @@
 			</tr>
 		</table>
 		<div class="servings">
-			Change servings: 
-			<input id="servings" type="number" min="0" step="1"
-				value="4"
-				onchange="changeservings(this.value);" /> 
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="4" onchange="changeservings(this.value);" /> 
+			(Total Calories: <span data-lilachop-amount="130"></span>.)
 		</div>
 		<p>
 			This recipe was adapted from

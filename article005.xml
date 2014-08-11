@@ -11,10 +11,10 @@
 				<span title="Grams Protein" class="protein">32</span>
 				<span title="Grams Carbohydrates" class="carbs">26</span>
 				<span title="Grams Fat" class="fat">15</span>
-				<div class="nutrition"><div data-lilachop-amount="330"></div><div>cal</div></div>
-				<div class="nutrition"><div data-lilachop-amount="32"></div><div>pro</div></div>
-				<div class="nutrition"><div data-lilachop-amount="26"></div><div>carb</div></div>
-				<div class="nutrition"><div data-lilachop-amount="15"></div><div>fat</div></div>
+				<div class="nutrition"><div>330</div><div>cal</div></div>
+				<div class="nutrition"><div>32</div><div>pro</div></div>
+				<div class="nutrition"><div>26</div><div>carb</div></div>
+				<div class="nutrition"><div>15</div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>
@@ -121,8 +121,9 @@
 			</tr>
 		</table>
 		<div class="servings">
-			Change servings: 
+			Servings: 
 			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="330"></span>.)
 		</div>
 		<p>
 			This was one of my first original recipes, so it has a
