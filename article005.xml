@@ -26,9 +26,9 @@
 		<time datetime="2014-05-05">2014-05-05</time>
 		<aside>
 			  If you are nuts about nutella, then look no
-			  further: this is the perfect pairing of
-			  chocolate and hazelnut in a delicious and
-			  nutritious protein smoothiew.
+			  further: this original Lila, Chop! recipe is the
+			  perfect pairing of chocolate and hazelnut in a
+			  delicious and nutritious protein smoothie.
 		  </aside>
 	</header>
 	<a id="image1" href="#recipe"><img src="article005a.jpg" /></a>
@@ -125,10 +125,12 @@
 			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
 		</div>
 		<p>
-			I have learned that the trick to making healthy treats
-			out of traditionally unhealthy recipes, such as
-			nutella, is to substitute sugar for Stevia, flavouring
-			with flavoured whey protein powder, cream with frozen
+			This was one of my first original recipes, so it has a
+			sweet (pun intended) spot for me.  
+			I learned that the trick to making healthy treats out
+			of traditionally unhealthy recipes, such as nutella, is
+			to substitute sugar for Stevia, flavouring with
+			flavoured whey protein powder, cream with frozen
 			banana, and whole-milk with plant-based milk.	
 		</p>
 		<table id="steps">
@@ -167,8 +169,8 @@
 				</td>
 			</tr>
 			<tr>
-				<td class="amount"></td>
-				<td class="unit"></td>
+				<td class="amount">10</td>
+				<td class="unit">min</td>
 				<td>
 					Serve cold, and enjoy!
 				</td>

@@ -182,8 +182,8 @@
 				</td>
 			</tr>
 			<tr>
-				<td class="amount"></td>
-				<td class="unit"></td>
+				<td class="amount">15</td>
+				<td class="unit">min</td>
 				<td>Devour immediately, before the questbar cookies harden.</td> 
 			</tr>
 		</table>

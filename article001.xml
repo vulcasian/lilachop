@@ -129,7 +129,7 @@
 			Thankfully, my vanity is what prevents me from doing so, and <span class="nm">Lila, Chop!</span> 
 			inspired me to recreate my own mint chocolate chip ice cream
 			experience in a guilt-free, clean, healthy and protein-rich maner, with a recipe adapted from 
-			<a href="http://nutritionstripped.com/a-stripped-smoothie-mint-chocolate-chip/">Nutrition Stripped.</a>	 \
+			<a href="http://nutritionstripped.com/a-stripped-smoothie-mint-chocolate-chip/">Nutrition Stripped.</a>	 
 		</p>
 		<table id="steps">
 			<caption>Steps</caption>
@@ -140,18 +140,18 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount">1</td>
-				<td class="unit">min</td>
+				<td class="amount"></td>
+				<td class="unit"></td>
 				<td>blend all the ingredients in a high-speed blender until thick and creamy.</td>
-			</tr>
-			<tr>
-				<td class="amount">1</td>
-				<td class="unit">min</td>
-				<td>garnish with a fresh mint leaf and additional cacao nibs.</td>
 			</tr>
 			<tr>
 				<td class="amount"></td>
 				<td class="unit"></td>
+				<td>garnish with a fresh mint leaf and additional cacao nibs.</td>
+			</tr>
+			<tr>
+				<td class="amount">10</td>
+				<td class="unit">min</td>
 				<td>Serve cold and enjoy!</td>
 			</tr>
 		</table>
