@@ -13,7 +13,7 @@
 		<aside>
 			About the <span
 				class="nm">Lila, Chop!</span> recipe blog: How
-			to use it, my promise to you, and the making of the
+			to use it, our promise to you, and the making of the
 			website.
 		</aside>
 	</header>
@@ -61,8 +61,41 @@
 			Likewise, I make sure to cite all the recipes
 			I adapt and find inspiration from.  
 			Happy baking, and namnam.
-		</p>	
-		<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</p>
+
+		<p>
+			<b>How to use<b> <span class="nm">Lila, Chop!</span>	
+		</p>
+		<p> 
+			<b>Home page<b>
+					<figure>
+						<img src="aboutlilachophomepage.jpg" alt="Christina the pilot" /> 
+						<figcaption>Becoming a pilot.</figcaption>
+					</figure>
+
+		</p>
+		<p> 
+			<b>Recipe page<b>
+					<figure>
+						<img src="aboutlilachoprecipepage1.jpg" alt="Christina the pilot" /> 
+						<figcaption>Becoming a pilot.</figcaption>
+					</figure>
+					<figure>
+						<img src="aboutlilachoprecipepage2.jpg" alt="Christina the pilot" /> 
+						<figcaption>Becoming a pilot.</figcaption>
+					</figure>
+
+		</p>
+		<p> 
+			<b>Archive page<b>
+					<figure>
+						<img src="aboutlilachoparchivepage.jpg" alt="Christina the pilot" /> 
+						<figcaption>Becoming a pilot.</figcaption>
+					</figure>
+
+		</p>
+
+				<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
 	</section>
 	<nav>
 		<a href="#image1"><img src="article010a.thumb.jpg" /></a>
