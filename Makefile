@@ -2,29 +2,33 @@
 
 # These are images and stuff (javascript, CSS, etc.) that aren't built,
 # but we need to install them.
-STATIC = aboutmephotoCSlegs.jpg \
+STATIC = aboutlilachoparchivepage.jpg \
+	 aboutlilachophomepage.jpg \
+	 aboutlilachoprecipepage1.jpg \
+	 aboutlilachoprecipepage2.jpg \
+	 aboutmephotoCSlegs.jpg \
 	 aboutmephotobrunchcollage.jpg \
+	 aboutmephotocorfetti.jpg \
 	 aboutmephotocsapkitchen.jpg \
 	 aboutmephotocsapplates.jpg \
 	 aboutmephotocseatalltheicecream.jpg \
 	 aboutmephotocsgradtripfood.jpg \
 	 aboutmephotocskd23bday.jpg \
+	 aboutmephotocskdhappydays.jpg \
 	 aboutmephotocskdkanelbulle.jpg \
 	 aboutmephotocskladdkakafu.jpg \
 	 aboutmephotocslilachocolaterie.jpg \
 	 aboutmephotocslilapuppy.jpg \
 	 aboutmephotocslobster.jpg \
-	 aboutmephotocbackday.jpg \
+	 aboutmephotocsmusclebeach.jpg \
 	 aboutmephotocspilot.jpg \
+	 aboutmephotocsroomservice.jpg \
 	 aboutmephotocsthailandmagnum.jpg \
 	 aboutmephotokanelbulle.jpg \
 	 aboutmephotolilaroomservice.jpg \
-	 aboutmephotovegetarian.jpg \
+	 aboutmephotosbackday.jpg \
 	 aboutmephotosmoothiescollage.jpg \
-	 aboutlilachophomepage.jpg \
-	 aboutlilachoprecipepage1.jpg \
-	 aboutlilachoprecipepage2.jpg \
-	 aboutlilachoparchivepage.jpg \
+	 aboutmephotovegetarian.jpg \
 	 amazon.png \
 	 article.js \
 	 bg.png \
