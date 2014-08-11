@@ -21,6 +21,10 @@ STATIC = aboutmephotoCSlegs.jpg \
 	 aboutmephotolilaroomservice.jpg \
 	 aboutmephotovegetarian.jpg \
 	 aboutmephotosmoothiescollage.jpg \
+	 aboutlilachophomepage.jpg \
+	 aboutlilachoprecipepage1.jpg \
+	 aboutlilachoprecipepage2.jpg \
+	 aboutlilachoparchivepage.jpg \
 	 amazon.png \
 	 article.js \
 	 bg.png \
