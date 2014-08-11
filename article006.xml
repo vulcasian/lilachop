@@ -8,10 +8,10 @@
 				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
 				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<img title="Low-fat" alt="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
-				<span title="Calories" class="calories">105</span>
-				<span title="Grams Protein" class="protein">12</span>
-				<span title="Grams Carbohydrates" class="carbs">9</span>
-				<span title="Grams Fat" class="fat">1</span>
+				<div class="nutrition"><div data-lilachop-amount="26.25"></div><div>cal</div></div>
+				<div class="nutrition"><div data-lilachop-amount="3"></div><div>pro</div></div>
+				<div class="nutrition"><div data-lilachop-amount="2.25"></div><div>carb</div></div>
+				<div class="nutrition"><div data-lilachop-amount="0.25"></div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>

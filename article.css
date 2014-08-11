@@ -60,9 +60,11 @@ article > header span		{ color: #222; }
 article > header span 		{ border-left: thin solid silver;
 				  padding-left: 0.5ex;
 				  margin-left: 0.25ex; }
-article > header .hicon		{ display: inline-block; }
-article > header .health img	{ width: 32px; 
-				  margin-bottom: -10px; }
+article > header .health img	{ width: 38px; 
+				  margin-bottom: -5px; }
+article .nutrition 		{ display: inline-block; }
+article .nutrition div:last-child	
+				{ font-size: 9pt; }
 article > nav			{ display: none; }
 article > nav a + a		{ margin-left: 16px; }
 article > nav img		{ box-shadow: 0 3px 6px rgba(0,0,0,0.3), inset 0 -3px 3px rgba(0,0,0,0.1);
@@ -122,7 +124,8 @@ article #steps td.amount	{ text-align: right;
 article #steps td.unit 		{ color: #444; 
 				  width: 10ex; }
 article #steps tr:last-child td	{ border-top: thin solid #ddd; }
-article div.fb-like		{ padding-left: 1%; }
+article div.fb-wrapper		{ padding-left: 1%; 
+				  padding-top: 1em; }
 @media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
 article > #recipe,
 article > a img			{ width: 100%; 
@@ -145,6 +148,7 @@ article > a img			{ width: 100%;
 				  letter-spacing: 2pt;
 				  font-weight: inherit; }
 	article > header img	{ opacity: 1.0; }
+	article .nutrition 	{ color: #ddd; }
 	article > nav		{ position: static; 
 				  display: table;
 				  width: 100%;
@@ -209,7 +213,7 @@ article > a img			{ width: 100%;
 	article > header .fat:after
 				{ font-size: 9pt; }
 	article > header .calories:after
-				{ content: 'calories'; }
+				{ content: 'Calories'; }
 	article > header .protein:after
 				{ content: 'g protein'; }
 	article > header .carbs:after

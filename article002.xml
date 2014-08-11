@@ -6,14 +6,10 @@
 				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
 				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
 				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
-				<!-- div class="hicon vegan" title="Vegan">V</div -->
-				<!-- div class="hicon paleo" title="Paleo">Pa</div -->
-				<!-- div class="hicon raw" title="Raw">Rw</div -->
-				<!-- div class="hicon lowfat" title="Low-Fat">lF</div -->
-				<span title="Calories" class="calories">303</span>
-				<span title="Grams Protein" class="protein">34</span>
-				<span title="Grams Carbohydrates" class="carbs">16</span>
-				<span title="Grams Fat" class="fat">22</span>
+				<div class="nutrition"><div data-lilachop-amount="303"></div><div>cal</div></div>
+				<div class="nutrition"><div data-lilachop-amount="34"></div><div>pro</div></div>
+				<div class="nutrition"><div data-lilachop-amount="16"></div><div>carb</div></div>
+				<div class="nutrition"><div data-lilachop-amount="22"></div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>

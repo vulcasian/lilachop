@@ -7,14 +7,14 @@
 				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
 				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
-				<!-- img title="Vegan" data-sblg-tags="vegan" src="vegan.png" /-->
-				<!-- img title="Raw" data-sblg-tags="raw" src="raw.png" /-->
-				<!-- img title="Paleo" data-sblg-tags="paleo" src="paleo.png" /-->
-				<!-- img title="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" /-->
 				<span title="Calories" class="calories">330</span>
 				<span title="Grams Protein" class="protein">32</span>
 				<span title="Grams Carbohydrates" class="carbs">26</span>
 				<span title="Grams Fat" class="fat">15</span>
+				<div class="nutrition"><div data-lilachop-amount="330"></div><div>cal</div></div>
+				<div class="nutrition"><div data-lilachop-amount="32"></div><div>pro</div></div>
+				<div class="nutrition"><div data-lilachop-amount="26"></div><div>carb</div></div>
+				<div class="nutrition"><div data-lilachop-amount="15"></div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>
