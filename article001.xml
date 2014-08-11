@@ -53,9 +53,8 @@
 			<tr>
 				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">scoop</td>
-				<td class="name">
-					protein powder (I used 
-					<a href="http://www.amazon.com/dp/B000GIQSV6/?tag=lich048-20" class="amazon">Fitnessguru's One Whey Mint Chocolate</a>)
+				<td class="name"> 
+					<a href="http://www.amazon.com/dp/B000GIQSV6/?tag=lich048-20" class="amazon">Fitnessguru One Whey Mint Chocolate protein powder</a>)
 					<span class="altor">or</span>
 				</td>
 			</tr>
@@ -68,7 +67,14 @@
 			<tr>
 				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">cup</td>
-				<td class="name">unsweetened almond milk</td>
+				<td class="name">					
+					<script>
+						amazonlink('B00474AL2M',
+						'Blue Diamond Breeze '+
+						'unsweetened vanilla almond milk');
+					</script>,
+			</td>
+
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="0.5"></td>
@@ -122,7 +128,8 @@
 			mint chocolate chip ice cream cake. 
 			Thankfully, my vanity is what prevents me from doing so, and <span class="nm">Lila, Chop!</span> 
 			inspired me to recreate my own mint chocolate chip ice cream
-			experience in a guilt-free, clean, healthy and protein-rich maner.  
+			experience in a guilt-free, clean, healthy and protein-rich maner, with a recipe adapted from 
+			<a href="http://nutritionstripped.com/a-stripped-smoothie-mint-chocolate-chip/">Nutrition Stripped.</a>	 \
 		</p>
 		<table id="steps">
 			<caption>Steps</caption>

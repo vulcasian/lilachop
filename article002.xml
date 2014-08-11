@@ -124,10 +124,9 @@
 			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
 		</div>
 		<p>
-			<q>It's as close to protein magic as one can get.</q> 
-			(<cite>Anna Sward</cite>).
-			This recipe was adapted from Protein Pow's Dark Chocolate and Almond
-			Protein Cheesecake recipe by Anna Sward, who gave it a 10/10.
+			This recipe was adapted from 
+			<a href="http://proteinpow.com/2013/08/dark-chocolate-almond-whey-protein.html">Proteinpow</a> 
+			by Anna Sward, who said <q>It's as close to protein magic as one can get.</q> 
 			Let's see if you agree!
 		</p>
 		<table id="steps">
