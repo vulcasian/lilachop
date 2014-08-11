@@ -81,7 +81,8 @@ IMAGES = article001a.jpg article001b.jpg article001c.jpg \
 	 article005a.jpg article005b.jpg article005c.jpg \
 	 article006a.jpg article006b.jpg article006c.jpg \
 	 article007a.jpg article007b.jpg article007c.jpg \
-	 article009a.jpg article009b.jpg article009c.jpg
+	 article009a.jpg article009b.jpg article009c.jpg \
+	 article010a.jpg article010b.jpg article010c.jpg
 
 # We build thumbnails from $(IMAGES)...
 # XXX add all the thumbnails " - "
@@ -92,7 +93,8 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article005a.thumb.jpg article005b.thumb.jpg article005c.thumb.jpg \
 	 article006a.thumb.jpg article006b.thumb.jpg article006c.thumb.jpg \
 	 article007a.thumb.jpg article007b.thumb.jpg article007c.thumb.jpg \
-	 article009a.thumb.jpg article009b.thumb.jpg article009c.thumb.jpg
+	 article009a.thumb.jpg article009b.thumb.jpg article009c.thumb.jpg \
+	 article010a.thumb.jpg article010b.thumb.jpg article010c.thumb.jpg 
 
 all: $(HTMLS)
 

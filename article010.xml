@@ -4,22 +4,22 @@
 			<h2><a href="#recipe">About Lila, Chop!</a></h2> 
 		</div>
 		<nav>
-			<a href="#image1"><img src="article010a.thumb.jpg" /></a>
-			<a href="#image2"><img src="article009b.thumb.jpg" /></a>
-			<a href="#image3"><img src="article009c.thumb.jpg" /></a>
+			<a href="#image1"><img src="article010a.thumb.jpg" alt="Valentines day protein muffins" title="Valentines day protein muffins" /></a>
+			<a href="#image2"><img src="article010b.thumb.jpg" alt="Lila begging for some ice cream" title="Lila begging for some ice cream" /></a>
+			<a href="#image3"><img src="article010c.thumb.jpg" alt="What it takes to make a protein smoothie" title="What it takes to make a protein smoothie" /></a>
 		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-08-10">2014-08-10</time>
 		<aside>
-			Meet Christina Hallalulu, author and founder of the
-			recipe blog <span class="nm">Lila, Chop!</span> 
-			Clandestine health food and Living...
-			fatally delicious, baking clean with protein powder...
+			About the <span
+				class="nm">Lila, Chop!</span> recipe blog: How
+			to use it, my promise to you, and the making of the
+			website.
 		</aside>
 	</header>
 	<a id="image1" href="#recipe"><img src="article010a.jpg" /></a>
-	<a id="image2" href="#recipe"><img src="article009b.jpg" /></a>
-	<a id="image3" href="#recipe"><img src="aboutmephotocsmusclebeach.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article010b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article010c.jpg" /></a>
 	<section id="recipe">
 		<p>
 			<b>Our promise to you:</b>
@@ -65,8 +65,8 @@
 		<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
 	</section>
 	<nav>
-		<a href="#image1"><img src="article009a.thumb.jpg" /></a>
-		<a href="#image2"><img src="article009b.thumb.jpg" /></a>
-		<a href="#image3"><img src="article009c.thumb.jpg" /></a>
+		<a href="#image1"><img src="article010a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article010b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article010c.thumb.jpg" /></a>
 	</nav>
 </article>
