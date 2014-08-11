@@ -33,6 +33,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 amazon.png \
 	 article.js \
 	 bg.png \
+	 email.png \
 	 files.png \
 	 glutenfree.png \
 	 highprotein.png \
