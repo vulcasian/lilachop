@@ -8,10 +8,10 @@
 				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<img title="Vegan" alt="Vegan" data-sblg-tags="vegan" src="vegan.png" />
 				<img title="Raw" alt="Raw" data-sblg-tags="raw" src="raw.png" />
-				<div class="nutrition"><div data-lilachop-amount="293"></div><div>cal</div></div>
-				<div class="nutrition"><div data-lilachop-amount="24"></div><div>pro</div></div>
-				<div class="nutrition"><div data-lilachop-amount="20"></div><div>carb</div></div>
-				<div class="nutrition"><div data-lilachop-amount="18"></div><div>fat</div></div>
+				<div class="nutrition"><div>293</div><div>cal</div></div>
+				<div class="nutrition"><div>24</div><div>pro</div></div>
+				<div class="nutrition"><div>20</div><div>carb</div></div>
+				<div class="nutrition"><div>18</div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>
@@ -34,7 +34,7 @@
 		<p>
 			After my first trip to Egypt back in 2010, when I was
 			still a vegetarian, I discovered real tahini (or as
-			they call it there, <q>tahina</q>, and ate it with
+			they call it there, <q>tahina</q>), and ate it with
 			everything.  
 			As salad dressing, as meze, as sandwich
 			spread... I could not get enough of it. It was like
@@ -106,9 +106,9 @@
 			(Total Calories: <span data-lilachop-amount="293"></span>.)
 		</div>
 		<p>
-			A few years later I discovered a recipe for a tahini
-			protein Smoothie by
-			<a href="http://nutritionstripped.com/cinnamon-tahini-protein-smoothie/">Nutritionstripped</a>, 
+			A few years later I discovered a recipe 
+			<a href="http://nutritionstripped.com/cinnamon-tahini-protein-smoothie/">Cinnamon Tahini Protein Smoothie</a>
+			by <a href="http://nutritionstripped.com/">Nutritionstripped</a>, 
 			one of my favourite food bloggers and sources of
 			healthy recipes.  
 			I was overjoyed to replicate my Egypt experience at
