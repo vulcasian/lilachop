@@ -51,10 +51,10 @@
 			template, or unable to add cool features (such as the
 			change servings tool!) as I wish. 
 			So with the help, and support of K, I decided to
-			take the time to learn HTML, CVS, CSS, Vim and Unix, in order to
+			take the time to learn HTML, CVS, CSS, vim and Unix, in order to
 			build this website and create all the recipes myself in
-			terminal. The site is powered by 
-			<a href="http://kristaps.bsd.lv/sblg/">sblg</a>, K's offline blog utility for UNIX on 
+			terminal. The site is powered by the
+			<a href="http://kristaps.bsd.lv/sblg/">sblg</a> system on
 			<a href="http://www.openbsd.org/">OpenBSD</a>.
 			I must say, it's far more awesome to do it
 			this way. Who says chicks can't learn to
@@ -81,22 +81,27 @@
 			<b>Home page</b>
 		</p>
 		<p> 
-			This is the Home page, where you can see a blog-roll of
+			This is the home page, where you can see a blog-roll of
 			the latest articles and recipes.  
 			The left-hand navigation pane, you will see a list
 			of articles by tags, such as Recipes by
 			Nutritional Profile: Gluten-fee, Low-Carb, Vegan,  et
 			cetera, or Recipes by Type: Smoothie, Cake, Savoury
 			dishes, et cetera. (On a smart phone, you will not see
-			the navigation pan. Use the Home and Archive button to
+			the navigation pan. Use the 
+			<img class="hicon" src="home.png" alt="Home"/> home and 
+			<img class="hicon" src="files.png" alt="Archive"/> archive button to
 			navigate instead.) 
 			At the bottom of the page you will see a link to the
 			 <img class="hicon" src="files.png" alt="Archive"/> 
-			Archives, where you will find a list of all my recipes.
+			archives, where you will find a list of all my recipes.
 			You can always navigate back home by clicking on the
-			<img class="hicon" src="home.png" alt="Home"/> Home icon, or the blog title.
-			Want to follow my on Instagram, get recipe updates with
-			RSS feed, or email me? Click on the icons at the top of
+			<img class="hicon" src="home.png" alt="Home"/> home icon or the blog title.
+			Want to follow my on 
+			<img class="hicon" src="instagram.png" alt="Instagram"/> Instagram, get recipe updates with
+			<img class="hicon" src="rss.png" alt="RSS"/> RSS, or 
+			<img class="hicon" src="email.png" alt="E-mail"/> email me? 
+			Click on the icons at the top of
 			the page. 
 			I will always appreciate personal feedback and
 			comments about my site, and try to answer questions as
@@ -140,8 +145,8 @@
 			The ingredients I use are clean and wholesome. Most of
 			my recipes are gluten, lactose and soy-free, and a lot
 			of them feature protein powder as a key ingredient.  
-			I link the products I use to the websites I bought them
-			from, so you can buy them online yourselves. 
+			I link the products I use to 
+			<img class="hicon" src="amazon.png" alt="Amazon"/> Amazon so you can buy them online yourselves. 
 			(Note that  <b>all</b> the products I mention are ones I have
 			chosen to use myself, because I find them of
 			superior quality and taste, suitable for my recipes and
