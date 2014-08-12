@@ -12,8 +12,8 @@
 		<time datetime="2014-08-10">2014-08-10</time>
 		<aside>
 			About the <span
-				class="nm">Lila, Chop!</span> recipe blog: How
-			to use it, our promise to you, and the making of the
+				class="nm">Lila, Chop!</span> recipe blog: how
+			to use it, navigation, and the making of the
 			website.
 		</aside>
 	</header>
@@ -51,7 +51,7 @@
 			template, or unable to add cool features (such as the
 			change servings tool!) as I wish. 
 			So with the help, and support of K, I decided to
-			take the time to learn HTML, CSS, Vim and Unix, in order to
+			take the time to learn HTML, CVS, CSS, Vim and Unix, in order to
 			build this website and create all the recipes myself in
 			terminal. The site is powered by 
 			<a href="http://kristaps.bsd.lv/sblg/">sblg</a>, K's offline blog utility for UNIX on 
@@ -91,9 +91,10 @@
 			the navigation pan. Use the Home and Archive button to
 			navigate instead.) 
 			At the bottom of the page you will see a link to the
+			 <img class="hicon" src="files.png" alt="Archive"/> 
 			Archives, where you will find a list of all my recipes.
 			You can always navigate back home by clicking on the
-			Home icon, or the blog title.
+			<img class="hicon" src="home.png" alt="Home"/> Home icon, or the blog title.
 			Want to follow my on Instagram, get recipe updates with
 			RSS feed, or email me? Click on the icons at the top of
 			the page. 
