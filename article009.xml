@@ -20,14 +20,15 @@
 	<a id="image3" href="#recipe"><img src="article009c.jpg" /></a>
 	<section id="recipe">
 		<p>
-			My name is Christina. I am the owner of the recipe site
-			and the Instagram account <a
+			My name is Christina. I am the owner of <span
+				class="nm">Lila, Chop!</span> and the Instagram
+			account <a
 				href="http://instagram.com/project_fitspiration">project_fitspiration</a>.
-			Delila-Sky (aka Lila) is my Siberian Husky and muse
-			behind the name, Lila, Chop!  
+			Delila-Sky (Lila) is my Siberian Husky and muse
+			behind the name of this recipe blog.   
 			I am half-Thai, half-Swedish, and passionate
 			about everything related to fitness, health,
-			gourmet food, travel and Siberian huskies.
+			gourmet food, travel, and Siberian huskies.
 			I am also a pilot, and I love to fly. 
 		</p> 
 		<figure>
@@ -35,12 +36,12 @@
 			<figcaption>Becoming a pilot.</figcaption>
 		</figure>
 		<p> 
-			But let's talk about my love of healthy gourmet food&#8211;a supposed
+			But let's talk about my love of healthy gourmet food&#8212;a supposed
 			oxymoron.
 		</p>
 		<figure>
 			<img src="aboutmephotocsapkitchen.jpg" alt="Christina in kitchen uniform" /> 
-			<figcaption>Immaculate uniform for a week in the pastry kitchen.</figcaption>
+			<figcaption>The immaculately dressed pastry chef.</figcaption>
 		</figure>
 		<p> 
 			Having graduated last year from Ecole hôteliere de
@@ -48,7 +49,7 @@
 			lot of time on my hands and the usual pressing
 			decisions to make about what to do with life, career,
 			identify, et cetera.  I certainly didn't feel ready to
-			open up my own hotel or start my own chain of
+			open up my own hotel or start a chain of
 			restaurants, nor did I feel inclined to work split
 			shifts as a chef.  
 			But there had to be something I could do with my
@@ -65,7 +66,7 @@
 			better part of my teens and early twenties
 			yo-yo-dieting and obsessively experimenting with
 			different food regimes, (vegan, vegetarian,
-			gluten-free, raw food, macrobiotic and detox fasts) I
+			gluten-free, raw food, macrobiotic and detox fasts), I
 			was fundamentally fed up of dieting and restricting
 			myself. 
 			I started eating chicken, and for the first
@@ -81,8 +82,8 @@
 		</p>
 		<figure>
 			<img src="aboutmephotocskdkanelbulle.jpg" alt="Me and K, fighting over a kanelbulle" />
-			<figcaption>Fighting for the first kanelbulle bite with K, who later helped me build Lila, Chop!</figcaption>
-		</figure>
+			<figcaption>Letting K have the first kanelbulle bite,
+				for he would later help me build this site.</figcaption> </figure>
 		<p>
 			I love gastronomy, fine-dining and gourmet-cooking with
 			ingredients such as black truffle and
@@ -90,8 +91,8 @@
 			I love beautifully-presented dishes and that
 			moment when the cheese or dessert trolley comes out at
 			the end of a meal, right after the bread-crumbing. 
-			In fact, I'm a real food snob.  
-			But what i can be accused of the most, is that I
+			<b>In fact, I'm a real food snob</b>.
+			But what I can be most accused of, is that I
 			possess a <i>terrible</i> sweet tooth. 
 
 			My favourite desserts in the world include
@@ -101,18 +102,19 @@
 			two sinfully rich and sugary desserts had a love-child:
 			Swedish sticky chocolate cake, <q>kladdkaka</q>. 
 			Yup, that's the best one of all, and what I lived off
-			of during my boarding-school days in Sweden. 
+			of during my boarding-school days. 
 			(How much unhealthier can one's tastes get?) 
 
 		</p>
 		<p>
 			Spending four-years at the world's most renown hotel
 			school in Switzerland did nothing but cultivate and
-			refine my taste and interest in this.  
+			refine my taste and interest in food.  
 			Day trip to a chocolate factory for a history of
 			chocolate followed by coffee and truffle-pairing?  
-			Hell, yes. 
-			An expanding waisteline as a consequence of all this?
+			Hell, yes. Internship at Nestlé Nespresso for dark
+			chocolate and Grand Cru espresso-tasting? Yes, yes!  An
+			expanding waistline as a consequence of all this?
 			Unfortunately, yes as well.	
 
 		</p>
@@ -123,7 +125,7 @@
 				Switzerland.</figcaption> 
 		</figure>
 		<p> 
-			But I had a problem&#8211;I could not coincide this
+			But I had a problem: I could not coincide this
 			with my passion for health and fitness, with my female
 			pride of wanting to look good in a bikini, and my sound
 			belief in taking care of one's body by nourishing it
@@ -142,10 +144,12 @@
 			For the first time in my life, I was hitting the gym
 			regularly, and hard. 
 
-			Six days a week, two hours a day: weights, and
-			adding more strength-training to my previously
-			cardio-dominant workouts along with the high intensity
-			interval training, bodyrocktv.  
+			Six days a week, two hours a day: lifting, cardio, and
+			high intensity interval training (HIIT) from <a href=
+				"http://www.bodyrock.tv/">bodyrocktv</a>. I
+			switched the focus of my workouts from cardio to
+			strength-training and weight-lifting, and only then did
+			the results start to show.  
 
 			I began to find myself in the best shape of my life, and
 			getting continually stronger, fitter, and leaner every
@@ -159,22 +163,24 @@
 			This could only have been possible with the
 			right approach to food and nutrition, however.
 			You know that saying, <q>you can't out-exercise a bad diet?</q> 
-			Well, it's true&#8211; I had to make sure the foods I
+			Well, it's true; I had to make sure that what I
 			was putting into my body would give me sustained energy
 			to last throughout my workouts, and enough protein to
 			repair my muscle tissue after.	
 
-			Without wanting to restrict myself and stubbornly
+			Without wanting to restrict myself, and stubbornly
 			refusing to get sucked back into any diet mentality, I
 			had to learn how to eat properly for this intensity of
-			workouts and my fitness goals. 
+			workouts and for my fitness goals. 
 
+		</p>
+		<p>
 			Sadly, there seemed to be no room for a gourmet foodie
 			in this lifestyle. Only boring cottage-cheese salads,
 			egg-white omelettes, cardboard-tasting protein bars and
-			grainy, protein shakes! 
+			grainy, scary-looking protein shakes! 
 
-			(And every time such dire thoughts crossed my mind, I
+			(Every time such dire thoughts crossed my mind, I
 			would find myself inexplicably fantasising about ice
 			cream.)
 		</p>
@@ -183,15 +189,17 @@
 			<figcaption>Pouting for some magnum, even in Phuket Thailand paradise</figcaption>
 		</figure>
 		<p>
-			Fortunately, I found a way around that &#8211;the perfect
-			compromise between food, fitness and figure: clean
-			cooking and baking. 
+			Fortunately, I found a way around that; the perfect
+			compromise between food, fitness and figure (the 3
+			F's).  It was clean cooking and baking. 
 
 			By clean, I mean using natural, whole, organic,
 			unprocessed  ingredients. Ingredients low
 			in sugar and fat, that are predominantly gluten- and
 			lactose-free. And then protein powder, of course. 
 			
+		</p>
+		<p>
 			Thanks to Instagram, I found hundreds of recipe ideas
 			from fellow health-foodies, and tips from
 			fitness models on how to make decadent, protein-rich
@@ -202,17 +210,17 @@
 			powder into the actual recipes themselves. 
 			In fact, I learned that the one major secret ingredient
 			was baking with <b>protein powder</b>.  
-			I call this the sex appeal behind my healthy creations,
+			I call this the sex appeal behind my healthy recipes,
 			because it's the one ingredient that spiffs up my
 			creations in terms of consistency, flavour, sweetness
 			and nutritional value.
 		</p>
 		<figure>
 			<img src="aboutmephotosbackday.jpg" alt="Christina on the lat pull-down machine" />
-			<figcaption>Here I am, on the lat pull-down machine, well-nourished and working hard!</figcaption>
+			<figcaption>On the lat pull-down machine, well-nourished and working hard!</figcaption>
 		</figure>
 		<p>
-			I began experimenting, and inviting my girlfriends
+			I began experimenting in the kitchen and inviting my girlfriends
 			over for Sunday brunch to taste my clean, healthy
 			and protein-filled creations. 
 
@@ -222,8 +230,10 @@
 			And I realised I was <i>good</i> at it.
 			Pretty soon all my friends were asking me for my
 			recipes, and I could not keep up with scribbling them
-			down on post-its or posting them in the Instagram
-			comments of my photos. 
+			down on post-its or writing them in the comments of my
+			<a
+				href="http://instagram.com/project_fitspiration">Instagram
+			</a> photos.  
 		</p>
 		<figure>
 			<img src="aboutmephotobrunchcollage.jpg" alt="Christina's healthy brunch recipes" />	

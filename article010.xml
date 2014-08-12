@@ -51,7 +51,8 @@
 			template, or unable to add cool features (such as the
 			change servings tool!) as I wish. 
 			So with the help, and support of K, I decided to
-			take the time to learn HTML, CVS, CSS, vim and Unix, in order to
+			take the time to learn HTML, CVS, CSS, 
+			<a href="http://www.vim.org/">vim</a>, and Unix, in order to
 			build this website and create all the recipes myself in
 			terminal. The site is powered by the
 			<a href="http://kristaps.bsd.lv/sblg/">sblg</a> system on
@@ -61,7 +62,7 @@
 			program?
 		</p>
 		<p>
-			If you choose to post photos of your creations from my
+			If you choose to post photos of your results from my
 			recipes or to re-post the recipes themselves, be sure to
 			cite me!  Likewise, I make sure to cite all the recipes
 			I adapt and find inspiration from.  
@@ -83,15 +84,18 @@
 		<p> 
 			This is the home page, where you can see a blog-roll of
 			the latest articles and recipes.  
-			The left-hand navigation pane, you will see a list
+			On the left-hand navigation pane, you will see a list
 			of articles by tags, such as Recipes by
-			Nutritional Profile: Gluten-fee, Low-Carb, Vegan,  et
-			cetera, or Recipes by Type: Smoothie, Cake, Savoury
+			Nutritional Profile: gluten-fee, low-Carb, vegan,  et
+			cetera, or Recipes by Type: smoothie, cake, savoury
 			dishes, et cetera. (On a smart phone, you will not see
 			the navigation pan. Use the 
 			<img class="hicon" src="home.png" alt="Home"/> home and 
 			<img class="hicon" src="files.png" alt="Archive"/> archive button to
-			navigate instead.) 
+			navigate instead.)
+		</p>
+		<img src="aboutlilaphotosmartphone.jpg" alt="iPhone view" title="iPhone navigation pane" />
+		<p>	
 			At the bottom of the page you will see a link to the
 			 <img class="hicon" src="files.png" alt="Archive"/> 
 			archives, where you will find a list of all my recipes.
@@ -102,7 +106,9 @@
 			<img class="hicon" src="rss.png" alt="RSS"/> RSS, or 
 			<img class="hicon" src="email.png" alt="E-mail"/> email me? 
 			Click on the icons at the top of
-			the page. 
+			the page.
+		</p>
+		<p>	
 			I will always appreciate personal feedback and
 			comments about my site, and try to answer questions as
 			promptly as I can. 
@@ -174,7 +180,9 @@
 			<b>Archive page</b>
 		</p>
 		<p>
-			Click on the archive icon at the top of the page to see
+			Click on the
+			 <img class="hicon" src="files.png" alt="Archive"/> 
+		       archive icon at the top of the page to see
 			a full list of recipes and articles in chronological
 			order.  Be prepared to scroll down, there will be many
 			and many more to come!
