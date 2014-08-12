@@ -8,6 +8,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 aboutlilachoprecipepage1.jpg \
 	 aboutlilachoprecipepage2.jpg \
 	 aboutlilachopterminal.jpg \
+	 aboutlilachopsmartphone.jpg \
 	 aboutmephotoCSlegs.jpg \
 	 aboutmephotobrunchcollage.jpg \
 	 aboutmephotocorfetti.jpg \

@@ -75,7 +75,7 @@
 		</p>
 		<figure>
 			<img src="aboutlilachopterminal.jpg" alt="Terminal screen shot" /> 
-			<figcaption>Building Lila, Chop! in Terminal.</figcaption>
+			<figcaption>Building <span class="nm">Lila, Chop!</span> in Terminal.</figcaption>
 		</figure>
 		
 		<p> 
@@ -93,8 +93,12 @@
 			<img class="hicon" src="home.png" alt="Home"/> home and 
 			<img class="hicon" src="files.png" alt="Archive"/> archive button to
 			navigate instead.)
-		</p>
-		<img src="aboutlilaphotosmartphone.jpg" alt="iPhone view" title="iPhone navigation pane" />
+		</p>			
+		<figure>
+			<img src="aboutlilachopsmartphone.jpg" alt="Smartphone view" /> 
+			<figcaption>iPhone navigation pane.</figcaption>
+		</figure>
+	
 		<p>	
 			At the bottom of the page you will see a link to the
 			 <img class="hicon" src="files.png" alt="Archive"/> 
