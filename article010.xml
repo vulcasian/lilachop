@@ -40,18 +40,23 @@
 		</p>
 		<p>	
 			Whatever the reason, welcome to <span class="nm">Lila, Chop!</span> 
-			My goal with this recipe blog is to provide you with
+			My primary goal with this recipe blog is to provide you with
 			simple recipes that look sinfully delicious yet are nutritiously healthy. 
-			
-			The ingredients I use are clean and wholesome. Most of
-			my recipes are gluten, lactose and soy-free, and a lot
-			of them feature protein powder as a key ingredient.  
-			I link the products I use to the websites I bought them
-			from, so you can buy them online yourselves. 
-			(Note that<b>all</b> the products I mention are ones I have
-			choosen to use myself, because I find them of
-			superior quality and taste, suitable for my recipes and
-			of course, nutritious.) 
+		</p>
+		<p>
+			My secondary goal was to create a recipe website myself. 
+			There are a lot of blogging tools out there, ones that
+			I have used before and found easy but limiting. I did
+			not want to find myself stuck with someone else's
+			template, or unable to add cool features (such as the
+			change servings tool!) as I wish. 
+			So with the help and encouragement of K, I decided to
+			take the time to learn HTML, CSS and Unix, in order to
+			build this website and create all the recipes myself in
+			terminal.  
+			I must say, it's far more awesome to do it
+			this way. Who says chicks can't learn to
+			program?
 		</p>
 		<p>
 			If you choose to post photos of your creations from my
@@ -65,37 +70,93 @@
 		<p>
 			Christina &amp; Lila
 		</p>
-		<p>
-			<b>How to use</b> <span class="nm">Lila, Chop!</span>	
-		</p>
+		<figure>
+			<img src="aboutlilachopterminal.jpg" alt="Terminal screen shot" /> 
+			<figcaption>Building Lila, Chop! in Terminal.</figcaption>
+		</figure>
+		
 		<p> 
 			<b>Home page</b>
+		</p>
+		<p> 
+			This is the Home page, where you can see a blogroll of
+			the latest articles and recipes.  
+			On the left-hand navigation pane, you will see a list
+			of articles by tags, such as Recipes by
+			Nutritional Profile: Gluten-fee, Low-Carb, Vegan,  et
+			cetera, or Recipes by Type: Smoothie, Cake, Savory
+			dishes, et cetera.	
+			At the bottom of the page you will see a link to the
+			Archives, where you will find a list of all my recipes.
+			You can always navigate back home by clicking on the
+			Home icon, or the blog title.
+			Want to follow my on Instagram, get recipe updates with
+			RSS feed, or email me? Click on the icons at the top of
+			the page. 
+			I will always appreciate personal feedback and
+			comments about my site, and try to answer questions as
+			promptly as I can. 
 		</p>
 		<figure>
 			<img src="aboutlilachophomepage.jpg" alt="Home page screen shot" /> 
 			<figcaption>Home page.</figcaption>
 		</figure>
+	
 		<p> 
 			<b>Recipe page</b>
 		</p>
 		<p>
 			Check out the nutritional information and the
 			food-icons to see exactly what kind of nutritional
-			profile each recipe has! And remember, you can always
-			adapt them to your liking and change the serving
-			amounts using the change servings tool.  
+			profile each recipe has! By hovering your mouse over
+			each icon, you can see what the icon indicates (such as
+			a gluten-free or low-fat recipe). 
+			The macro-nutrient information, or <q>macros</q>as I
+			call them, such as calories and grams protein, are stated per serving.  
+			The total number of servings is indicated underneath
+			the ingredients list, along with the total calories for the entire recipe. 
+			Remember, you can always adapt recipe ingredents to your liking,
+			and change the serving amounts using the change
+			servings tool.  
+			
+		</p>
+		<p>
+			The ingredients I use are clean and wholesome. Most of
+			my recipes are gluten, lactose and soy-free, and a lot
+			of them feature protein powder as a key ingredient.  
+			I link the products I use to the websites I bought them
+			from, so you can buy them online yourselves. 
+			(Note that<b>all</b> the products I mention are ones I have
+			choosen to use myself, because I find them of
+			superior quality and taste, suitable for my recipes and
+			of course, nutritious.) 
 
 		</p>
 		<figure>
 			<img src="aboutlilachoprecipepage1.jpg" alt="Recipe page ingredients and instructions screen shot" /> 
 			<figcaption>Recipe ingredients and instructions.</figcaption>
 		</figure>
+		<p>
+			By clicking on one of the recipe thumbnails, you will
+			see a full-screen photo of the recipe. Browse through
+			the various recipe photos, and feel yourself start to
+			salivate!  
+			Click on the recipe name to get back to the recipe ingredients
+			and instructions page.  
+		</p>
 		<figure>
 			<img src="aboutlilachoprecipepage2.jpg" alt="Recipe page photos screen shot" /> 
 			<figcaption>Recipe photos.</figcaption>
 		</figure>
+		
 		<p> 
 			<b>Archive page</b>
+		</p>
+		<p>
+			Click on the archive icon at the top of the page to see
+			a full list of recipes and articles in chronological
+			order.  Be prepared to scroll down, there will be many
+			and many more to come!
 		</p>
 		<figure>
 			<img src="aboutlilachoparchivepage.jpg" alt="Archive page screen shot" /> 
