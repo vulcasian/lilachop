@@ -60,6 +60,8 @@ article > header span		{ color: #222; }
 article > header span 		{ border-left: thin solid silver;
 				  padding-left: 0.5ex;
 				  margin-left: 0.25ex; }
+article img.hicon		{ width: 24px; 
+				  margin-bottom: -6px; }
 article > header .health img	{ width: 38px; 
 				  margin-bottom: -5px; }
 article .nutrition 		{ display: inline-block; }

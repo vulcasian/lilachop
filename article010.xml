@@ -50,17 +50,19 @@
 			not want to find myself stuck with someone else's
 			template, or unable to add cool features (such as the
 			change servings tool!) as I wish. 
-			So with the help and encouragement of K, I decided to
-			take the time to learn HTML, CSS and Unix, in order to
+			So with the help, and support of K, I decided to
+			take the time to learn HTML, CSS, Vim and Unix, in order to
 			build this website and create all the recipes myself in
-			terminal.  
+			terminal. The site is powered by 
+			<a href="http://kristaps.bsd.lv/sblg/">sblg</a>, K's offline blog utility for UNIX on 
+			<a href="http://www.openbsd.org/">OpenBSD</a>.
 			I must say, it's far more awesome to do it
 			this way. Who says chicks can't learn to
 			program?
 		</p>
 		<p>
 			If you choose to post photos of your creations from my
-			recipes or to repost the recipes themselves, be sure to
+			recipes or to re-post the recipes themselves, be sure to
 			cite me!  Likewise, I make sure to cite all the recipes
 			I adapt and find inspiration from.  
 		</p>
@@ -79,13 +81,15 @@
 			<b>Home page</b>
 		</p>
 		<p> 
-			This is the Home page, where you can see a blogroll of
+			This is the Home page, where you can see a blog-roll of
 			the latest articles and recipes.  
-			On the left-hand navigation pane, you will see a list
+			The left-hand navigation pane, you will see a list
 			of articles by tags, such as Recipes by
 			Nutritional Profile: Gluten-fee, Low-Carb, Vegan,  et
-			cetera, or Recipes by Type: Smoothie, Cake, Savory
-			dishes, et cetera.	
+			cetera, or Recipes by Type: Smoothie, Cake, Savoury
+			dishes, et cetera. (On a smart phone, you will not see
+			the navigation pan. Use the Home and Archive button to
+			navigate instead.) 
 			At the bottom of the page you will see a link to the
 			Archives, where you will find a list of all my recipes.
 			You can always navigate back home by clicking on the
@@ -108,16 +112,27 @@
 		<p>
 			Check out the nutritional information and the
 			food-icons to see exactly what kind of nutritional
-			profile each recipe has! By hovering your mouse over
-			each icon, you can see what the icon indicates (such as
-			a gluten-free or low-fat recipe). 
+			profile each recipe has! 
+			By hovering your mouse over each icon, you can see what
+			the icon indicates: 
+			<img class="hicon" src="glutenfree.png" alt="Gluten-free"/> gluten-free,
+			<img class="hicon" src="lactosefree.png" alt="Lactose-free"/> lactose-free,
+			<img class="hicon" src="sugarfree.png" alt="Sugar-free"/> sugar-free,
+			<img class="hicon" src="lowcarb.png" alt="Low-Carb"/> low-carb,
+			<img class="hicon" src="lowfat.png" alt="Low-Fat"/> low-fat,
+			<img class="hicon" src="highprotein.png" alt="High-Protein"/> high-protein,
+			<img class="hicon" src="raw.png" alt="Raw"/> raw,
+			<img class="hicon" src="vegan.png" alt="Vegan"/> vegan, and
+			<img class="hicon" src="paleo.png" alt="Paleo"/> paleo.
 			The macro-nutrient information, or <q>macros</q>as I
-			call them, such as calories and grams protein, are stated per serving.  
-			The total number of servings is indicated underneath
-			the ingredients list, along with the total calories for the entire recipe. 
-			Remember, you can always adapt recipe ingredents to your liking,
-			and change the serving amounts using the change
-			servings tool.  
+			call them, (calories &#x007C; grams protein &#x007C; grams
+			carbs &#x007C; grams fat) are stated per serving.
+			The number of servings each recipes makes is indicated
+			underneath the ingredients list, along with the total
+			calories for the entire recipe.  
+			Remember, you can always adapt recipe ingredients to
+			your liking, and change the serving amounts using the
+			change servings tool.  
 			
 		</p>
 		<p>
@@ -126,8 +141,8 @@
 			of them feature protein powder as a key ingredient.  
 			I link the products I use to the websites I bought them
 			from, so you can buy them online yourselves. 
-			(Note that<b>all</b> the products I mention are ones I have
-			choosen to use myself, because I find them of
+			(Note that  <b>all</b> the products I mention are ones I have
+			chosen to use myself, because I find them of
 			superior quality and taste, suitable for my recipes and
 			of course, nutritious.) 
 
