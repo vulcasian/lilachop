@@ -1,0 +1,199 @@
+<article data-sblg-article="1" data-sblg-tags="nutella chocolate smoothie hazelnut">
+	<header>
+		<div>
+			<h2><a href="#recipe">Nuts about Nutella</a></h2>
+			<div class="health">
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
+				<span title="Calories" class="calories">330</span>
+				<span title="Grams Protein" class="protein">32</span>
+				<span title="Grams Carbohydrates" class="carbs">26</span>
+				<span title="Grams Fat" class="fat">15</span>
+				<div class="nutrition"><div>330</div><div>cal</div></div>
+				<div class="nutrition"><div>32</div><div>pro</div></div>
+				<div class="nutrition"><div>26</div><div>carb</div></div>
+				<div class="nutrition"><div>15</div><div>fat</div></div>
+			</div>
+		</div>
+		<nav>
+			<a href="#image1"><img src="article005a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article005b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article005c.thumb.jpg" /></a>
+		</nav>
+		<address>Christina Hallalulu</address>
+		<time datetime="2014-05-05">2014-05-05</time>
+		<aside>
+			  If you are nuts about nutella, then look no
+			  further: this original <span class="nm">Lila, Chop!</span> recipe is the
+			  perfect pairing of chocolate and hazelnut in a
+			  delicious and nutritious protein smoothie.
+		  </aside>
+	</header>
+	<a id="image1" href="#recipe"><img src="article005a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article005b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article005c.jpg" /></a>
+	<section id="recipe">
+		<p>
+			Children love nutella. Adults love nutella. The French
+			eat it with their crêpes; the kids with everything. So
+			why not you?  
+			Oh right, because it's unhealthy, and since you've come
+			to <span class="nm">Lila, Chop!</span> for recipes, then you certainly care
+			about that!  
+			Well, how about protein-nutella
+			served clean, healthy, and deliciously nutritious?
+		</p>
+		<table class="ingredients">
+			<caption>Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">scoop</td>
+				<td class="name">
+					<a href="http://www.amazon.com/dp/B000GIQSV6/?tag=lich048-20" class="amazon">Fitnessguru's One Whey Mint Chocolate</a>
+					<span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">scoop</td>
+				<td class="alt name">
+					any chocolate-flavoured protein powder
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">cup</td>
+				<td class="name">Alpro hazelnut milk</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.5"></td>
+				<td class="unit"></td>
+				<td class="name">frozen banana</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="2"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">
+					<a href="http://www.amazon.com/dp/B005P0I322/?tag=lich048-20" class="amazon">Bob's Red Mill hazelnut meal</a>
+					<span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="2"></td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">finely ground hazelnuts</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">raw cacao powder</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.5"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">cacao nibs</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">chopped hazelnuts</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">handfull</td>
+				<td class="alt name">ice (optional)</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount= "3"></td>
+				<td class="alt unit">drops</td>
+				<td class="alt name">
+					<a href="http://www.amazon.com/dp/B00282UD0K/?tag=lich048-20" class="amazon">liquid Stevia, hazelnut</a> 
+					(optional, for sweetness)
+				</td>
+			</tr>
+		</table>
+		<div class="servings">
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="330"></span>.)
+		</div>
+		<p>
+			This was one of my first original recipes, so it has a
+			sweet (pun intended) spot for me.  
+			I learned that the trick to making healthy treats out
+			of traditionally unhealthy recipes, such as nutella, is
+			to substitute sugar for Stevia, flavouring with
+			flavoured whey protein powder, cream with frozen
+			banana, and whole-milk with plant-based milk.	
+		</p>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Put aside the raw cacao powder, cacao
+					nibs and chopped hazelnuts for
+					garnishing last.
+				</td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td> 
+					Blend all other ingredients together in a
+					high-speed blender until smooth and
+					creamy.
+				</td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Pour smoothie into a tall glass and garnish with raw
+					cacao powder, cacao nibs and chopped
+					hazelnuts.  
+				</td>
+			</tr>
+			<tr>
+				<td class="amount">10</td>
+				<td class="unit">min</td>
+				<td>
+					Serve cold, and enjoy!
+				</td>
+			</tr>
+		</table>
+		<p>
+			To make the recipe leaner, simply use less hazelnuts,
+			and replace the frozen banana with crushed ice.
+			Remember, the creamier the consistency and the more
+			frozen the smoothie is, the more it will taste like ice
+			cream. 	
+		</p>
+		<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
+	</section>
+	<nav>
+		<a href="#image1"><img src="article005a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article005b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article005c.thumb.jpg" /></a>
+	</nav>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>
+</article>
