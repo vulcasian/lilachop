@@ -34,6 +34,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 aboutmephotovegetarian.jpg \
 	 article011cup.jpg \
 	 article011banana.jpg \
+	 article011annahallalulu.jpg \
 	 amazon.png \
 	 article.js \
 	 bg.png \

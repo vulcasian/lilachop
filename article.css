@@ -14,10 +14,17 @@ article > a img			{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #47474
 #image1:target,
 #image2:target,
 #image3:target			{ display: block; }
+article h3			{ font-size: 14pt; }
+article h2			{ font-size: 20pt; 
+				  font-weight: inherit;
+				  color: #333;
+				  margin: 0; }
+article h2 a			{ color: #555; }
 article figcaption		{ font-style: italic;
 				  color: #666; }
 article figure			{ text-align: center; 
-				  margin: 0; }
+				  margin-top: 1.12em;
+				  margin-bottom: 0.75em; }
 article figure img		{ width: 100%; 
 				  border-radius: 20px;
 				  box-shadow: 0px 0px 10px #333, inset 0px 0px 10px #000;
@@ -25,6 +32,7 @@ article figure img		{ width: 100%;
 article > #recipe input		{ width: 6ex; }
 article > #recipe div.servings	{ padding-top: 0.5ex; 
 				  padding-left: 1em; }
+article > #recipe h3,
 article > #recipe table,
 article > #recipe p		{ width: 98%;
 				  margin-left: auto; 
@@ -51,11 +59,6 @@ article > header nav 		{ padding-left: 10px; }
 article > header aside,
 article > header time,
 article > header address	{ display: none; }
-article > header h2		{ font-size: 20pt; 
-				  font-weight: inherit;
-				  color: #333;
-				  margin: 0; }
-article > header h2 a		{ color: #555; }
 article > header span		{ color: #222; }
 article > header span 		{ border-left: thin solid silver;
 				  padding-left: 0.5ex;
@@ -145,8 +148,8 @@ article > a img			{ width: 100%;
 				  font-size: inherit; }
 	article > header nav	{ display: none; }
 	article > header > div	{ display: block; }
-	article > header h2 a	{ color: #4EB1BA; }
-	article > header h2	{ font-size: 14pt; 
+	article h2 a		{ color: #4EB1BA; }
+	article h2		{ font-size: 14pt; 
 				  letter-spacing: 2pt;
 				  font-weight: inherit; }
 	article > header img	{ opacity: 1.0; }

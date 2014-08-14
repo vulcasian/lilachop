@@ -1,20 +1,16 @@
 <article data-sblg-article="1" data-sblg-tags="banana chocolate smoothie anna mumsi mumsmums gasparimyofusion">
 	<header>
 		<div>
-			<h2><a href="#recipe">Annabanana chocolate smoothie</a></h2>
+			<h2><a href="#recipe">Anna Banana</a></h2>
 			<div class="health">
 				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
 				<!-- img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" -->
 				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
-				<span title="Calories" class="calories">330</span>
-				<span title="Grams Protein" class="protein">32</span>
-				<span title="Grams Carbohydrates" class="carbs">26</span>
-				<span title="Grams Fat" class="fat">15</span>
-				<div class="nutrition"><div>330</div><div>cal</div></div>
-				<div class="nutrition"><div>32</div><div>pro</div></div>
-				<div class="nutrition"><div>26</div><div>carb</div></div>
-				<div class="nutrition"><div>15</div><div>fat</div></div>
+				<div class="nutrition"><div>303</div><div>cal</div></div>
+				<div class="nutrition"><div>20</div><div>pro</div></div>
+				<div class="nutrition"><div>44</div><div>carb</div></div>
+				<div class="nutrition"><div>7</div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>
@@ -25,29 +21,33 @@
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-08-11">2014-08-11</time>
 		<aside>
-			I dedicate this original <span class="nm">Lila,
-				Chop!</span> recipe to my best friend Anna
-			(<q>Mumsi</q>) Ljosne, my best friend from college. 
-			  delicious and nutritious protein smoothie.
+			Banana and chocolate? Mums...This original <span
+				class="nm">Lila, Chop!</span> smoothie recipe
+			for beginners is dedicated to my best friend, Anna. 
 		  </aside>
-		<figure>
-			<img src="article011annahallalulu.jpg" alt="Anna and Christina" /> 
-			<figcaption>Mumsi + Skuttis = Happy Hallalulus.</figcaption>
-		</figure>
 	</header>
 	<a id="image1" href="#recipe"><img src="article011a.jpg" /></a>
 	<a id="image2" href="#recipe"><img src="article011b.jpg" /></a>
 	<a id="image3" href="#recipe"><img src="article011c.jpg" /></a>
 	<section id="recipe">
 		<p>
-			Children love nutella. Adults love nutella. The French
-			eat it with their crêpes; the kids with everything. So
-			why not you?  
-			Oh right, because it's unhealthy, and since you've come
-			to <span class="nm">Lila, Chop!</span> for recipes, then you certainly care
-			about that!  
-			Well, how about protein-nutella
-			served clean, healthy, and deliciously nutritious?
+			One of my first requests for <span class="nm">Lila,
+				Chop!</span> came from Anna, my best friend
+			from college. 
+			She asked me to post a smoothie recipe for beginners,
+			and I was more than happy to oblige.
+			I owe a lot to Anna (<q>Mumsi Hallaulu</q>),
+			whose support, humour, and presence enriched my life in
+			Switzerland more than I could ever quantify.
+		       (<q>Mums</q> is the Swedish equivalent for <q>yummy</q>.)
+			That's why this recipe is dedicated to her, the
+			<b>Ananabanana Chocolate Smoothie for Beginners</b>. 
+		</p>
+		<figure>
+			<img src="article011annahallalulu.jpg" alt="Anna and Christina" /> 
+			<figcaption>Mumsi + Skuttis = Happy Hallalulus.</figcaption>
+		</figure>
+		<p>
 		</p>
 		<table class="ingredients">
 			<caption>Ingredients</caption>
@@ -58,85 +58,125 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="amount" data-lilachop-amount="0.5"></td>
 				<td class="unit">scoop</td>
 				<td class="name">
-					<a href="http://www.amazon.com/dp/B000GIQSV6/?tag=lich048-20" class="amazon">Fitnessguru's One Whey Mint Chocolate</a>
-					<span class="altor">or</span>
+					<a
+						href="http://www.amazon.com/dp/B006B5MR5Y/?tag=lich048-20"
+						class="amazon">Gaspari Nutrition Myofusion Elite Protein Series, Chocolate
+						</a> 
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.5"></td>
+				<td class="unit">scoop</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B004L3L4S4/?tag=lich048-20"
+						class="amazon">
+						Arbonne Essentials chocolate
+						protein shake mix,</a> <span class="altor">or</span>
 				</td>
 			</tr>
 			<tr>
 				<td class="alt amount" data-lilachop-amount="1"></td>
-				<td class="alt unit">scoop</td>
+				<td class="alt unit">scoops</td>
 				<td class="alt name">
 					any chocolate-flavoured protein powder
 				</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="1"></td>
-				<td class="unit">cup</td>
-				<td class="name">Alpro hazelnut milk</td>
+				<td class="amount" data-lilachop-amount="150"></td>
+				<td class="unit">ml</td>
+				<td class="name">any vegan or low-fat milk
+					(I used Isola bio organic coco rice milk)</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.75"></td>
+				<td class="unit"></td>
+				<td class="name">chopped frozen bananas</td>
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="0.5"></td>
-				<td class="unit"></td>
-				<td class="name">frozen banana</td>
-			</tr>
-			<tr>
-				<td class="amount" data-lilachop-amount="2"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">
-					<a href="http://www.amazon.com/dp/B005P0I322/?tag=lich048-20" class="amazon">Bob's Red Mill hazelnut meal</a>
-					<span class="altor">or</span>
+					<a
+						href="http://www.amazon.com/dp/B002YR7A9Q/?tag=lich048-20"
+						class="amazon">Bob's Red Mill shredded coconut unsweetened</a> 
 				</td>
-			</tr>
 			<tr>
-				<td class="alt amount" data-lilachop-amount="2"></td>
-				<td class="alt unit">tbsp</td>
-				<td class="alt name">finely ground hazelnuts</td>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">pot</td>
+				<td class="name">
+					<a
+						href="http://www.leshop.ch/leshop/Main.do/direct/en/Search/bio%20yoghurt%20natur/">Bio
+						joghurt natur</a> </td>
+			</tr>
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="1"></td>
 				<td class="unit">tbsp</td>
-				<td class="name">raw cacao powder</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B003XDH72K/?tag=lich048-20"
+						class="amazon">Sunfood Superfood organic raw cacao powder</a> 
+					</td>
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="0.5"></td>
 				<td class="unit">tbsp</td>
-				<td class="name">cacao nibs</td>
-			</tr>
-			<tr>
-				<td class="amount" data-lilachop-amount="1"></td>
-				<td class="unit">tbsp</td>
-				<td class="name">chopped hazelnuts</td>
-			</tr>
-			<tr>
-				<td class="alt amount" data-lilachop-amount="1"></td>
-				<td class="alt unit">handfull</td>
-				<td class="alt name">ice (optional)</td>
-			</tr>
-			<tr>
-				<td class="alt amount" data-lilachop-amount= "3"></td>
-				<td class="alt unit">drops</td>
-				<td class="alt name">
-					<a href="http://www.amazon.com/dp/B00282UD0K/?tag=lich048-20" class="amazon">liquid Stevia, hazelnut</a> 
-					(optional, for sweetness)
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B00K3I80BA/?tag=lich048-20"
+						class="amazon">Lily's dark chocolate baking chips, </a> 
+					<span class="altor">or</span>
+
 				</td>
+			
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="0.5"></td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">raw cacao nibs</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit"></td>
+				<td class="name">raw fresh banana</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="0.5"></td>
+				<td class="alt unit">handful</td>
+				<td class="alt name">ice (optional)</td>
 			</tr>
 		</table>
 		<div class="servings">
 			Servings: 
-			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			<input id="servings" type="number" min="0" step="1" value="2" onchange="changeservings(this.value);" />
 			(Total Calories: <span data-lilachop-amount="330"></span>.)
 		</div>
-		<p>
-			This was one of my first original recipes, so it has a
-			sweet (pun intended) spot for me.  
-			I learned that the trick to making healthy treats out
-			of traditionally unhealthy recipes, such as nutella, is
-			to substitute sugar for Stevia, flavouring with
-			flavoured whey protein powder, cream with frozen
-			banana, and whole-milk with plant-based milk.	
+		<figure>
+			<img src="article011annasportsday.jpg" alt="Anna and Lila" /> 
+			<figcaption>Anna &amp; Lila.</figcaption>
+		</figure>
+		<p> 
+			Whilst staying at Anna's, I had the bizarre experience
+			of witnessing the results of her grocery shopping when
+			she came home carrying two bags full-to-bursting that
+			contained nothing but plain yoghurt, milk chocolate
+			and several kilos worth of fresh bananas. 
+			Having spent most of my life detesting the taste, smell
+			and sight of bananas (thanks to being overfed
+			bananas as a child), I found this a little
+			incredulous. 
+			But as her best friend, it was my duty to honour her
+			tastes and to try to create a banana experience that
+			both of us would find delicious enough to share (thus
+			this recipe serves two).
+			That's why when I decided to post my first recipe
+			dedication to her, it had to consist of the three 
+			ingredients of her grocery shopping, and be
+			simple enough for smoothie-making-beginners.
 		</p>
 		<table id="steps">
 			<caption>Steps</caption>
@@ -150,50 +190,66 @@
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td>
-					Put aside the fresh banana, raw cacao
-					nibs and shredded coconut for
-					garnishing last.
+					Put aside the raw fresh banana,
+					chocolate chips and shredded coconut
+					for garnishing last.
 				</td> 
 			</tr>
 			<tr>
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td> 
-					Blend all other ingredients together in a
+					Blend all other ingredients (including
+					frozen bananas) together in a
 					high-speed blender until smooth and
-					creamy.
-				</td> 
+					creamy.  </td> 
 			</tr>
 			<tr>
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td>
-					Pour smoothie into a glass and garnish
-					with chopped banana, shredded coconut,
-					and raw cacao nibs.  
+					Pour smoothie into two glasses and garnish
+					with fresh chopped banana, shredded coconut,
+					and chocolate chips.  
 				</td>
 			</tr>
 			<tr>
-				<td class="amount">10</td>
+				<td class="amount">5</td>
 				<td class="unit">min</td>
 				<td>
-					Serve cold, and enjoy!
+					<q>Skål</q>, as we say in Swedish for cheers... and mums!
 				</td>
 			</tr>
+			
 		</table>
+		<h3>
+			Banana &amp; Recipe Tips
+		</h3> 
 		<p>
-			To make the recipe leaner, simply use less banana,
-			and and more crushed ice. For an even richer banana
-			taste, try using a banana-flavoured protein powder.	
+			I've found that using frozen fruit is so much better
+			than fresh fruit in smoothies as it gives it a more
+			ice-cream like consistency and experience. 
+			That's why I always make sure to chop up
+			bananas (or any other fruit) the night before and
+			freeze them in zip-lock bags. 
+			Note that if you don't chop them up <i>before</i>
+			freezing them, they will become impossible to blend,
+			and might break your blender altogether!
+		</p>	
+		<p>
+			For an even richer banana taste, try using a
+			banana-flavoured protein powder. I have yet to try one,
+			but I have heard there is a delicious one out
+			there from <a
+				href="http://www.myprotein.com/sports-nutrition/impact-whey-protein/10530943.html">Myprotein</a>.	
 		</p>
 		<figure>
 			<img src="article011banana.jpg" alt="Bananas in a blender" /> 
 			<figcaption>Frozen bananas in a blender.</figcaption>
 		</figure>
-		<p> 
-			<b>Pimp my smoothie tips</b>:
-
-		</p>
+		<h3> 
+			Pimp My Smoothie Tip
+		</h3>
 		<p>
 			People often ask me how I manage to decorate my
 			smoothies, and if I was taught this at hotel school
@@ -201,14 +257,17 @@
 			It's far simpler than you think, so I'm going to
 			give you a tip on how to pimp up your
 			smoothie decorations: Simply dip the
-			smoothie glasses in decicated (shredded) coconut. 
+			smoothie glasses in shredded coconut. 
 			The trick to get the coconut to stick to the rims of
 			the glasses is to dip the part you want the coconut to
 			stick to in a sticky substance, such as honey. 
 			Pour honey, agave, pancake syrup or any sugar-free
 			syrup onto a paper towel. Pour the coconut onto a
-			separate towl. Dip the rims of the glass in honey, then
-			dip them in coconut. Voila! Decorated glasses.
+			separate towel. Dip the rims of the glass in honey, then
+			dip them in coconut. 
+		</p>
+		<p>
+			Voila! Decorated glasses.
 		</p>
 		<figure>
 			<img src="article011cups.jpg" alt="Decorating glasses with coconut" /> 
