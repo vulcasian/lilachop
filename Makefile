@@ -32,9 +32,10 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 aboutmephotosbackday.jpg \
 	 aboutmephotosmoothiescollage.jpg \
 	 aboutmephotovegetarian.jpg \
-	 article011cup.jpg \
+	 article011cups.jpg \
 	 article011banana.jpg \
 	 article011annahallalulu.jpg \
+	 article011annasportsday.jpg \
 	 amazon.png \
 	 article.js \
 	 bg.png \
