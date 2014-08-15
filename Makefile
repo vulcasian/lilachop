@@ -69,7 +69,8 @@ XMLS = article001.xml \
        article007.xml \
        article009.xml \
        article010.xml \
-       article011.xml
+       article011.xml \
+       article012.xml 
 
 # These are all the HTML files that I'll build.
 # Make sure all your articles in $(XMLS) appear here!
@@ -84,7 +85,8 @@ ARTICLES = article001.html \
 	   article007.html \
 	   article009.html \
 	   article010.html \
-	   article011.html  
+	   article011.html \
+	   article012.html 
 
 # These are the images used by the artiles in $(XMLS).
 # When you add a new XML file, make sure you add its images.
@@ -100,7 +102,8 @@ IMAGES = article001a.jpg article001b.jpg article001c.jpg \
 	 article007a.jpg article007b.jpg article007c.jpg \
 	 article009a.jpg article009b.jpg article009c.jpg \
 	 article010a.jpg article010b.jpg article010c.jpg \
-	 article011a.jpg article011b.jpg article011c.jpg
+	 article011a.jpg article011b.jpg article011c.jpg \
+	 article012a.jpg article012b.jpg article012c.jpg
 
 # We build thumbnails from $(IMAGES)...
 # XXX add all the thumbnails " - "
@@ -114,7 +117,8 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article007a.thumb.jpg article007b.thumb.jpg article007c.thumb.jpg \
 	 article009a.thumb.jpg article009b.thumb.jpg article009c.thumb.jpg \
 	 article010a.thumb.jpg article010b.thumb.jpg article010c.thumb.jpg \
-	 article011a.thumb.jpg article011b.thumb.jpg article011c.thumb.jpg 
+	 article011a.thumb.jpg article011b.thumb.jpg article011c.thumb.jpg \
+	 article012a.thumb.jpg article012b.thumb.jpg article012c.thumb.jpg 
 
 
 #####################################################################
