@@ -50,16 +50,16 @@
 		<section>
 			<nav data-sblg-nav="1" data-sblg-navsz="5" data-sblg-navcontent="1">
 				<figure>
-					<a href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
-					<figcaption><a href="${base}.html">${titletext}</a></figcaption>
+					<a href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
+					<figcaption><a href="${sblg-base}.html">${sblg-titletext}</a></figcaption>
 				</figure>
 			</nav>
 			<article>
 				<nav data-sblg-nav="1" data-sblg-navcontent="1">
-					<a title="${titletext}" href="${base}.html"><img alt="${titletext}" src="${base}a.thumb.jpg" /></a>
+					<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
 					<div>
-						<time datetime="${date}">${date}</time>: <a href="${base}.html">${titletext}</a>
-						<aside>${aside}</aside>
+						<time datetime="${sblg-date}">${sblg-date}</time>: <a href="${sblg-base}.html">${sblg-titletext}</a>
+						<aside>${sblg-aside}</aside>
 					</div>
 				</nav>
 			</article>
