@@ -36,6 +36,8 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article011banana.jpg \
 	 article011annahallalulu.jpg \
 	 article011annasportsday.jpg \
+	 article012meng.jpg \
+	 article012mugcake.jpg \
 	 amazon.png \
 	 article.js \
 	 bg.png \
@@ -70,7 +72,7 @@ XMLS = article001.xml \
        article009.xml \
        article010.xml \
        article011.xml \
-       article012.xml 
+       article012.xml
 
 # These are all the HTML files that I'll build.
 # Make sure all your articles in $(XMLS) appear here!
@@ -86,7 +88,7 @@ ARTICLES = article001.html \
 	   article009.html \
 	   article010.html \
 	   article011.html \
-	   article012.html 
+	   article012.html
 
 # These are the images used by the artiles in $(XMLS).
 # When you add a new XML file, make sure you add its images.
@@ -118,7 +120,7 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article009a.thumb.jpg article009b.thumb.jpg article009c.thumb.jpg \
 	 article010a.thumb.jpg article010b.thumb.jpg article010c.thumb.jpg \
 	 article011a.thumb.jpg article011b.thumb.jpg article011c.thumb.jpg \
-	 article012a.thumb.jpg article012b.thumb.jpg article012c.thumb.jpg 
+	 article012a.thumb.jpg article012b.thumb.jpg article012c.thumb.jpg
 
 
 #####################################################################

@@ -154,7 +154,7 @@
 		<div class="servings">
 			Servings: 
 			<input id="servings" type="number" min="0" step="1" value="2" onchange="changeservings(this.value);" />
-			(Total Calories: <span data-lilachop-amount="330"></span>.)
+			(Total Calories: <span data-lilachop-amount="303"></span>.)
 		</div>
 		<figure>
 			<img src="article011annasportsday.jpg" alt="Anna and Lila" /> 
