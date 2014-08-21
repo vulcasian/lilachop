@@ -1,36 +1,35 @@
-<article data-sblg-article="1" data-sblg-tags="chocolate beginnersrecipe easy mugcake cake deathbychocolate meng dedication microwave gasparimyofusion">
+<article data-sblg-article="1" data-sblg-tags="cinnamon apple kanel cinnamonroll cinnamonswirl applepie smoothie binbin beginnersrecipe easy coconutter almondbutter cellucor whey">
 	<header>
 		<div>
-			<h2><a href="#recipe">Meng Mugcake</a></h2>
+			<h2><a href="#recipe">Apple Pie Smoothie</a></h2>
 			<div class="health">
 				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
 				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
 				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
-				<div class="nutrition"><div>303</div><div>cal</div></div>
-				<div class="nutrition"><div>20</div><div>pro</div></div>
-				<div class="nutrition"><div>44</div><div>carb</div></div>
-				<div class="nutrition"><div>7</div><div>fat</div></div>
+				<img title="Low-fat" alt="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
+				<div class="nutrition"><div>300</div><div>cal</div></div>
+				<div class="nutrition"><div>29</div><div>pro</div></div>
+				<div class="nutrition"><div>22</div><div>carb</div></div>
+				<div class="nutrition"><div>11</div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>
-			<a href="#image1"><img src="article012a.thumb.jpg" /></a>
-			<a href="#image2"><img src="article012b.thumb.jpg" /></a>
-			<a href="#image3"><img src="article012c.thumb.jpg" /></a>
+			<a href="#image1"><img src="article013a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article013b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article013c.thumb.jpg" /></a>
 		</nav>
 		<address>Christina Hallalulu</address>
-		<time datetime="2014-08-15">2014-08-15</time>
+		<time datetime="2014-08-21">2014-08-21</time>
 		<aside>
-			Death by Chocolate flourless mugcake - the easiest
-			chocolate cake in the world, made for 1 and
-			ready to eat in 5 minutes. This original, <span
-				class="nm">Lila, Chop!</span> dessert recipe
-			for beginners is dedicated to my advisor, Meng. 
+			Banana and chocolate? This original, <span
+				class="nm">Lila, Chop!</span> smoothie recipe
+			for beginners is dedicated to my best friend, Anna. 
 		  </aside>
 	</header>
-	<a id="image1" href="#recipe"><img src="article012a.jpg" /></a>
-	<a id="image2" href="#recipe"><img src="article012b.jpg" /></a>
-	<a id="image3" href="#recipe"><img src="article012c.jpg" /></a>
+	<a id="image1" href="#recipe"><img src="article013a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article013b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article013c.jpg" /></a>
 	<section id="recipe">
 		<p>
 			One of my first requests for <span class="nm">Lila,
@@ -47,7 +46,7 @@
 			       Chocolate Smoothie for Beginners</b>. 
 		</p>
 		<figure>
-			<img src="article012.jpg" alt="Anna and Christina" /> 
+			<img src="article013apples.jpg" alt="Anna and Christina" /> 
 			<figcaption>Mumsi + Skuttis = Happy Hallalulus.</figcaption>
 		</figure>
 		<p>
@@ -156,10 +155,10 @@
 		<div class="servings">
 			Servings: 
 			<input id="servings" type="number" min="0" step="1" value="2" onchange="changeservings(this.value);" />
-			(Total Calories: <span data-lilachop-amount="330"></span>.)
+			(Total Calories: <span data-lilachop-amount="300"></span>.)
 		</div>
 		<figure>
-			<img src="article012.jpg" alt="Anna and Lila" /> 
+			<img src="article013apples.jpg" alt="Anna and Lila" /> 
 			<figcaption>Anna &amp; Lila.</figcaption>
 		</figure>
 		<p> 
@@ -228,6 +227,10 @@
 			</tr>
 			
 		</table>
+		<figure>
+			<img src="article013ingredients.jpg" alt="Anna and Lila" /> 
+			<figcaption>Anna &amp; Lila.</figcaption>
+		</figure>
 		<h3>
 			Banana &amp; Recipe Tips
 		</h3> 
@@ -256,7 +259,7 @@
 				right</q>), I used the normal, full-fat
 			version.  </p>
 		<figure>
-			<img src="article012.jpg" alt="Bananas in a blender" />
+			<img src="article013almondbutter.jpg" alt="Bananas in a blender" />
 
 			<figcaption>Frozen bananas in a blender.</figcaption>
 		</figure>
@@ -282,18 +285,14 @@
 		<p>
 			Voila! Decorated glasses.
 		</p>
-		<figure>
-			<img src="article012.jpg" alt="Decorating glasses with coconut" /> 
-			<figcaption>How to decorate glasses with coconut.</figcaption>
-		</figure>
 		<div class="fb-wrapper">
 			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
 		</div>
 	</section>
 	<nav>
-		<a href="#image1"><img src="article012a.thumb.jpg" /></a>
-		<a href="#image2"><img src="article012b.thumb.jpg" /></a>
-		<a href="#image3"><img src="article012c.thumb.jpg" /></a>
+		<a href="#image1"><img src="article013a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article013b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article013c.thumb.jpg" /></a>
 	</nav>
 	<script>
 		changeservings(document.getElementById('servings').value);
