@@ -16,7 +16,6 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 aboutmephotocseatalltheicecream.jpg \
 	 aboutmephotocsgradtripfood.jpg \
 	 aboutmephotocskd23bday.jpg \
-	 aboutmephotocskdhappydays.jpg \
 	 aboutmephotocskdkanelbulle.jpg \
 	 aboutmephotocskladdkakafu.jpg \
 	 aboutmephotocslilachocolaterie.jpg \
