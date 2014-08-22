@@ -44,6 +44,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article013b.jpg \
 	 article013c.jpg \
 	 article013ingredients.jpg \
+	 article013binbin.jpg \
 	 amazon.png \
 	 article.js \
 	 bg.png \
