@@ -23,7 +23,6 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 aboutmephotocslobster.jpg \
 	 aboutmephotocsmusclebeach.jpg \
 	 aboutmephotocspilot.jpg \
-	 aboutmephotocsroomservice.jpg \
 	 aboutmephotocsthailandmagnum.jpg \
 	 aboutmephotokanelbulle.jpg \
 	 aboutmephotolilaroomservice.jpg \
