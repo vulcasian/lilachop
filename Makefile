@@ -49,7 +49,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 files.png \
 	 glutenfree.png \
 	 highprotein.png \
-	 home.png \
+	 facebook.png \
 	 instagram.png \
 	 lactosefree.png \
 	 lowcarb.png \
