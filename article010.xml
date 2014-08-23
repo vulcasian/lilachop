@@ -85,12 +85,12 @@
 			This is the home page, where you can see a blog-roll of
 			the latest articles and recipes.  
 			On the left-hand navigation pane, you will see a list
-			of articles by tags, such as Recipes by
-			Nutritional Profile: gluten-fee, low-Carb, vegan,  et
-			cetera, or Recipes by Type: smoothie, cake, savoury
+			of articles by tags, such as recipes by
+			nutritional profile: gluten-fee, low-Carb, vegan,  et
+			cetera, or recipes by type: smoothie, cake, savoury
 			dishes, et cetera. (On a smart phone, you will not see
-			the navigation pan. Use the 
-			<img class="hicon" src="home.png" alt="Home"/> home and 
+			the navigation pan. Use the <span class="nm">Lila, Chop!</span> 
+			website title and the 
 			<img class="hicon" src="files.png" alt="Archive"/> archive button to
 			navigate instead.)
 		</p>			
@@ -103,9 +103,10 @@
 			At the bottom of the page you will see a link to the
 			 <img class="hicon" src="files.png" alt="Archive"/> 
 			archives, where you will find a list of all my recipes.
-			You can always navigate back home by clicking on the
-			<img class="hicon" src="home.png" alt="Home"/> home icon or the blog title.
-			Want to follow my on 
+			You can always navigate back home by clicking on the 
+			<span class="nm">Lila, Chop!</span> website title.
+			Want to like and share this blog on 
+			<img class="hicon" src="facebook.png" alt="Facebook"/> Facebook, follow me personally on 	
 			<img class="hicon" src="instagram.png" alt="Instagram"/> Instagram, get recipe updates with
 			<img class="hicon" src="rss.png" alt="RSS"/> RSS, or 
 			<img class="hicon" src="email.png" alt="E-mail"/> email me? 
