@@ -60,6 +60,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 sugarfree.png \
 	 time.png \
 	 timedark.png \
+	 print.png \
 	 vegan.png
 
 # These are your articles.
