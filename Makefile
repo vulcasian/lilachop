@@ -12,22 +12,12 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 aboutmephotoCSlegs.jpg \
 	 aboutmephotobrunchcollage.jpg \
 	 aboutmephotocsapkitchen.jpg \
-	 aboutmephotocsapplates.jpg \
 	 aboutmephotocseatalltheicecream.jpg \
-	 aboutmephotocsgradtripfood.jpg \
-	 aboutmephotocskd23bday.jpg \
 	 aboutmephotocskdkanelbulle.jpg \
-	 aboutmephotocskladdkakafu.jpg \
 	 aboutmephotocslilachocolaterie.jpg \
-	 aboutmephotocslilapuppy.jpg \
-	 aboutmephotocslobster.jpg \
-	 aboutmephotocsmusclebeach.jpg \
 	 aboutmephotocspilot.jpg \
-	 aboutmephotocsthailandmagnum.jpg \
-	 aboutmephotokanelbulle.jpg \
 	 aboutmephotolilaroomservice.jpg \
 	 aboutmephotosbackday.jpg \
-	 aboutmephotosmoothiescollage.jpg \
 	 aboutmephotovegetarian.jpg \
 	 article011cups.jpg \
 	 article011banana.jpg \
