@@ -1,41 +1,44 @@
 <article data-sblg-article="1" data-sblg-tags="">
 	<header>
 		<div>
-			<h2><a href="#recipe">Tahini Cheesecakini</a></h2>
+			<h2><a href="#recipe">Choco-Cherry Cheesecake Corfetti</a></h2>
 			<div class="health">
 				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
 				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
 				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
-				<div class="nutrition"><div>303</div><div>cal</div></div>
-				<div class="nutrition"><div>34</div><div>pro</div></div>
-				<div class="nutrition"><div>16</div><div>carb</div></div>
-				<div class="nutrition"><div>22</div><div>fat</div></div>
+				<div class="nutrition"><div>269</div><div>cal</div></div>
+				<div class="nutrition"><div>26</div><div>pro</div></div>
+				<div class="nutrition"><div>18</div><div>carb</div></div>
+				<div class="nutrition"><div>19</div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>
-			<a href="#image1"><img src="article002a.thumb.jpg" /></a>
-			<a href="#image2"><img src="article002b.thumb.jpg" /></a>
-			<a href="#image3"><img src="article002c.thumb.jpg" /></a>
+			<a href="#image1"><img src="article014a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article014b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article014c.thumb.jpg" /></a>
 		</nav>
 		<address>Christina Hallalulu</address>
-		<time datetime="2014-07-26">2014-07-26</time>
+		<time datetime="2014-08-29">2014-08-29</time>
 		<aside>
-			Whoever said cheesecake had to be unhealthy? 
-			Try this sugar-free, low-carb, and high-protein indulgence!
+			A decadent spin on protein cheesecake, combining three decadent flavours: confetti base with dark chocolate and cherry topping. 
 		</aside>
 	</header>
-	<a id="image1" href="#recipe"><img src="article002a.jpg" /></a>
-	<a id="image2" href="#recipe"><img src="article002b.jpg" /></a>
-	<a id="image3" href="#recipe"><img src="article002c.jpg" /></a>
+	<a id="image1" href="#recipe"><img src="article014a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article014b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article014c.jpg" /></a>
 	<section id="recipe">
 		<p>
-			For as long as I can remember, I have had a love-hate relationship
-			with cheesecake; love, because, well, what's not to love about
-			something so deliciously sweet, rich and creamy combined with that
-			perfect bite of crunchyiness from the graham cracker-base? 
-			But the price of this would inevtiably be an expanding waistline
-			and feeling stuffed for the next 24-hours. 
-			Thus hate, because of the perpetual trade-off.  
+			Oh how I love cheesecake! It seems everyone, in fact,
+			loves cheesecake.  
+			And birthday cake, and chocolate, and dark cherries.  
+			One of the things I absolutely love about summer is the
+			availability of local, fresh berries.	
+			And how sweet fresh dark cherries in Switzerland are!	
+			So I decided to combine all these, into one: birthday
+			cake confetti cheesecake with dark chocolate and cherry
+			topping.  
+			(Believe it or not, there is such thing as
+			confetti-flavoured "Corfetti" protein powder.) 
 		</p>
 		<table class="ingredients">
 			<caption>Base ingredients</caption>
@@ -46,40 +49,53 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount" data-lilachop-amount="2"></td>
+				<td class="amount" data-lilachop-amount="0.5"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">
-					light tahini, <span class="altor">or</span>
+					<a href="http://www.youfreshnaturals.com/">You Fresh Naturals chocolate chip cookie dough almond butter</a>
+					, <span class="altor">or</span>
 				</td>
 			</tr>
 			<tr>
-				<td class="alt amount" data-lilachop-amount="2"></td>
+				<td class="alt amount" data-lilachop-amount="0.5"></td>
 				<td class="alt unit">tbsp</td>
-				<td class="alt name">almond butter</td>
+				<td class="alt name">light tahini</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="0.5"></td>
+				<td class="amount" data-lilachop-amount="0.125"></td>
 				<td class="unit">cup</td>
 				<td class="name">ground almonds</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="amount" data-lilachop-amount="0.25"></td>
 				<td class="unit">tbsp</td>
 				<td class="name">
 					agave syrup, <span class="altor">or</span>
 				</td>
 			</tr>
 			<tr>
-				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt amount" data-lilachop-amount="0.25"></td>
 				<td class="alt unit">tbsp</td>
 				<td class="alt name">honey</td>
 			</tr>
 		</table>
 		<p>	
-			Imagine my astonishment when I discovered that it is possible to
-			have your cake and eat it too. 
-			This recipe will tell you how. 
+			I made this cheesecake during my last week in Lausanne,
+			whilst I was rummaging through my kitchen deciding
+			which protein powders to pack and bring with me and
+			which to discard. 
+			With just a couple of scoops of my beloved Cellucor
+			COR-fetti protein powder left, I decided to finish it
+			by making a confetti-flavoured cheesecake. 
+			I love the look of it, since the colourful particles
+			show up even after baking and just add a cool eye-candy
+			effect along with a delicious birthday-cake flavour.
 		</p>
+		<figure>
+			<img src="article014cake.jpg" alt="Cheesecake slice" />
+
+			<figcaption>Cross-section view, with cherry and confetti bits.</figcaption>
+		</figure>
 		<table class="ingredients">
 			<caption>Cheesecake ingredients</caption>
 			<thead>
@@ -89,47 +105,71 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount" data-lilachop-amount="170"></td>
+				<td class="amount" data-lilachop-amount="42.5"></td>
 				<td class="unit">g</td>
-				<td class="name">2% Total Greek yoghurt (1 pot)</td>
+				<td class="name">2% Total Greek yoghurt (2 pots)</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="250"></td>
+				<td class="amount" data-lilachop-amount="62.5"></td>
 				<td class="unit">g</td>
 				<td class="name">quark</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="1">1</td>
-				<td class="unit">scoop</td>
-				<td class="name">vanilla whey protein powder (I used 
-					<a href="http://www.amazon.com/dp/B00FPQUNOW/?tag=lich048-20" class="amazon">Dymatize ISO 100 Hydrolyzed 100% whey gourmet vanilla</a>)
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">scoops</td>
+				<td class="name"> 
+					<a href="http://bodybuilding.7eer.net/c/102597/77752/2023">Cellucor COR-Performance Whey COR-fetti protein powder</a>
 				</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="amount" data-lilachop-amount="0.0625"></td>
 				<td class="unit">cup</td>
 				<td class="name">liquid egg whites (<span data-lilachop-amount="2"></span> egg whites)</td>
 			</tr>
 			
 			<tr>
-				<td class="amount" data-lilachop-amount="40"></td>
+				<td class="amount" data-lilachop-amount="12.5"></td>
 				<td class="unit">g</td>
 				<td class="name">bitter dark Chocolate (I used 
 					<a href="http://www.amazon.com/dp/B0059X9C7K/?tag=lich048-20" class="amazon">Lindt 90%</a>)
 				</td>
 			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.09375"></td>
+				<td class="unit">cup</td>
+				<td class="name">sweet dark cherries, pitted</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.0625"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">Cake decoration sprinkles</td>
+			</tr>
 		</table>
 		<div class="servings">
 			Servings: 
-			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
-			(Total Calories: <span data-lilachop-amount="303"></span>.)
+			<input id="servings" type="number" min="0" step="1" value="8" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="2154"></span>.)
 		</div>
 		<p>
-			This recipe was adapted from <a href="http://proteinpow.com/">Proteinpow</a>'s recipe 
-			<a href="http://proteinpow.com/2013/08/dark-chocolate-almond-whey-protein.html">Dark Chocolate Almond Cheesecake</a> 
-			by Anna Sward, who said <q>It's as close to protein magic as one can get.</q> 
-			Let's see if you agree!
-		</p>
+			This cake turned out absolutely beautiful, and I can't
+			even begin to describe how heavenly my entire apartment smelled
+			by the time 20 minutes had passed with the cake in the
+			oven. 
+			I pimped it with decoration and decided to serve it the
+			next day during my leaving party.  
+			Unfortunately, having decided to announce my leaving
+			party on an all too short-notice, I ended up cancelling
+			it and simply attending my best friend, Anna's, dinner
+			party instead in Geneva. 
+			So the guests at that dinner party got to savour it over
+			explanations of the benefits of baking with protein
+			powder.	</p>	
+		<figure>
+			<img src="article014fullcake.jpg" alt="Cheesecake" />
+
+			<figcaption>A dessert to delight a dinner party.</figcaption>
+		</figure>
+
 		<table id="steps">
 			<caption>Steps</caption>
 			<thead>
@@ -151,18 +191,23 @@
 			<tr>
 				<td class="amount"></td>
 				<td class="unit"></td>
-				<td>Mix all the chesecake ingredients in a bowl.</td>
+				<td>Mix all the cheesecake ingredients (except cherries) in a bowl, making there are no lumps left.</td>
 			</tr>
 			<tr>
 				<td class="amount"></td>
 				<td class="unit"></td>
-				<td>Pour the cheesecake filling into the pan ontop of the
+				<td>Add 1/3 of the cherries into the cheesecake mixture last.</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Pour the cheesecake filling into the pan on top of the
 					base.</td> </tr>
 			<tr>
 				<td class="amount">30-40</td>
 				<td class="unit">min</td>
 				<td>
-					Bake at 160'C (320'F). Be careful not to overbake
+					Bake at 160'C (320'F). Be careful not to over-bake
 					cheesecake! It will harden as it cools, so you
 					want it to still be mushy and wobbly inside when
 					you remove it from the oven.
@@ -173,9 +218,16 @@
 				<td class="unit"></td>
 				<td>
 					Whilst the cheesecake is cooling, melt the dark
-					chocolate in a bain-maire or microwave (careful
-					not to let it burn), and drizzle on top of
+					chocolate in a bain-marie or microwave (careful
+					not to let it burn), and lather on a smooth layer on top of
 					cheesecake.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Place the remaining cherries on top in the centre and sprinkle cake decoration over.	
 				</td>
 			</tr>
 			<tr>
@@ -184,22 +236,59 @@
 				<td>Devour immediately.</td>
 			</tr>
 		</table>
+		<figure>
+			<img src="article014process.jpg" alt="Cheesecake process" />
+
+			<figcaption>The making of a cheesecake.</figcaption>
+		</figure>
 		<p>
-			This recipe makes three slices, and macro-nutrient information is
-			per slice. (Careful not to eat all 3 at once!) 
+			This recipe is an upgrade from my 
+			<a
+				href="http://www.lilachop.com/article002.html">Tahini
+				Cheesecakeini</a>, one of my first <span
+				class="nm">Lila, Chop!</span> recipes. 
+			After getting so much positive feedback (seems everyone
+			loves cheesecake!) I decided to try it again with a
+			different, birthday-cake flavour, a sweeter, base and a
+			richer, more chocolatey-topping. 
+			Thus I replaced the tahini base ingredient with
+			chocolate chip cookie dough flavoured almond butter,
+			the vanilla protein powder with confetti-flavour, and
+			added cake decoration sprinkles, cherries and more dark
+			chocolate on top... 
+			Mmmm, pure decadence!  
+			It also upped the eye-candy and drool effect. 
+			The original recipe was adapted from <a
+				href="http://proteinpow.com/">Proteinpow</a>'s
+			recipe <a
+				href="http://proteinpow.com/2013/08/dark-chocolate-almond-whey-protein.html">Dark
+				Chocolate Almond Cheesecake</a> by Anna Sward,
+			who said <q>It's as close to protein magic as one can
+				get.</q> 
+			Let's see if you think this one is even better!
 		</p>
+	
+		<h3>
+			Recipe tip
+			</h3>
 		<p> 
-			To make the recipe leaner, simply use 0% Greek yoghurt, less
-			chocolate and sugar-free syrup instead of honey or agave. 
-		</p>
+			This recipe makes eight slices (perfect for a dinner
+			party dessert), and macro-nutrient information is per
+			slice.  
+			To make the recipe leaner, simply use 0% Greek
+			yoghurt, less chocolate and sugar-free syrup instead of
+			honey or agave. 
+			To make the recipe richer or sweeter, add more syrup to
+			the base and sugar or stevia drops in the mixture.
+	       </p>
 		<div class="fb-wrapper">
 			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
 		</div>
 	</section>
 	<nav>
-		<a href="#image1"><img src="article002a.thumb.jpg" /></a>
-		<a href="#image2"><img src="article002b.thumb.jpg" /></a>
-		<a href="#image3"><img src="article002c.thumb.jpg" /></a>
+		<a href="#image1"><img src="article014a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article014b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article014c.thumb.jpg" /></a>
 	</nav>
 	<script>
 		changeservings(document.getElementById('servings').value);
