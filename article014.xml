@@ -145,7 +145,7 @@
 		<div class="servings">
 			Servings: 
 			<input id="servings" type="number" min="0" step="1" value="8" onchange="changeservings(this.value);" />
-			(Total Calories: <span data-lilachop-amount="2154"></span>.)
+			(Total Calories: <span data-lilachop-amount="269"></span>.)
 		</div>
 		<p>
 			This cake turned out absolutely beautiful, and I can't
