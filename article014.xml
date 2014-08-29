@@ -1,0 +1,207 @@
+<article data-sblg-article="1" data-sblg-tags="">
+	<header>
+		<div>
+			<h2><a href="#recipe">Tahini Cheesecakini</a></h2>
+			<div class="health">
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<div class="nutrition"><div>303</div><div>cal</div></div>
+				<div class="nutrition"><div>34</div><div>pro</div></div>
+				<div class="nutrition"><div>16</div><div>carb</div></div>
+				<div class="nutrition"><div>22</div><div>fat</div></div>
+			</div>
+		</div>
+		<nav>
+			<a href="#image1"><img src="article002a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article002b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article002c.thumb.jpg" /></a>
+		</nav>
+		<address>Christina Hallalulu</address>
+		<time datetime="2014-07-26">2014-07-26</time>
+		<aside>
+			Whoever said cheesecake had to be unhealthy? 
+			Try this sugar-free, low-carb, and high-protein indulgence!
+		</aside>
+	</header>
+	<a id="image1" href="#recipe"><img src="article002a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article002b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article002c.jpg" /></a>
+	<section id="recipe">
+		<p>
+			For as long as I can remember, I have had a love-hate relationship
+			with cheesecake; love, because, well, what's not to love about
+			something so deliciously sweet, rich and creamy combined with that
+			perfect bite of crunchyiness from the graham cracker-base? 
+			But the price of this would inevtiably be an expanding waistline
+			and feeling stuffed for the next 24-hours. 
+			Thus hate, because of the perpetual trade-off.  
+		</p>
+		<table class="ingredients">
+			<caption>Base ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="2"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">
+					light tahini, <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="2"></td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">almond butter</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.5"></td>
+				<td class="unit">cup</td>
+				<td class="name">ground almonds</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">
+					agave syrup, <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">honey</td>
+			</tr>
+		</table>
+		<p>	
+			Imagine my astonishment when I discovered that it is possible to
+			have your cake and eat it too. 
+			This recipe will tell you how. 
+		</p>
+		<table class="ingredients">
+			<caption>Cheesecake ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="170"></td>
+				<td class="unit">g</td>
+				<td class="name">2% Total Greek yoghurt (1 pot)</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="250"></td>
+				<td class="unit">g</td>
+				<td class="name">quark</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1">1</td>
+				<td class="unit">scoop</td>
+				<td class="name">vanilla whey protein powder (I used 
+					<a href="http://www.amazon.com/dp/B00FPQUNOW/?tag=lich048-20" class="amazon">Dymatize ISO 100 Hydrolyzed 100% whey gourmet vanilla</a>)
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">cup</td>
+				<td class="name">liquid egg whites (<span data-lilachop-amount="2"></span> egg whites)</td>
+			</tr>
+			
+			<tr>
+				<td class="amount" data-lilachop-amount="40"></td>
+				<td class="unit">g</td>
+				<td class="name">bitter dark Chocolate (I used 
+					<a href="http://www.amazon.com/dp/B0059X9C7K/?tag=lich048-20" class="amazon">Lindt 90%</a>)
+				</td>
+			</tr>
+		</table>
+		<div class="servings">
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="303"></span>.)
+		</div>
+		<p>
+			This recipe was adapted from <a href="http://proteinpow.com/">Proteinpow</a>'s recipe 
+			<a href="http://proteinpow.com/2013/08/dark-chocolate-almond-whey-protein.html">Dark Chocolate Almond Cheesecake</a> 
+			by Anna Sward, who said <q>It's as close to protein magic as one can get.</q> 
+			Let's see if you agree!
+		</p>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Mix all the base ingredients together in a bowl.</td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td> Form base layer by pressing the mix evenly down into a small pan.</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Mix all the chesecake ingredients in a bowl.</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Pour the cheesecake filling into the pan ontop of the
+					base.</td> </tr>
+			<tr>
+				<td class="amount">30-40</td>
+				<td class="unit">min</td>
+				<td>
+					Bake at 160'C (320'F). Be careful not to overbake
+					cheesecake! It will harden as it cools, so you
+					want it to still be mushy and wobbly inside when
+					you remove it from the oven.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Whilst the cheesecake is cooling, melt the dark
+					chocolate in a bain-maire or microwave (careful
+					not to let it burn), and drizzle on top of
+					cheesecake.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount">50</td>
+				<td class="unit">min</td>
+				<td>Devour immediately.</td>
+			</tr>
+		</table>
+		<p>
+			This recipe makes three slices, and macro-nutrient information is
+			per slice. (Careful not to eat all 3 at once!) 
+		</p>
+		<p> 
+			To make the recipe leaner, simply use 0% Greek yoghurt, less
+			chocolate and sugar-free syrup instead of honey or agave. 
+		</p>
+		<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
+	</section>
+	<nav>
+		<a href="#image1"><img src="article002a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article002b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article002c.thumb.jpg" /></a>
+	</nav>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>
+</article>
