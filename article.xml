@@ -81,6 +81,9 @@
 		<footer>
 			&#169; 2013, 2014, <q>Lila, Chop!</q>
 			<div>
+				<a href="disclaimer.html">Terms &amp; Privacy</a>
+			</div>
+			<div>
 				Powered by <a href="http://kristaps.bsd.lv/sblg">sblg</a> on <a href="http://www.openbsd.org">OpenBSD</a>
 			</div>
 		</footer>

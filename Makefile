@@ -136,6 +136,7 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 
 HTMLS = atom.xml \
 	archive.html \
+	disclaimer.html \
 	$(ARTICLES) \
 	index.html
 
@@ -150,13 +151,16 @@ install: all
 clean:
 	rm -f $(HTMLS) $(THUMBS)
 
-$(HTMLS): article.xml index.xml archive.xml $(THUMBS)
+$(HTMLS): article.xml index.xml disclaimer.xml archive.xml $(THUMBS)
 
 .xml.html:
 	sblg -t article.xml -f $< -o $@ $(XMLS)
 
 archive.html: archive.xml $(XMLS)
 	sblg -t archive.xml -o $@ $(XMLS)
+
+disclaimer.html: disclaimer.xml $(XMLS)
+	sblg -t disclaimer.xml -o $@ $(XMLS)
 
 index.html: index.xml $(XMLS)
 	sblg -t index.xml -o $@ $(XMLS)

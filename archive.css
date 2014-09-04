@@ -1,3 +1,12 @@
+article > section h1, 
+article > section h2, 
+article > section h3, 
+article > section p 		{ margin-left: 0;
+			 	  margin-right: 0; }
+article > section h1		{ font-size: 14pt; }
+article > section h2		{ font-size: 13pt; }
+article > section h3		{ font-size: 12pt; }
+article > section,
 article > nav			{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #474747; 
 				  margin: 0;
 				  margin-bottom: 1ex;
@@ -7,6 +16,8 @@ article > nav			{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #474747;
 				  background-color: #ccc; 
 				  border-bottom-left-radius: 1ex;
 				  border-bottom-right-radius: 1ex; }
+article > section		{ padding-left: 2%; 
+			  	  padding-right: 2%; }
 article > nav time		{ color: #666; }
 article > nav li		{ padding: 0.5ex; 
 				  display: table-row; }
@@ -22,9 +33,13 @@ article > nav ul		{ list-style-type: none;
 				  padding-left: 2%; 
 				  padding-right: 2%; }
 @media print, only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
+	article > section	{ width: 94%;
+				  margin-left: auto;
+				  margin-right: auto; }
 	article > nav		{ width: 100%; }
 }
 @media print, only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
+	article > section,
 	article > nav		{ border-top-left-radius: 1ex; 
 				  border-top-right-radius: 1ex; }
 	article > nav ul	{ padding-left: 1%; 
@@ -33,6 +48,7 @@ article > nav ul		{ list-style-type: none;
 				  padding-right: 0; }
 }
 @media print {
+	article > section,
 	article > nav		{ box-shadow: none; 
 				  font-size: 11pt; }
 }
