@@ -1,7 +1,7 @@
 <article data-sblg-article="1" data-sblg-tags="smoothie proteinfull proteinpow flull mousse chocolate raspberry beginnersrecipe easy cellucor whey">
 	<header>
 		<div>
-			<h2><a href="#recipe">Chocolate-Raspberry truffle proteinfluff</a></h2>
+			<h2><a href="#recipe">Chocolate-Raspberry Protein Fluff</a></h2>
 			<div class="health">
 				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
 				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
@@ -15,52 +15,52 @@
 			</div>
 		</div>
 		<nav>
-			<a href="#image1"><img src="article013a.thumb.jpg" /></a>
-			<a href="#image2"><img src="article013b.thumb.jpg" /></a>
-			<a href="#image3"><img src="article013c.thumb.jpg" /></a>
+			<a href="#image1"><img src="article015a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article015b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article015c.thumb.jpg" /></a>
 		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-09-14">2014-09-14</time>
 		<aside>
-			Cinnamon roll + apple pie = an original <span
-				class="nm">Lila, Chop!</span> breakfast smoothie recipe
-			for beginners, dedicated to Binbin. 
-		  </aside>
+			What happens when you combine mousse au
+			chocolat-framboise and a protein smoothie? 
+			Chocolate-Raspberry Truffle Protein Fluff of course!
+			This 3-ingredient recipe is so incredibly simple and low-fat, you
+			won't believe it's dessert.  </aside>
 	</header>
-	<a id="image1" href="#recipe"><img src="article013a.jpg" /></a>
-	<a id="image2" href="#recipe"><img src="article013b.jpg" /></a>
-	<a id="image3" href="#recipe"><img src="article013c.jpg" /></a>
+	<a id="image1" href="#recipe"><img src="article015a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article015b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article015c.jpg" /></a>
 	<section id="recipe">
 		<p>
-			Two years ago, the week before our bachelors
-			graduation and grad trip to Turkey, I hosted my last
-			Sunday girls' brunch. 
-		       	Unlike my previous brunches where I served home-made
-		       	Swedish sticky chocolate cake and croissants fresh from
-			a local Swiss bakery, I was determined to throw a
-			healthy brunch party fit for a pre-beach vacation. 
-			It was to show off my clean-baking skills and share my
-			fitspiration with my friends, through delicious, healthy food. 
-			Binbin was one of the delightful guests who impressed us with her 
-			her own culinary skills (it must be a Thai thing). 
-			Our mutual successful recipe was oatmeal protein
-			pancakes, which we devoured with cinnamon almond butter
-			and caramelised apples. 
+			One of the first dessert I learned to make when I was
+			14 years old, was chocolate mousse. 
+			I loved the light, airy, fluffiness
+			of the consistency, combined with the creamy, rich and
+			buttery-chocolate flavour. 
+			I even slipped a bit of Bailey's liquor into it,
+			hoping my parents wouldn't notice.
+		</p>
+		<p>	
+			So when the new Cellucor COR-Performance
+			<a
+				href="http://www.cellucor.com/products/21-whey?product_serving=2%20Pounds&amp;product_flavor=Chocolate%20Raspberry%20Truffle">Chocolate
+				Raspberry Truffle</a> flavoured whey protein powder
+			arrived on my doorstep (thank you <a
+				href="http://bodybuilding.7eer.net/c/102597/76781/2023?u=http%3A%2F%2Fwww.bodybuilding.com%2Fhttp%3A%2F%2Fwww.bodybuilding.com%2Fstore%2Fcellucor%2Fcor-performance-whey.html"
+				class="bodybuilding">Bodybuilding.com!</a>) 
+			I was over the moon and terribly excited to try a new
+			recipe with this flavour.  
+			I decided to try making protein fluff, which is
+			basically a protein smoothie whipped into mousse. 
+			Using an electric whisk, the consistency changes enough
+			to make it so stiff yet fluffy, you have to eat it with
+			a spoon.  	
 		</p>
 		<figure>
-			<img src="article013binbin.jpg" alt="Binbin" /> 
-			<figcaption><q>Bin</q> in Thai means to fly..</figcaption>
+			<img src="article015glass.jpg" alt="Decorated protein fluff" /> 
+			<figcaption>Protein-fluff dessert, decorated in a wine glass</figcaption>
 		</figure>
-			<p>As a close friend from Ecole hôteliere de Lausanne, a
-				Thai <q>sista</q>, and a fellow
-				health-foodie, I decided to dedicate this
-				original
-				<span class="nm">Lila,
-					Chop!</span> Apple Pie smoothie recipe
-				for beginners to Binbin as a belated birthday
-				present. Cheers to our future plans for
-				starting our own health-food chain in Bangkok!
-			</p>
 		<table class="ingredients">
 			<caption>Ingredients</caption>
 			<thead>
@@ -90,7 +90,7 @@
 				<td class="amount" data-lilachop-amount="0.25"></td>
 				<td class="unit">cup</td>
 				<td class="name">any vegan or low-fat milk
-					(I used lactose-free lowfat milk)</td>
+					(I used lactose-free low-fat milk)</td>
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="1"></td>
@@ -113,21 +113,37 @@
 					<a
 						href="http://www.amazon.com/dp/B00BNQFZCI/?tag=lich048-20"
 						class="amazon">
-						Enjoy Life semi-sweet dairy-free dark chocolate chips </a>(optional, for garnishing) </td>
+						Semi-sweet vegan dark chocolate chips </a>(optional, for garnishing) </td>
 			</tr>
 		</table>
 		<div class="servings">
 			Servings: 
 			<input id="servings" type="number" min="0" step="1" value="2" onchange="changeservings(this.value);" />
-			(Total Calories: <span data-lilachop-amount="300"></span>.)
+			(Total Calories: <span data-lilachop-amount="180"></span>.)
 		</div>
-		<p>
-			5 simple ingredients for a delicious &amp; nutritious smoothie, filling enough for breakfast and easy enough for beginners to make under 5 minutes.
-		</p>
 		<figure>
-			<img src="article013apples.jpg" alt="Ingredients" /> 
-			<figcaption>Before</figcaption>
+			<img src="article015ingredients.jpg" alt="3 ingredients" /> 
+			<figcaption>3-ingredient protein fluff</figcaption>
 		</figure>
+		<p>
+			3 ingredients for an incredibly simple,
+			quick &amp; almost fat-free chocolate-raspberry mousse. 
+			Delicious enough for dessert, with enough protein to
+			substitute a protein shake and easy enough for
+			beginners to make under 10 minutes.  </p>
+		<figure>
+			<img src="article015guargum.jpg" alt="guar gum" /> 
+			<figcaption>Magic fluff ingredient: guar gum</figcaption>
+		</figure>
+		<p>
+			To up this dessert's <q>fluff-factor</q> and to make
+			the fluffiness last longer, add the optional ingredient
+			of guar gum, which acts as a thickening agent.  
+			(Traditional protein fluff recipes use xanthan gum,
+			however, a lot of people are sensitive to this
+			and react badly. This makes guar gum a favourable
+			substitute.) </p>	
+
 		<table id="steps">
 			<caption>Steps</caption>
 			<thead>
@@ -140,77 +156,82 @@
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td> 
-					Blend all ingredients together in a
-					high-speed blender until smooth and
-					creamy.  </td> 
+					Put aside a few raspberries and the
+					optional chocolate chips for garnishing
+					last.  </td> </tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td> 
+					Blend the rest of the ingredients
+					together in a high-speed blender until
+					smooth and creamy.  </td> 
+			</tr>
+			<tr>
+				<td class="amount">5</td>
+				<td class="unit">min</td>
+				<td> 
+					Transfer blended mixture into a large
+					bowl or pot, and whisk on high-speed
+					setting using an electric whisk.  </td>
 			</tr>
 			<tr>
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td>
-					Pour smoothie into two glasses and garnish
-					with any leftover fresh apple slices
-					and sprinkle with cinnamon.  </td>
-			</tr>
+					Pour smoothie into glasses and garnish
+					with leftover raspberries and chocolate
+					chips.  </td> </tr>
 			<tr>
-				<td class="amount">5</td>
+				<td class="amount">8</td>
 				<td class="unit">min</td>
 				<td>
-					<q>Mot-gaew</q>, as we say in Thai for cheers... which literally means <q>empty your glass</q>!
-				</td>
-			</tr>
+					Grab a spoon and dig in to this frozen, fluffy treat!  </td> </tr>
 			
 		</table>
 		<figure>
-			<img src="article013ingredients.jpg" alt="Ingredients" /> 
-			<figcaption>After.</figcaption>
+			<img src="article015fluff.jpg" alt="Protein fluff shots" /> 
+			<figcaption>Protein fluff shots.</figcaption>
 		</figure>
 		<h3>
-			Smoothie Recipe Tips
+			Protein Fluff Recipe Tips
 		</h3> 
 		<p>
-			Once again, using frozen fruit is so much better than
-			fresh fruit in smoothies as it gives it a thicker,
-			creamier consistency.  No frozen apples available from
-			the grocery store? Simple chop up fresh ones the night
-			before and freeze them in zip-lock bags. 
-		</p>	
-		<p>
-			To up the nutritional content of your smoothie, add Greek yoghurt or banana. 
-			This makes a fantastic breakfast smoothie, and will keep you comfortably full and going all morning! 
-		</p>
+			As mentioned, using guar gum or xanthan gum will
+			increase the fluffiness. 
+			However, I have heard that using casein protein powder
+			is even better than whey for achieving light, airy and
+			mousse-like consistencies. 
+			(Forget using vegan protein powders for this kind of
+			recipe, the consistency will not turn out right at
+			all.) 
+			For my next protein fluff recipe, I will try using 
+			<a href="http://tidd.ly/9813d498" class="myprotein">Myprotein Micellar Casein</a>
+			protein powder.
+	</p>	
 		<figure>
-			<img src="article013almondbutter.jpg" alt="Almond butter" />
+			<img src="article015glass.jpg" alt="Decorated glass" />
 
-			<figcaption>You Fresh Naturals Coco-Nut Butter Cinnamon Roll.</figcaption>
+			<figcaption>The finished product, served in a decorated wine glass.</figcaption>
 		</figure>
 		<h3> 
-			Almond butter crazy (product review) 
+			More Protein Fluff Recipes	
 		</h3>
 		<p>
-			You know how people are crazy about peanut butter? 
-			Apparently peanut butter is the fit girl's equivalent
-			to a tub of Ben 'n Jerry's ice cream. Now, although I
-			do love the stuff (yes, both Ben 'n Jerry's and peanut
-			butter), I'm far crazier about almond butter.  In fact,
-			as a child I would eat organic peanut butter out of the
-			jar whilst my friends ate ice cream and nutella. I've
-			had my fair share of almond butter sampling, and can
-			confidently say that this one in particular has to be
-			by far the greatest almond butter out there. 
-			<a href="http://www.youfreshnaturals.com/">You Fresh
-				Naturals</a>  have an entire line of flavoured almond
-			butters that are to die for. For this recipe, I used
-			cinnamon roll... Mmmm. 	
+			This recipe was adapted from Protein Fluff: 3 quick and easy recipes! 
+			<a href="http://bodybuilding.7eer.net/c/102597/76781/2023?u=http%3A%2F%2Fwww.bodybuilding.com%2Ffun%2Fprotein-fluff-3-quick-and-easy-recipes.html" 
+				class="bodybuilding">
+				Strawberry Protein Fluff</a> by Anna Sward, author and founder of
+			<a href="http://www.proteinpow.com">Protein Pow</a>. (Before reading her blog, I had no idea what protein fluff even was!) 
 		</p>
 		<div class="fb-wrapper">
 			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
 		</div>
 	</section>
 	<nav>
-		<a href="#image1"><img src="article013a.thumb.jpg" /></a>
-		<a href="#image2"><img src="article013b.thumb.jpg" /></a>
-		<a href="#image3"><img src="article013c.thumb.jpg" /></a>
+		<a href="#image1"><img src="article015a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article015b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article015c.thumb.jpg" /></a>
 	</nav>
 	<script>
 		changeservings(document.getElementById('servings').value);

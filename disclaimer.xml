@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+		<meta charset='utf-8' /> 
+		<meta property="fb:admins" content="501890034" />
+		<link rel="stylesheet" href="main.css" type="text/css" />
+		<link rel="stylesheet" href="archive.css" type="text/css" />
+		<title>Lila, Chop!</title>
+	</head>
+	<body>
+		<header>
+			<h1>
+				<a href="index.html">Lila, Chop!</a>
+			</h1>
+			<h2>
+				clandestine health food &amp; living
+			</h2>
+			<nav>
+				<a href="https://www.facebook.com/lilachop"><img title="Facebook" alt="Facebook" src="facebook.png" /></a>
+				<a href="http://instagram.com/Project_fitspiration"><img title="Instagram" alt="Instagram" src="instagram.png" /></a>
+				<a href="atom.xml"><img title="RSS" alt="RSS" src="rss.png" /></a>
+				<script>
+				<!--
+				     // Email obfuscator script 2.1 by Tim Williams, University of Arizona
+				     // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+				     // This code is freeware provided these four comment lines remain intact
+				     // A wizard to generate this code is at http://www.jottings.com/obfuscator/
+				     { 
+				     	coded = "ZlPYgxYc5@3Y35ZlSI.ZSa"
+					key = "07QHZrRgSqtayYhBCAw8Tdnzfe6P4JUWx5KXl1LpuvjOc2DsoGEmNiMkF93bVI"
+					shift=coded.length
+					link=""
+					for (i=0; i<coded.length; i++) {
+						if (key.indexOf(coded.charAt(i))==-1) {
+							ltr = coded.charAt(i)
+							link += (ltr)
+						} else {     
+							ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+							link += (key.charAt(ltr))
+						}
+					}
+					document.write("<a href='mailto:"+link+"'><img alt='Email' title='Email' src='email.png'></a>")
+				}
+				//-->
+				</script>
+				<a href="archive.html"><img title="Archive" alt="Archive" src="files.png" /></a>
+			</nav>
+		</header>
+		<section>
+			<nav data-sblg-nav="1" data-sblg-navsz="5" data-sblg-navcontent="1">
+				<figure>
+					<a href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
+					<figcaption><a href="${sblg-base}.html">${sblg-titletext}</a></figcaption>
+				</figure>
+			</nav>
+			<article>
+				<section>
+		<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+		<h1>
+			Disclaimer
+		</h1>
+		<p>
+			This website, as well as all the material on this website (including, without
+			limitation, the text, source code, photographs, images,) are property of Christina
+			Sophonpanich and are copyright protected under Lila, Chop! 2014. 
+		</p>
+		<p>
+			No part of this website or any of its contents may be reproduced, copied, modified or
+			adapted, without the prior written consent of the author, unless otherwise indicated for
+			stand-alone materials. 
+		</p>
+		<p>
+			Commercial use and distribution of the contents of the website is not allowed
+			without express and prior written consent of the author. 
+		</p>
+		<p>
+			Licensing inquiries and requests for general distribution can be sent out to
+			<a href="mailto:christina@lilachop.com">christina@lilachop.com</a>.
+		</p>
+		<h2>
+			SHARING CONTENT
+		</h2>
+		<p>
+			If you would like to share a recipe from this site, you are more than welcome to
+			post a photo and link back directly to the recipe and instructions on this site;
+			republishing recipes, complete or partial, is strictly forbidden without express and prior
+			written consent of the author. Note that making a few minor substitutions or rewriting a
+			recipe in your own words does not make said recipe your own. If you liked a recipe enough
+			to feel the need to share it, please respectfully link back to the original work. 
+		</p>
+		<h2>
+			AFFILIATE LINKS
+		</h2>
+		<h3>
+			Affiliate Disclosure
+		</h3>
+		<p>
+			Links to products and services on third-party websites (affiliate links) may be
+			included in some of my posts. If you click on an affiliate link and make a purchase I may
+			receive a small commission, which helps keep this place alive. Certain ads that may appear
+			in this site may also contain some of these affiliate links, to which the same
+			conditions apply. 
+		</p>
+		<h2>
+			DISCLAIMER
+		</h2>
+		<h3>
+			Accuracy of Information
+		</h3>
+		<p>
+			The information contained in this website is for general information purposes
+			only. The information is provided by lilachop.com and whilst we endeavour to keep the
+			information up to date and correct, we make no representations or warranties of any kind,
+			express or implied, about the completeness, accuracy, reliability, suitability or
+			availability with respect to the website or the information, products, services, or
+			related graphics contained on the website for any purpose. Any reliance you place on such
+			information is therefore strictly at your own risk.
+		</p>
+		<p>
+			In no event will we be liable for any loss or damage including without limitation,
+			indirect or consequential loss or damage, or any loss or damage whatsoever arising from
+			loss of data or profits arising out of, or in connection with, the use of this website.
+		</p>
+		<p>
+			No representations are made about the accuracy of the information contained in any
+			page on this site or referred to from this site, and there is no promise or guarantee that
+			anything contained herein is correct, complete or up-to-date.
+		</p>
+		<p>
+			Through this website you are able to link to other websites which are not under
+			the control of lilachop.com. We have no control over the nature, content and
+			availability of those sites. The inclusion of any links does not necessarily imply a
+			recommendation or endorse the views expressed within them.
+		</p>
+		<h2>
+			Privacy Policy
+		</h2>
+		<p>
+			Anonymous visitor information is recorded by Facebook Insights used to determine
+			site traffic for the purpose of determining blog growth and site statistics. This
+			information is never shared or sold.  Furthermore, this information is gathered through
+			the use of cookies, which you have the liberty to turn off at any time by modifying your
+			Internet browser’s settings. 
+		</p>
+		<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+				</section>
+			</article>
+		</section>
+		<footer>
+			&#169; 2013, 2014, <q>Lila, Chop!</q>
+			<div>
+				<a href="disclaimer.html">Terms &amp; Privacy</a>
+			</div>
+			<div>
+				Powered by <a href="http://kristaps.bsd.lv/sblg">sblg</a> on <a href="http://www.openbsd.org">OpenBSD</a>
+			</div>
+		</footer>
+	</body>
+</html>
