@@ -1,0 +1,212 @@
+<article data-sblg-article="1" data-sblg-tags="wrap Egypt savoury broccoli avocado dinner protein falafel tahini vegetable salad halloumi">
+	<header>
+		<div>
+			<h2><a href="#recipe">Mediterranean veggie wrap</a></h2>
+			<div class="health">
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Vegan" alt="Vegan" data-sblg-tags="vegan" src="vegan.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
+				<div class="nutrition"><div>444</div><div>cal</div></div>
+				<div class="nutrition"><div>15</div><div>pro</div></div>
+				<div class="nutrition"><div>22</div><div>carb</div></div>
+				<div class="nutrition"><div>35</div><div>fat</div></div>
+			</div>
+		</div>
+		<nav>
+			<a href="#image1"><img src="article008a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article008b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article008c.thumb.jpg" /></a>
+		</nav>
+		<address>Christina Hallalulu</address>
+		<time datetime="2014-09-08">2014-09-08</time>
+		<aside> 
+			Falafel, tahini and halloumi wrap... What a tasty bite of
+			sunshine! This quick and easy Mediterranean
+			veggie wrap is my first <span class="nm">Lila, Chop!</span>
+			savoury recipe. 	</aside> 
+	</header>
+	<a id="image1" href="#recipe"><img src="article008a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article008b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article008c.jpg" /></a>
+	<section id="recipe">
+		<p> 
+			Going back to my culinary adventure in Egypt, back when I
+			was still a vegetarian.
+			I realised the Egyptians were especially good at making
+			falafel, and I wondered why the locals found 
+			vegetarians so bizarre when they made such wonderful
+			vegetarian dishes!  
+			The combination of tahini, falafel and halloumi in a
+			wrap was simply genius, and whenever I found myself
+			indecisive about what to order, particularly at 
+			dubious-looking places, I always defaulted to that
+			tasty comfort dish.
+			Easy to make and convenient to eat
+			on-the-go, I decided to recreate it as my first <span
+			       class="nm">Lila, Chop!</span>
+		       savoury recipe.
+		</p>
+		<table class="ingredients">
+			<caption>Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">piece</td>
+				<td class="name">
+					<a href="http://www.amazon.com/dp/B004VMFRSI/?tag=lich048-20" class="amazon">gluten-free whole grain tortilla</a>, 
+					<span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">piece</td>
+				<td class="alt name">
+				any whole-grain tortilla	
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">
+					<a href="http://www.amazon.com/dp/B004R6BJ62/?tag=lich048-20" class="amazon">organic tahini</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="2"></td>
+				<td class="unit">pieces</td>
+				<td class="name">gluten-free (or regular) falafel</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit"></td>
+				<td class="name">raw sliced avocado</td> 
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">handful</td>
+				<td class="name">baby spinach</td>
+
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">cup</td>
+				<td class="name">sliced cucumber and cherry tomatoes</td>
+			</tr>
+		</table>
+		<div class="servings">
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" /> 
+			(Total Calories: <span data-lilachop-amount="444"></span>.)
+		</div>
+		<p>
+			The falafel I used were pre-made and store-bought.
+			However, you can make your own using this 
+		       <a
+			       href="http://www.amazon.com/dp/B003OBB8LC/?tag=lich048-20"
+			       class="amazon">Gluten Free Falafel Mix</a> from Amazon.
+
+		       Even better: make your own falafel from scratch using this
+			<a class="bodybuilding"
+				href="http://bodybuilding.7eer.net/c/102597/76781/2023?u=http%3A%2F%2Fwww.bodybuilding.com%2Ffun%2Fask-the-protein-powder-chef-protein-falafel.html">Protein Falafel recipe</a> by Anna Sward, author and and
+			founder of <a
+				href="http://proteinpow.com/">Proteinpow</a>.
+		She used pea protein powder in her falafel recipe. 	
+		</p>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount">3</td>
+				<td class="unit">min</td>
+				<td>
+					Heat the wrap in the oven at 200'C	
+				</td> 
+			</tr>
+			<tr>
+				<td class="amount">5</td>
+				<td class="unit">min</td>
+				<td> 
+					Heat the falafel and halloumi in a pan over medium-heat.	
+				</td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Place salad, vegetables, falafel, and cheese in the middle of the wrap.	
+				</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Drizzle with tahini.	
+				</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Fold the wrap closed and stick a toothpick through the middle to keep it closed.	
+				</td>
+			</tr>
+			<tr>
+				<td class="amount">&lt;15</td>
+				<td class="unit">minutes</td>
+				<td>
+					Devour!	
+				</td>
+			</tr>
+		</table>
+		<h3>
+			Recipe Tips 
+		</h3>
+		<p>
+			To make this recipe vegan, simply skip the halloumi cheese. 	
+		</p>
+		<p>
+			One of the photos shows this Mediterranean veggie wrap
+			served with a Thai Omelette and broccoli.
+			This was because a certain someone for whom I made this
+			meal would hardly have found a veggie wrap enough for
+			a post-workout dinner.
+			So if you want to up the nutritional value and protein
+			content of this dish, simply make a 3-egg omelette (2
+			eggs + 1 egg-white) and serve with steamed broccoli on
+			top. 
+			The nutritional value will then be: 553cal, 28g
+			protein, 23g carbs &amp; 40g fat.  
+			(Don't let the amount of fat scare you; it's all
+			healthy fats!)
+		</p>
+		<h3>
+			Sneak Peak 
+		</h3>
+		<p>
+			Full recipe for how to make a simple Thai Omelette
+			coming soon! 
+		</p>
+		<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
+	</section>
+	<nav>
+		<a href="#image1"><img src="article008a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article008b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article008c.thumb.jpg" /></a>
+	</nav>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>
+</article>
