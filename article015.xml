@@ -1,0 +1,218 @@
+<article data-sblg-article="1" data-sblg-tags="smoothie proteinfull proteinpow flull mousse chocolate raspberry beginnersrecipe easy cellucor whey">
+	<header>
+		<div>
+			<h2><a href="#recipe">Chocolate-Raspberry truffle proteinfluff</a></h2>
+			<div class="health">
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
+				<img title="Low-fat" alt="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
+				<div class="nutrition"><div>180</div><div>cal</div></div>
+				<div class="nutrition"><div>22</div><div>pro</div></div>
+				<div class="nutrition"><div>22</div><div>carb</div></div>
+				<div class="nutrition"><div>2</div><div>fat</div></div>
+			</div>
+		</div>
+		<nav>
+			<a href="#image1"><img src="article013a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article013b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article013c.thumb.jpg" /></a>
+		</nav>
+		<address>Christina Hallalulu</address>
+		<time datetime="2014-09-14">2014-09-14</time>
+		<aside>
+			Cinnamon roll + apple pie = an original <span
+				class="nm">Lila, Chop!</span> breakfast smoothie recipe
+			for beginners, dedicated to Binbin. 
+		  </aside>
+	</header>
+	<a id="image1" href="#recipe"><img src="article013a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article013b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article013c.jpg" /></a>
+	<section id="recipe">
+		<p>
+			Two years ago, the week before our bachelors
+			graduation and grad trip to Turkey, I hosted my last
+			Sunday girls' brunch. 
+		       	Unlike my previous brunches where I served home-made
+		       	Swedish sticky chocolate cake and croissants fresh from
+			a local Swiss bakery, I was determined to throw a
+			healthy brunch party fit for a pre-beach vacation. 
+			It was to show off my clean-baking skills and share my
+			fitspiration with my friends, through delicious, healthy food. 
+			Binbin was one of the delightful guests who impressed us with her 
+			her own culinary skills (it must be a Thai thing). 
+			Our mutual successful recipe was oatmeal protein
+			pancakes, which we devoured with cinnamon almond butter
+			and caramelised apples. 
+		</p>
+		<figure>
+			<img src="article013binbin.jpg" alt="Binbin" /> 
+			<figcaption><q>Bin</q> in Thai means to fly..</figcaption>
+		</figure>
+			<p>As a close friend from Ecole hôteliere de Lausanne, a
+				Thai <q>sista</q>, and a fellow
+				health-foodie, I decided to dedicate this
+				original
+				<span class="nm">Lila,
+					Chop!</span> Apple Pie smoothie recipe
+				for beginners to Binbin as a belated birthday
+				present. Cheers to our future plans for
+				starting our own health-food chain in Bangkok!
+			</p>
+		<table class="ingredients">
+			<caption>Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.75"></td>
+				<td class="unit">scoops</td>
+				<td class="name">
+					<a 
+						href="http://bodybuilding.7eer.net/c/102597/76781/2023?u=http%3A%2F%2Fwww.bodybuilding.com%2Fstore%2Fcellucor%2Fcor-performance-whey.html"
+						class="bodybuilding">
+						Cellucor COR Performance Whey Protein, Chocolate-Raspberry Truffle,</a> <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="0.75"></td>
+				<td class="alt unit">scoops</td>
+				<td class="alt name">
+					any chocolate-flavoured whey protein powder
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">cup</td>
+				<td class="name">any vegan or low-fat milk
+					(I used lactose-free lowfat milk)</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">cup</td>
+				<td class="name">frozen raspberries</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="0.25"></td>
+				<td class="alt unit">tsp</td>
+				<td class="alt name">
+					<a
+						href="http://www.amazon.com/dp/B005HF068O/?tag=lich048-20"
+						class="amazon">
+						Bob's Red Mill Guar Gum </a>(optional)</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="0.5"></td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">
+					<a
+						href="http://www.amazon.com/dp/B00BNQFZCI/?tag=lich048-20"
+						class="amazon">
+						Enjoy Life semi-sweet dairy-free dark chocolate chips </a>(optional, for garnishing) </td>
+			</tr>
+		</table>
+		<div class="servings">
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="2" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="300"></span>.)
+		</div>
+		<p>
+			5 simple ingredients for a delicious &amp; nutritious smoothie, filling enough for breakfast and easy enough for beginners to make under 5 minutes.
+		</p>
+		<figure>
+			<img src="article013apples.jpg" alt="Ingredients" /> 
+			<figcaption>Before</figcaption>
+		</figure>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td> 
+					Blend all ingredients together in a
+					high-speed blender until smooth and
+					creamy.  </td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Pour smoothie into two glasses and garnish
+					with any leftover fresh apple slices
+					and sprinkle with cinnamon.  </td>
+			</tr>
+			<tr>
+				<td class="amount">5</td>
+				<td class="unit">min</td>
+				<td>
+					<q>Mot-gaew</q>, as we say in Thai for cheers... which literally means <q>empty your glass</q>!
+				</td>
+			</tr>
+			
+		</table>
+		<figure>
+			<img src="article013ingredients.jpg" alt="Ingredients" /> 
+			<figcaption>After.</figcaption>
+		</figure>
+		<h3>
+			Smoothie Recipe Tips
+		</h3> 
+		<p>
+			Once again, using frozen fruit is so much better than
+			fresh fruit in smoothies as it gives it a thicker,
+			creamier consistency.  No frozen apples available from
+			the grocery store? Simple chop up fresh ones the night
+			before and freeze them in zip-lock bags. 
+		</p>	
+		<p>
+			To up the nutritional content of your smoothie, add Greek yoghurt or banana. 
+			This makes a fantastic breakfast smoothie, and will keep you comfortably full and going all morning! 
+		</p>
+		<figure>
+			<img src="article013almondbutter.jpg" alt="Almond butter" />
+
+			<figcaption>You Fresh Naturals Coco-Nut Butter Cinnamon Roll.</figcaption>
+		</figure>
+		<h3> 
+			Almond butter crazy (product review) 
+		</h3>
+		<p>
+			You know how people are crazy about peanut butter? 
+			Apparently peanut butter is the fit girl's equivalent
+			to a tub of Ben 'n Jerry's ice cream. Now, although I
+			do love the stuff (yes, both Ben 'n Jerry's and peanut
+			butter), I'm far crazier about almond butter.  In fact,
+			as a child I would eat organic peanut butter out of the
+			jar whilst my friends ate ice cream and nutella. I've
+			had my fair share of almond butter sampling, and can
+			confidently say that this one in particular has to be
+			by far the greatest almond butter out there. 
+			<a href="http://www.youfreshnaturals.com/">You Fresh
+				Naturals</a>  have an entire line of flavoured almond
+			butters that are to die for. For this recipe, I used
+			cinnamon roll... Mmmm. 	
+		</p>
+		<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
+	</section>
+	<nav>
+		<a href="#image1"><img src="article013a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article013b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article013c.thumb.jpg" /></a>
+	</nav>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>
+</article>

@@ -110,8 +110,8 @@ article a.amazon		{ background:url('amazon.png') no-repeat scroll left top trans
 				  padding-left: 24px; }
 article a.bodybuilding		{ background:url('bodybuildinglogo.png') no-repeat scroll left top transparent;
 				  padding-left: 24px; }
-article a.myprotein		{ background:url('myprotein.png') no-repeat scroll left top transparent;
-				  padding-left: 24px; }
+article a.myprotein		{ background:url('myprotein.png') no-repeat scroll left center transparent;
+				  padding-left: 32px; }
 article #steps			{ color: #000;
 				  background-color: #999;
 				  border-bottom-left-radius: 1ex; 
