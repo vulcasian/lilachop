@@ -106,7 +106,9 @@ article .ingredients td.alt	{ color: #ddd;
 				  background-color: #666;
 				  font-style: italic; }
 article .ingredients a		{ color: #4EB1BA; }
-article .ingredients a.amazon	{ background:url('amazon.png') no-repeat scroll left top transparent;
+article a.amazon		{ background:url('amazon.png') no-repeat scroll left top transparent;
+				  padding-left: 24px; }
+article a.bodybuilding		{ background:url('bodybuildinglogo.png') no-repeat scroll left top transparent;
 				  padding-left: 24px; }
 article #steps			{ color: #000;
 				  background-color: #999;
