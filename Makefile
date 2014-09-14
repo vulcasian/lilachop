@@ -48,6 +48,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 lactosefree.png \
 	 lowcarb.png \
 	 lowfat.png \
+	 myprotein.png \
 	 paleo.png \
 	 raw.png \
 	 rss.png \
