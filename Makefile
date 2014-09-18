@@ -40,6 +40,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article015ingredients.jpg \
 	 article015guargum.jpg \
 	 article015glass.jpg \
+	 article016bananabread.jpg \
 	 article016book.jpg \
 	 article016preoven.jpg \
 	 article016oven.jpg \
@@ -106,7 +107,7 @@ ARTICLES = article001.html \
 	   article013.html \
 	   article014.html \
 	   article015.html \
-	   article016.xml 
+	   article016.html 
 		
 # These are the images used by the artiles in $(XMLS).
 # When you add a new XML file, make sure you add its images.

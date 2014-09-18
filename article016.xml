@@ -1,7 +1,7 @@
 <article data-sblg-article="1" data-sblg-tags="smoothie proteinfull proteinpow flull mousse chocolate raspberry beginnersrecipe easy cellucor whey">
 	<header>
 		<div>
-			<h2><a href="#recipe">Chocolate-Raspberry Protein Fluff</a></h2>
+			<h2><a href="#recipe">Candy Bananabread</a></h2>
 			<div class="health">
 				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
 				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
@@ -15,9 +15,9 @@
 			</div>
 		</div>
 		<nav>
-			<a href="#image1"><img src="article015a.thumb.jpg" /></a>
-			<a href="#image2"><img src="article015b.thumb.jpg" /></a>
-			<a href="#image3"><img src="article015c.thumb.jpg" /></a>
+			<a href="#image1"><img src="article016a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article016b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article016c.thumb.jpg" /></a>
 		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-09-14">2014-09-14</time>
@@ -28,9 +28,9 @@
 			This 3-ingredient recipe is so incredibly simple and low-fat, you
 			won't believe it's dessert.  </aside>
 	</header>
-	<a id="image1" href="#recipe"><img src="article015a.jpg" /></a>
-	<a id="image2" href="#recipe"><img src="article015b.jpg" /></a>
-	<a id="image3" href="#recipe"><img src="article015c.jpg" /></a>
+	<a id="image1" href="#recipe"><img src="article016a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article016b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article016c.jpg" /></a>
 	<section id="recipe">
 		<p>
 			One of the first desserts I learned to make when I was
@@ -58,7 +58,7 @@
 			a spoon.  	
 		</p>
 		<figure>
-			<img src="article015glass.jpg" alt="Decorated protein fluff" /> 
+			<img src="article016glass.jpg" alt="Decorated protein fluff" /> 
 			<figcaption>Protein-fluff dessert, decorated in a wine glass</figcaption>
 		</figure>
 		<table class="ingredients">
@@ -122,7 +122,7 @@
 			(Total Calories: <span data-lilachop-amount="180"></span>.)
 		</div>
 		<figure>
-			<img src="article015ingredients.jpg" alt="3 ingredients" /> 
+			<img src="article016ingredients.jpg" alt="3 ingredients" /> 
 			<figcaption>3-ingredient protein fluff</figcaption>
 		</figure>
 		<p>
@@ -132,7 +132,7 @@
 			substitute a protein shake and easy enough for
 			beginners to make under 10 minutes.  </p>
 		<figure>
-			<img src="article015guargum.jpg" alt="guar gum" /> 
+			<img src="article016preoven.jpg" alt="guar gum" /> 
 			<figcaption>Magic fluff ingredient: guar gum</figcaption>
 		</figure>
 		<p>
@@ -190,7 +190,7 @@
 			
 		</table>
 		<figure>
-			<img src="article015fluff.jpg" alt="Protein fluff shots" /> 
+			<img src="article016oven.jpg" alt="Protein fluff shots" /> 
 			<figcaption>Protein fluff shots.</figcaption>
 		</figure>
 		<h3>
@@ -210,7 +210,7 @@
 			protein powder.
 	</p>	
 		<figure>
-			<img src="article015glass.jpg" alt="Decorated glass" />
+			<img src="article016book.jpg" alt="Decorated glass" />
 
 			<figcaption>The finished product, served in a decorated wine glass.</figcaption>
 		</figure>
@@ -229,9 +229,9 @@
 		</div>
 	</section>
 	<nav>
-		<a href="#image1"><img src="article015a.thumb.jpg" /></a>
-		<a href="#image2"><img src="article015b.thumb.jpg" /></a>
-		<a href="#image3"><img src="article015c.thumb.jpg" /></a>
+		<a href="#image1"><img src="article016a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article016b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article016c.thumb.jpg" /></a>
 	</nav>
 	<script>
 		changeservings(document.getElementById('servings').value);
