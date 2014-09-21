@@ -1,17 +1,17 @@
-<article data-sblg-article="1" data-sblg-tags="smoothie proteinfull proteinpow flull mousse chocolate raspberry beginnersrecipe easy cellucor whey">
+<article data-sblg-article="1" data-sblg-tags="proteinpow banana bread corfetti candy cellucor whey">
 	<header>
 		<div>
-			<h2><a href="#recipe">Candy Bananabread</a></h2>
+			<h2><a href="#recipe">Candy Banana Bread</a></h2>
 			<div class="health">
 				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
 				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
 				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
 				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
 				<img title="Low-fat" alt="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
-				<div class="nutrition"><div>180</div><div>cal</div></div>
-				<div class="nutrition"><div>22</div><div>pro</div></div>
-				<div class="nutrition"><div>22</div><div>carb</div></div>
-				<div class="nutrition"><div>2</div><div>fat</div></div>
+				<div class="nutrition"><div>196</div><div>cal</div></div>
+				<div class="nutrition"><div>16</div><div>pro</div></div>
+				<div class="nutrition"><div>18</div><div>carb</div></div>
+				<div class="nutrition"><div>7</div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>
@@ -22,44 +22,28 @@
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-09-14">2014-09-14</time>
 		<aside>
-			What happens when you combine mousse au
-			chocolat-framboise and a protein smoothie? 
-			Chocolate-Raspberry Truffle Protein Fluff of course!
-			This 3-ingredient recipe is so incredibly simple and low-fat, you
-			won't believe it's dessert.  </aside>
-	</header>
+			 Confetti protein powder &amp;  banana bread, with a raw
+			 banana hidden inside! A traditional coffee-house
+			 favourite made healthy, fun, and protein-rich, baked
+			 into mini bread loaves.  </aside> </header>
 	<a id="image1" href="#recipe"><img src="article016a.jpg" /></a>
 	<a id="image2" href="#recipe"><img src="article016b.jpg" /></a>
 	<a id="image3" href="#recipe"><img src="article016c.jpg" /></a>
 	<section id="recipe">
 		<p>
-			One of the first desserts I learned to make when I was
-			14 years old was chocolate mousse. 
-			I loved the light, airy, fluffiness
-			of the consistency, combined with the creamy, rich and
-			buttery-chocolate flavour. 
-			I even slipped a bit of Bailey's liquor into it,
-			hoping my parents wouldn't notice.
-		</p>
-		<p>	
-			So when the new Cellucor COR-Performance
-			<a
-				href="http://www.cellucor.com/products/21-whey?product_serving=2%20Pounds&amp;product_flavor=Chocolate%20Raspberry%20Truffle">Chocolate
-				Raspberry Truffle</a> flavoured whey protein powder
-			arrived on my doorstep (thank you <a
-				href="http://bodybuilding.7eer.net/c/102597/76781/2023?u=http%3A%2F%2Fwww.bodybuilding.com%2Fstore%2Fcellucor%2Fcor-performance-whey.html"
-				class="bodybuilding">Bodybuilding.com</a>!) 
-			I was over the moon and terribly excited to try a new
-			recipe with this flavour.  
-			I decided to try making protein fluff, which is
-			basically a protein smoothie whipped into mousse. 
-			Using an electric whisk, the consistency changes enough
-			to make it so stiff yet fluffy, you have to eat it with
-			a spoon.  	
+			Banana bread is an all-time favourite. 
+			It's like bread, but sweet, and arguably goes with
+			anything. 
+			The first time I tried banana bread was at Starbucks in
+			Bangkok, Thailand (where the coffee chain is somewhat
+			of a novelty). 
+			I remember specificly disliking bananas at the time,
+			yet I could not help savouring the delicious taste of
+			banana bread dipped into my caramel macchiato. 	
 		</p>
 		<figure>
-			<img src="article016glass.jpg" alt="Decorated protein fluff" /> 
-			<figcaption>Protein-fluff dessert, decorated in a wine glass</figcaption>
+			<img src="article016bananabread.jpg" alt="Banana bread loaf cross section" /> 
+			<figcaption>Cross-section of the raw banana inside this mini banana bread loaf.</figcaption>
 		</figure>
 		<table class="ingredients">
 			<caption>Ingredients</caption>
@@ -70,79 +54,99 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount" data-lilachop-amount="0.75"></td>
+				<td class="amount" data-lilachop-amount="0.33333"></td>
 				<td class="unit">scoops</td>
 				<td class="name">
 					<a 
 						href="http://bodybuilding.7eer.net/c/102597/76781/2023?u=http%3A%2F%2Fwww.bodybuilding.com%2Fstore%2Fcellucor%2Fcor-performance-whey.html"
 						class="bodybuilding">
-						Cellucor COR Performance Whey Protein, Chocolate-Raspberry Truffle,</a> <span class="altor">or</span>
+						Cellucor COR Performance Whey Protein, COR-fetti,</a> <span class="altor">or</span>
 				</td>
 			</tr>
 			<tr>
-				<td class="alt amount" data-lilachop-amount="0.75"></td>
+				<td class="alt amount" data-lilachop-amount="0.33333"></td>
 				<td class="alt unit">scoops</td>
 				<td class="alt name">
-					any chocolate-flavoured whey protein powder
+					any vanilla-flavoured whey protein powder
 				</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="amount" data-lilachop-amount="0.08333"></td>
 				<td class="unit">cup</td>
 				<td class="name">any vegan or low-fat milk
-					(I used lactose-free low-fat milk)</td>
+					(I used almond milk)</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="amount" data-lilachop-amount="0.33333"></td>
+				<td class="unit">whole</td>
+				<td class="name">large ripe bananas</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.5"></td>
+				<td class="unit">whole</td>
+				<td class="name">raw eggs</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.33333"></td>
+				<td class="unit">whole</td>
+				<td class="name">raw egg-whites</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.04166"></td>
 				<td class="unit">cup</td>
-				<td class="name">frozen raspberries</td>
+				<td class="name">Low-fat lactose-free yoghurt, <span class="altor">or</span>
+				</td>
 			</tr>
 			<tr>
-				<td class="alt amount" data-lilachop-amount="0.25"></td>
-				<td class="alt unit">tsp</td>
-				<td class="alt name">
-					<a
-						href="http://www.amazon.com/dp/B005HF068O/?tag=lich048-20"
-						class="amazon">
-						Bob's Red Mill Guar Gum </a>(optional)</td>
+				<td class="alt amount" data-lilachop-amount="0.04166"></td>
+				<td class="alt unit">cup</td>
+				<td class="alt name">0% Fage Total Greek Yoghurt</td>
 			</tr>
 			<tr>
-				<td class="alt amount" data-lilachop-amount="0.5"></td>
-				<td class="alt unit">tbsp</td>
-				<td class="alt name">
+				<td class="amount" data-lilachop-amount="0.02083"></td>
+				<td class="unit">cup</td>
+				<td class="name">
 					<a
-						href="http://www.amazon.com/dp/B00BNQFZCI/?tag=lich048-20"
+						href="http://www.amazon.com/dp/B0019GZ7Z2/?tag=lich048-20"
 						class="amazon">
-						Semi-sweet vegan dark chocolate chips </a>(optional, for garnishing) </td>
+						Bob's Red Mill Organic Coconut Flour </a></td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.08333"></td>
+				<td class="unit">cup</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B004VLVB5C/?tag=lich048-20"
+						class="amazon">
+						Bob's Red Mill Rolled Oats </a></td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="4.66666"></td>
+				<td class="alt unit">g</td>
+				<td class="alt name">Organic walnuts</td>
 			</tr>
 		</table>
 		<div class="servings">
 			Servings: 
-			<input id="servings" type="number" min="0" step="1" value="2" onchange="changeservings(this.value);" />
+			<input id="servings" type="number" min="0" step="1" value="6" onchange="changeservings(this.value);" />
 			(Total Calories: <span data-lilachop-amount="180"></span>.)
 		</div>
 		<figure>
-			<img src="article016ingredients.jpg" alt="3 ingredients" /> 
-			<figcaption>3-ingredient protein fluff</figcaption>
+			<img src="article016preoven.jpg" alt="Pre-oven" /> 
+			<figcaption>Before</figcaption>
 		</figure>
 		<p>
-			3 ingredients for an incredibly simple,
-			quick &amp; almost fat-free chocolate-raspberry mousse. 
-			Delicious enough for dessert, with enough protein to
-			substitute a protein shake and easy enough for
-			beginners to make under 10 minutes.  </p>
-		<figure>
-			<img src="article016preoven.jpg" alt="guar gum" /> 
-			<figcaption>Magic fluff ingredient: guar gum</figcaption>
+			 The banana piece buried in the middle of each loaf
+			 gives it an extra moistness and sweetness when biting
+			 into it, which is such a delightful surprise! 
+			 The walnuts on the other hand give it a slightly
+			 bitter crunchiness, and the colourful confetti protein
+			 powder particles makes it fun and candy-like.  
+	       			 </p>
+		 <figure>
+			<img src="article016oven.jpg" alt="Post-oven" /> 
+			<figcaption>After</figcaption>
 		</figure>
-		<p>
-			To up this dessert's <q>fluff-factor</q> and to make
-			the fluffiness last longer, add the optional ingredient
-			of guar gum, which acts as a thickening agent.  
-			(Traditional protein fluff recipes use xanthan gum,
-			however, a lot of people are sensitive to this
-			and react badly. This makes guar gum a favourable
-			substitute.) </p>	
 
 		<table id="steps">
 			<caption>Steps</caption>
@@ -156,75 +160,73 @@
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td> 
-					Put aside a few raspberries and the
-					optional chocolate chips for garnishing
-					last.  </td> </tr>
+					Put aside 1 banana and walnuts.</td> </tr>
 			<tr>
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td> 
-					Blend the rest of the ingredients
-					together in a high-speed blender until
-					smooth and creamy.  </td> 
+					Mix all other ingredients in a bowl to make a smooth batter.  </td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td> 
+					Add walnuts to the batter.  </td> 
 			</tr>
 			<tr>
 				<td class="amount">5</td>
 				<td class="unit">min</td>
 				<td> 
-					Transfer blended mixture into a large
-					bowl or pot, and whisk on high-speed
-					setting using an electric whisk.  </td>
+					Pour batter into a non-stick bread-loaf oven form (I used a 6-slot mini bread loaf silicone oven form).  </td>
 			</tr>
 			<tr>
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td>
-					Pour smoothie into glasses and garnish
-					with leftover raspberries and chocolate
-					chips.  </td> </tr>
+					Cut the remaining banana in half, length-wise, and then into thirds so you get 6 pieces. Bury these into the batter.  </td> </tr>
 			<tr>
-				<td class="amount">8</td>
+				<td class="amount">30-35</td>
 				<td class="unit">min</td>
 				<td>
-					Grab a spoon and dig in to this frozen, fluffy treat!  </td> </tr>
+					Bake at 160'C and enjoy the heavenly smell of your kitchen!  </td> 
+			</tr>
+			<tr>
+				<td class="amount">45</td>
+				<td class="unit">min</td>
+				<td>
+					Allow to cool and eat with your coffee or protein shake.  </td> 
+			</tr>
 			
 		</table>
-		<figure>
-			<img src="article016oven.jpg" alt="Protein fluff shots" /> 
-			<figcaption>Protein fluff shots.</figcaption>
-		</figure>
 		<h3>
-			Protein Fluff Recipe Tips
+			Banana Protein Powder
 		</h3> 
 		<p>
-			As mentioned, using guar gum or xanthan gum will
-			increase the fluffiness. 
-			However, I have heard that using casein protein powder
-			is even better than whey for achieving light, airy and
-			mousse-like consistencies. 
-			(Forget using vegan protein powders for this kind of
-			recipe, the consistency will not turn out right at
-			all.) 
-			For my next protein fluff recipe, I will try using 
-			<a href="http://tidd.ly/9813d498" class="myprotein">Myprotein Micellar Casein</a>
+			The original recipe called for banana-flavoured protein powder. For my next banana bread recipe, I will try using 
+			<a href="http://www.awin1.com/cread.php?awinmid=3196&amp;awinaffid=213939&amp;clickref=&amp;p=http%3A%2F%2Fwww.myprotein.com%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" class="myprotein">Myprotein Impact Whey Banana</a>
 			protein powder.
 	</p>	
 		<figure>
-			<img src="article016book.jpg" alt="Decorated glass" />
+			<img src="article016book.jpg" alt="Finished banana loaves with cookbook." />
 
-			<figcaption>The finished product, served in a decorated wine glass.</figcaption>
+			<figcaption>Fresh out of the oven, next to my Protein Pow cookbook.</figcaption>
 		</figure>
 		<h3> 
-			More Protein Fluff Recipes	
+			More Banana Bread Recipes	
 		</h3>
 		<p>
-			This recipe was adapted from Protein Fluff: 3 quick and easy recipes! 
-			<a href="http://bodybuilding.7eer.net/c/102597/76781/2023?u=http%3A%2F%2Fwww.bodybuilding.com%2Ffun%2Fprotein-fluff-3-quick-and-easy-recipes.html" 
-				class="bodybuilding">
-				Strawberry Protein Fluff</a> by Anna Sward, author and founder of
-			<a href="http://www.proteinpow.com">Protein Pow</a>. (Before reading her blog, I had no idea what protein fluff even was!) 
+			This recipe was adapted from Protein Banana Bread Gone Bananas by by Anna Sward, author and founder of
+			<a href="http://www.proteinpow.com">Protein Pow</a>. 
+			You will have to buy her 
+					<a
+						href="http://www.amazon.com/dp/1581572530/?tag=lich048-20"
+						class="amazon"> cookbook </a>for the original recipe.
+				You can also find more protein banana recipes at 
+
+				<a href="http://bodybuilding.7eer.net/c/102597/76781/2023?u=http%3A%2F%2Fwww.bodybuilding.com%2Ffun%2Fask-the-protein-powder-chef-healthier-banana-bread.html"
+					class="bodybuilding"> Ask the Protein Powder Chef</a>. 		
 		</p>
-		<div class="fb-wrapper">
+			<div class="fb-wrapper">
 			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
 		</div>
 	</section>
