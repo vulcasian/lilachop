@@ -50,6 +50,14 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article017cupcakes.jpg \
 	 article017stove.jpg \
 	 article017cisslila.jpg \
+	 article018bar.jpg \
+	 article018barwich.jpg \
+	 article018plate.jpg \
+	 article018icedbrownie.jpg \
+	 article019cookies.jpg \
+	 article019crosssectioncookie.jpg \
+	 article019ingredients.jpg \
+	 article019singlecookie.jpg \
 	 amazon.png \
 	 article.js \
 	 bg.png \
@@ -93,7 +101,9 @@ XMLS = article001.xml \
        article014.xml \
        article015.xml \
        article016.xml \
-       article017.xml 
+       article017.xml \
+       article018.xml \
+       article019.xml 
 
 # These are all the HTML files that I'll build.
 # Make sure all your articles in $(XMLS) appear here!
@@ -115,7 +125,9 @@ ARTICLES = article001.html \
 	   article014.html \
 	   article015.html \
 	   article016.html \
-	   article017.html 
+	   article017.html \
+	   article018.html \
+	   article019.html
 		
 # These are the images used by the artiles in $(XMLS).
 # When you add a new XML file, make sure you add its images.
@@ -138,7 +150,9 @@ IMAGES = article001a.jpg article001b.jpg article001c.jpg \
 	 article014a.jpg article014b.jpg article014c.jpg \
 	 article015a.jpg article015b.jpg article015c.jpg \
 	 article016a.jpg article016b.jpg article016c.jpg \
-	 article017a.jpg article017b.jpg article017c.jpg  
+	 article017a.jpg article017b.jpg article017c.jpg \
+	 article018a.jpg article018b.jpg article018c.jpg \
+	 article019a.jpg article019b.jpg article019c.jpg  
 	 
 
 # We build thumbnails from $(IMAGES)...
@@ -160,7 +174,9 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article014a.thumb.jpg article014b.thumb.jpg article014c.thumb.jpg \
 	 article015a.thumb.jpg article015b.thumb.jpg article015c.thumb.jpg \
 	 article016a.thumb.jpg article016b.thumb.jpg article016c.thumb.jpg \
-	 article017a.thumb.jpg article017b.thumb.jpg article017c.thumb.jpg 
+	 article017a.thumb.jpg article017b.thumb.jpg article017c.thumb.jpg \
+	 article018a.thumb.jpg article018b.thumb.jpg article018c.thumb.jpg \
+	 article019a.thumb.jpg article019b.thumb.jpg article019c.thumb.jpg 
 
 
 #####################################################################
