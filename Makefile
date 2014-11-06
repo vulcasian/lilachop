@@ -57,11 +57,10 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article019cookies.jpg \
 	 article019crosssectioncookie.jpg \
 	 article019ingredients.jpg \
-	 article019cookie.jpg \
 	 article020crosssectioncookie.jpg \
 	 article020cookies.jpg \
+	 article020cookie.jpg \
 	 article020postoven.jpg \
-	 article020singlecookie.jpg \
 	 amazon.png \
 	 article.js \
 	 bg.png \
