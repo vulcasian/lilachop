@@ -124,7 +124,7 @@
 		<div class="servings">
 			Servings: 
 			<input id="servings" type="number" min="0" step="1" value="4" onchange="changeservings(this.value);" />
-			(Total Calories: <span data-lilachop-amount="103"></span>.)
+			(Total Calories: <span data-lilachop-amount="133"></span>.)
 		</div>
 		<figure>
 			<img src="article020postoven.jpg" alt="Postoven" />
