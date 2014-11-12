@@ -61,6 +61,10 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article020cookies.jpg \
 	 article020cookie.jpg \
 	 article020postoven.jpg \
+	 article021bite.jpg \
+	 article021tupperware.jpg \
+	 article021stack.jpg \
+	 article021tray.jpg \
 	 amazon.png \
 	 article.js \
 	 bg.png \
@@ -107,7 +111,8 @@ XMLS = article001.xml \
        article017.xml \
        article018.xml \
        article019.xml \
-       article020.xml
+       article020.xml \
+       article021.xml
 
 # These are all the HTML files that I'll build.
 # Make sure all your articles in $(XMLS) appear here!
@@ -132,7 +137,8 @@ ARTICLES = article001.html \
 	   article017.html \
 	   article018.html \
 	   article019.html \
-	   article020.html 
+	   article020.html \
+	   article021.html
 		
 # These are the images used by the artiles in $(XMLS).
 # When you add a new XML file, make sure you add its images.
@@ -158,7 +164,8 @@ IMAGES = article001a.jpg article001b.jpg article001c.jpg \
 	 article017a.jpg article017b.jpg article017c.jpg \
 	 article018a.jpg article018b.jpg article018c.jpg \
 	 article019a.jpg article019b.jpg article019c.jpg \
-	 article020a.jpg article020b.jpg article020c.jpg 
+	 article020a.jpg article020b.jpg article020c.jpg \
+	 article021a.jpg article021b.jpg article021c.jpg 
 	 
 
 # We build thumbnails from $(IMAGES)...
@@ -183,7 +190,8 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article017a.thumb.jpg article017b.thumb.jpg article017c.thumb.jpg \
 	 article018a.thumb.jpg article018b.thumb.jpg article018c.thumb.jpg \
 	 article019a.thumb.jpg article019b.thumb.jpg article019c.thumb.jpg \
-	 article020a.thumb.jpg article020b.thumb.jpg article020c.thumb.jpg 
+	 article020a.thumb.jpg article020b.thumb.jpg article020c.thumb.jpg \
+	 article021a.thumb.jpg article021b.thumb.jpg article021c.thumb.jpg 
 
 
 #####################################################################
