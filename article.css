@@ -1,6 +1,5 @@
 article > #recipe,
-article > a img			{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #474747; 
-				  width: 90%; 
+article > a img			{ width: 90%; 
 				  max-width: 1280px;
 				  border-bottom-left-radius: 1ex;
 				  border-bottom-right-radius: 1ex; }
@@ -39,8 +38,7 @@ article > #recipe p		{ width: 98%;
 				  margin-right: auto; }
 article > #recipe		{ padding-top: 90px;
 				  padding-bottom: 2%;
-				  margin-bottom: 1ex;
-				  background-color: #ccc; }
+				  margin-bottom: 1ex; }
 article > header		{ position: absolute;
 				  box-shadow: 2px 2px 2px rgba(0,0,0,0.3), inset 0 -2px 2px rgba(0,0,0,0.1);
 				  background-color: #E9E9E9;
@@ -74,7 +72,7 @@ article > nav			{ display: none; }
 article > nav a + a		{ margin-left: 16px; }
 article > nav img		{ box-shadow: 0 3px 6px rgba(0,0,0,0.3), inset 0 -3px 3px rgba(0,0,0,0.1);
 				  margin: 0;
-				  opacity: 0.9;
+				  opacity: 1.0;
 				  border: solid #ccc 1px;
 				  border-radius: 10px; }
 article > nav img:hover		{ opacity: 1.0; }

@@ -10,12 +10,8 @@
 	</head>
 	<body>
 		<header>
-			<h1>
-				<a href="index.html">Lila, Chop!</a>
-			</h1>
-			<h2>
-				clandestine health food &amp; living
-			</h2>
+			<img id="logo" src="logo.png" alt="Lila, Chop!" />
+			<a href="index.html"><img src="banner.png" alt="Lila, Chop!" /></a>
 			<nav>
 				<a href="https://www.facebook.com/lilachop"><img title="Facebook" alt="Facebook" src="facebook.png" /></a>
 				<a href="http://instagram.com/Project_fitspiration"><img title="Instagram" alt="Instagram" src="instagram.png" /></a>
@@ -27,7 +23,7 @@
 				     // This code is freeware provided these four comment lines remain intact
 				     // A wizard to generate this code is at http://www.jottings.com/obfuscator/
 				     { 
-				     	coded = "ZlPYgxYc5@3Y35ZlSI.ZSa"
+					coded = "ZlPYgxYc5@3Y35ZlSI.ZSa"
 					key = "07QHZrRgSqtayYhBCAw8Tdnzfe6P4JUWx5KXl1LpuvjOc2DsoGEmNiMkF93bVI"
 					shift=coded.length
 					link=""

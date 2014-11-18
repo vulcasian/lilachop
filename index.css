@@ -20,25 +20,25 @@ body > article				{ float: none;
 #chapters section > h2,
 #chapters section > h3,
 #chapters section > h4			{ margin: 0; }
-#chapters section h3			{ color: #eee; 
+#chapters section h3			{ color: #222; 
 					  margin-top: 1ex;
 					  margin-left: -0.5ex;
 					  margin-bottom: 0.5ex;
 					  font-weight: normal; }
-#chapters section h4			{ color: #ddd; 
+#chapters section h4			{ color: #333; 
 					  margin-top: 0.5ex;
 					  margin-left: -0.5ex;
 					  margin-bottom: 0.5ex;
 					  font-weight: normal; }
-#chapters a				{ color: #ccc; }
-#chapters a:hover			{ color: #eee; }
-#chapters time				{ color: #aaa; }
+#chapters a				{ color: #333; }
+#chapters a:hover			{ color: #000; }
+#chapters time				{ color: #888; }
 #chapters img				{ width: 40px; 
 				   	  border-radius: 4px;
 					  margin-right: 10px; }
 #chapters img.clock			{ width: 20px; 
 				   	  margin-right: 2px; 
-					  margin-bottom: -6px; }
+					  margin-bottom: -4px; }
 #blogroll img.clock			{ width: 20px; 
 					  margin-bottom: -4px; }
 #chapters li				{ display: table; }
@@ -54,11 +54,11 @@ body > article				{ float: none;
 #blogroll li > a img			{ width: 400px; 
 					  border: thin solid #aaa;
 					  border-radius: 16px; }
-#blogroll li > div > div		{ background-color: #eee;
+#blogroll li > div > div		{ background-color: #fff;
 				 	  border-radius: 6px;
 					  margin-left: 1em;
 					  color: #999;
-				  	  box-shadow: 3px 4px 4px #333; }
+				  	  box-shadow: 3px 4px 4px #666; }
 #blogroll li > div > div time		{ color: #666; }
 #blogroll li > div > div .thumbs	{ padding-top: 1em; }
 #blogroll li > div > div > div		{ padding: 1em; }

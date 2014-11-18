@@ -73,6 +73,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article022slice3.jpg \
 	 amazon.png \
 	 article.js \
+	 banner.png \
 	 bg.png \
 	 bodybuildinglogo.png \
 	 email.png \
@@ -82,6 +83,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 facebook.png \
 	 instagram.png \
 	 lactosefree.png \
+	 logo.png \
 	 lowcarb.png \
 	 lowfat.png \
 	 myprotein.png \

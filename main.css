@@ -4,33 +4,24 @@ a				{ text-decoration: none;
 .nm				{ font-style: italic; }
 body				{ margin: 0; 
 				  padding: 0;
-				  background-color: #666;
+				  background-color: #ccd;
 				  width: 100%;
 				  font-family: "Times New Roman", serif; }
 body > header			{ box-shadow: 1px 1px 3px 3px #474747;
+				  border-top: 3px solid #333;
 				  background: #474747 url(bg.png);
-				  padding: 3ex 2.5% 1ex 2.5%; 
-				  position: relative;
-				  z-index: 99; }
-body > header nav		{ display: inline-block; }
-body > header img		{ width: 32px; 
+				  padding: 0 32px; 
+				  height: 100px;
+				  margin-bottom: 1.5em; }
+body > header > *		{ display: inline-block;
+				  vertical-align: middle; }
+body > header > a img		{ height: 130px; }
+body > header > img		{ height: 110px; }
+body > header > nav 		{ padding: 0 20px; }
+body > header > nav img		{ width: 35px; 
 				  opacity: 0.8;
-				  margin-bottom: -8px; }
-body > header img:hover		{ opacity: 1.0; }
-body > header h1		{ margin: 0;
-				  text-shadow: 0px 3px 8px #2a2a2a;
-				  font-size: 32pt; 
-				  letter-spacing: 0.75ex; }
-body > header h1 a		{ color: #ccc; }
-body > header h1 a:hover	{ color: #fff; }
-body > header h2		{ display: inline-block;
-			  	  font-size: 20pt;
-				  font-weight: normal;
-				  padding-right: 1ex;
-				  margin: 0;
-				  color: #ddd;
-				  text-shadow: 0px 3px 8px #2a2a2a; 
-				  letter-spacing: 0.3ex; }
+				  padding: 0 2px; }
+body > header > nav img:hover	{ opacity: 1.0; }
 body > section			{ display: table; 
 				  width: 100%; }
 body > section > *		{ display: table-cell;
@@ -45,7 +36,7 @@ body > section > nav ul		{ list-style-type: none;
 body > section > nav figure	{ position: relative; 
 				  width: 140px;
 				  max-width: 140px;
-				  opacity: 0.7;
+				  opacity: 0.8;
 				  text-align: center;
 				  margin: 0; }
 body > section > nav figure:hover 
@@ -58,7 +49,7 @@ body > section > nav figcaption	{ position: absolute;
 				  text-overflow: ellipsis;
 				  width: 100%; 
 				  text-align: center; 
-				  opacity: 0.7;
+				  opacity: 0.8;
 				  background-color: #fff; }
 body > section > nav figcaption a
 				{ color: black; }
@@ -68,16 +59,14 @@ body > section > nav li img	{ width: 100%;
 				  border-radius: 10px; }
 body > footer			{ margin-left: 140px;
 				  margin-top: 1ex;
-				  margin-bottom: 1ex;
+				  margin-bottom: 1em;
 				  text-align: center;
-				  text-shadow: 0px 3px 8px #2a2a2a;
-				  color: #aaa; }
-body > footer div		{ border-left: thin solid silver;
+				  color: #444; }
+body > footer div		{ border-left: thin solid #444;
 				  display: inline-block;
 				  margin-left: 1ex;
 				  padding-left: 1ex; }
-body > footer a			{ color: #ddd; }
-body > footer a:hover		{ color: #fff; }
+body > footer a			{ color: #000; }
 @media print, only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
 	body > header 		{ text-align: center; 
 				  padding-top: 1ex;

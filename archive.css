@@ -7,15 +7,11 @@ article > section h1		{ font-size: 14pt; }
 article > section h2		{ font-size: 13pt; }
 article > section h3		{ font-size: 12pt; }
 article > section,
-article > nav			{ box-shadow: 1px 1px 1px 1px #474747, inset 0 -1px 1px #474747; 
-				  margin: 0;
+article > nav			{ margin: 0;
 				  margin-bottom: 1ex;
 				  padding-top: 2px;
 				  padding-bottom: 0.5ex;
-				  width: 94%;
-				  background-color: #ccc; 
-				  border-bottom-left-radius: 1ex;
-				  border-bottom-right-radius: 1ex; }
+				  width: 94%; }
 article > section		{ padding-left: 2%; 
 			  	  padding-right: 2%; }
 article > nav time		{ color: #666; }
