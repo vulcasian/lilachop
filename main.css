@@ -23,8 +23,7 @@ body > section > *			{ display: table-cell;
 					  vertical-align: top; }
 body > section > nav			{ width: 140px; }
 body > section > article		{ color: #333;
-					  font-size: 14pt;
-					  position: relative; }
+					  font-size: 14pt; }
 body > section > nav ul			{ list-style-type: none;  
 					  margin: 0; 
 					  padding: 0 10px; }
@@ -67,18 +66,45 @@ body > footer img			{ height: 16pt;
 					  margin: 0 0 1em 0;
 					  padding: 0;
 					  background-color: #eee; }
-#subhead a i				{ color: #000; 
+#subhead i				{ color: #000; 
 					  font-size: 18pt;
 					  padding: 1ex 1ex; }
 #subhead a:hover i			{ color: #333; }
+#subhead .fa-navicon			{ position: relative; }
 #subhead .fa-facebook-square		{ border-left: thin solid #bbb; 
 					  margin-left: 1ex; }
 #subhead .fa-at				{ padding-right: 0; }
-#subhead img				{ width: 23pt; 
-				  	  border: thin solid #666;
-					  border-radius: 4pt;
-					  margin: 0 1ex -6pt 1ex; }
-#subhead a:hover img			{ border: thin solid #bbb; }
+#subsubhead				{ display: none; 
+				 	  position: absolute;
+					  background-color: #eee;
+					  width: auto;
+					  border: thin solid silver;
+					  white-space: nowrap;
+					  text-align: left;
+					  top: 55px; }
+#subsubhead i				{ font-size: 12pt; }
+#subsubhead img				{ width: 32px; 
+					  margin: 0 4px; 
+					  border-radius: 4px; }
+#subsubhead h3,
+#subsubhead h4				{ margin: 0; 
+			 		  font-weight: normal;
+					  font-size: 12pt;
+					  padding: 1ex 2ex;
+					  cursor: pointer; }
+#subsubhead h3:hover,
+#subsubhead h4:hover			{ background-color: #888; }
+#subsubhead h3.dropped			{ background-color: #aaa; }
+#subsubhead h4.dropped			{ background-color: #bbb; }
+#subsubhead ul				{ margin: 0;
+					  padding: 0.5ex 3ex;
+					  list-style-type: none; }
+#subsubhead ul li			{ display: table-row; }
+#subsubhead ul li > *			{ display: table-cell; 
+					  vertical-align: middle; }
+#subsubhead section section		{ display: none; }
+#subhead > div				{ display: inline-block; 
+					  position: relative; }
 @media print, only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
 } 
 @media print, only screen and (max-width: 768px), only screen and (max-device-width: 768px) {

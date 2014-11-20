@@ -91,7 +91,7 @@
 			dishes, et cetera. (On a smart phone, you will not see
 			the navigation pan. Use the <span class="nm">Lila, Chop!</span> 
 			website title and the 
-			<img class="hicon" src="files.png" alt="Archive"/> archive button to
+			<i class="fa fa-archive"></i> archive button to
 			navigate instead.)
 		</p>			
 		<figure>
@@ -101,15 +101,19 @@
 	
 		<p>	
 			At the bottom of the page you will see a link to the
-			 <img class="hicon" src="files.png" alt="Archive"/> 
+			<i class="fa fa-archive"></i> 
 			archives, where you will find a list of all my recipes.
 			You can always navigate back home by clicking on the 
 			<span class="nm">Lila, Chop!</span> website title.
 			Want to like and share this blog on 
-			<img class="hicon" src="facebook.png" alt="Facebook"/> Facebook, follow me personally on 	
-			<img class="hicon" src="instagram.png" alt="Instagram"/> Instagram, get recipe updates with
-			<img class="hicon" src="rss.png" alt="RSS"/> RSS, or 
-			<img class="hicon" src="email.png" alt="E-mail"/> email me? 
+			<i class="fa fa-facebook-square"></i>
+			Facebook, follow me personally on 	
+			<i class="fa fa-instagram"></i>
+			Instagram, get recipe updates with
+			<i class="fa fa-rss"></i>
+			RSS, or 
+			<i class="fa fa-envelope"></i>
+			email me? 
 			Click on the icons at the top of
 			the page.
 		</p>
@@ -186,8 +190,7 @@
 		</p>
 		<p>
 			Click on the
-			 <img class="hicon" src="files.png" alt="Archive"/> 
-		       archive icon at the top of the page to see
+			<i class="fa fa-archive"></i> archive icon at the top of the page to see
 			a full list of recipes and articles in chronological
 			order.  Be prepared to scroll down, there will be many
 			and many more to come!

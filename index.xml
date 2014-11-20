@@ -8,6 +8,7 @@
 		<link rel="stylesheet" href="index.css" type="text/css" />
 		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" />
 		<title>Lila, Chop!</title>
+		<script src="main.js"></script>
 	</head>
 	<body>
 		<header>
@@ -15,10 +16,79 @@
 			<a href="index.html" class="bannerbg"><img src="bannerbig.png" alt="Lila, Chop!" /></a>
 		</header>
 		<nav id="subhead">
-			<span id="about">
-				<a href="article009.html"><img src="article009a.jpg" /></a>
-				<a href="article010.html"><img src="article010a.jpg" /></a>
-			</span>
+			<div>
+				<a href="#" onclick="dropdown(this, 'subsubhead'); return false;"><i class="fa fa-navicon"></i></a>
+				<nav id="subsubhead">
+					<section>
+						<h3 onclick="dropdown(this, 'about');">About Me</h3>
+						<section id="about">
+							<nav id="about" data-sblg-nav="1" data-sblg-navtag="about" data-sblg-navcontent="1" data-sblg-navsz="2">
+								<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
+								<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+							</nav>
+						</section>
+					</section>
+					<section>
+						<h3 onclick="dropdown(this, 'bydiet');">Recent Recipes by Diet</h3>
+						<section id="bydiet">
+							<h4 onclick="dropdown(this, 'glutenfree');">Gluten-Free</h4>
+							<section id="glutenfree">
+								<nav data-sblg-nav="1" data-sblg-navtag="glutenfree" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+							<h4 onclick="dropdown(this, 'highprotein');">High-Protein</h4>
+							<section id="highprotein">
+								<nav data-sblg-nav="1" data-sblg-navtag="highprotein" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+							<h4 onclick="dropdown(this, 'lactosefree');">Lactose-Free</h4>
+							<section id="lactosefree">
+								<nav data-sblg-nav="1" data-sblg-navtag="lactosefree" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+							<h4 onclick="dropdown(this, 'lowcarb');">Low-Carb</h4>
+							<section id="lowcarb">
+								<nav data-sblg-nav="1" data-sblg-navtag="lowcarb" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+							<h4 onclick="dropdown(this, 'rawfood');">Raw Food</h4>
+							<section id="rawfood">
+								<nav data-sblg-nav="1" data-sblg-navtag="raw" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+							<h4 onclick="dropdown(this, 'vegan');">Vegan</h4>
+							<section id="vegan">
+								<nav data-sblg-nav="1" data-sblg-navtag="vegan" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+						</section>
+					</section>
+				</nav>
+			</div>
 			<a href="https://www.facebook.com/lilachop"><i class="fa fa-facebook-square"></i></a>
 			<a href="http://instagram.com/Project_fitspiration"><i class="fa fa-instagram"></i></a>
 			<a href="atom.xml"><i class="fa fa-rss"></i></a>
@@ -52,97 +122,7 @@
 			<!-- nav id="chapters">
 				<section>
 					<section>
-						<nav data-sblg-nav="1" data-sblg-navtag="about" data-sblg-navcontent="1" data-sblg-navsz="2">
-							<div>
-								<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
-							</div>
-							<div>
-								<div><a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a></div>
-								<img class="clock" alt="Date Posted" src="timedark.png" />
-								<time datetime="${sblg-date}">${sblg-date}</time>
-							</div>
-						</nav>
-					</section>
-					<section>
 						<h3>Recipes</h3>
-						<section>
-							<h4>Gluten-Free</h4>
-							<nav data-sblg-nav="1" data-sblg-navtag="glutenfree" data-sblg-navcontent="1" data-sblg-navsz="2">
-								<div>
-									<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
-								</div>
-								<div>
-									<div><a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a></div>
-									<img class="clock" alt="Date Posted" src="timedark.png" />
-									<time datetime="${sblg-date}">${sblg-date}</time>
-								</div>
-							</nav>
-						</section>
-						<section>
-							<h4>High-Protein</h4>
-							<nav data-sblg-nav="1" data-sblg-navtag="highprotein" data-sblg-navcontent="1" data-sblg-navsz="2">
-								<div>
-									<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
-								</div>
-								<div>
-									<div><a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a></div>
-									<img class="clock" alt="Date Posted" src="timedark.png" />
-									<time datetime="${sblg-date}">${sblg-date}</time>
-								</div>
-							</nav>
-						</section>
-						<section>
-							<h4>Lactose-Free</h4>
-							<nav data-sblg-nav="1" data-sblg-navtag="lactosefree" data-sblg-navcontent="1" data-sblg-navsz="2">
-								<div>
-									<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
-								</div>
-								<div>
-									<div><a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a></div>
-									<img class="clock" alt="Date Posted" src="timedark.png" />
-									<time datetime="${sblg-date}">${sblg-date}</time>
-								</div>
-							</nav>
-						</section>
-						<section>
-							<h4>Low-Carb</h4>
-							<nav data-sblg-nav="1" data-sblg-navtag="lowcarb" data-sblg-navcontent="1" data-sblg-navsz="2">
-								<div>
-									<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
-								</div>
-								<div>
-									<div><a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a></div>
-									<img class="clock" alt="Date Posted" src="timedark.png" />
-									<time datetime="${sblg-date}">${sblg-date}</time>
-								</div>
-							</nav>
-						</section>
-						<section>
-							<h4>Raw Food</h4>
-							<nav data-sblg-nav="1" data-sblg-navtag="raw" data-sblg-navcontent="1" data-sblg-navsz="2">
-								<div>
-									<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
-								</div>
-								<div>
-									<div><a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a></div>
-									<img class="clock" alt="Date Posted" src="timedark.png" />
-									<time datetime="${sblg-date}">${sblg-date}</time>
-								</div>
-							</nav>
-						</section>
-						<section>
-							<h4>Vegan</h4>
-							<nav data-sblg-nav="1" data-sblg-navtag="vegan" data-sblg-navcontent="1" data-sblg-navsz="2">
-								<div>
-									<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
-								</div>
-								<div>
-									<div><a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a></div>
-									<img class="clock" alt="Date Posted" src="timedark.png" />
-									<time datetime="${sblg-date}">${sblg-date}</time>
-								</div>
-							</nav>
-						</section>
 					</section>
 				</section>
 			</nav -->

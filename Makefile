@@ -74,6 +74,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 amazon.png \
 	 article.js \
 	 banner.png \
+	 bannerbig.png \
 	 bg.png \
 	 bodybuildinglogo.png \
 	 email.png \
@@ -86,6 +87,7 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 logo.png \
 	 lowcarb.png \
 	 lowfat.png \
+	 main.js \
 	 myprotein.png \
 	 paleo.png \
 	 raw.png \

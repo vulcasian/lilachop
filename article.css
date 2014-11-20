@@ -60,6 +60,8 @@ article > header span		{ color: #222; }
 article > header span 		{ border-left: thin solid silver;
 				  padding-left: 0.5ex;
 				  margin-left: 0.25ex; }
+article .hicon			{ width: 20px;
+				  margin-bottom: -4px; }
 article > header .health img	{ width: 38px; 
 				  margin-bottom: -5px; }
 article .nutrition 		{ display: inline-block; 
@@ -143,8 +145,7 @@ article > a img			{ width: 100%;
 				  box-shadow: none; }
 }
 @media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
-	article > header	{ position: static; 
-				  display: block; 
+	article > header	{ display: block; 
 				  border: 0;
 				  padding-bottom: 1.5ex;
 				  text-align: center;
@@ -159,8 +160,7 @@ article > a img			{ width: 100%;
 				  font-weight: inherit; }
 	article > header img	{ opacity: 1.0; }
 	article .nutrition 	{ color: #444; }
-	article > nav		{ position: static; 
-				  display: table;
+	article > nav		{ display: table;
 				  width: 100%;
 				  text-align: center; }
 	article > nav a		{ display: table-cell;
@@ -211,8 +211,7 @@ article > a img			{ width: 100%;
 	article .nutrition div 		{ line-height: 100%; }
 }
 @media print {
-	article > header	{ position: static; 
-				  display: table;
+	article > header	{ display: table;
 				  margin-left: auto;
 				  margin-right: auto;
 				  box-shadow: none; 
