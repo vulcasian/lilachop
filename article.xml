@@ -42,7 +42,7 @@
 				<a href="#" onclick="dropdown(this, 'subsubhead'); return false;"><i class="fa fa-navicon"></i></a>
 				<nav id="subsubhead">
 					<section>
-						<h3 onclick="dropdown(this, 'about');">About Me</h3>
+						<h3 onclick="dropdown(this, 'about');">About</h3>
 						<section id="about">
 							<nav id="about" data-sblg-nav="1" data-sblg-navtag="about" data-sblg-navcontent="1" data-sblg-navsz="2">
 								<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
