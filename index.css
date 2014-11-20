@@ -1,52 +1,12 @@
-body > article				{ float: none; 
-					  display: table-row; 
-					  width: 100%; }
+body > article				{ float: none;  }
 .clock					{ font-size: 10pt; }
-#blogroll				{ display: table-cell;
-					  padding-top: 1em;
-					  vertical-align: top;
-					  min-width: 500px;
-					  padding-right: 2%; }
-#chapters				{ display: table-cell;
-					  vertical-align: top;
-					  padding-top: 1em;
-					  padding-left: 1ex;
-					  width: 260px; }
-/*#chapters section.show > :not(h2):not(h3):not(h4)
-					{ display: block; }
-#chapters section.noshow > :not(h2):not(h3):not(h4)
-					{ display: none; }*/
-#chapters section 			{ padding-left: 0.5ex; }
-#chapters section > h2,
-#chapters section > h3,
-#chapters section > h4			{ margin: 0; }
-#chapters section h3			{ color: #222; 
-					  margin-top: 1ex;
-					  margin-left: -0.5ex;
-					  margin-bottom: 0.5ex;
-					  font-weight: normal; }
-#chapters section h4			{ color: #333; 
-					  margin-top: 0.5ex;
-					  margin-left: -0.5ex;
-					  margin-bottom: 0.5ex;
-					  font-weight: normal; }
-#chapters a				{ color: #333; }
-#chapters a:hover			{ color: #000; }
-#chapters time				{ color: #888; }
-#chapters img				{ width: 40px; 
-				   	  border-radius: 4px;
-					  margin-right: 10px; }
-#chapters img.clock			{ width: 20px; 
-				   	  margin-right: 2px; 
-					  margin-bottom: -4px; }
+#blogroll				{ min-width: 500px; 
+					  padding: 0 4%; }
 #blogroll img.clock			{ width: 20px; 
 					  margin-bottom: -4px; }
-#chapters li				{ display: table; }
-#chapters li > div			{ display: table-cell; 
-					  vertical-align: middle; }
-#blogroll ul, #chapters ul		{ padding: 0; 
+#blogroll ul				{ padding: 0; 
 					  margin: 0; }
-#chapters ul, #blogroll ul		{ list-style-type: none; }
+#blogroll ul				{ list-style-type: none; }
 #blogroll li				{ display: table; 
 					  margin-bottom: 1em; }
 #blogroll li > *			{ display: table-cell;
@@ -65,25 +25,14 @@ body > article				{ float: none;
 #blogroll li > div > div img.thumb	{ border-radius: 5px; 
 					  border: thin solid #ccc;
 				 	  width: 80px; }
-#blogroll aside				{ font-size: 16pt; 
+#blogroll aside				{ font-size: 14pt; 
 				 	  box-shadow: 0 1px 1px #ccc;
 					  margin-bottom: 1ex;
 				 	  border-top-left-radius: 6px;
 				 	  border-top-right-radius: 6px;
-					  background-color: #EBCCA4;
-					  padding: 1ex;
-					  color: #000;
-					  font-style: italic; }
-body > footer				{ padding-left: 2.5%;
-					  padding-right: 2.5%; }
-#archivelink img	  		{ margin-right: 5px; }
-#archivelink 		  		{ display: table-row; }
-#archivelink > *			{ display: table-cell;
-					  font-size: 18pt;
-					  vertical-align: middle; }
-@media print, only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
-	#chapters 			{ display: none; }
-}
+					  background-color: #474747;
+					  padding: 1.5ex;
+					  color: #ddd; }
 @media print, only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
 	body > article 			{ display: block; }
 	#blogroll			{ display: block; 
@@ -103,7 +52,6 @@ body > footer				{ padding-left: 2.5%;
 	#blogroll li > div > div > div	{ padding: 1ex; }
 	#archivelink > *		{ font-size: 14pt; }
 	#archivelink img		{ width: 60px; }
-	body > footer			{ padding: 0; }
 }
 @media print {
 	body				{ font-size: 12pt; }
