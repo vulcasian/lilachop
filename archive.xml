@@ -22,7 +22,7 @@
 					<section>
 						<h3 onclick="dropdown(event, this, 'about');">About</h3>
 						<section id="about">
-							<nav id="about" data-sblg-nav="1" data-sblg-navtag="about" data-sblg-navcontent="1" data-sblg-navsz="2">
+							<nav data-sblg-nav="1" data-sblg-navtag="about" data-sblg-navcontent="1" data-sblg-navsz="2">
 								<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
 								<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
 							</nav>
