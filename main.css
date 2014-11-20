@@ -76,6 +76,7 @@ body > footer img			{ height: 16pt;
 #subhead .fa-at				{ padding-right: 0; }
 #subsubhead				{ display: none; 
 				 	  position: absolute;
+					  z-index: 3;
 					  background-color: #eee;
 					  width: auto;
 					  border: thin solid silver;
@@ -141,6 +142,7 @@ body > footer img			{ height: 16pt;
 @media print, only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
 	body > header .banner	{ display: inline; }
 	body > header .bannerbg	{ display: none; }
+	body > section		{ width: 98%; }
 	body > section > nav li	{ width: 33%; }
 	body > section > nav li:nth-child(n+4)
 				{ display: none; }

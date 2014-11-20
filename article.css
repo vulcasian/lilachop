@@ -203,8 +203,8 @@ article > a img			{ width: 100%;
 }
 @media print, only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
 	article > header		{ padding: 0; }
-	article > header .health img	{ width: 32px; 
-					  margin-bottom: -5px; }
+	article > header .health img	{ width: 28px; 
+					  margin-bottom: -3px; }
 	article .nutrition 		{ padding: 0ex;
 					  width: 3.5ex;
 					  height: 30px; }
