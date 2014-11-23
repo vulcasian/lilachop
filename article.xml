@@ -51,6 +51,15 @@
 						</section>
 					</section>
 					<section>
+						<h3 onclick="dropdown(event, this, 'recent');"><i class="fa fa-fw fa-square-o"></i>Recent Recipes</h3>
+						<section id="recent">
+							<nav data-sblg-nav="1" data-sblg-navcontent="1" data-sblg-navsz="5">
+								<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
+								<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+							</nav>
+						</section>
+					</section>
+					<section>
 						<h3 onclick="dropdown(event, this, 'bydiet');"><i class="fa fa-fw fa-square-o"></i>Recent Recipes by Diet</h3>
 						<section id="bydiet">
 							<h4 onclick="subdropdown(event, this, 'glutenfree');"><i class="fa fa-fw fa-circle-o"></i>Gluten-Free</h4>
