@@ -17,10 +17,10 @@
 		</header>
 		<nav id="subhead">
 			<div>
-				<a href="#" onclick="dropdown(event, this, 'subsubhead'); return false;"><i class="fa fa-navicon"></i></a>
+				<a href="#" onclick="topdropdown(event, this, 'subsubhead'); return false;"><i class="fa fa-navicon"></i></a>
 				<nav id="subsubhead">
 					<section>
-						<h3 onclick="dropdown(event, this, 'about');">About</h3>
+						<h3 onclick="dropdown(event, this, 'about');"><i class="fa fa-fw fa-square-o"></i>About</h3>
 						<section id="about">
 							<nav data-sblg-nav="1" data-sblg-navtag="about" data-sblg-navcontent="1" data-sblg-navsz="2">
 								<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
@@ -29,9 +29,9 @@
 						</section>
 					</section>
 					<section>
-						<h3 onclick="dropdown(event, this, 'bydiet');">Recent Recipes by Diet</h3>
+						<h3 onclick="dropdown(event, this, 'bydiet');"><i class="fa fa-fw fa-square-o"></i>Recent Recipes by Diet</h3>
 						<section id="bydiet">
-							<h4 onclick="dropdown(event, this, 'glutenfree');">Gluten-Free</h4>
+							<h4 onclick="subdropdown(event, this, 'glutenfree');"><i class="fa fa-fw fa-circle-o"></i>Gluten-Free</h4>
 							<section id="glutenfree">
 								<nav data-sblg-nav="1" data-sblg-navtag="glutenfree" data-sblg-navcontent="1" data-sblg-navsz="2">
 									<a title="${sblg-titletext}" href="${sblg-base}.html">
@@ -40,7 +40,7 @@
 									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
 								</nav>
 							</section>
-							<h4 onclick="dropdown(event, this, 'highprotein');">High-Protein</h4>
+							<h4 onclick="subdropdown(event, this, 'highprotein');"><i class="fa fa-fw fa-circle-o"></i>High-Protein</h4>
 							<section id="highprotein">
 								<nav data-sblg-nav="1" data-sblg-navtag="highprotein" data-sblg-navcontent="1" data-sblg-navsz="2">
 									<a title="${sblg-titletext}" href="${sblg-base}.html">
@@ -49,7 +49,7 @@
 									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
 								</nav>
 							</section>
-							<h4 onclick="dropdown(event, this, 'lactosefree');">Lactose-Free</h4>
+							<h4 onclick="subdropdown(event, this, 'lactosefree');"><i class="fa fa-fw fa-circle-o"></i>Lactose-Free</h4>
 							<section id="lactosefree">
 								<nav data-sblg-nav="1" data-sblg-navtag="lactosefree" data-sblg-navcontent="1" data-sblg-navsz="2">
 									<a title="${sblg-titletext}" href="${sblg-base}.html">
@@ -58,7 +58,7 @@
 									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
 								</nav>
 							</section>
-							<h4 onclick="dropdown(event, this, 'lowcarb');">Low-Carb</h4>
+							<h4 onclick="subdropdown(event, this, 'lowcarb');"><i class="fa fa-fw fa-circle-o"></i>Low-Carb</h4>
 							<section id="lowcarb">
 								<nav data-sblg-nav="1" data-sblg-navtag="lowcarb" data-sblg-navcontent="1" data-sblg-navsz="2">
 									<a title="${sblg-titletext}" href="${sblg-base}.html">
@@ -67,7 +67,7 @@
 									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
 								</nav>
 							</section>
-							<h4 onclick="dropdown(event, this, 'rawfood');">Raw Food</h4>
+							<h4 onclick="subdropdown(event, this, 'rawfood');"><i class="fa fa-fw fa-circle-o"></i>Raw Food</h4>
 							<section id="rawfood">
 								<nav data-sblg-nav="1" data-sblg-navtag="raw" data-sblg-navcontent="1" data-sblg-navsz="2">
 									<a title="${sblg-titletext}" href="${sblg-base}.html">
@@ -76,7 +76,7 @@
 									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
 								</nav>
 							</section>
-							<h4 onclick="dropdown(event, this, 'vegan');">Vegan</h4>
+							<h4 onclick="subdropdown(event, this, 'vegan');"><i class="fa fa-fw fa-circle-o"></i>Vegan</h4>
 							<section id="vegan">
 								<nav data-sblg-nav="1" data-sblg-navtag="vegan" data-sblg-navcontent="1" data-sblg-navsz="2">
 									<a title="${sblg-titletext}" href="${sblg-base}.html">
@@ -120,12 +120,6 @@
 			<a href="archive.html"><i class="fa fa-archive"></i></a>
 		</nav>
 		<section>
-			<nav data-sblg-nav="1" data-sblg-navsz="5" data-sblg-navcontent="1">
-				<figure>
-					<a href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
-					<figcaption><a href="${sblg-base}.html">${sblg-titletext}</a></figcaption>
-				</figure>
-			</nav>
 			<article>
 				<nav data-sblg-nav="1" data-sblg-navcontent="1">
 					<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>

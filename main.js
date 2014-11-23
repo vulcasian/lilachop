@@ -8,7 +8,36 @@ function dropUp()
 		e.style.display = 'none';
 }
 
-function dropdown(event, e, name) {
+function dropout(event)
+{
+
+	if (event.stopPropagation)
+		event.stopPropagation();
+	else
+		event.cancelBubble = true;
+
+	return false;
+}
+
+function subdropdown(event, e, name) {
+	var child;
+
+	child = document.getElementById(name);
+
+	if ('block' == child.style.display) {
+		child.style.display = 'none';
+		e.className = '';
+		e.firstChild.className = 'fa fa-fw fa-circle-o';
+	} else {
+		child.style.display = 'block'; 
+		e.className = 'dropped';
+		e.firstChild.className = 'fa fa-fw fa-circle';
+	}
+
+	return(dropout(event));
+}
+
+function topdropdown(event, e, name) {
 	var child;
 
 	child = document.getElementById(name);
@@ -21,10 +50,23 @@ function dropdown(event, e, name) {
 		e.className = 'dropped';
 	}
 
-	if (event.stopPropagation)
-		event.stopPropagation();
-	else
-		event.cancelBubble = true;
+	return(dropout(event));
+}
 
-	return false;
+function dropdown(event, e, name) {
+	var child;
+
+	child = document.getElementById(name);
+
+	if ('block' == child.style.display) {
+		child.style.display = 'none';
+		e.className = '';
+		e.firstChild.className = 'fa fa-fw fa-square-o';
+	} else {
+		child.style.display = 'block'; 
+		e.className = 'dropped';
+		e.firstChild.className = 'fa fa-fw fa-square';
+	}
+
+	return(dropout(event));
 }

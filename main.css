@@ -24,25 +24,19 @@ body > section > *			{ display: table-cell;
 body > section > nav			{ width: 140px; }
 body > section > article		{ color: #333;
 					  font-size: 14pt; }
-body > section > nav ul			{ list-style-type: none;  
-					  margin: 0; 
-					  padding: 0 10px; }
-body > section > nav figure		{ position: relative; 
-					  width: 140px;
+body > section > nav a			{ color: #000; }
+body > section > nav div		{ display: table; 
+					  margin-bottom: 1ex;
+					  width: 100%;
+					  text-align: center; }
+body > section > nav div i.fa		{ font-size: 24pt;  }
+body > section > nav div i.fa-home	{ font-size: 21pt;  }
+body > section > nav div > *		{ display: table-cell; }
+body > section > nav figure		{ width: 140px;
 					  max-width: 140px;
 					  text-align: center;
 					  margin: 0; }
-body > section > nav figcaption		{ position: absolute; 
-					  bottom: 14px; 
-					  border: thin solid #fff;
-					  overflow: hidden;
-					  white-space: nowrap;
-					  text-overflow: ellipsis;
-					  width: 100%; 
-					  text-align: center; 
-					  background-color: #fff; }
-body > section > nav figcaption a	{ color: black; }
-body > section > nav li img		{ width: 100%;
+body > section > nav img		{ width: 100%;
 					  box-shadow: 0 3px 6px rgba(0,0,0,0.3), inset 0 -3px 3px rgba(0,0,0,0.1);
 					  border: thin solid #ccc;
 					  border-radius: 10px; }
@@ -69,6 +63,9 @@ body > footer img			{ height: 16pt;
 #subhead i				{ color: #000; 
 					  font-size: 18pt;
 					  padding: 1ex 1ex; }
+#subsubhead i				{ padding: 0;
+					  margin-right: 1ex;
+					  font-size: 8pt; }
 #subhead a:hover i			{ color: #333; }
 #subhead .fa-navicon			{ position: relative; }
 #subhead .fa-facebook-square		{ border-left: thin solid #bbb; 
@@ -83,7 +80,6 @@ body > footer img			{ height: 16pt;
 					  white-space: nowrap;
 					  text-align: left;
 					  top: 55px; }
-#subsubhead i				{ font-size: 12pt; }
 #subsubhead img				{ width: 32px; 
 					  margin: 0 4px; 
 					  border-radius: 4px; }
@@ -91,7 +87,7 @@ body > footer img			{ height: 16pt;
 #subsubhead h4				{ margin: 0; 
 			 		  font-weight: normal;
 					  font-size: 12pt;
-					  padding: 1ex 2ex;
+					  padding: 1ex 4ex 1ex 1ex;
 					  cursor: pointer; }
 #subsubhead h3:hover,
 #subsubhead h4:hover			{ background-color: #888; }

@@ -16,6 +16,7 @@ article > a img			{ border-radius: 20px;
 #image3:target			{ display: block; }
 article h3			{ font-size: 14pt; }
 article h2			{ font-size: 20pt; 
+				  display: inline-block;
 				  font-weight: inherit;
 				  color: #000;
 				  margin: 0; }
