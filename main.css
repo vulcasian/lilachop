@@ -138,6 +138,7 @@ body > footer img			{ height: 16pt;
 @media print, only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
 	body > header .banner	{ display: inline; }
 	body > header .bannerbg	{ display: none; }
+	#subsubhead		{ top: 50px; }
 	body > section		{ width: 98%; }
 	body > section > nav li	{ width: 33%; }
 	body > section > nav li:nth-child(n+4)
