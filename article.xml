@@ -60,6 +60,65 @@
 						</section>
 					</section>
 					<section>
+						<h3 onclick="dropdown(event, this, 'bycat');"><i class="fa fa-fw fa-square-o"></i>Recent Recipes by Category</h3>
+						<section id="bycat">
+							<h4 onclick="subdropdown(event, this, 'smoothiedrink');"><i class="fa fa-fw fa-circle-o"></i>Smoothies &amp; Drinks</h4>
+							<section id="smoothiedrink">
+								<nav data-sblg-nav="1" data-sblg-navtag="smoothie drink" data-sblg-navcontent="1" data-sblg-navsz="5">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+							<h4 onclick="subdropdown(event, this, 'cakepie');"><i class="fa fa-fw fa-circle-o"></i>Cakes &amp; Pies</h4>
+							<section id="cakepie">
+								<nav data-sblg-nav="1" data-sblg-navtag="cake mugcake pie" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+							<h4 onclick="subdropdown(event, this, 'barcookie');"><i class="fa fa-fw fa-circle-o"></i>Bars &amp; Cookies</h4>
+							<section id="barcookie">
+								<nav data-sblg-nav="1" data-sblg-navtag="bar proteinbar biscuit cookie" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+							<h4 onclick="subdropdown(event, this, 'muffincupcakedoughnut');"><i class="fa fa-fw fa-circle-o"></i>Muffins, Cupcakes, &amp; Dougnuts</h4>
+							<section id="muffincupcakedoughnut">
+								<nav data-sblg-nav="1" data-sblg-navtag="muffin cupcake doughnut" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+							<h4 onclick="subdropdown(event, this, 'frozentreat');"><i class="fa fa-fw fa-circle-o"></i>Frozen Treats</h4>
+							<section id="frozentreat">
+								<nav data-sblg-nav="1" data-sblg-navtag="frozen icecream popsicle sorbet bark" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+							<h4 onclick="subdropdown(event, this, 'savourysalty');"><i class="fa fa-fw fa-circle-o"></i>Savoury &amp; Salty</h4>
+							<section id="savourysalty">
+								<nav data-sblg-nav="1" data-sblg-navtag="savoury salty quiche lunch dinner" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+						</section>
+					</section>
+					<section>
 						<h3 onclick="dropdown(event, this, 'bydiet');"><i class="fa fa-fw fa-square-o"></i>Recent Recipes by Diet</h3>
 						<section id="bydiet">
 							<h4 onclick="subdropdown(event, this, 'glutenfree');"><i class="fa fa-fw fa-circle-o"></i>Gluten-Free</h4>
@@ -156,8 +215,8 @@
 					<a href="${sblg-prev-base}.html"><i class="fa fa-angle-double-left"></i></a>
 					<a href="${sblg-prev-base}.html"><i class="fa fa-angle-left"></i></a>
 					<a href="index.html"><i class="fa fa-home"></i></a>
-					<a href="${sblg-next-base}.html"><i class="fa fa-angle-right"></i></a>
-					<a href="${sblg-next-base}.html"><i class="fa fa-angle-double-right"></i></a>
+					<a href="${sblg-first-base}.html"><i class="fa fa-angle-right"></i></a>
+					<a href="${sblg-last-base}.html"><i class="fa fa-angle-double-right"></i></a>
 				</div>
 				<figure><a href="#image1"><img src="${sblg-base}a.thumb.jpg" /></a></figure>
 				<figure><a href="#image2"><img src="${sblg-base}b.thumb.jpg" /></a></figure>
