@@ -1,18 +1,17 @@
-<article data-sblg-article="1" data-sblg-tags="paleo oats breakfast overnight oats almondbutter cinnamon thomas recipededication">
+<article data-sblg-article="1" data-sblg-tags="paleo oats breakfast beginners overnight oats almondbutter cinnamon thomas recipededication">
 	<header>
 		<div>
-			<h2><a href="#recipe">Uncle Thomas Overnight Oats</a></h2>
+			<h2><a href="#recipe">Nordic Berry Overnight Oats</a></h2>
 			<div class="health">
 				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
 				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
 				<img title="Vegan" alt="Vegan" data-sblg-tags="vegan" src="vegan.png" />
 				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
-				<img title="Low-fat" alt="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
 				<img title="Paleo" alt="Paleo" data-sblg-tags="paleo" src="paleo.png" />
-				<div class="nutrition"><div>180</div><div>cal</div></div>
-				<div class="nutrition"><div>22</div><div>pro</div></div>
-				<div class="nutrition"><div>22</div><div>carb</div></div>
-				<div class="nutrition"><div>2</div><div>fat</div></div>
+				<div class="nutrition"><div>483</div><div>cal</div></div>
+				<div class="nutrition"><div>58</div><div>pro</div></div>
+				<div class="nutrition"><div>15</div><div>carb</div></div>
+				<div class="nutrition"><div>21</div><div>fat</div></div>
 			</div>
 		</div>
 		<nav>
@@ -23,47 +22,49 @@
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-12-07">2014-12-07</time>
 		<aside>
-			What happens when you combine mousse au
-			chocolat-framboise and a protein smoothie? 
-			Chocolate-Raspberry Truffle Protein Fluff of course!
-			This 3-ingredient recipe is so incredibly simple and low-fat, you
-			won't believe it's dessert.  </aside>
-	</header>
+			Like oatmeal, but fluffier, yummier, and served cold.
+			(So more like dessert for breakfast, for people
+			who do not have time to cook breakfast in the
+			mornings.) 
+			I dedicate this hearty and delicious Nordic breakfast
+			recipe for to my inspiring Uncle Thomas.</aside> 
+		</header>
 	<a id="image1" href="#recipe"><img src="article023a.jpg" /></a>
 	<a id="image2" href="#recipe"><img src="article023b.jpg" /></a>
 	<a id="image3" href="#recipe"><img src="article023c.jpg" /></a>
 	<section id="recipe">
 		<p>
-			One of the first desserts I learned to make when I was
-			14 years old was chocolate mousse. 
-			I loved the light, airy, fluffiness
-			of the consistency, combined with the creamy, rich and
-			buttery-chocolate flavour. 
-			I even slipped a bit of Bailey's liquor into it,
-			hoping my parents wouldn't notice.
-		</p>
-		<p>	
-			So when the new Cellucor COR-Performance
-			<a
-				href="http://www.cellucor.com/products/21-whey?product_serving=2%20Pounds&amp;product_flavor=Chocolate%20Raspberry%20Truffle">Chocolate
-				Raspberry Truffle</a> flavoured whey protein powder
-			arrived on my doorstep (thank you <a
-				href="http://bodybuilding.7eer.net/c/102597/76781/2023?u=http%3A%2F%2Fwww.bodybuilding.com%2Fstore%2Fcellucor%2Fcor-performance-whey.html"
-				class="bodybuilding">Bodybuilding.com</a>!) 
-			I was over the moon and terribly excited to try a new
-			recipe with this flavour.  
-			I decided to try making protein fluff, which is
-			basically a protein smoothie whipped into mousse. 
-			Using an electric whisk, the consistency changes enough
-			to make it so stiff yet fluffy, you have to eat it with
-			a spoon.  	
+			Imagine oatmeal, but fluffier, yummier, easier to make,
+			and you don't even have to cook. 
+			That's Overnight Oats. 
+			For those of you who believe breafast is the best meal
+			of the day but don't have time to cook in the mornings,
+			this is the perfect recipe for you. 
+			All it takes is a 2-minute prep the night before,
+			letting the oats soak up the liquid overnight in the
+			fridge, and voilà! Ready to eat the following morning with all your
+			favourite, flavourful toppings. Mmmm. 
+		<figure>
+			<img src="article023glass0.jpg" alt="Overnight oats in a martini glass." /> 
+			<figcaption>Birthday Nordic Berry Overnight Oats.</figcaption>
+		</figure>
+		<p>
+			Because this dish calls for oats and is made up of our
+			favourite Scandinavian staple ingredients and spices,
+			I dedicate this hearty and delicious breakfast recipe to
+			my Uncle Thomas. 
+			Happy Birthday, and thank you for being such a
+			wonderful uncle, mentor, and business advisor.
+			May this fuel your days and your continued boot-camp training!
+			(Better than birthday cake.)
+		</p>	
 		</p>
 		<figure>
-			<img src="article023glass.jpg" alt="Decorated protein fluff" /> 
-			<figcaption>Protein-fluff dessert, decorated in a wine glass</figcaption>
+			<img src="article023thomas.jpg" alt="Uncle Thomas and Sigge." /> 
+			<figcaption>Uncle Thomas with his dog, on an island called Köpstadsö.</figcaption>
 		</figure>
 		<table class="ingredients">
-			<caption>Ingredients</caption>
+			<caption>Base Ingredients</caption>
 			<thead>
 				<tr>
 					<th class="amount" colspan="2">amount</th>
@@ -71,79 +72,198 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount" data-lilachop-amount="0.75"></td>
-				<td class="unit">scoops</td>
+				<td class="amount" data-lilachop-amount="150"></td>
+				<td class="unit">ml</td>
 				<td class="name">
 					<a 
-						href="http://bodybuilding.7eer.net/c/102597/76781/2023?u=http%3A%2F%2Fwww.bodybuilding.com%2Fstore%2Fcellucor%2Fcor-performance-whey.html"
-						class="bodybuilding">
-						Cellucor COR Performance Whey Protein, Chocolate-Raspberry Truffle,</a> <span class="altor">or</span>
+						href="http://www.mathem.se/varor/mandeldryck-/mandeldryck-1l-alpro-soya">
+						unsweetened Almond milk</a>, <span class="altor">or</span>
 				</td>
 			</tr>
 			<tr>
-				<td class="alt amount" data-lilachop-amount="0.75"></td>
-				<td class="alt unit">scoops</td>
+				<td class="alt amount" data-lilachop-amount="150"></td>
+				<td class="alt unit">ml</td>
 				<td class="alt name">
-					any chocolate-flavoured whey protein powder
+					any vegan, lactose-free, or regular milk.	
 				</td>
 			</tr>
 			<tr>
-				<td class="amount" data-lilachop-amount="0.25"></td>
-				<td class="unit">cup</td>
-				<td class="name">any vegan or low-fat milk
-					(I used lactose-free low-fat milk)</td>
+				<td class="amount" data-lilachop-amount="100"></td>
+				<td class="unit">ml</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B00I8G53BY/?tag=lich048-20"
+						class="amazon">gluten-free rolled oats</a>, <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="100"></td>
+				<td class="alt unit">ml</td>
+				<td class="alt name">regular whole oats</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.5"></td>
+				<td class="unit"></td>
+				<td class="name">raw banana, mashed</td>
 			</tr>
 			<tr>
 				<td class="amount" data-lilachop-amount="1"></td>
-				<td class="unit">cup</td>
-				<td class="name">frozen raspberries</td>
-			</tr>
-			<tr>
-				<td class="alt amount" data-lilachop-amount="0.25"></td>
-				<td class="alt unit">tsp</td>
-				<td class="alt name">
+				<td class="unit">tbsp</td>
+				<td class="name">
 					<a
-						href="http://www.amazon.com/dp/B005HF068O/?tag=lich048-20"
-						class="amazon">
-						Bob's Red Mill Guar Gum </a>(optional)</td>
+						href="http://www.mathem.se/varor/chiafro">	
+						chia seeds</a>, <span class="altor">or</span>
+
+				</td>
 			</tr>
 			<tr>
-				<td class="alt amount" data-lilachop-amount="0.5"></td>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">whole flax seeds</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.5"></td>
+				<td class="unit">tsp</td>
+				<td class="name">
+					<a
+						href="http://www.mathem.se/varor/hushallsaromer">vanilla extract</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">generous</td>
+				<td class="name">dusting of ground cinnamon and cardammom</td>
+			</tr>
+		</table>
+		<p>	
+			Although not entirely Paleo (depending on how you see
+			oats), this recipe is a morning nutrition bomb: 
+			packed with fiber, vitamins, healthy fats
+			and natural proteins.  
+			Ever heard of the <a
+				href="http://www.wikihow.com/Live-up-to-30%25-Longer-on-the-Viking-Diet-%28Scandinavian-Nordic%29">Viking
+				Diet</a>? A Nordic version of Paleo, which
+			hails Oatmeal as the healthiest breakfast!
+		</p>
+		<p>
+		<figure>
+			<img src="article023glass1.jpg" alt="Oats in a glass with clingfilm." /> 
+			<figcaption>Quickly prep your healthy breakfast the night before.</figcaption>
+		</figure>
+	</p>
+	<p>
+		The secret to no-cook oatmeal is the magic that happens
+		overnight in the fridge. Oats soaked in milk swell and
+		soften into no-cook oatmeal known as as bircher (Swiss) müsli. 
+		The best way to store overnight oats in the fridge is
+		actually in an air-tight container, such as a glass jar. 
+		So if you have one of these, simply add the base ingredients
+		into the jar, seal the lid and gently shake the ingredients
+		together.
+		Because overnight oats are best prepared 
+			<q>
+				<a
+			href="http://www.eatbreathemoveheal.com/2014/10/14/week-overnight-breakfasts/">shaken,
+			not stirred</a>.</q>
+       		And what better way to serve them the next morning than in a martini glass?
+	</p>
+		<figure>
+			<img src="article023glass2.jpg" alt="Overnight oats in a martini glass" /> 
+			<figcaption><q>The name's Chop. Lila, Chop.</q></figcaption>
+		</figure>
+	<table class="ingredients">
+			<caption>Topping Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">handful</td>
+				<td class="name">mixed berries (strawberries, blueberries, raspberries, lingonberries, cherries etc.)</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">
+					<a
+						href="http://www.mathem.se/varor/linfro-helt">
+						whole flax seeds</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">
+					<a
+						href="http://www.mathem.se/varor/chiafro">
+						unsweetend shredded coconut</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">any nut-butter such as
+					<a
+						href="http://www.mathem.se/varor/notsmor">
+						Almond or walnut butter</a>, hazelnut or
+					<a
+						href="http://www.mathem.se/varor/jordnotssmor">Peanut butter</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">generous</td>
+				<td class="name">dusting of ground cinnamon and cardammom</td>
+			</tr>
+			<tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
 				<td class="alt unit">tbsp</td>
 				<td class="alt name">
-					<a
-						href="http://www.amazon.com/dp/B00BNQFZCI/?tag=lich048-20"
-						class="amazon">
-						Semi-sweet vegan dark chocolate chips </a>(optional, for garnishing) </td>
+					<a href="http://www.mathem.se/varor/matlagningsyoghurt-turkisk">Turkish or Greek yoghurt</a>
+				       	<span class="altor">(optional extra)</span>
+				</td>
+			</tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">handfull</td>
+				<td class="alt name">dried fruit such as raisins, cranberries, and mulberries.<span class="altor">(optional extra)</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">honey, maple, or agave syrup.<span class="altor">(optional, for extra sweetness)</span>
+				</td>
 			</tr>
 		</table>
 		<div class="servings">
 			Servings: 
-			<input id="servings" type="number" min="0" step="1" value="2" onchange="changeservings(this.value);" />
-			(Total Calories: <span data-lilachop-amount="180"></span>.)
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="483"></span>.)
 		</div>
 		<figure>
-			<img src="article023ingredients.jpg" alt="3 ingredients" /> 
-			<figcaption>3-ingredient protein fluff</figcaption>
+			<img src="article023glass4.jpg" alt="Toppings close-up" /> 
+			<figcaption>Decorate your oats with colourful toppings &amp; superfoods.</figcaption>
 		</figure>
 		<p>
-			3 ingredients for an incredibly simple,
-			quick &amp; almost fat-free chocolate-raspberry mousse. 
-			Delicious enough for dessert, with enough protein to
-			substitute a protein shake and easy enough for
-			beginners to make under 10 minutes.  </p>
+			If you are allergic to raw nuts, simply omit the nut-butter ingredient.
+			Otherwise, I cannot recommend you to try it enough.
+			In my opinion, almond butter is God's gift to health
+			foodies, and can be eaten with almost anything at
+			any time of day. 
+			For this recipe, I used <a
+				href="http://www.amazon.com/dp/B00CYBIMWG/?tag=lich048-20">raw
+				coconut cadamom almond butter</a>, the most
+			delicious nut butter for someone who adores cardamom
+			(like all Swedes).
+		</p>
 		<figure>
-			<img src="article023guargum.jpg" alt="guar gum" /> 
-			<figcaption>Magic fluff ingredient: guar gum</figcaption>
+			<img src="article023glass3.jpg" alt="Overnight Oats decorated with toppings" /> 
+			<figcaption>Overnight Oats, "shaken, not stirred".</figcaption>
 		</figure>
-		<p>
-			To up this dessert's <q>fluff-factor</q> and to make
-			the fluffiness last longer, add the optional ingredient
-			of guar gum, which acts as a thickening agent.  
-			(Traditional protein fluff recipes use xanthan gum,
-			however, a lot of people are sensitive to this
-			and react badly. This makes guar gum a favourable
-			substitute.) </p>	
 
 		<table id="steps">
 			<caption>Steps</caption>
@@ -154,76 +274,116 @@
 				</tr>
 			</thead>
 			<tr>
-				<td class="amount"></td>
-				<td class="unit"></td>
-				<td> 
-					Put aside a few raspberries and the
-					optional chocolate chips for garnishing
-					last.  </td> </tr>
-			<tr>
-				<td class="amount"></td>
-				<td class="unit"></td>
-				<td> 
-					Blend the rest of the ingredients
-					together in a high-speed blender until
-					smooth and creamy.  </td> 
-			</tr>
-			<tr>
-				<td class="amount">5</td>
+				<td class="amount">3</td>
 				<td class="unit">min</td>
 				<td> 
-					Transfer blended mixture into a large
-					bowl or pot, and whisk on high-speed
-					setting using an electric whisk.  </td>
+					The night before: add the mashed banana, milk, oats, vanilla, some cinnamon, and cardammom in a glass or bowl.  </td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td> 
+					Cover with clingfilm or lid, and refrigerate overnight.  </td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td> 
+					The following morning: Remove lid or clingfilm and transfer oats to whatever serving glass or bowl you want..  </td>
 			</tr>
 			<tr>
 				<td class="amount"></td>
 				<td class="unit"></td>
 				<td>
-					Pour smoothie into glasses and garnish
-					with leftover raspberries and chocolate
-					chips.  </td> </tr>
+					Add toppings and sprinkle with more cinnamon and cardamom.  </td> </tr>
 			<tr>
-				<td class="amount">8</td>
-				<td class="unit">min</td>
+				<td class="amount"></td>
+				<td class="unit"></td>
 				<td>
-					Grab a spoon and dig in to this frozen, fluffy treat!  </td> </tr>
+					Grab a spoon and dig into this hearty, delicious breakfast!</td> 
+			</tr>
 			
 		</table>
-		<figure>
-			<img src="article023fluff.jpg" alt="Protein fluff shots" /> 
-			<figcaption>Protein fluff shots.</figcaption>
-		</figure>
 		<h3>
-			Protein Fluff Recipe Tips
+			Turn Overnight Oats into hot Oatmeal
 		</h3> 
-		<p>
-			As mentioned, using guar gum or xanthan gum will
-			increase the fluffiness. 
-			However, I have heard that using casein protein powder
-			is even better than whey for achieving light, airy and
-			mousse-like consistencies. 
-			(Forget using vegan protein powders for this kind of
-			recipe, the consistency will not turn out right at
-			all.) 
-			For my next protein fluff recipe, I will try using 
-			<a href="http://tidd.ly/9813d498" class="myprotein">Myprotein Micellar Casein</a>
-			protein powder.
-	</p>	
 		<figure>
-			<img src="article023glass.jpg" alt="Decorated glass" />
+			<img src="article023bowl0.jpg" alt="Hot Oatmeal served with fresh orange juice and black coffee" />
 
-			<figcaption>The finished product, served in a decorated wine glass.</figcaption>
+			<figcaption>The perfect breakfast to start your day on a mid-winter's morning.</figcaption>
 		</figure>
-		<h3> 
-			More Protein Fluff Recipes	
+		<p>
+			Finding fresh berries difficult to get a hold of at
+			this time of year? 
+			No problem! 
+			Although this recipe is served cold, overnight oats can
+			just as easily be turned into hot oatmeal. 
+			Perfect for frosty winter mornings, and the perfect
+			solution if you only have frozen berries instead of
+			fresh ones &#8211;
+			Simply stir in the frozen berries to pre-refrigerated
+			overnight oats, and microwave for approximately 1-2
+			minutes. 
+			Add the rest of the toppings last. 	
+		</p>	
+		<figure>
+			<img src="article023bowl2.jpg" alt="Decorated glass" />
+
+			<figcaption><q>Havregryn</q> as we call oatmeal in Swedish, topped with yoghurt and jam.</figcaption>
+		</figure>
+		<figure>
+			<img src="article023bowl1.jpg" alt="Decorated glass" />
+
+			<figcaption>Smaklig måltid!</figcaption>
+		</figure>
+		
+		<h3>
+			Protein Overnight Oats
 		</h3>
 		<p>
-			This recipe was adapted from Protein Fluff: 3 quick and easy recipes! 
-			<a href="http://bodybuilding.7eer.net/c/102597/76781/2023?u=http%3A%2F%2Fwww.bodybuilding.com%2Ffun%2Fprotein-fluff-3-quick-and-easy-recipes.html" 
-				class="bodybuilding">
-				Strawberry Protein Fluff</a> by Anna Sward, author and founder of
-			<a href="http://www.proteinpow.com">Protein Pow</a>. (Before reading her blog, I had no idea what protein fluff even was!) 
+			To increase the protein content of your recipe, try a protein-fortified 
+					<a
+						href="http://feelalive.nu/buff-bake/">almond
+						or peanut butter</a> that come in many delicious and suprising different flavours. 
+					You could also mix half a scoop of
+					<a
+						href="http://www.amazon.com/dp/B005CNFHQ2/?tag=lich048-20">Paleo protein powder</a>
+					or any <a href=
+						"http://www.mathem.se/varor/protein-o-aminosyror">vegan
+						or whey</a> protein powder with
+					the milk, and let the oats soak up the
+					protein overnight.  
+		</p>
+		<h3> 
+			More Overnight Oats recipes	
+		</h3>
+		<p> 
+			The basic Overnight Oats recipe calls for 1 part oats to
+			1 - 1.5 parts liquid, depending on the desired
+			consistency.
+			(The liquid can be any vegan or dairy milk to a mix of milk and
+			yoghurt, milk and apple sauce or mashed banana, and even
+			coconut milk.)
+			From thereon, there are endless numbers of topping and
+			flavour combinations you can try! 
+			For some really decadent breakfast ideas, check out 
+			<a href="http://www.buzzfeed.com/arielknutson/overnight-oat-recipes-oatmeal-cold">
+				19 Ridiculously Easy Overnight Oats</a>. 
+		</p>
+		<p>
+			<figure>
+				<img src="article023thomas2.jpg" alt="Thomas and his sons" />
+
+				<figcaption>The perfect breakfast for an active family of young boys!</figcaption>
+			</figure>
+			My thanks to Victor, and Filip for helping me figure out Thomas's allergies for this recipe 
+			(although it seems no one knows	precisely what they are these days).	
+			Thank you to Marcus for always noticing when I change my hairstyle.
+			Thank you to Cathrine for her wonderful homemade jams,
+			preserves, and juice, made fresh from the berries in
+			her garden.
+			Finally, thank you to Thomas for being a fabulous
+			uncle. Happy birthday! 
 		</p>
 		<div class="fb-wrapper">
 			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>

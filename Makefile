@@ -75,8 +75,12 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article023glass1.jpg \
 	 article023glass2.jpg \
 	 article023glass3.jpg \
+	 article023glass4.jpg \
+	 article023bowl0.jpg \
 	 article023bowl1.jpg \
 	 article023bowl2.jpg \
+	 article023thomas.jpg \
+	 article023thomas2.jpg \
 	 amazon.png \
 	 article.js \
 	 banner.png \
