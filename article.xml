@@ -214,9 +214,9 @@
 		</nav>
 		<section>
 			<nav>
-				<figure><a href="#image1"><img src="${sblg-base}a.thumb.jpg" /></a></figure>
-				<figure><a href="#image2"><img src="${sblg-base}b.thumb.jpg" /></a></figure>
-				<figure><a href="#image3"><img src="${sblg-base}c.thumb.jpg" /></a></figure>
+				<figure><a href="#image1"><img alt="Thumbnail" src="${sblg-base}a.thumb.jpg" /></a></figure>
+				<figure><a href="#image2"><img alt="Thumbnail" src="${sblg-base}b.thumb.jpg" /></a></figure>
+				<figure><a href="#image3"><img alt="Thumbnail" src="${sblg-base}c.thumb.jpg" /></a></figure>
 			</nav>
 			<article data-sblg-article="1" data-sblg-permlink="0" />
 		</section>
