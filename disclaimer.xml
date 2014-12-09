@@ -155,11 +155,15 @@
 							</section>
 						</section>
 					</section>
+					<section>
+						<h3><i class="fa fa-fw"></i><a href="archive.html">All Recipes</a></h3>
+					</section>
 				</nav>
 			</div>
 			<a href="https://www.facebook.com/lilachop"><i class="fa fa-facebook-square"></i></a>
 			<a href="http://instagram.com/Project_fitspiration"><i class="fa fa-instagram"></i></a>
 			<a href="https://twitter.com/LilaChop"><i class="fa fa-twitter"></i></a>
+			<a href="https://www.pinterest.com/lilachop"><i class="fa fa-pinterest"></i></a>
 			<a href="atom.xml"><i class="fa fa-rss"></i></a>
 			<script>
 			<!--
@@ -185,7 +189,6 @@
 			}
 			//-->
 			</script>
-			<a href="archive.html"><i class="fa fa-archive"></i></a>
 		</nav>
 		<section>
 			<article>
@@ -293,6 +296,7 @@
 				<a href="https://www.facebook.com/lilachop"><i class="fa fa-facebook-square"></i></a>
 				<a href="http://instagram.com/Project_fitspiration"><i class="fa fa-instagram"></i></a>
 				<a href="https://twitter.com/LilaChop"><i class="fa fa-twitter"></i></a>
+				<a href="https://www.pinterest.com/lilachop"><i class="fa fa-pinterest"></i></a>
 				<a href="atom.xml"><i class="fa fa-rss"></i></a>
 				<script>
 				<!--

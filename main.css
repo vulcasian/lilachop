@@ -37,6 +37,7 @@ body > section > nav figure		{ width: 140px;
 					  text-align: center;
 					  margin: 0; }
 body > section > nav img		{ width: 100%;
+					  max-width: 140px;
 					  box-shadow: 0 3px 6px rgba(0,0,0,0.3), inset 0 -3px 3px rgba(0,0,0,0.1);
 					  border: thin solid #ccc;
 					  border-radius: 10px; }
@@ -107,25 +108,21 @@ body > footer img			{ height: 16pt;
 @media print, only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
 	body > section		{ display: block; }
 	body > section > article,
-	body > section > nav	{ display: block;
+	body > section > nav	{ display: table;
 				  width: 100%; 
 				  padding: 0;
 				  margin: 0;
 				  font-size: inherit;
 				  margin-left: auto;
 				  margin-right: auto; }
-	body > section > nav figure
-				{ margin-left: auto;
-				  margin-right: auto;
-				  width: 100%; }
-	body > section > nav ul	{ display: table;
-				  padding: 6px 0 0 0;
-				  width: 100%; }
-	body > section > nav li	{ display: table-cell; 
-				  padding: 4px;
-				  width: 25%; }
-	body > section > nav li:nth-child(n+5)
+	body > section > nav div
 				{ display: none; }
+	body > section > nav figure
+				{ display: table-cell;
+				  padding: 1ex;
+				  margin-left: auto;
+				  margin-right: auto;
+				  width: 33%; }
 	body > footer		{ text-align: center;
 				  width: 100%;
 				  padding: 1ex 0;
@@ -140,9 +137,6 @@ body > footer img			{ height: 16pt;
 	body > header .bannerbg	{ display: none; }
 	#subsubhead		{ top: 50px; }
 	body > section		{ width: 98%; }
-	body > section > nav li	{ width: 33%; }
-	body > section > nav li:nth-child(n+4)
-				{ display: none; }
 	#subhead a i		{ font-size: 16pt; 
 				  padding: 1ex 0.5ex; }
 	#subhead img		{ height: 20pt; 

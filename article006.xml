@@ -14,11 +14,6 @@
 				<div class="nutrition"><div>1</div><div>fat</div></div>
 			</div>
 		</div>
-		<nav>
-			<a href="#image1"><img src="article006a.thumb.jpg" /></a>
-			<a href="#image2"><img src="article006b.thumb.jpg" /></a>
-			<a href="#image3"><img src="article006c.thumb.jpg" /></a>
-		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-03-04">2014-03-04</time>
 		<aside>
@@ -192,11 +187,6 @@
 			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
 		</div>
 	</section>
-	<nav>
-		<a href="#image1"><img src="article006a.thumb.jpg" /></a>
-		<a href="#image2"><img src="article006b.thumb.jpg" /></a>
-		<a href="#image3"><img src="article006c.thumb.jpg" /></a>
-	</nav>
 	<script>
 		changeservings(document.getElementById('servings').value);
 	</script>

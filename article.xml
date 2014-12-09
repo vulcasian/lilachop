@@ -177,11 +177,15 @@
 							</section>
 						</section>
 					</section>
+					<section>
+						<h3><i class="fa fa-fw"></i><a href="archive.html">All Recipes</a></h3>
+					</section>
 				</nav>
 			</div>
 			<a href="https://www.facebook.com/lilachop"><i class="fa fa-facebook-square"></i></a>
 			<a href="http://instagram.com/Project_fitspiration"><i class="fa fa-instagram"></i></a>
 			<a href="https://twitter.com/LilaChop"><i class="fa fa-twitter"></i></a>
+			<a href="https://www.pinterest.com/lilachop"><i class="fa fa-pinterest"></i></a>
 			<a href="atom.xml"><i class="fa fa-rss"></i></a>
 			<script>
 			<!--
@@ -207,17 +211,9 @@
 			}
 			//-->
 			</script>
-			<a href="archive.html"><i class="fa fa-archive"></i></a>
 		</nav>
 		<section>
 			<nav>
-				<div>
-					<a href="${sblg-prev-base}.html"><i class="fa fa-angle-double-left"></i></a>
-					<a href="${sblg-prev-base}.html"><i class="fa fa-angle-left"></i></a>
-					<a href="index.html"><i class="fa fa-home"></i></a>
-					<a href="${sblg-first-base}.html"><i class="fa fa-angle-right"></i></a>
-					<a href="${sblg-last-base}.html"><i class="fa fa-angle-double-right"></i></a>
-				</div>
 				<figure><a href="#image1"><img src="${sblg-base}a.thumb.jpg" /></a></figure>
 				<figure><a href="#image2"><img src="${sblg-base}b.thumb.jpg" /></a></figure>
 				<figure><a href="#image3"><img src="${sblg-base}c.thumb.jpg" /></a></figure>
@@ -236,6 +232,7 @@
 				<a href="https://www.facebook.com/lilachop"><i class="fa fa-facebook-square"></i></a>
 				<a href="http://instagram.com/Project_fitspiration"><i class="fa fa-instagram"></i></a>
 				<a href="https://twitter.com/LilaChop"><i class="fa fa-twitter"></i></a>
+				<a href="https://www.pinterest.com/lilachop"><i class="fa fa-pinterest"></i></a>
 				<a href="atom.xml"><i class="fa fa-rss"></i></a>
 				<script>
 				<!--

@@ -1,7 +1,7 @@
 article > #recipe,
 article > a img			{ width: 100%; 
 				  max-width: 1280px; }
-article > a			{ margin: 1em auto; }
+article > a			{ margin: 1ex; }
 article > a img			{ border-radius: 20px;
 				  box-shadow: 0px 0px 10px #333, inset 0px 0px 10px #000; }
 #image1, 
@@ -24,8 +24,7 @@ article h2 a			{ color: #000; }
 article figcaption		{ font-style: italic;
 				  color: #666; }
 article figure			{ text-align: center; 
-				  margin-top: 1.12em;
-				  margin-bottom: 0.75em; }
+				  margin: 1.12em 0 0.75em 0; }
 article figure img		{ width: 100%; 
 				  border-radius: 20px;
 				  box-shadow: 0px 0px 10px #333, inset 0px 0px 10px #000;
@@ -49,11 +48,6 @@ article > header		{ margin-left: auto;
 article > header .health	{ display: inline-block; }
 article > header > * 		{ display: table-cell; 
 				  vertical-align: middle; }
-article > header nav img	{ width: 70px; 
-				  border: thin solid #ddd;
-				  border-radius: 6px; }
-article > header nav 		{ padding-left: 10px; 
-				  white-space: nowrap; }
 article > header aside,
 article > header time,
 article > header address	{ display: none; }
@@ -74,14 +68,6 @@ article .nutrition 		{ display: inline-block;
 				  border: thin solid #aaa; }
 article .nutrition div:last-child	
 				{ font-size: 9pt; }
-article > nav			{ display: none; }
-article > nav a + a		{ margin-left: 16px; }
-article > nav img		{ box-shadow: 0 3px 6px rgba(0,0,0,0.3), inset 0 -3px 3px rgba(0,0,0,0.1);
-				  margin: 0;
-				  opacity: 1.0;
-				  border: solid #ccc 1px;
-				  border-radius: 10px; }
-article > nav img:hover		{ opacity: 1.0; }
 article .ingredients		{ color: #E9E9E9;
 				  border-spacing: 0; }
 article .ingredients tr:last-child td:first-child 
@@ -146,6 +132,7 @@ article > a img			{ width: 100%;
 				  box-shadow: none; }
 }
 @media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+	article > a		{ margin: 1em 0; }
 	article > header	{ display: block; 
 				  border: 0;
 				  padding-bottom: 1.5ex;
@@ -153,7 +140,6 @@ article > a img			{ width: 100%;
 				  box-shadow: 0 0 0;
 				  background-color: inherit;
 				  font-size: inherit; }
-	article > header nav	{ display: none; }
 	article > header > div	{ display: block; }
 	article h2 a		{ color: #333; }
 	article h2		{ font-size: 14pt; 
@@ -161,14 +147,6 @@ article > a img			{ width: 100%;
 				  font-weight: inherit; }
 	article > header img	{ opacity: 1.0; }
 	article .nutrition 	{ color: #444; }
-	article > nav		{ display: table;
-				  width: 100%;
-				  text-align: center; }
-	article > nav a		{ display: table-cell;
-				  padding: 4px;
-				  width: 32%; }
-	article > nav a img	{ width: 100%; 
-				  max-width: 140px; }
 	article > #recipe,
 	article > a 		{ text-align: center; }
 	article > #recipe > :not(figure)	
@@ -187,7 +165,6 @@ article > a img			{ width: 100%;
 	article #steps td	{ padding-left: 0.25ex; }
 	article #steps td:last-child
 				{ padding-right: 0.25ex; }
-	article figure		{ margin: 0 1ex; }
 	article #steps td.unit,
 	article #steps td.amount,
 	article .ingredients td.unit,
@@ -217,7 +194,6 @@ article > a img			{ width: 100%;
 				  margin-right: auto;
 				  box-shadow: none; 
 				  font-size: 12pt; }
-	article > header nav 	{ display: none; }
 	article > #recipe,
 	article > a img		{ width: 100%; 
 			  	  font-size: 12pt;

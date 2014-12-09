@@ -14,11 +14,6 @@
 				<div class="nutrition"><div>21</div><div>fat</div></div>
 			</div>
 		</div>
-		<nav>
-			<a href="#image1"><img src="article023a.thumb.jpg" /></a>
-			<a href="#image2"><img src="article023b.thumb.jpg" /></a>
-			<a href="#image3"><img src="article023c.thumb.jpg" /></a>
-		</nav>
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-12-07">2014-12-07</time>
 		<aside>
@@ -27,8 +22,9 @@
 			who do not have time to cook breakfast in the
 			mornings.) 
 			I dedicate this hearty and delicious Nordic breakfast
-			recipe for to my inspiring Uncle Thomas.</aside> 
-		</header>
+			recipe for to my inspiring Uncle Thomas.
+		</aside> 
+	</header>
 	<a id="image1" href="#recipe"><img src="article023a.jpg" /></a>
 	<a id="image2" href="#recipe"><img src="article023b.jpg" /></a>
 	<a id="image3" href="#recipe"><img src="article023c.jpg" /></a>
@@ -388,11 +384,6 @@
 			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
 		</div>
 	</section>
-	<nav>
-		<a href="#image1"><img src="article023a.thumb.jpg" /></a>
-		<a href="#image2"><img src="article023b.thumb.jpg" /></a>
-		<a href="#image3"><img src="article023c.thumb.jpg" /></a>
-	</nav>
 	<script>
 		changeservings(document.getElementById('servings').value);
 	</script>
