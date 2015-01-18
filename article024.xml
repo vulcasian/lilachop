@@ -1,0 +1,246 @@
+<article data-sblg-article="1" data-sblg-tags="winter detox breakfast postworkout chia acai berry berries smoothie onlyprotein productreview beginnersrecipe easy whey">
+	<header>
+		<div>
+			<h2><a href="#recipe">Winter Detox Smoothie</a></h2>
+			<div class="health">
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
+				<img title="Low-fat" alt="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
+				<img title="Paleo" alt="Paleo" data-sblg-tags="paleo" src="paleo.png" />
+				<div class="nutrition"><div>255</div><div>cal</div></div>
+				<div class="nutrition"><div>22</div><div>pro</div></div>
+				<div class="nutrition"><div>27</div><div>carb</div></div>
+				<div class="nutrition"><div>9</div><div>fat</div></div>
+			</div>
+		</div>
+		<address>Christina Hallalulu</address>
+		<time datetime="2015-01-18">2015-01-18</time>
+		<aside>
+			In the middle of the flu season, we all need a pick-up-up and immune-booster. 
+			This <span
+				class="nm">Lila, Chop!</span> paleo smoothie recipe
+			for beginners is the perfect antidote to winter blues, sniffles, and post-Christmas weight gain.
+		       	Best of all, it's utterly delicious!	
+		  </aside>
+	</header>
+	<a id="image1" href="#recipe"><img src="article024a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article024b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article024c.jpg" /></a>
+	<section id="recipe">
+		<p>
+			They say the most common time of year to gain weight 
+			is between Christmas and New Year, where the festive
+			season seems to encourage us to abandon of our
+			health and fitness goals.
+			We've all been there &#8211; we've all experienced the
+			post-Christmas dinner food coma that somehow lasts for
+			days and the champagne-hangover that causes us to wake
+			up with a cringe.  
+			We've felt how easy it is to fall out of our exercise
+			routines whilst on holiday, and we've all made
+			those resolutions to get fitter, healthier, and leaner
+			for the coming year.
+			Thus I present Winter Detox Smoothie, the perfect
+			recipe to detox your bad habits and to help kick-start
+			your healthier lifestyle.
+		</p>
+		<figure>
+			<img src="article024smoothie3.jpg" alt="Smoothie" /> 
+			<figcaption>The perfect winter detox smoothie</figcaption>
+		</figure>
+		<table class="ingredients">
+			<caption>Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">scoops</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B005CNFHQ2/?tag=lich048-20"
+						class="amazon">
+						Vanilla whey paleo protein powder,</a> <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">scoops</td>
+				<td class="alt name">
+					any vanilla or natural-flavoured protein powder 
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="200"></td>
+				<td class="unit">ml</td>
+				<td class="name">pure coconut water, <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="200"></td>
+				<td class="alt unit">ml</td>
+				<td class="alt name">almond, rice, soy, or low-fat milk	
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">cup</td>
+				<td class="name">frozen berries</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tsp</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B001CGX3ZK/?tag=lich048-20"
+						class="amazon">Acai powder</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B001CGTN1I/?tag=lich048-20"
+						class="amazon">
+						Chia seeds</a>
+				</td>
+			</tr>
+		</table>
+		<div class="servings">
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="255"></span>.)
+		</div>
+		<p>
+			Talk about a superfood smoothie! 
+			The acai, chia, and berry ingredients are packed with
+			antioxidants and vitamins, and the protein powder paleo. 
+			In the middle of the flu season, we all need a
+			pick-up-up and immune-booster. 
+			This <span
+				class="nm">Lila, Chop!</span> smoothie recipe
+			for beginners, is the perfect antidote to winter blues,
+			sniffles, and post-Christmas weight gain. 
+			Best of all, it's utterly delicious and incredibly
+			quick and easy to make.	
+		</p>
+		<figure>
+			<img src="article024smoothie1.jpg" alt="Smoothie" /> 
+			<figcaption>Kick-starting your healthy lifestyle never looked so good!</figcaption>
+		</figure>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td> 
+					Blend all ingredients together in a
+					high-speed blender until smooth and
+					creamy.  </td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Pour smoothie into a glass and garnish
+					with any leftover berries.
+				 </td>
+			</tr>
+			<tr>
+				<td class="amount">3</td>
+				<td class="unit">min</td>
+				<td>
+					Cheers to a healthier you and your healthier year!	
+				</td>
+			</tr>
+			
+		</table>
+		<h3>
+			Smoothie Recipe Tips
+		</h3> 
+		<p>
+			Once again, using frozen fruit is so much better than
+			fresh fruit in smoothies as it gives it a thicker,
+			creamier consistency.
+			However, if you prefer using fresh berries, add a
+			couple of ice cubes to your blender to make it more ice
+			cream-like.	
+		</p>	
+		<p>
+			To up the nutritional content of your smoothie, add
+			Greek yoghurt, flax seeds, and/or banana.
+			Use vegan protein powder instead of whey if you're into
+			that.
+			(I'll often mix whey and vegan protein
+			powders together, making my smoothie less sweet and 
+			diversifying my sources of protein.)
+			This makes a fantastic breakfast smoothie, and will
+			keep you comfortably full and going all morning! 
+		</p>
+		<p>
+			To decorate your glass like I have, simply cover the
+			rim of your glass with a sticky substance like honey,
+			then dip the glass in cake sprinkles. 
+			Check out the <q>Pimp My Smoothie Tip</q> section of my
+			<a href="http://www.lilachop.com/article011.html">Ananabanana Choco smoothie</a>
+			for more detailed instructions!
+		</p>
+		<figure>
+			<img src="article024smoothie0.jpg" alt="Smoothie" />
+
+			<figcaption>A well-decorated glass is always tastier to drink from.</figcaption>
+		</figure>
+		<h3> 
+			Only Protein (paleo product review) 
+		</h3>
+		<p>
+			Since hearing about the paleolithic diet, I've been
+			experimenting with various paleo products and recipes.
+			Albeit a bit extreme, overall I think it's a sound
+			approach to nutrition, emphasising lean meats, healthy
+			fats, and vegetables whilst limiting starches and all
+			processed-foods. 
+			However, I was concerned to hear protein powder did not
+			count as paleo, until I found
+			<a href="https://www.onlyprotein.com/">
+				Only Protein</a>
+		       &#8211; the only paleo whey protein powder. 
+			I was lucky to receive free samples from this New
+			Zealand company, and used their vanilla protein powder
+			in this recipe. (Which turned out fabulously, I may add.)
+		</p>
+		<p>
+			What can I say about this product? 
+			Aside from being slightly too sweet and rather
+			difficult to get a hold of, it's hands-down one of the
+			best and purest whey protein powders on the market.
+			Their above-average prices are justified by the
+			quality of their ingredients, and I would highly
+			recommend this to anyone looking for a clean whey
+			protein powder!
+		</p>
+		<figure>
+			<img src="article024ingredients.jpg" alt="Ingredients" />
+
+			<figcaption>The ingredients used: Only Protein vanilla protein powder sachets, chia &amp; acai.</figcaption>
+		</figure>
+		<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
+	</section>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>
+</article>
