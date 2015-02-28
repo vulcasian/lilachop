@@ -242,5 +242,5 @@
 	</section>
 	<script>
 		changeservings(document.getElementById('servings').value);
-	</script>
+	</script>   
 </article>
