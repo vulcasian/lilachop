@@ -102,6 +102,8 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article026soup1.jpg \
 	 article026soup2.jpg \
 	 article026bread.jpg \
+	 article026bread2.jpg \
+	 article026bread3.jpg \
 	 article026broccolisoup.jpg \
 	 amazon.png \
 	 article.js \
