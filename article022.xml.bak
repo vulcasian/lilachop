@@ -1,0 +1,291 @@
+<article data-sblg-article="1" data-sblg-tags="easy beginners recipeforbeginners chocolatechip mintchococolate mint chocolate yoghurt yogurt bark frozen cellucorr">
+	<header>
+		<div>
+			<h2><a href="#recipe">Chicken Quiche à la Can</a></h2>
+			<div class="health">
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
+				<img title="Low-fat" alt="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
+				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
+				<div class="nutrition"><div>246</div><div>cal</div></div>
+				<div class="nutrition"><div>20</div><div>pro</div></div>
+				<div class="nutrition"><div>16</div><div>carb</div></div>
+				<div class="nutrition"><div>12</div><div>fat</div></div>
+			</div>
+		</div>
+		<nav>
+			<a href="#image1"><img src="article022a.thumb.jpg" /></a>
+			<a href="#image2"><img src="article022b.thumb.jpg" /></a>
+			<a href="#image3"><img src="article022c.thumb.jpg" /></a>
+		</nav>
+		<address>Christina Hallalulu</address>
+		<time datetime="2014-11-18">2014-11-18</time>
+		<aside>
+			A Chicken Spinoccoli (Spinach + Broccoli) Quiche
+			dedicated to my physiotherapist Can P., the iron-man
+			triathelete who loves cooking with spinach and broccoli. 	
+			This <span class="nm">Lila,
+				Chop!</span> savoury recipe is easy to make and
+			does not require any protein powder.  </aside> 
+	</header> 
+	<a id="image1" href="#recipe"><img src="article022a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article022b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article022c.jpg" /></a>
+	<section id="recipe">
+		<p>
+			Each time I travel back to Stockholm, I make it a point
+			to visit my naprapath Can P., the best physio-massage
+			therapist I have ever encountered.
+			And everytime he treats me, I hear his stomach growl,
+			followed by an abashed <q>but I just ate half a
+				chocolate cake! How can I be hungry again?</q>
+			This iron-man triathlete, who has helped treat the worst of my
+			injuries and muscle soreness, loves dark chocolate and
+			dark green vegetables just like me, but with an
+			unmatched appetite and a preference for <q>real
+				food</q> aka, no protein powder.  
+			I thus dedicate this savoury Chicken Spinoccoli Quiche
+			à a Can to him. May it fuel his workouts and keep him
+			full throughout the day! </p>
+		<p>	
+			<figure>
+				<img src="article022final.jpg" alt="Quiche on a plate." /> 
+				<figcaption>Quiche for two?</figcaption>
+			</figure>
+		</p>
+
+		<table class="ingredients">
+			<caption>Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.125"></td>
+				<td class="unit">container</td>
+				<td class="name">Pre-made pie crust pastry
+					dough (I used Bio Pâte Brisée from the French supermarket, Casino), <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="0.125"></td>
+				<td class="alt unit">serving</td>
+				<td class="alt name">
+			<a
+						href="http://www.amazon.com/dp/B00G8INZTQ/?tag=lich048-20"
+						class="amazon">
+						Gluten Free Pie Crust Plus Mix</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">filets</td>
+				<td class="name">boneless chicken breasts
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.0625"></td>
+				<td class="unit">head</td>
+				<td class="name">broccoli</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.125"></td>
+				<td class="unit">packet</td>
+				<td class="name">baby spinach leaves</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.375"></td>
+				<td class="unit"></td>
+				<td class="name">organic egg whites</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.375"></td>
+				<td class="unit"></td>
+				<td class="name">whole organic eggs</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.0625"></td>
+				<td class="unit">ball</td>
+				<td class="name">fresh buffalo mozarella</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="7"></td>
+				<td class="unit">g</td>
+				<td class="name">grated low-fat cheese (I used a parmesan, emmental &amp; mozarella pizza cheese mix)</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="37.5"></td>
+				<td class="unit">ml</td>
+				<td class="name">skimmed milk (I used lactose-free)</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">tsp</td>
+				<td class="name">dried, crushed oregano</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">tsp</td>
+				<td class="name">dried, crushed thyme</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount=""></td>
+				<td class="alt unit"></td>
+				<td class="alt name">salt and peppar to taste (optional)</td>
+			</tr>
+		</table>
+		<div class="servings">
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="8" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="247"></span>.)
+		</div>
+		<figure>
+			<img src="article022oven.jpg" alt="Post-oven" />
+			<figcaption>A healthy, hearty quiche, fresh from the oven.</figcaption>
+		</figure>
+		<h3>Ingredient tips:</h3>
+		<p>
+			If you're in <b>Sweden</b>, you can find pie crust mixes online or in local groceries stores, such as 
+			<a href="http://www.mathem.se/varor/pajmix">Maizena pajdeg mix</a>, or 
+			<a href="http://www.mathem.se/varor/smordeg-o-mordeg">Fryst Smördeg</a>.
+			If you're <b>gluten intolerant</b>, I recommend using a gluten-free mix such as 
+			<a
+				href="http://www.amazon.com/dp/B00G8INZTQ/?tag=lich048-20"
+				class="amazon">
+				Grama's Pie Crust Plus</a>, or
+			<a
+				href="http://www.amazon.com/dp/B00F55ZDHA//?tag=lich048-20"
+				class="amazon">
+				Bob's Red Mill Pie Crust</a>.
+		</p>
+		<figure>
+			<img src="article022slice2.jpg" alt="Slice 2." />
+
+			<figcaption>A slice of chicken spinoccoli deliciousness</figcaption>
+		</figure>
+		<p>
+			I always find that quiche tastes better the next day,
+			so this makes a wonderful dish for left-overs. (In
+			fact, this quiche lasted us lunch and dinner for almost
+			3 days at home! 
+			Simply reheat in the oven (or in the microwave, but it
+			might get a little soggy.)	
+		</p>
+		<figure>
+			<img src="article022slice3.jpg" alt="Slice 3." />
+
+			<figcaption>Garnish with more greens and olives... Bon apetit!</figcaption>
+		</figure>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Roll out pie pastry crust dough and place in a pie dish.</td> 
+			</tr>
+			<tr>
+				<td class="amount">5-10</td>
+				<td class="unit">min</td>
+				<td>Heat a large frying pan with a dollop of vegetable oil, and cook
+					chicken, brocolli and spinach until spinach is wilted and
+					chicken is cooked through.</td> </tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Transfer cooked chicken, broccoli and spinach into pastry-covered pie dish.</td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Cut up fresh mozarella into small slices and place evenly throughout pie.</td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Mix eggs, egg whites, milk, and spices in a bowl.</td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Pour mixture over chicken and vegetables in the pie dish.</td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Sprinkle grated cheese on top.</td> 
+			</tr>
+			<tr>
+				<td class="amount">30-45</td>
+				<td class="unit">min</td>
+				<td>Bake at 200&#x2103; until crust is lightly browned and egg mixture cooked. </td> 
+			</tr>
+			<tr>
+				<td class="amount">10</td>
+				<td class="unit">min</td>
+				<td>
+					Remove quiche from oven and let it sit so the consistency settles as firm.  
+				</td> 
+			</tr>
+			<tr>
+				<td class="amount">1.5</td>
+				<td class="unit">hour</td>
+				<td>
+				Cut into slices, place on a plate, and garnish with salad, olives, or whatever your heart desires!	
+				</td> 
+			</tr>
+			
+		</table>
+		<h3>Recipe Tips:</h3>
+		<p>
+			Remember, the thinner you bake your
+			quiche, the more it will resemble pizza. 
+			If there is not enough liquid quiche-filling to cover
+			all your ingredients, add more milk and egg-whites.	
+		</p>
+		<h3>Quiche Variations:</h3>
+		<p>
+			Using this basic quiche recipe, you can try different combinations of ingredients for quiche variations, such as:
+		</p>	
+			<ul>
+				<li>	
+					Mediterranean Quiche - with aubergine, zuchinni, olives, and feta cheese 
+				</li>
+				<li>
+					Classic French (a healthier Quiche Lorraine) - with bacon, onions, spinach, and gruyere cheese	
+				</li>
+				<li>	
+					Swedish Quiche (a healthier Västerbotten Paj) - with salmon, dill and västerbotton cheese
+				</li>
+				<li>
+					Thai Quiche (now we're talking!) - with thai basil, chili, green curry paste, and coconut milk (instead of milk) 
+				</li>
+			</ul>	
+
+		<p>
+			Get creative! 
+		</p>
+		<figure>
+			<img src="article022slice0.jpg" alt="Quiche and slice" /> 
+			<figcaption>Quiche or pizza? Have both, healthily!</figcaption>
+		</figure>
+			<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
+	</section>
+	<nav>
+		<a href="#image1"><img src="article022a.thumb.jpg" /></a>
+		<a href="#image2"><img src="article022b.thumb.jpg" /></a>
+		<a href="#image3"><img src="article022c.thumb.jpg" /></a>
+	</nav>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>
+</article>

@@ -1,0 +1,188 @@
+<article data-sblg-article="1" data-sblg-tags="mealplana youfreshnaturals proteinpow proteinbread pumpkinseed brocolli bread almondbutter almond easy beginner cauliflower soup dinner lunch savoury">
+	<header>
+		<div>
+			<h2><a href="#recipe">Skinny Almond-Cauliflower Soup</a></h2>
+			<div class="health">
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
+				<img title="Low-fat" alt="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
+				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
+				<img title="Low-fat" alt="vegan" data-sblg-tags="vegan" src="vegan.png" />
+				<div class="nutrition"><div>197</div><div>cal</div></div>
+				<div class="nutrition"><div>11</div><div>pro</div></div>
+				<div class="nutrition"><div>17</div><div>carb</div></div>
+				<div class="nutrition"><div>12</div><div>fat</div></div>
+			</div>
+		</div>
+		<address>Christina Hallalulu</address>
+		<time datetime="2015-05-13">2015-05-13</time>
+		<aside>
+			For those days where you just want a light and utterly comforting dish at home. This <span
+				class="nm">Lila, Chop!</span> basic soup recipe is so simple and easy, it can be made by anyone and adapted to almost any ingredient!
+		</aside> 
+	</header> 
+	<a id="image1" href="#recipe"><img src="article026a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article026b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article026c.jpg" /></a>
+	<section id="recipe">
+		<p>
+			For those days where you just want a nutritious and
+			utterly comforting dish at home. 
+			This <span class="nm">Lila, Chop!</span> soup recipe is
+			so simple, skinny, and easy, it can be made by anyone,
+			served with almost anything, and fits into almost any
+			low-carb/low-calorie meal plan!
+			The best part is that it's so versatile that
+			with this basic template you can make almost any vegetable soup. 
+			I like to alternate brocolli and cauliflower as my main
+			ingredients, but why not try carrot, pumpkin, or zuchinni?  
+		</p>
+			<figure>
+				<img src="article026soup1.jpg" alt="Cauliflower and Almond-butter Soup" /> 
+				<figcaption>Skinny vegan Almond-Cauliflower Soup.</figcaption>
+			</figure>
+
+		<table class="ingredients">
+			<caption>Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit"></td>
+				<td class="name">raw cauliflower head, chopped
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.125"></td>
+				<td class="unit">cube</td>
+				<td class="name">vegetable stock
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="90"></td>
+				<td class="unit">ml</td>
+				<td class="name">water
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="60"></td>
+				<td class="unit">ml</td>
+				<td class="name">coconut milk
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">whole</td>
+				<td class="name">shallot or small onion
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B009JZRM1M/?tag=lich048-20"
+						class="amazon">
+						almond butter</a>
+					<span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">ground almonds</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">sunflower seeds, slivered almonds, or more almond butter for topping (optional)</td>
+			</tr>
+		</table>
+		<div class="servings">
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="4" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="197"></span>.)
+		</div>
+		<figure>
+			<img src="article026soup2.jpg" alt="Almond Cauliflower soup with toppings" />
+			<figcaption>Skinny Almond-Cauliflower Soup topped with almond butter and sunflower seeds.</figcaption>
+		</figure>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount">3</td>
+				<td class="unit">min</td>
+				<td>In the bottom of a pot, gently fry the shallots/onion until golden, then set aside.</td> 
+			</tr>
+			<tr>
+				<td class="amount">10</td>
+				<td class="unit">min</td>
+				<td>Add the stock, water, and cauliflower to the pot and let cook until the cauliflower is soft.</td> 
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">min</td>
+				<td>Pour everything into a blender or mixer, adding the coconut milk, almond butter, and cooked shallots.</td>
+			</tr>
+			<tr>
+				<td class="amount">2</td>
+				<td class="unit">min</td>
+				<td> Blend all the ingredients together until smooth. If the consistency is too thick for your liking, add more water.</td> 
+			</tr>
+
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Serve in a bowl and add desired toppings.</td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Devour immediately with a side of salad or allow to cool if you want to consume it cold.</td> 
+			</tr>
+		</table>
+		<figure>
+			<img src="article026broccolisoup.jpg" alt="Broccoli soup with bacon and salad" /> 
+			<figcaption>Swap the cauliflower for brocolli and top with bacon for a heartier soup. Then serve with salad, pita bread and fava beans and you have a meal fit for a man like mine, K.</figcaption>
+		</figure>
+
+			<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
+
+		<h3>
+			Pumpkin Seed Protein Bread Muffins
+		</h3>
+		<p>
+			I discovered Protein Pow's low-carb and
+			gluten-free recipe for <a
+				href="http://proteinpow.com/2015/01/pumpkin-seed-protein-bread-low-carb-gluten-free.html">Pumpkin Seed
+				Protein Bread</a> around the same time that I
+			was putting this recipe together. 
+			So I baked these tasty little bread muffins and was
+			delighted to find they went fabulously together with 
+			<a href="http://www.youfreshnaturals.com/shop/cinnamon-pecan-crunchy-with-added-protein/">my favourite almond butter</a> and even better
+			with my skinny almond-cauliflower soup! Who doesn't
+			like to dip bread in their soup? 
+		</p>
+
+		<figure>
+			<img src="article026bread.jpg" alt="Pumpkin seed protein bread with almond butter" /> 
+			<figcaption>Pumpkin Seed Protein Bread Muffins slathered with Almond Butter.</figcaption>
+		</figure>
+	</section>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>
+</article>

@@ -1,5 +1,11 @@
 .SUFFIXES: .html .xml .jpg .thumb.jpg
 
+TMP_THUMBS = 
+TMP_IMAGES = 
+TMP_ARTICLES = 
+TMP_XMLS = 
+TMP_STATIC = 
+
 # These are images and stuff (javascript, CSS, etc.) that aren't built,
 # but we need to install them.
 
@@ -93,6 +99,10 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article025brownie4.jpg \
 	 article025brownie5.jpg \
 	 article025peanutbutter.jpg \
+	 article026soup1.jpg \
+	 article026soup2.jpg \
+	 article026bread.jpg \
+	 article026broccolisoup.jpg \
 	 amazon.png \
 	 article.js \
 	 banner.png \
@@ -118,7 +128,8 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 time.png \
 	 timedark.png \
 	 print.png \
-	 vegan.png
+	 vegan.png \
+	 $(TMP_STATIC)
 
 # These are your articles.
 # XXX: go to last article, hit "o" to open up a new line below, and add
@@ -148,7 +159,9 @@ XMLS = article001.xml \
        article022.xml \
        article023.xml \
        article024.xml \
-       article025.xml
+       article025.xml \
+       article026.xml \
+       $(TMP_XMLS)
 
 # These are all the HTML files that I'll build.
 # Make sure all your articles in $(XMLS) appear here!
@@ -178,7 +191,9 @@ ARTICLES = article001.html \
 	   article022.html \
 	   article023.html \
 	   article024.html \
-	   article025.html
+	   article025.html \
+	   article026.html \
+	   $(TMP_ARTICLES)
 		
 # These are the images used by the artiles in $(XMLS).
 # When you add a new XML file, make sure you add its images.
@@ -209,9 +224,10 @@ IMAGES = article001a.jpg article001b.jpg article001c.jpg \
 	 article022a.jpg article022b.jpg article022c.jpg \
 	 article023a.jpg article023b.jpg article023c.jpg \
 	 article024a.jpg article024b.jpg article024c.jpg \
-	 article025a.jpg article025b.jpg article025c.jpg
+	 article025a.jpg article025b.jpg article025c.jpg \
+	 article026a.jpg article026b.jpg article026c.jpg \
+	 $(TMP_IMAGES)
 	 
-
 # We build thumbnails from $(IMAGES)...
 # XXX add all the thumbnails " - "
 
@@ -239,8 +255,9 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article022a.thumb.jpg article022b.thumb.jpg article022c.thumb.jpg \
 	 article023a.thumb.jpg article023b.thumb.jpg article023c.thumb.jpg \
 	 article024a.thumb.jpg article024b.thumb.jpg article024c.thumb.jpg \
-	 article025a.thumb.jpg article025b.thumb.jpg article025c.thumb.jpg
-
+	 article025a.thumb.jpg article025b.thumb.jpg article025c.thumb.jpg \
+	 article026a.thumb.jpg article026b.thumb.jpg article026c.thumb.jpg \
+	 $(TMP_THUMBS)
 
 #####################################################################
 # DON'T CHANGE ANYTHING BELOW HERE.                                 #
