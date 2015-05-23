@@ -41,10 +41,10 @@
 			ingredients, but why not try carrot, pumpkin, or
 			zucchini?  
 		</p>
-			<figure>
-				<img src="article026soup1.jpg" alt="Cauliflower and Almond-butter Soup" /> 
-				<figcaption>Skinny almond-cauliflower soup served with homemade pumpkin seed bread.</figcaption>
-			</figure>
+		<figure>
+			<img src="article026soup1.jpg" alt="Cauliflower and Almond-butter Soup" /> 
+			<figcaption>Skinny almond-cauliflower soup served with homemade pumpkin seed bread.</figcaption>
+		</figure>
 
 		<table class="ingredients">
 			<caption>Ingredients</caption>
@@ -191,9 +191,8 @@
 			<img src="article026bread3.jpg" alt="Pumpkin seed protein bread dipped in soup" />
 			<figcaption>Who says dipping bread in your soup has to be unhealthy?</figcaption>
 		</figure>
-		</figure>
 
-			<div class="fb-wrapper">
+		<div class="fb-wrapper">
 			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
 		</div>
 	</section>
