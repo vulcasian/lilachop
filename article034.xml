@@ -1,0 +1,251 @@
+<article data-sblg-article="1" data-sblg-tags="nutrition mealplana spring detox breakfast postworkout chia acai berry berries smoothie perfectfit productreview beginnersrecipe easy abc afpa cherry">
+	<header>
+		<div>
+			<h2><a href="#recipe">ABC Smoothie</a></h2>
+			<div class="health">
+				<img title="Vegan" alt="Vegan" data-sblg-tags="vegan" src="vegan.png" />
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
+				<img title="Low-fat" alt="Low-fat" data-sblg-tags="lowfat" src="lowfat.png" />
+				<img title="Paleo" alt="Paleo" data-sblg-tags="paleo" src="paleo.png" />
+				<div class="nutrition"><div>287</div><div>cal</div></div>
+				<div class="nutrition"><div>20</div><div>pro</div></div>
+				<div class="nutrition"><div>40</div><div>carb</div></div>
+				<div class="nutrition"><div>9</div><div>fat</div></div>
+			</div>
+		</div>
+		<address>Christina Hallalulu</address>
+		<time datetime="2015-05-22">2015-05-22</time>
+		<aside>
+			Acai, Cherry, &amp; Berry protein smoothie &#8211; the only ABC's you need. 
+			These superfoods are packed with
+			antioxidants and vitamins, making this <span
+				class="nm">Lila, Chop!</span> smoothie recipe
+			for beginners an excellent year-round immune booster. 
+			Best of all, it's utterly delicious and incredibly
+			quick and easy to make.	
+		  </aside>
+	</header>
+	<a id="image1" href="#recipe"><img src="article034a.jpg" /></a>
+	<a id="image2" href="#recipe"><img src="article034b.jpg" /></a>
+	<a id="image3" href="#recipe"><img src="article034c.jpg" /></a>
+	<section id="recipe">
+		<p>
+			Acai, cherry, &amp; berry protein smoothie &#8212; the only ABC's you need.
+			Add in some chia, coconut water, banana, and other berries, and you
+			have a delicious superfood cocktail packed with antioxidants,
+			vitamins and minerals. (What more could you ask for?)
+			No matter what time of year it is, we all need a
+			pick-me-up and immune-booster, making this 
+			 <span
+				class="nm">Lila, Chop!</span> smoothie recipe
+			for beginners simply perfect. 
+		</p>
+		<figure>
+			<img src="article034smoothie1.jpg" alt="Smoothie" /> 
+			<figcaption>The perfect way to start the day.</figcaption>
+		</figure>
+		<table class="ingredients">
+			<caption>Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">scoop</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B00BFIVOZG/?tag=lich048-20"
+						class="amazon">
+						vanilla vegan protein powder,</a> <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">scoop</td>
+				<td class="alt name">
+					any vanilla or unflavoured protein powder 
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="200"></td>
+				<td class="unit">ml</td>
+				<td class="name">pure coconut water, <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="200"></td>
+				<td class="alt unit">ml</td>
+				<td class="alt name">almond, rice, soy, or low-fat milk	
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">cup</td>
+				<td class="name">dark berries (cherries, blueberries, boysenberries, raspberries), frozen or raw</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tsp</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B001CGX3ZK/?tag=lich048-20"
+						class="amazon">acai powder</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B001CGTN1I/?tag=lich048-20"
+						class="amazon">
+						chia seeds</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">handful</td>
+				<td class="alt name">cherries or dried goji berries for topping (optional extras)</td>
+			</tr>
+		</table>
+		<div class="servings">
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="287"></span>.)
+		</div>
+		<figure>
+			<img src="article034smoothie3.jpg" alt="Smoothie" />
+			<figcaption>Homemade ABC protein smoothies for breakfast: 1 for him &amp; 1 for her.</figcaption>
+		</figure>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td> 
+					Blend all ingredients together in a
+					high-speed blender until smooth and
+					creamy.  </td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>
+					Pour smoothie into a glass and garnish
+					with any leftover cherries, blueberries, or dried goji berries.
+				 </td>
+			</tr>
+			<tr>
+				<td class="amount">3</td>
+				<td class="unit">min total</td>
+				<td>
+					Cheers to a healthier you!	
+				</td>
+			</tr>
+			
+		</table>
+		<figure>
+			<img src="article034ingredients.jpg" alt="Ingredients" />
+
+			<figcaption>Some of my favourite smoothie
+				ingredients: <a
+					href="http://perfectfitprotein.com/">Perfect
+					Fit protein</a>, berries, banana, &amp;
+				coconut milk.
+			</figcaption>
+		</figure>
+		<h3>
+			Smoothie Recipe Tip: why frozen fruit is better than fresh
+		</h3> 
+		<p>
+			I always prefer to use frozen berries in my smoothies.
+			Not only will you get a more ice-cream-like temperature
+			and consistency, you'll also probably get more
+			nutritional benefits. 
+			This may sound counter-intuitive, since we are always
+			told to consume fruits and vegetables in their most
+			natural state. 
+			However, I recently learned that frozen produce
+			generally contain more antioxidants, vitamins, and
+			minerals, since they are picked for freezing at their
+			absolute peak ripeness, versus fresh produce that's
+			often picked prior to maturation so that it can better
+			survive transportation. 
+		</p>	
+		<figure>
+			<img src="article034smoothie2.jpg" alt="Smoothie" /> 
+			<figcaption>The ABCs of superfoods: acai, berries and cherries.</figcaption>
+		</figure>
+		<h3>Nutritional highlights: what's so super about these superfoods?</h3>
+		<p>
+			I've learned a lot so far from studying to be a
+			<a href="http://www.afpafitness.com/">certified Nutrition &amp; Wellness Consultant</a>.
+			For example, dark berries &#8212; especially acai, blueberries,
+			and cherries &#8212; have some of the highest antioxidant and
+			vitamin contents, making this a top superfood-trio.
+			Here's what's so super about these superfoods: 
+		</p>
+		<ul>
+			<li>
+				<a
+					href="http://www.globalhealingcenter.com/natural-health/benefits-of-acai/">Acai</a>:
+				native to the Amazon rain forest, the acai berry
+				was traditionally used for healing, immunity-
+				and energy-boosting energy. 
+				Containing almost 10x the amount of
+				antioxidants as grapes, acai berries are
+				related to slowing the process
+				of ageing and preventing diseases related to
+				cellular oxidative damage. 
+
+			</li>
+			<li>
+				<a
+					href="http://greatist.com/health/superfood-blueberries">Blueberries</a>:
+			       research suggests that blueberries deliver some
+			       of the most powerful, wide-ranging, and long-term
+			       health benefits due to their high levels of
+			       antioxidants and phytonutrients. 
+			       Just 1 cup of blueberries per week can lower
+			       blood pressure and LDL (bad) cholesterol,
+			       neutralise free-radical damage in our cells, and
+			       perhaps even speed up metabolism.
+			</li>
+			<li>
+				<a
+					href="http://www.globalhealingcenter.com/natural-health/healthy-berries/">Cherries</a>:
+				people often forget that cherries are far more
+				than just cocktail decoration. 
+				Cherries promote cell and tissue health due to
+				their antioxidant flavonoid content.
+				In addition, cherries contain bioflavonoids
+				that can help reduce joint and muscle
+				discomfort, and melatonin, a chemical that
+				helps you maintain healthy sleep rhythms. 
+
+			</li>
+		</ul>
+		<figure>
+			<img src="article034lilaberry.jpg" alt="Lila eating blueberries" />
+			<figcaption>If I were to discover a new berry species I would name it <q>Lilaberry</q>.</figcaption>
+		</figure>
+		<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
+	</section>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>   
+</article>
