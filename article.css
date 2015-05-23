@@ -24,6 +24,7 @@ article h2 a			{ color: #000; }
 article figcaption		{ font-style: italic;
 				  color: #666; }
 article figure			{ padding: 0 1%;
+				  text-align: center;
 				  margin: 1.12em auto 0.75em auto; }
 article figure img		{ border-radius: 20px;
 				  max-width: 768px;
