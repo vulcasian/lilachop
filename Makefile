@@ -105,6 +105,11 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article026bread2.jpg \
 	 article026bread3.jpg \
 	 article026broccolisoup.jpg \
+	 article034smoothie1.jpg \
+	 article034smoothie2.jpg \
+	 article034smoothie3.jpg \
+	 article034ingredients.jpg \
+	 article034lilaberry.jpg \
 	 amazon.png \
 	 article.js \
 	 banner.png \
@@ -163,6 +168,7 @@ XMLS = article001.xml \
        article024.xml \
        article025.xml \
        article026.xml \
+       article034.xml \
        $(TMP_XMLS)
 
 # These are all the HTML files that I'll build.
@@ -195,6 +201,7 @@ ARTICLES = article001.html \
 	   article024.html \
 	   article025.html \
 	   article026.html \
+	   article034.html \
 	   $(TMP_ARTICLES)
 		
 # These are the images used by the artiles in $(XMLS).
@@ -228,6 +235,7 @@ IMAGES = article001a.jpg article001b.jpg article001c.jpg \
 	 article024a.jpg article024b.jpg article024c.jpg \
 	 article025a.jpg article025b.jpg article025c.jpg \
 	 article026a.jpg article026b.jpg article026c.jpg \
+	 article034a.jpg article034b.jpg article034c.jpg \
 	 $(TMP_IMAGES)
 	 
 # We build thumbnails from $(IMAGES)...
@@ -259,6 +267,7 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article024a.thumb.jpg article024b.thumb.jpg article024c.thumb.jpg \
 	 article025a.thumb.jpg article025b.thumb.jpg article025c.thumb.jpg \
 	 article026a.thumb.jpg article026b.thumb.jpg article026c.thumb.jpg \
+	 article034a.thumb.jpg article034b.thumb.jpg article034c.thumb.jpg \
 	 $(TMP_THUMBS)
 
 #####################################################################

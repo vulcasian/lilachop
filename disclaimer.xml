@@ -156,6 +156,29 @@
 						</section>
 					</section>
 					<section>
+						<h3 onclick="dropdown(event, this, 'bymealplan');"><i class="fa fa-fw fa-square-o"></i>Recipes by Meal Plan</h3>
+						<section id="bymealplan">
+							<h4 onclick="subdropdown(event, this, 'mealplana');"><i class="fa fa-fw fa-circle-o"></i>Meal Plan A</h4>
+							<section id="mealplana">
+								<nav data-sblg-nav="1" data-sblg-navtag="mealplana" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+							<h4 onclick="subdropdown(event, this, 'mealplanb');"><i class="fa fa-fw fa-circle-o"></i>Meal Plan B</h4>
+							<section id="mealplanb">
+								<nav data-sblg-nav="1" data-sblg-navtag="mealplanb" data-sblg-navcontent="1" data-sblg-navsz="2">
+									<a title="${sblg-titletext}" href="${sblg-base}.html">
+										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
+									</a>
+									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
+								</nav>
+							</section>
+						</section>
+					</section>
+					<section>
 						<h3><i class="fa fa-fw"></i><a href="archive.html">All Recipes</a></h3>
 					</section>
 				</nav>
