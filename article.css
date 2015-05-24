@@ -241,6 +241,8 @@ article > a img			{ width: 100%;
 				{ content: 'g carb'; }
 	article > header .fat:after
 				{ content: 'g fat'; }
+	article a.bodybuilding,
+	article a.myprotein,
 	article a.amazon	{ background: none;
 				  padding-left: 0; }
 	.noprint		{ display: none; }

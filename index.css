@@ -1,7 +1,13 @@
 body > article				{ float: none;  }
 .clock					{ font-size: 10pt; }
 #blogroll				{ min-width: 500px; 
+				   	  max-width: 1440px;
+					  margin-left: auto;
+					  margin-right: auto;
 					  padding: 0 4%; }
+#blogroll > p				{ font-size: 16pt; 
+				   	  text-align: center; }
+#blogroll > p i				{ color: black; }
 #blogroll img.clock			{ width: 20px; 
 					  margin-bottom: -4px; }
 #blogroll ul				{ padding: 0; 
@@ -52,6 +58,7 @@ body > article				{ float: none;  }
 	#blogroll li > div > div > div	{ padding: 1ex; }
 	#archivelink > *		{ font-size: 14pt; }
 	#archivelink img		{ width: 60px; }
+	#blogroll > p			{ font-size: 14pt; }
 }
 @media print {
 	body				{ font-size: 12pt; }

@@ -16,7 +16,7 @@
 		<meta property="og:description" content="${sblg-asidetext}" />
 		<meta property="og:site_name" content="Lila, Chop!" />
 		<meta property="og:type" content="article" />
-		<title>Lila, Chop!</title>
+		<title>Lila, Chop: ${sblg-titletext}</title>
 		<script src="article.js"></script>
 		<script src="main.js"></script>
 		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" />
