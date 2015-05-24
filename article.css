@@ -21,12 +21,12 @@ article > a img			{ border-radius: 20px;
 				  height: 100%;
 				  margin: 0;
 				  text-align: center;
-				  background: rgba(54, 25, 25, .7); }
+				  background: rgba(54, 25, 25, .9); }
 .navimage:target a:first-child,
 .navimage:target a:last-child	{ color: white; 
 				  display: inline-block;
-				  height: 80%;
-				  vertical-align: middle; }
+				  margin-top: 5%;
+				  vertical-align: top; }
 .navimage:target a:first-child:hover
 				{ text-shadow: 1px 1px 4px blue; }
 .navimage:target img		{ border-radius: 2%; 
