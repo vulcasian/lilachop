@@ -244,14 +244,14 @@
 			<article data-sblg-article="1" data-sblg-permlink="0" />
 		</section>
 		<footer>
-			&#169; 2013, 2014, <q>Lila, Chop!</q>
-			<div>
+			&#169; 2013&#8211;2015, <q>Lila, Chop!</q>
+			<div class="noprint">
 				<a href="disclaimer.html">Terms &amp; Privacy</a>
 			</div>
 			<div>
 				Powered by <a href="http://kristaps.bsd.lv/sblg">sblg</a> on <a href="http://www.openbsd.org">OpenBSD</a>
 			</div>
-			<div>
+			<div class="noprint">
 				<a href="https://www.facebook.com/lilachop"><i class="fa fa-facebook-square"></i></a>
 				<a href="http://instagram.com/christinahallalulu"><i class="fa fa-instagram"></i></a>
 				<a href="https://twitter.com/LilaChop"><i class="fa fa-twitter"></i></a>

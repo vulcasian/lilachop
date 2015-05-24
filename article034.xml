@@ -28,9 +28,21 @@
 			quick and easy to make.	
 		  </aside>
 	</header>
-	<a id="image1" href="#recipe"><img src="article034a.jpg" /></a>
-	<a id="image2" href="#recipe"><img src="article034b.jpg" /></a>
-	<a id="image3" href="#recipe"><img src="article034c.jpg" /></a>
+	<div id="image1" class="navimage">
+		<a href="#image3"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}a.jpg" /></a>
+		<a href="#image2"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image2" class="navimage">
+		<a href="#image1"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}b.jpg" /></a>
+		<a href="#image3"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image3" class="navimage">
+		<a href="#image2"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}c.jpg" /></a>
+		<a href="#image1"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
 	<section id="recipe">
 		<p>
 			Acai, cherry, &amp; berry protein smoothie &#8212; the only ABC's you need.
@@ -241,7 +253,7 @@
 			<img src="article034lilaberry.jpg" alt="Lila eating blueberries" />
 			<figcaption>If I were to discover a new berry species I would name it <q>Lilaberry</q>.</figcaption>
 		</figure>
-		<div class="fb-wrapper">
+		<div class="fb-wrapper noprint">
 			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
 		</div>
 	</section>
