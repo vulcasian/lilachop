@@ -24,9 +24,21 @@
 			for dunking in coffee.  
 		</aside> 
 	</header> 
-	<a id="image1" href="#recipe"><img src="article019a.jpg" /></a>
-	<a id="image2" href="#recipe"><img src="article019b.jpg" /></a>
-	<a id="image3" href="#recipe"><img src="article019c.jpg" /></a>
+	<div id="image1" class="navimage">
+		<a href="#image3"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}a.jpg" alt="${sblg-titletext}" /></a>
+		<a href="#image2"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image2" class="navimage">
+		<a href="#image1"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}b.jpg"  alt="${sblg-titletext}"/></a>
+		<a href="#image3"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image3" class="navimage">
+		<a href="#image2"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}c.jpg"  alt="${sblg-titletext}"/></a>
+		<a href="#image1"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
 	<section id="recipe">
 		<p>
 			You know that mid-afternoon slump where you

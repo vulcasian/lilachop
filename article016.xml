@@ -17,13 +17,27 @@
 		<address>Christina Hallalulu</address>
 		<time datetime="2014-09-14">2014-09-14</time>
 		<aside>
-			 Confetti protein powder &amp;  banana bread, with a raw
-			 banana hidden inside! A traditional coffee-house
-			 favourite made healthy, fun, and protein-rich, baked
-			 into mini bread loaves.  </aside> </header>
-	<a id="image1" href="#recipe"><img src="article016a.jpg" /></a>
-	<a id="image2" href="#recipe"><img src="article016b.jpg" /></a>
-	<a id="image3" href="#recipe"><img src="article016c.jpg" /></a>
+			Confetti protein powder &amp;  banana bread, with a raw
+			banana hidden inside! A traditional coffee-house
+			favourite made healthy, fun, and protein-rich, baked
+			into mini bread loaves.  
+		</aside> 
+	</header>
+	<div id="image1" class="navimage">
+		<a href="#image3"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}a.jpg" alt="${sblg-titletext}" /></a>
+		<a href="#image2"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image2" class="navimage">
+		<a href="#image1"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}b.jpg"  alt="${sblg-titletext}"/></a>
+		<a href="#image3"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image3" class="navimage">
+		<a href="#image2"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}c.jpg"  alt="${sblg-titletext}"/></a>
+		<a href="#image1"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
 	<section id="recipe">
 		<p>
 			Banana bread is an all-time favourite. 
