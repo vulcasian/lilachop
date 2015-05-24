@@ -44,7 +44,7 @@
 					<section>
 						<h3 onclick="dropdown(event, this, 'about');"><i class="fa fa-fw fa-square-o"></i>About</h3>
 						<section id="about">
-							<nav data-sblg-nav="1" data-sblg-navtag="about" data-sblg-navcontent="1" data-sblg-navsz="2">
+							<nav data-sblg-nav="1" data-sblg-navtag="about" data-sblg-navcontent="1" data-sblg-navsz="3">
 								<a title="${sblg-titletext}" href="${sblg-base}.html"><img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" /></a>
 								<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
 							</nav>
@@ -64,16 +64,16 @@
 						<section id="bycat">
 							<h4 onclick="subdropdown(event, this, 'smoothiedrink');"><i class="fa fa-fw fa-circle-o"></i>Smoothies &amp; Drinks</h4>
 							<section id="smoothiedrink">
-								<nav data-sblg-nav="1" data-sblg-navtag="smoothie drink" data-sblg-navcontent="1" data-sblg-navsz="5">
+								<nav data-sblg-nav="1" data-sblg-navtag="smoothie drink" data-sblg-navcontent="1" data-sblg-navsz="2">
 									<a title="${sblg-titletext}" href="${sblg-base}.html">
 										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
 									</a>
 									<a title="${sblg-titletext}" href="${sblg-base}.html">${sblg-titletext}</a>
 								</nav>
 							</section>
-							<h4 onclick="subdropdown(event, this, 'cakepie');"><i class="fa fa-fw fa-circle-o"></i>Cakes &amp; Pies</h4>
+							<h4 onclick="subdropdown(event, this, 'cakepie');"><i class="fa fa-fw fa-circle-o"></i>Cakes, Cheesecakes, &amp; Pies</h4>
 							<section id="cakepie">
-								<nav data-sblg-nav="1" data-sblg-navtag="cake mugcake pie" data-sblg-navcontent="1" data-sblg-navsz="2">
+								<nav data-sblg-nav="1" data-sblg-navtag="cake cheesecake mugcake pie" data-sblg-navcontent="1" data-sblg-navsz="2">
 									<a title="${sblg-titletext}" href="${sblg-base}.html">
 										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
 									</a>
@@ -182,7 +182,7 @@
 						<section id="bymealplan">
 							<h4 onclick="subdropdown(event, this, 'mealplana');"><i class="fa fa-fw fa-circle-o"></i>Meal Plan A</h4>
 							<section id="mealplana">
-								<nav data-sblg-nav="1" data-sblg-navtag="mealplana" data-sblg-navcontent="1" data-sblg-navsz="2">
+								<nav data-sblg-nav="1" data-sblg-navtag="mealplana" data-sblg-navcontent="1" data-sblg-navsz="5">
 									<a title="${sblg-titletext}" href="${sblg-base}.html">
 										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
 									</a>
@@ -191,7 +191,7 @@
 							</section>
 							<h4 onclick="subdropdown(event, this, 'mealplanb');"><i class="fa fa-fw fa-circle-o"></i>Meal Plan B</h4>
 							<section id="mealplanb">
-								<nav data-sblg-nav="1" data-sblg-navtag="mealplanb" data-sblg-navcontent="1" data-sblg-navsz="2">
+								<nav data-sblg-nav="1" data-sblg-navtag="mealplanb" data-sblg-navcontent="1" data-sblg-navsz="5">
 									<a title="${sblg-titletext}" href="${sblg-base}.html">
 										<img alt="${sblg-titletext}" src="${sblg-base}a.thumb.jpg" />
 									</a>
