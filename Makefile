@@ -110,6 +110,10 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article034smoothie3.jpg \
 	 article034ingredients.jpg \
 	 article034lilaberry.jpg \
+	 article037pudding1.jpg \
+	 article037pudding2.jpg \
+	 article037pudding3.jpg \
+	 article037ingredients.jpg \
 	 amazon.png \
 	 article.js \
 	 banner.png \
@@ -169,6 +173,7 @@ XMLS = article001.xml \
        article025.xml \
        article026.xml \
        article034.xml \
+       article037.xml \
        $(TMP_XMLS)
 
 # These are all the HTML files that I'll build.
@@ -202,6 +207,7 @@ ARTICLES = article001.html \
 	   article025.html \
 	   article026.html \
 	   article034.html \
+	   article037.html \
 	   $(TMP_ARTICLES)
 		
 # These are the images used by the artiles in $(XMLS).
@@ -236,6 +242,7 @@ IMAGES = article001a.jpg article001b.jpg article001c.jpg \
 	 article025a.jpg article025b.jpg article025c.jpg \
 	 article026a.jpg article026b.jpg article026c.jpg \
 	 article034a.jpg article034b.jpg article034c.jpg \
+	 article037a.jpg article037b.jpg article037c.jpg \
 	 $(TMP_IMAGES)
 	 
 # We build thumbnails from $(IMAGES)...
@@ -268,6 +275,7 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article025a.thumb.jpg article025b.thumb.jpg article025c.thumb.jpg \
 	 article026a.thumb.jpg article026b.thumb.jpg article026c.thumb.jpg \
 	 article034a.thumb.jpg article034b.thumb.jpg article034c.thumb.jpg \
+	 article037a.thumb.jpg article037b.thumb.jpg article037c.thumb.jpg \
 	 $(TMP_THUMBS)
 
 #####################################################################
@@ -294,7 +302,7 @@ clean:
 $(HTMLS): article.xml index.xml disclaimer.xml archive.xml $(THUMBS)
 
 .xml.html:
-	sblg -t article.xml -f $< -o $@ $(XMLS)
+	sblg -t article.xml -C $< -o $@ $(XMLS)
 
 archive.html: archive.xml $(XMLS)
 	sblg -t archive.xml -o $@ $(XMLS)

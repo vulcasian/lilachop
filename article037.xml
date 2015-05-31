@@ -1,0 +1,291 @@
+<article data-sblg-article="1" data-sblg-tags="mealplana breakfast chia berry noprotein beginnersrecipe easy breakfast coconut">
+	<header>
+		<div>
+			<h2><a href="#recipe">Coconut Chia Pudding</a></h2>
+			<div class="health">
+				<img title="Vegan" alt="Vegan" data-sblg-tags="vegan" src="vegan.png" />
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
+				<img title="High-protein" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
+				<img title="Sugar-free" alt="Sugar-free" data-sblg-tags="sugarfree" src="sugarfree.png" />
+				<img title="Paleo" alt="Paleo" data-sblg-tags="paleo" src="paleo.png" />
+				<div class="nutrition"><div>232</div><div>cal</div></div>
+				<div class="nutrition"><div>5</div><div>pro</div></div>
+				<div class="nutrition"><div>13</div><div>carb</div></div>
+				<div class="nutrition"><div>19</div><div>fat</div></div>
+			</div>
+		</div>
+		<address>Christina Hallalulu</address>
+		<time datetime="2015-05-31">2015-05-31</time>
+		<aside>
+			Basic Chia Pudding, flavoured with coconut and topped with fresh berries.
+			The best way to start the week is with dessert for breakfast, and it doesn't get any easier than chia pudding! 
+			This <span
+				class="nm">Lila, Chop!</span> recipe
+			for beginners will surprise you with how delightfully delicious healthy desserts can be. 
+		  </aside>
+	</header>
+	<div id="image1" class="navimage">
+		<a href="#image3"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}a.jpg" alt="${sblg-titletext}" /></a>
+		<a href="#image2"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image2" class="navimage">
+		<a href="#image1"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}b.jpg"  alt="${sblg-titletext}"/></a>
+		<a href="#image3"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image3" class="navimage">
+		<a href="#image2"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}c.jpg"  alt="${sblg-titletext}"/></a>
+		<a href="#image1"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<section id="recipe">
+		<p>
+			Basic Chia Seed Pudding, flavoured with coconut and topped
+			with fresh berries.
+			This <span class="nm">Lila, Chop!</span> recipe
+			for beginners will surprise you with how delightfully
+			delicious <q>healthy</q> can be.
+			Eat it for breakfast, as a snack, or for dessert;
+			you'll not only be treating your taste-buds,
+			you'll also be doing your body a huge favour.
+			That's because chia seeds are loaded with fibre,
+			protein, Omega-3 fatty acids, and various
+			micro-nutrients, making them one of the world's most
+			nutrient-dense foods. 
+			So with just 3 minutes to prepare and 60-minutes to overnight
+			in the fridge, dessert for breakfast doesn't get
+			any easier.
+			Better yet, you can use this basic recipe as a template
+			for any chia pudding &#8212; the flavour variations are
+			endless!
+		</p>
+		<figure>
+			<img src="article037pudding1.jpg" alt="Pudding and Lila sleeping" /> 
+			<figcaption>Dessert for breakfast before Lila's even woken up!</figcaption>
+		</figure>
+		<table class="ingredients">
+			<caption>Basic Pudding Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="1.5"></td>
+				<td class="unit">Tbsp</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B001CGTN1I/?tag=lich048-20"
+						class="amazon">
+						raw chia seeds</a> 
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="120"></td>
+				<td class="unit">ml</td>
+				<td class="name">light coconut milk, <span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="120"></td>
+				<td class="alt unit">ml</td>
+				<td class="alt name">almond, rice, soy, or low-fat milk	
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">tsp</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B0002UN7PI/?tag=lich048-20"
+						class="amazon">
+						vanilla extract</a> 
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="3"></td>
+				<td class="unit">drops</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B000E8WIAS/?tag=lich048-20"
+						class="amazon">
+						liquid stevia, </a><span class="altor">or</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">tsp</td>
+				<td class="alt name">organic maple syrup, agave syrup, or honey (optional, for sweetness)</td>
+			</tr>
+		</table>
+		<br>
+		</br>
+		<table class="ingredients">
+			<caption>Topping Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit">cup</td>
+				<td class="name">fresh berries or any chopped fruit of choice</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.5"></td>
+				<td class="unit">serving</td>
+				<td class="name">almonds, pecans, walnuts, hazelnuts, or pistachio nuts</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tsp</td>
+				<td class="name">
+					<a
+						href="http://www.amazon.com/dp/B004SI9OIY/?tag=lich048-20"
+						class="amazon">unsweetened shredded coconut </a>
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="0.5"></td>
+				<td class="alt unit">generous</td>
+				<td class="alt name">dusting of ground cinnamon, cardamom, or cacao powder (optional extra)</td>
+			</tr>
+		</table>
+		<div class="servings">
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="2" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="232"></span>.)
+		</div>
+		<figure>
+			<img src="article037pudding2.jpg" alt="Puddings" />
+			<figcaption>Chia puddings topped with fresh berries and coconut flakes... simple, sweet, &amp; perfect.</figcaption>
+		</figure>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">min</td>
+				<td> 
+					Whisk base ingredients together in a bowl.  
+				</td> 
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">min</td>
+				<td>
+					Pour this mixture into serving glasses and
+					cover with plastic wrap.
+			       </td>
+			</tr>
+			<tr>
+				<td class="amount">60</td>
+				<td class="unit">min</td>
+				<td>
+					Refrigerate overnight or for at least 60 minutes.
+				</td>
+			</tr>
+			<tr>
+				<td class="amount">1</td>
+				<td class="unit">min</td>
+				<td>
+					Remove plastic wrap and top with fruit, nuts, coconut, and whatever other toppings you desire!
+			       </td>
+			</tr>
+			<tr>
+				<td class="amount">63</td>
+				<td class="unit">min total</td>
+				<td>
+					Dig in, because dessert for breakfast never looked so good! 
+			       </td>
+			</tr>
+			
+		</table>
+		<h3>
+			Recipe Tip 1: Chia Pudding Consistency
+		</h3> 
+		<p>
+			As a general rule of thumb, use 1 cup (240ml) liquid to
+			3 Tablespoons chia seeds to make any chia pudding.
+			However, depending on what liquid you use, you might
+			need to adjust these proportions to achieve the desired
+			consistency.
+			If you find it too runny, simply add another couple of
+			teaspoons of chia seeds. 
+			On the other hand, if you find it too firm or dense,
+			simply add more liquid. 
+			Remember, chia puddings should neither resemble gazpacho
+			soup nor cake. 
+			Instead, it should be easy enough to spoon out like
+			tapioca pudding, but this will only happen after you
+			give the chia seeds the right amount of liquid and
+			the right amount of time to soak up this liquid. 
+			Anywhere between 60 minutes to 12 hours works! 
+			
+		</p>	
+		<figure>
+			<img src="article037pudding3.jpg" alt="Chia Puddings" /> 
+			<figcaption>Cheers to the perfect consistency and my favourite toppings!</figcaption>
+		</figure>
+		<h3>
+			Recipe Tip 2: Pimp my Pudding
+		</h3> 
+		<p>
+			Once you've achieved your chia pudding base, the
+			flavour variations are endless. 
+			Simply add whatever flavours you want to the pudding
+			base (spices, sweeteners, cacao, coffee,
+			syrup, or fruit). Then top with whatever toppings you like.
+			I like to top mine with a combination of fruit, spices,
+			and nuts, such as almonds or walnuts.
+			But why not try dark chocolate, peanut butter, or half a chopped up 
+			<a
+				href="http://www.amazon.com/dp/B00XD4R6E8/?tag=lich048-20"
+				class="amazon">Quest protein bar</a>?
+			You can even try sprinkling your favourite protein
+			powder on top or mixing it in with the base liquid to
+			up the protein content. 
+		</p>
+		<p>
+			Here are some links to my favourite chia pudding recipes:
+		</p>	
+		<ul>
+			<li>
+				<a href="http://food52.com/blog/4391-a-chia-pudding-primer">Blueberry Cardamom Chia Pudding</a>	
+			</li> 
+			<li> 
+				<a href="https://minimalistbaker.com/overnight-chocolate-chia-seed-pudding/">Overnight Chocolate Chia Seed Pudding</a>
+			</li>
+			<li>
+				<a href="http://girleatsgreens.com/2015/03/07/peanut-butter-banana-chia-seed-pudding/">Peanut Butter Banana Chia Seed Pudding</a>
+			</li>
+			<li>	
+				<a href="http://www.poppiesandpapayas.com/2015/01/nourish-your-microbiome.html">Super Green Chia Pudding</a>
+			</li>
+			<li>
+				<a href="http://hellonatural.co/healthy-apple-cinnamon-chia-seed-pudding/">Warm Apple Cinnamon Chia Pudding</a>
+			</li>
+		</ul>
+		<figure>
+			<img src="article037ingredients.jpg" alt="Ingredients" />
+
+			<figcaption>What a serving of nuts looks like. (Lila, want some?)</figcaption>
+		</figure>
+		<div class="fb-wrapper noprint">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
+	</section>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>   
+</article>

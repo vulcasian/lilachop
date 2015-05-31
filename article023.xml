@@ -142,6 +142,11 @@
 				<td class="name">dusting of ground cinnamon and cardamom</td>
 			</tr>
 		</table>
+		<div class="servings">
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="483"></span>.)
+		</div>
 		<p>	
 			Although not entirely Paleo (depending on how you see
 			oats), this recipe is a morning nutrition bomb: 
@@ -241,11 +246,6 @@
 				</td>
 			</tr>
 		</table>
-		<div class="servings">
-			Servings: 
-			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
-			(Total Calories: <span data-lilachop-amount="483"></span>.)
-		</div>
 		<figure>
 			<img src="article023glass4.jpg" alt="Toppings close-up" /> 
 			<figcaption>Decorate your oats with colourful toppings &amp; superfoods.</figcaption>
