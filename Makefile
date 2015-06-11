@@ -174,6 +174,7 @@ XMLS = article001.xml \
        article026.xml \
        article034.xml \
        article037.xml \
+       article100.xml \
        $(TMP_XMLS)
 
 # These are all the HTML files that I'll build.
@@ -208,6 +209,7 @@ ARTICLES = article001.html \
 	   article026.html \
 	   article034.html \
 	   article037.html \
+	   article100.html \
 	   $(TMP_ARTICLES)
 		
 # These are the images used by the artiles in $(XMLS).
@@ -243,6 +245,7 @@ IMAGES = article001a.jpg article001b.jpg article001c.jpg \
 	 article026a.jpg article026b.jpg article026c.jpg \
 	 article034a.jpg article034b.jpg article034c.jpg \
 	 article037a.jpg article037b.jpg article037c.jpg \
+	 article100a.jpg article100b.jpg article100c.jpg \
 	 $(TMP_IMAGES)
 	 
 # We build thumbnails from $(IMAGES)...
@@ -276,6 +279,7 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article026a.thumb.jpg article026b.thumb.jpg article026c.thumb.jpg \
 	 article034a.thumb.jpg article034b.thumb.jpg article034c.thumb.jpg \
 	 article037a.thumb.jpg article037b.thumb.jpg article037c.thumb.jpg \
+	 article100a.thumb.jpg article100b.thumb.jpg article100c.thumb.jpg \
 	 $(TMP_THUMBS)
 
 #####################################################################

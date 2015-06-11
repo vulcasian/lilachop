@@ -1,0 +1,211 @@
+<article data-sblg-article="1" data-sblg-tags="about">
+	<header>
+		<div>
+			<h2><a href="#recipe">Behind the scenes of Lila, Chop!</a></h2> 
+		</div>
+		<address>Christina Hallalulu</address>
+		<time datetime="2015-06-10">2015-06-10</time>
+		<aside>
+			Behind the scenes of <span
+				class="nm">Lila, Chop!</span>: the making of a recipe and how I learned to use the UNIX terminal command-line interface.
+		</aside>
+	</header>
+	<div id="image1" class="navimage">
+		<a href="#image3"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}a.jpg" alt="${sblg-titletext}" /></a>
+		<a href="#image2"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image2" class="navimage">
+		<a href="#image1"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}b.jpg"  alt="${sblg-titletext}"/></a>
+		<a href="#image3"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image3" class="navimage">
+		<a href="#image2"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}c.jpg"  alt="${sblg-titletext}"/></a>
+		<a href="#image1"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<section id="recipe">
+		<p> 
+			Dear fellow Chopper,
+		</p>
+		<p>
+			As you are reading this site, you are obviously
+			interested in healthy food and delicious recipes. 
+			You may be a gourmet-foodie, a health-junkie, or a
+			fitness-addict.  
+			You may be on a restrictive diet due to health reasons, 
+			have special dietary requirements due to competitive
+			sports, or on an elimination diet due to food
+			intolerances and struggling to find recipes that don't
+			taste like sandpaper. 
+			Or you might simply be a health-conscious
+			person interested in ways to increase your
+			protein-intake in an easily creative and delicious way. 
+		</p>
+		<p>	
+			Whatever the reason, welcome to <span class="nm">Lila, Chop!</span> 
+			My primary goal with this recipe blog is to provide you with
+			simple recipes that look sinfully delicious yet are nutritiously healthy. 
+		</p>
+		<p>
+			My secondary goal was to create a recipe website myself. 
+			There are a lot of blogging tools out there, ones that
+			I have used before and found easy but limiting. I did
+			not want to find myself stuck with someone else's
+			template, or unable to add cool features (such as the
+			change servings tool!) as I wish. 
+			So with the help, and support of K, I decided to
+			take the time to learn HTML, CVS, CSS, 
+			<a href="http://www.vim.org/">vim</a>, and Unix, in order to
+			build this website and create all the recipes myself in
+			terminal. The site is powered by the
+			<a href="http://kristaps.bsd.lv/sblg/">sblg</a> system on
+			<a href="http://www.openbsd.org/">OpenBSD</a>.
+			I must say, it's far more awesome to do it
+			this way. Who says chicks can't learn to
+			program?
+		</p>
+		<p>
+			If you choose to post photos of your results from my
+			recipes or to re-post the recipes themselves, be sure to
+			cite me!  Likewise, I make sure to cite all the recipes
+			I adapt and find inspiration from.  
+		</p>
+		<p>
+			Happy baking, and namnam.
+		</p>
+		<p>
+			Christina &amp; Lila
+		</p>
+		<figure>
+			<img src="aboutlilachopterminal.jpg" alt="Terminal screen shot" /> 
+			<figcaption>Building <span class="nm">Lila, Chop!</span> in Terminal.</figcaption>
+		</figure>
+		
+		<p> 
+			<b>Home page</b>
+		</p>
+		<p> 
+			This is the home page, where you can see a blog-roll of
+			the latest articles and recipes.  
+			On the left-hand navigation pane, you will see a list
+			of articles by tags, such as recipes by
+			nutritional profile: gluten-fee, low-Carb, vegan,  et
+			cetera, or recipes by type: smoothie, cake, savoury
+			dishes, et cetera. (On a smart phone, you will not see
+			the navigation pan. Use the <span class="nm">Lila, Chop!</span> 
+			website title and the 
+			<i class="fa fa-archive"></i> archive button to
+			navigate instead.)
+		</p>			
+		<figure>
+			<img src="aboutlilachopsmartphone.jpg" alt="Smartphone view" /> 
+			<figcaption>iPhone navigation pane.</figcaption>
+		</figure>
+	
+		<p>	
+			At the bottom of the page you will see a link to the
+			<i class="fa fa-archive"></i> 
+			archives, where you will find a list of all my recipes.
+			You can always navigate back home by clicking on the 
+			<span class="nm">Lila, Chop!</span> website title.
+			Want to like and share this blog on 
+			<i class="fa fa-facebook-square"></i>
+			Facebook, follow me personally on 	
+			<i class="fa fa-instagram"></i>
+			Instagram, get recipe updates with
+			<i class="fa fa-rss"></i>
+			RSS, or 
+			<i class="fa fa-envelope"></i>
+			email me? 
+			Click on the icons at the top of
+			the page.
+		</p>
+		<p>	
+			I will always appreciate personal feedback and
+			comments about my site, and try to answer questions as
+			promptly as I can. 
+		</p>
+		<figure>
+			<img src="aboutlilachophomepage.jpg" alt="Home page screen shot" /> 
+			<figcaption>Home page.</figcaption>
+		</figure>
+	
+		<p> 
+			<b>Recipe page</b>
+		</p>
+		<p>
+			Check out the nutritional information and the
+			food-icons to see exactly what kind of nutritional
+			profile each recipe has! 
+			By hovering your mouse over each icon, you can see what
+			the icon indicates: 
+			<img class="hicon" src="glutenfree.png" alt="Gluten-free"/> gluten-free,
+			<img class="hicon" src="lactosefree.png" alt="Lactose-free"/> lactose-free,
+			<img class="hicon" src="sugarfree.png" alt="Sugar-free"/> sugar-free,
+			<img class="hicon" src="lowcarb.png" alt="Low-Carb"/> low-carb,
+			<img class="hicon" src="lowfat.png" alt="Low-Fat"/> low-fat,
+			<img class="hicon" src="highprotein.png" alt="High-Protein"/> high-protein,
+			<img class="hicon" src="raw.png" alt="Raw"/> raw,
+			<img class="hicon" src="vegan.png" alt="Vegan"/> vegan, and
+			<img class="hicon" src="paleo.png" alt="Paleo"/> paleo.
+			The macro-nutrient information, or <q>macros</q>as I
+			call them, (calories &#x007C; grams protein &#x007C; grams
+			carbs &#x007C; grams fat) are stated per serving.
+			The number of servings each recipes makes is indicated
+			underneath the ingredients list, along with the total
+			calories for the entire recipe.  
+			Remember, you can always adapt recipe ingredients to
+			your liking, and change the serving amounts using the
+			change servings tool.  
+			
+		</p>
+		<p>
+			The ingredients I use are clean and wholesome. Most of
+			my recipes are gluten, lactose and soy-free, and a lot
+			of them feature protein powder as a key ingredient.  
+			I link the products I use to 
+			<img class="hicon" src="amazon.png" alt="Amazon"/> Amazon so you can buy them online yourselves. 
+			(Note that  <b>all</b> the products I mention are ones I have
+			chosen to use myself, because I find them of
+			superior quality and taste, suitable for my recipes and
+			of course, nutritious.) 
+
+		</p>
+		<figure>
+			<img src="aboutlilachoprecipepage1.jpg" alt="Recipe page ingredients and instructions screen shot" /> 
+			<figcaption>Recipe ingredients and instructions.</figcaption>
+		</figure>
+		<p>
+			By clicking on one of the recipe thumbnails, you will
+			see a full-screen photo of the recipe. Browse through
+			the various recipe photos, and feel yourself start to
+			salivate!  
+			Click on the recipe name to get back to the recipe ingredients
+			and instructions page.  
+		</p>
+		<figure>
+			<img src="aboutlilachoprecipepage2.jpg" alt="Recipe page photos screen shot" /> 
+			<figcaption>Recipe photos.</figcaption>
+		</figure>
+		
+		<p> 
+			<b>Archive page</b>
+		</p>
+		<p>
+			Click on the
+			<i class="fa fa-archive"></i> archive icon at the top of the page to see
+			a full list of recipes and articles in chronological
+			order.  Be prepared to scroll down, there will be many
+			and many more to come!
+		</p>
+		<figure>
+			<img src="aboutlilachoparchivepage.jpg" alt="Archive page screen shot" /> 
+			<figcaption>Archive page with full list of recipes.</figcaption>
+		</figure>
+		<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
+	</section>
+</article>
