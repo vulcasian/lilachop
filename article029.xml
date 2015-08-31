@@ -1,0 +1,179 @@
+<article data-sblg-article="1" data-sblg-tags="mealplana savory french eggs bakedeggs easy beginner dinner lunch savoury">
+	<header>
+		<div>
+			<h2><a href="#recipe">French Baked Eggs</a></h2>
+			<div class="health">
+				<img title="Gluten-free" alt="Gluten-free" data-sblg-tags="glutenfree" src="glutenfree.png" />
+				<img title="High-protein" alt="High-protein" data-sblg-tags="highprotein" src="highprotein.png" />
+				<img title="Lactose-free" alt="Lactose-free" data-sblg-tags="lactosefree" src="lactosefree.png" />
+				<img title="Low-carb" alt="Low-carb" data-sblg-tags="lowcarb" src="lowcarb.png" />
+				<img title="Paleo" alt="paleo" data-sblg-tags="paleo" src="paleo.png" />
+				<img title="Vegetarian" alt="vegetarian" data-sblg-tags="vegetarian" src="vegetarian.png" />
+				<div class="nutrition"><div>199</div><div>cal</div></div>
+				<div class="nutrition"><div>15</div><div>pro</div></div>
+				<div class="nutrition"><div>3</div><div>carb</div></div>
+				<div class="nutrition"><div>14</div><div>fat</div></div>
+			</div>
+		</div>
+		<address>Christina Hallalulu</address>
+		<time datetime="2015-08-30">2015-08-30</time>
+		<aside>
+			For those days where you just want to impress with
+			minimal culinary effort and maximum nutrients per
+			calories. This basic French Baked Eggs and Greens recipe is
+			so simple and easy, it can be adapted to any flavour combination!
+		</aside> 
+	</header> 
+	<div id="image1" class="navimage">
+		<a href="#image3"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}a.jpg" alt="${sblg-titletext}" /></a>
+		<a href="#image2"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image2" class="navimage">
+		<a href="#image1"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}b.jpg"  alt="${sblg-titletext}"/></a>
+		<a href="#image3"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<div id="image3" class="navimage">
+		<a href="#image2"><i class="fa fa-lg fa-arrow-left fa-fw"></i></a>
+		<a href="#"><img src="${sblg-base}c.jpg"  alt="${sblg-titletext}"/></a>
+		<a href="#image1"><i class="fa fa-lg fa-arrow-right fa-fw"></i></a>
+	</div>
+	<section id="recipe">
+		<p>
+			For those days where you want to impress with minimal
+			culinary effort and maximum nutrients per calories.
+			Baked eggs might look like an advanced fancy dish
+			served in French restaurants, but this 
+			<span class="nm">Lila, Chop!</span> recipe for beginners couldn't
+			be any simpler nor more versatile.  Delicious,
+			high-protein, quick and easy to whip up for one, baked
+			eggs should be your next home-cooking staple.  Whoever
+			said French food has to be unhealthy? 
+		</p>
+		<figure>
+			<img src="article029bakedeggs2.jpg" alt="Baked eggs" /> 
+			<figcaption>First bite of my baked eggs on spinach and ruccola.</figcaption>
+		</figure>
+
+		<table class="ingredients">
+			<caption>Ingredients</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">amount</th>
+					<th class="name">name</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount" data-lilachop-amount="2"></td>
+				<td class="unit">whole</td>
+				<td class="name">raw eggs
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.5 cup"></td>
+				<td class="unit">cup</td>
+				<td class="name">fresh spinach
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.5"></td>
+				<td class="unit">cup</td>
+				<td class="name">ruccola (also known as rocket or arugula)
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tbsp</td>
+				<td class="name">freshly-chopped chives
+				</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="0.25"></td>
+				<td class="unit"></td>
+				<td class="name">shallot or small onion, chopped
+				</td>
+			</tr>
+			<tr>
+				<td class="alt amount" data-lilachop-amount="1"></td>
+				<td class="alt unit">tbsp</td>
+				<td class="alt name">low-fat shredded cheese (optional)</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">tsp</td>
+				<td class="name">virgin olive oil, clarified butter, or coconut oil</td>
+			</tr>
+			<tr>
+				<td class="amount" data-lilachop-amount="1"></td>
+				<td class="unit">dusting</td>
+				<td class="name">salt and pepper to taste</td>
+			</tr>
+		</table>
+		<div class="servings">
+			Servings: 
+			<input id="servings" type="number" min="0" step="1" value="1" onchange="changeservings(this.value);" />
+			(Total Calories: <span data-lilachop-amount="199"></span>.)
+		</div>
+		<table id="steps">
+			<caption>Steps</caption>
+			<thead>
+				<tr>
+					<th class="amount" colspan="2">time</th>
+					<th>instruction</th>
+				</tr>
+			</thead>
+			<tr>
+				<td class="amount">5</td>
+				<td class="unit">min</td>
+				<td>Gently fry chopped onions over medium heat until golden-brown, then turn off the heat and set aside but leave in the pan.</td> 
+			</tr>
+			<tr>
+				<td class="amount">3</td>
+				<td class="unit">min</td>
+				<td>With the heat still turned off, stir in the ruccola and spinach with the browned onions, allowing leaves to wilt.</td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Grease an oven-safe ramekin with oil or butter, then transfer greens from pan to the ramekin.</td>
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Add a thin layer of the grated cheese and chives on top of greens.</td> 
+			</tr>
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Crack both eggs into the ramekin, careful not to break the yolk.</td> 
+			</tr>
+
+			<tr>
+				<td class="amount"></td>
+				<td class="unit"></td>
+				<td>Sprinkle the rest of the chives and cheese on top of the cracked eggs, then season with salt and pepper.</td> 
+			</tr>
+			<tr>
+				<td class="amount">12-15</td>
+				<td class="unit">min</td>
+				<td>Bake at 175'C until the whites of the eggs have set, then remove from the oven.</td> 
+			</tr>
+			<tr>
+				<td class="amount">20-25</td>
+				<td class="unit">min total</td>
+				<td>Allow to cool for a few minutes, then serve with a side salad or slice of baguette if you're not afraid of carbs. Bon appetite!</td> 
+			</tr>
+		</table>
+		<figure>
+			<img src="article029bakedeggs.jpg" alt="Baked eggs fresh from the oven, served with sauteed mushrooms and salad." />
+			<figcaption>French baked eggs on greens, fresh from the oven and served with quinoa and vegetables.</figcaption>
+		</figure>
+		<div class="fb-wrapper">
+			<div class="fb-like" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+		</div>
+	</section>
+	<script>
+		changeservings(document.getElementById('servings').value);
+	</script>
+</article>

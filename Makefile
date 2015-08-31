@@ -105,6 +105,8 @@ STATIC = aboutlilachoparchivepage.jpg \
 	 article026bread2.jpg \
 	 article026bread3.jpg \
 	 article026broccolisoup.jpg \
+	 article029bakedeggs.jpg \
+	 article029bakedeggs2.jpg \
 	 article034smoothie1.jpg \
 	 article034smoothie2.jpg \
 	 article034smoothie3.jpg \
@@ -172,6 +174,7 @@ XMLS = article001.xml \
        article024.xml \
        article025.xml \
        article026.xml \
+       article029.xml \
        article034.xml \
        article037.xml \
        article100.xml \
@@ -207,6 +210,7 @@ ARTICLES = article001.html \
 	   article024.html \
 	   article025.html \
 	   article026.html \
+	   article029.html \
 	   article034.html \
 	   article037.html \
 	   article100.html \
@@ -243,6 +247,7 @@ IMAGES = article001a.jpg article001b.jpg article001c.jpg \
 	 article024a.jpg article024b.jpg article024c.jpg \
 	 article025a.jpg article025b.jpg article025c.jpg \
 	 article026a.jpg article026b.jpg article026c.jpg \
+	 article029a.jpg article029b.jpg article029c.jpg \
 	 article034a.jpg article034b.jpg article034c.jpg \
 	 article037a.jpg article037b.jpg article037c.jpg \
 	 article100a.jpg article100b.jpg article100c.jpg \
@@ -277,6 +282,7 @@ THUMBS = article001a.thumb.jpg article001b.thumb.jpg article001c.thumb.jpg \
 	 article024a.thumb.jpg article024b.thumb.jpg article024c.thumb.jpg \
 	 article025a.thumb.jpg article025b.thumb.jpg article025c.thumb.jpg \
 	 article026a.thumb.jpg article026b.thumb.jpg article026c.thumb.jpg \
+	 article029a.thumb.jpg article029b.thumb.jpg article029c.thumb.jpg \
 	 article034a.thumb.jpg article034b.thumb.jpg article034c.thumb.jpg \
 	 article037a.thumb.jpg article037b.thumb.jpg article037c.thumb.jpg \
 	 article100a.thumb.jpg article100b.thumb.jpg article100c.thumb.jpg \
